@@ -1,0 +1,22 @@
+# Netlify Deploy
+
+# Settings in the [build] context are global and are applied to all contexts
+# unless otherwise overridden by more specific contexts.
+[build]
+publish = "_site"
+command = "npx @thegetty/quire-cli@1.0.0-rc.11 build"
+
+[build.environment]
+NODE_VERSION = "18.16.0"
+NODE_OPTIONS = "--max-old-space-size=49152"
+
+# These two GIT_LFS variables need to be added to the project’s
+# Deploy Settings in the Netlify UI, under Environment Variables:
+# https://app.netlify.com/sites/<your-site-name>/configuration/env
+GIT_LFS_ENABLED = "true"
+GIT_LFS_FETCH_INCLUDE = "*.jpg,*.png,*.gif,*.epub,*.pdf"
+
+# Settings for a `forthcoming` branch, which is just a static page
+[context.forthcoming]
+publish = ""
+command = ""

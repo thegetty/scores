@@ -1,0 +1,26 @@
+/* Temporary "UNCORRECTED PROOF" Banner */
+@media screen {
+  .quire::before,
+  .quire::after {
+    color: black;
+    font-weight: 700;
+    position: fixed;
+    width: 230px;
+    height: 230px;
+    z-index: 4000;
+    transform: rotate(-45deg);
+    text-align: center;
+    padding-top: 1rem;
+  }
+  .quire::before {
+    content: "UNCORRECTED";
+    background-color: yellow;
+    bottom: -115px;
+    right: -115px;
+  }
+  .quire::after {
+    content: "PROOF";
+    bottom: -130px;
+    right: -130px;
+  }
+}

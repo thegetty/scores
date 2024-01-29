@@ -13,13 +13,13 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "UNCORRECTED";
+    content: "Prototype";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
   }
   .quire::after {
-    content: "PROOF";
+    content: "";
     bottom: -130px;
     right: -130px;
   }

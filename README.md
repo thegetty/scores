@@ -71,6 +71,11 @@ TK
 
 ### Customizations
 
+In addition to changes in `content/_assets/styles/custom.css` and `content/_assets/styles/variables.scss`, the following changes have been made to the template and style files in this project:
+
+**content/_assets/fonts/index.scss**
+**content/_assets/fonts/u001**
+Add u001 font
 
 ## License
 

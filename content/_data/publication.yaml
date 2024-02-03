@@ -43,7 +43,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Edited by Michael Gallope, Natilee Harren, and John Hicks
 
 contributor:
   - id: mgallope
@@ -57,6 +57,20 @@ contributor:
     type: primary
     first_name: Natilee
     last_name: Harren
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: jhicks
+    type: primary
+    first_name: John
+    last_name: Hicks
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: nperloff
+    type: secondary
+    first_name: Nancy
+    last_name: Perloff
     title: ""
     affiliation: ""
     bio: ""

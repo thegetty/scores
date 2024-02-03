@@ -1,0 +1,123 @@
+---
+## CUSTOMIZED FILE
+##
+classes:
+  - quire-score
+layout: base.11ty.js
+description: A custom layout for the primary score landing pages
+---
+
+{% pageHeader
+  byline_format=byline_format,
+  image=image,
+  label=label,
+  pageContributors=pageContributors,
+  subtitle=subtitle,
+  title=title
+%}
+
+<section class="section quire-page__content">
+<div class="container">
+<div class="content">
+
+<section class="score-section score-section--commentary">
+<div class="score-section__header">
+<h2>Commentary</h2>
+{{ if commentary.contributor }}
+  {% capture commentaryContributor %}
+  [{%- for person in commentary.contributor -%}
+    {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
+  {%- endfor -%}]
+  {%- endcapture -%}
+{% contributors context=commentaryContributor format='name-title' %}
+{{ endif }}
+</div>
+<div class="score-section__blurb">
+{{ commentary.blurb | markdownify }}
+</div>
+<div class="score-section__link">
+<a href="{{ commentary.link }}">Keep reading ...</a>
+</div>
+</section>
+
+<section class="score-section score-section--score">
+<div class="score-section__header">
+<h2>The Score</h2>
+{{ if score.contributor }}
+  {% capture scoreContributor %}
+  [{%- for person in score.contributor -%}
+    {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
+  {%- endfor -%}]
+  {%- endcapture -%}
+{% contributors context=scoreContributor format='name-title-block' align='left' %}
+{{ endif }}
+</div>
+<div class="score-section__objects">
+{{ if score.objects }}
+{% for object in score.objects %}
+{% figure object.id %}
+{% endfor %}
+{{ endif }}
+</div>
+<div class="score-section__link score-section__link--expander">
+<a href="#">Expand ...</a>
+</div>
+</section>
+
+<section class="score-section score-section--playback">
+<div class="score-section__header">
+<h2>Playback</h2>
+{{ if playback.contributor }}
+  {% capture playbackContributor %}
+  [{%- for person in playback.contributor -%}
+    {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
+  {%- endfor -%}]
+  {%- endcapture -%}
+{% contributors context=playbackContributor format='name-title-block' align='left' %}
+{{ endif }}
+</div>
+<div class="score-section__objects">
+{{ if playback.objects }}
+{% for object in playback.objects %}
+{% figure object.id %}
+{% endfor %}
+{{ endif }}
+</div>
+<div class="score-section__link score-section__link--expander">
+<a href="#">Expand ...</a>
+</div>
+</section>
+
+<section class="score-section score-section--archive">
+<div class="score-section__header">
+<h2>Archive</h2>
+{{- if archive.contributor -}}
+  {%- capture archiveContributor -%}
+    [{%- for person in archive.contributor -%}
+    {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif -%}
+    {%- endfor -%}]
+  {%- endcapture -%}
+  {%- contributors context=archiveContributor format='name-title' -%}
+{{- endif -}}
+</div>
+<div class="score-section__groups">
+{{- if archive.groups -}}
+  {%- for group in archive.groups -%}
+  {%- capture groupHeading -%}
+  ### {{ group.heading }} ({{ group.objects.size }} item{% if group.objects.size > 1 %}s{% endif %})
+  {%- endcapture -%}
+  {%- accordion groupHeading -%}
+    <div class="score-section__objects">
+    {%- for object in group.objects -%}
+      {% figure object.id %}
+    {%- endfor -%}
+    </div>
+  {%- endaccordion -%}
+  {%- endfor -%}
+{{- endif -}}
+</div>
+</section>
+
+</div>
+</div>
+</section>

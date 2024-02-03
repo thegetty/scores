@@ -73,9 +73,21 @@ TK
 
 In addition to changes in `content/_assets/styles/custom.css` and `content/_assets/styles/variables.scss`, the following changes have been made to the template and style files in this project:
 
+**_layouts/score.liquid**
+A custom layout for the primary score landing pages
+
+**_plugins/shortcodes/contributors.js**
+Parse contributor info passed in as JSON string, for `score.liquid` layout
+
 **content/_assets/fonts/index.scss**
 **content/_assets/fonts/u001**
 Add u001 font
+
+**content/_assets/styles/components/quire-page.scss**
+Remove all `<a>` styles
+
+**content/_assets/styles/colors.scss**
+Define `$off-black` as `$black`
 
 ## License
 

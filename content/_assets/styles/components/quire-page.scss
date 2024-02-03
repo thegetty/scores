@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Removed all <a> styles
+//
 // =============================================================================
 // Quire-page.scss
 // -----------------------------------------------------------------------------
@@ -697,57 +701,57 @@ html {
   // Overrides to Bulma's .content styles where needed.
   padding-bottom: 0;
   .content {
-    a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
-      @media print {
-        color: $print-text-color;
-        border-bottom-width: 0;
-      }
-      line-height: inherit;
-      @if $theme == classic {
-        color: background-color-text-classic($content-background-color);
-        border-bottom: 1px
-          dotted
-          background-color-text-classic($content-background-color);
-      } @else {
-        color: $accent-color;
-        border-bottom: 1px dotted $accent-color;
-      }
+    // a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link) {
+    //   @media print {
+    //     color: $print-text-color;
+    //     border-bottom-width: 0;
+    //   }
+    //   line-height: inherit;
+    //   @if $theme == classic {
+    //     color: background-color-text-classic($content-background-color);
+    //     border-bottom: 1px
+    //       dotted
+    //       background-color-text-classic($content-background-color);
+    //   } @else {
+    //     color: $accent-color;
+    //     border-bottom: 1px dotted $accent-color;
+    //   }
 
-      &:hover {
-        color: link-hover-color($content-background-color) !important;
-        border-bottom: 1px solid link-hover-color($content-background-color) !important;
-      }
+    //   &:hover {
+    //     color: link-hover-color($content-background-color) !important;
+    //     border-bottom: 1px solid link-hover-color($content-background-color) !important;
+    //   }
 
-      &:focus {
-        background-color: $quire-hover-color;
-        color: background-color-text-classic($quire-hover-color) !important;
-      }
-    }
+    //   &:focus {
+    //     background-color: $quire-hover-color;
+    //     color: background-color-text-classic($quire-hover-color) !important;
+    //   }
+    // }
 
-    figure > a {
-      &:hover {
-        border-bottom-width: 0 !important;
-      }
-    }
+    // figure > a {
+    //   &:hover {
+    //     border-bottom-width: 0 !important;
+    //   }
+    // }
 
-    .footnote-ref a,
-    a.footnote-return,
-    a.footnote-backref,
-    a.footnote-ref {
-      border-bottom-width: 0 !important;
-      font-weight: bold;
-      @media print {
-        font-weight: normal;
-        font-size: inherit;
-      }
-      font-size: 0.925rem;
-      line-height: 0;
-      margin-left: 0.1em;
-      &:hover {
-        color: link-hover-color($content-background-color) !important;
-        border-bottom-width: 0 !important;
-      }
-    }
+    // .footnote-ref a,
+    // a.footnote-return,
+    // a.footnote-backref,
+    // a.footnote-ref {
+    //   border-bottom-width: 0 !important;
+    //   font-weight: bold;
+    //   @media print {
+    //     font-weight: normal;
+    //     font-size: inherit;
+    //   }
+    //   font-size: 0.925rem;
+    //   line-height: 0;
+    //   margin-left: 0.1em;
+    //   &:hover {
+    //     color: link-hover-color($content-background-color) !important;
+    //     border-bottom-width: 0 !important;
+    //   }
+    // }
 
     .quire-page__content__references {
       dl {

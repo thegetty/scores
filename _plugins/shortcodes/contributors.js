@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Parse contributor info passed in as JSON string, for score.liquid layout, lines 52–57
+//
 const chalkFactory = require('~lib/chalk')
 const { html } = require('~lib/common-tags')
 
@@ -45,9 +49,12 @@ module.exports = function (eleventyConfig) {
 
     if (!contributors) return ''
 
-    if (typeof contributors === 'string') return markdownify(contributors)
+    // if (typeof contributors === 'string') return markdownify(contributors)
+    const contributorsObject = typeof contributors === 'string'
+      ? JSON.parse(contributors)
+      : contributors
 
-    let contributorList = contributors
+    let contributorList = contributorsObject
       .flatMap(getContributor)
       .filter((item) => (type || role) && type !== 'all'
         ? (type && item.type === type) || (role && item.role === role)

@@ -9,6 +9,7 @@ figure_list:
     src: "figures/r32814_980039_b9_r_001.jpg"
     zoom: true
     label: "Recto"
+    caption: "*Intersection No. 3* with a dedication for David Tudor"
     alt: "Horizontal 11-inch-wide graph paper with seven horizontal staves outlined in pencil, each three grid boxes tall. Within the staves, seemingly random boxes are outlined and filled with handwritten numbers from 1-11 in black ink. Some grid boxes are outlined horizontally to create rectangles. Top margin handwritten text reads: outlined box “= MM 176” at left, “Intersection #3 for Tudor” at center, and “M Feldman (unreadable word) 1953” at right."
 
   - id: "s0002"
@@ -21,6 +22,7 @@ figure_list:
     src: "figures/r2015418_980039_b9_f26b_045.jpg"
     zoom: true
     label: "Pg. 1"
+    caption: "David Tudor’s Realization of Feldman’s *Intersection No. 3*"
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, and repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, however page is balanced with a roughly equal disruption of notations throughout."
   
   - id: "s0008"
@@ -57,4 +59,5 @@ figure_list:
     src: "figures/r1115683_980039_b9_f30_001.jpg"
     zoom: true
     label: ""
+    caption: "Embryonic graph score, likely for Morton Feldman, *Projection No. 1*"
     alt: "Horizontal cream paper with orange printed grid. Three black horizontal marks evenly divide top third of page into three sections with a larger fourth section on bottom. Each section sparsely populated with squares and rectangles make from outlining one or more of the printed grid boxes. Key at bottom left reads: diamond shape “Lowest Harmonic,” “P Lowest pizz (played pizz),” “A Lowest Open sound (Played Arco)” and finally, identifies that one outlined pen square “= one beat.” Lines from top to bottom correspond to O, P, and A key."

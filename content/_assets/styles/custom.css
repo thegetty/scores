@@ -3,6 +3,7 @@
   .quire::before,
   .quire::after {
     color: black;
+    font-size: 16px;
     font-weight: 700;
     position: fixed;
     width: 230px;
@@ -24,6 +25,139 @@
     right: -130px;
   }
 }
+
+/* Temporary: hide copy link button in Archives sections
+  not sure it works the way we want, or is needed */
+.accordion-section__copy-link-button {
+  display: none;
+}
+
+/* GENERAL PAGE RESETS AND STYLES
+============================================================================= */
+.quire-page__content {
+  line-height: 1.3;
+}
+.quire-page__content .container {
+  max-width: 100%;
+  width: auto;
+}
+.quire-page__content .container .content {
+  padding: 2rem;
+}
+.quire-page h2 {
+  text-transform: none;
+}
+.quire-page__content .container .content a,
+.quire-page__content .container .content a:hover {
+  color: black !important;
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .container .content ul, 
+.quire-page__content .container .content ul li {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* SCORE PAGES
+============================================================================= */
+.score-section {
+  margin-bottom: 4rem;
+}
+.score-section__header,
+.score-section__blurb,
+.score-section__groups,
+.score-section__link,
+.score-section__objects {
+  margin-bottom: 1rem;
+}
+.score-section__header *:last-child,
+.score-section__blurb *:last-child,
+.score-section__groups *:last-child,
+.score-section__link *:last-child,
+.score-section__objects *:last-child {
+  margin-bottom: 0;
+}
+/*  Header */
+.score-section__header {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+}
+/* Object Grids and Images */
+.score-section .score-section__objects {
+  display: grid;
+  gap: 1rem;
+  margin-left: -1rem;
+  width: calc(100vw - 2rem);
+}
+.score-section--score .score-section__objects {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.score-section--playback .score-section__objects {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.score-section--archive .score-section__objects {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.score-section .score-section__objects .q-figure {
+  margin: 0;
+  border-width: 0;
+  padding: 0;
+}
+.score-section .score-section__objects .q-figure > a {
+  background-color: black;
+  border-radius: 1rem;
+  padding: 1rem;
+  aspect-ratio: 3 / 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.score-section .score-section__objects .q-figure > a img {
+  max-height: 100%;
+  object-fit: contain;
+}
+.score-section .score-section__objects .q-figure .q-figure__label {
+  display: none;
+}
+.score-section .score-section__objects .q-figure .q-figure__caption {
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.3;
+  padding: 0 .5rem;
+}
+/* Archive Accordions */
+.score-section--archive .score-section__groups {
+  background-color: black;
+  padding: 2rem;
+  border-radius: 1rem;
+  color: white;
+  margin-left: -1rem;
+  width: calc(100vw - 2rem);
+}
+.score-section--archive .accordion-section {
+  margin: 0;
+}
+.score-section--archive .accordion-section__body {
+  margin-bottom: 2rem;
+}
+.score-section--archive h3 {
+  color: white;
+  font-style: normal;
+}
+.accordion-section__heading :is(p, h2, h3, h4, h5, h6) {
+  width: auto;
+}
+.score-section.score-section--archive .score-section__objects .q-figure .q-figure__caption {
+  color: white;
+}
+.accordion-section__controls--plus-minus::after {
+  content: "...";
+}
+.accordion-section[open] > .accordion-section__controls--plus-minus::after {
+  content: "";
+}
+
 
 /* PROTOTYPE -- THUMBNAIL NAVIGATOR ON ENTRY PAGES
 ============================================================================= */
@@ -52,8 +186,8 @@
 .content .thumbnail figure figcaption {
   font-style: normal;
 }
-.quire-page__content .content .thumbnail-box a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link),
-.quire-page__content .content .thumbnail-box a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover  {
+.quire-page__content .content a.thumbnail:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link),
+.quire-page__content .content a.thumbnail:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover  {
   border-bottom-width: 0 !important;
   color: white !important;
 }

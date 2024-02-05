@@ -25,8 +25,8 @@ object_list:
     extended_caption: "This manuscript of Feldman’s score was drafted on graph paper, in an echo of Joseph Schillinger’s method of graph notation developed in the 1930s and 40s. Feldman’s draft freely distributes seven oblong rectangular staves in a way that is askew from the traditional vertical alignment of musical staves. No ruler was used."
     type: Score
     figure: 
-      - id: "s0001"
-      - id: "s0002"
+      - id: "F101a"
+      - id: "F101b"
     
   - id: "1.03"
     maker: "Morton Feldman (American, 1926–1987)"
@@ -37,12 +37,12 @@ object_list:
     extended_caption: "This is one of Tudor’s earliest realizations of an indeterminate score. In fidelity to Feldman’s use of a metronome without any meter, Tudor uses no bar lines. Tudor’s notation is otherwise conventional. Octaves up or down are marked with local brackets and an “8” or “16.” Clusters are special attacks to be played with the palm or groups of fingers that include all notes notated with a vertical line linking two pitches. The clusters are fully chromatic (including all notes within the boundaries) unless marked by a natural sign, in which case only the white notes are to be played, or with a sharp sign, in which case only the black notes are to be played."
     type: Score
     figure:
-      - id: "s0007"
-      - id: "s0008"
-      - id: "s0009"
-      - id: "s0010"
-      - id: "s0011"
-      - id: "s0012"
+      - id: "F103a"
+      - id: "F103b"
+      - id: "F103c"
+      - id: "F103d"
+      - id: "F103e"
+      - id: "F103f"
   
   - id: "1.13"
     maker: "Morton Feldman (American, 1926–1987)"
@@ -53,4 +53,4 @@ object_list:
     extended_caption: ""
     type: Sketches and Materials
     figure:
-      - id: "p0001"
+      - id: "F113a"

@@ -54,9 +54,14 @@ description: A custom layout for the primary score landing pages
 </div>
 <div class="score-section__objects">
 {{ if score.objects }}
-{% for object in score.objects %}
-{% figure object.id %}
-{% endfor %}
+{%- for thisObj in score.objects -%}
+  {%- for obj in objects.object_list -%}
+    {%- if obj.id == thisObj.id -%}
+      {%- assign figId = obj.figure[0].id -%}
+      {% figure figId %}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
 {{ endif }}
 </div>
 <div class="score-section__link score-section__link--expander">
@@ -78,9 +83,14 @@ description: A custom layout for the primary score landing pages
 </div>
 <div class="score-section__objects">
 {{ if playback.objects }}
-{% for object in playback.objects %}
-{% figure object.id %}
-{% endfor %}
+{%- for thisObj in playback.objects -%}
+  {%- for obj in objects.object_list -%}
+    {%- if obj.id == thisObj.id -%}
+      {%- assign figId = obj.figure[0].id -%}
+      {% figure figId %}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
 {{ endif }}
 </div>
 <div class="score-section__link score-section__link--expander">
@@ -108,8 +118,13 @@ description: A custom layout for the primary score landing pages
   {%- endcapture -%}
   {%- accordion groupHeading -%}
     <div class="score-section__objects">
-    {%- for object in group.objects -%}
-      {% figure object.id %}
+    {%- for thisObj in group.objects -%}
+      {%- for obj in objects.object_list -%}
+        {%- if obj.id == thisObj.id -%}
+          {%- assign figId = obj.figure[0].id -%}
+          {% figure figId %}
+        {%- endif -%}
+      {%- endfor -%}
     {%- endfor -%}
     </div>
   {%- endaccordion -%}

@@ -5,57 +5,57 @@ figure_list:
     caption: ""
     credit: ""
 
-  - id: "s0001"
+  - id: "F101a"
     src: "figures/r32814_980039_b9_r_001.jpg"
     zoom: true
     label: "Recto"
     caption: "*Intersection No. 3* with a dedication for David Tudor"
     alt: "Horizontal 11-inch-wide graph paper with seven horizontal staves outlined in pencil, each three grid boxes tall. Within the staves, seemingly random boxes are outlined and filled with handwritten numbers from 1-11 in black ink. Some grid boxes are outlined horizontally to create rectangles. Top margin handwritten text reads: outlined box “= MM 176” at left, “Intersection #3 for Tudor” at center, and “M Feldman (unreadable word) 1953” at right."
 
-  - id: "s0002"
+  - id: "F101b"
     src: "figures/r32814_980039_b9_v_002.jpg"
     zoom: true
     label: "Verso"
     alt: ""
   
-  - id: "s0007"
+  - id: "F103a"
     src: "figures/r2015418_980039_b9_f26b_045.jpg"
     zoom: true
     label: "Pg. 1"
     caption: "David Tudor’s Realization of Feldman’s *Intersection No. 3*"
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, and repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, however page is balanced with a roughly equal disruption of notations throughout."
   
-  - id: "s0008"
+  - id: "F103b"
     src: "figures/r2015418_980039_b9_f26b_046.jpg"
     zoom: true
     label: "Pg. 2"
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, and repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, however page is balanced with a roughly equal disruption of notations throughout."
   
-  - id: "s0009"
+  - id: "F103c"
     src: "figures/r2015418_980039_b9_f26b_047.jpg"
     zoom: true
     label: "Pg. 3"
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, and repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, however page is balanced with a roughly equal disruption of notations throughout."
   
-  - id: "s0010"
+  - id: "F103d"
     src: "figures/r2015418_980039_b9_f26b_048.jpg"
     zoom: true
     label: "Pg. 4"
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, and repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, however page is balanced with a roughly equal disruption of notations throughout."
 
-  - id: "s0011"
+  - id: "F103e"
     src: "figures/r2015418_980039_b9_f26b_049.jpg"
     zoom: true
     label: "Pg. 5"
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, and repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, however page is balanced with a roughly equal disruption of notations throughout."
   
-  - id: "s0012"
+  - id: "F103f"
     src: "figures/r2015418_980039_b9_f26b_050.jpg"
     zoom: true
     label: "Pg. 6"
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, and repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, however page is balanced with a roughly equal disruption of notations throughout."
   
-  - id: "p0001"
+  - id: "F113a"
     src: "figures/r1115683_980039_b9_f30_001.jpg"
     zoom: true
     label: ""

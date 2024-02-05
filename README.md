@@ -73,6 +73,12 @@ TK
 
 In addition to changes in `content/_assets/styles/custom.css` and `content/_assets/styles/variables.scss`, the following changes have been made to the template and style files in this project:
 
+**_includes/components/navigation.js**
+Changed to just four links, consistent across all pages
+
+**_includes/components/search.js**
+Replaced icons with text labels, and updated input placeholder text
+
 **_layouts/score.liquid**
 A custom layout for the primary score landing pages
 

@@ -219,36 +219,50 @@
   content: "";
 }
 
-
-/* PROTOTYPE -- THUMBNAIL NAVIGATOR ON ENTRY PAGES
+/* THUMBNAIL NAVIGATOR ON ENTRY PAGES
 ============================================================================= */
-.thumbnail-box {
-  height: 240px;
+@media screen and (min-width: 700px) {
+  .side-by-side .quire-entry__lightbox--with-thumbnails {
+    height: calc(100vh - 4rem - 182px);
+  }
+}
+.q-lightbox-slides__caption {
+  display: none;
+}
+.quire-entry__thumbnails {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: calc(56% - 8px);
+  z-index: 10;
+  height: 182px;
   background-color: black;
   overflow-x: scroll;
   overflow-y: clip;
   margin-top: 2rem;
 }
-.thumbnail-box__inner {
-  width: max-content;
-  padding: 2rem 1rem;
+.quire-entry__thumbnails__inner {
+  display: flex;
 }
-.thumbnail {
-  display: inline-block;
+.quire-entry__thumbnails .thumbnail figure {
+  display: inline-flex;
+  aspect-ratio: 3 / 2;
+  border: 1px solid gray;
+  border-radius: .5rem;
+  margin: 1rem .25rem;
+  padding: .5rem;
+  height: 140px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
 }
-.thumbnail,
-.thumbnail * {
-  max-height: 150px;
-  height: 150px;
+.quire-entry__thumbnails .thumbnail img {
+  max-height: 90px;
+  height: 90px;
 }
-.content .thumbnail figure {
-  margin: 0 1rem;
-}
-.content .thumbnail figure figcaption {
-  font-style: normal;
-}
-.quire-page__content .content a.thumbnail:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link),
-.quire-page__content .content a.thumbnail:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover  {
-  border-bottom-width: 0 !important;
-  color: white !important;
+.quire-entry__thumbnails .thumbnail figcaption {
+  text-align: center;
+  color: white;
+  line-height: 1.3;
+  font-size: .75rem;
 }

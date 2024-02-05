@@ -73,6 +73,9 @@ TK
 
 In addition to changes in `content/_assets/styles/custom.css` and `content/_assets/styles/variables.scss`, the following changes have been made to the template and style files in this project:
 
+**_includes/components/lightbox/ui.js**
+Use text labels instead of icons for full screen, next, and prev
+
 **_includes/components/navigation.js**
 Changed to just four links, consistent across all pages
 
@@ -81,6 +84,9 @@ Replaced icons with text labels, and updated input placeholder text
 
 **_layouts/score.liquid**
 A custom layout for the primary score landing pages
+
+**_layouts/score-object.liquid**
+A custom layout based on `quire-entry` that adds figure thumbnails for lightbox navigation
 
 **_plugins/shortcodes/contributors.js**
 Parse contributor info passed in as JSON string, for `score.liquid` layout
@@ -91,6 +97,9 @@ Add u001 font
 
 **content/_assets/styles/components/quire-page.scss**
 Remove all `<a>` styles
+
+**content/_assets/styles/components/q-lightbox-ui.scss**
+Rewrote styles for simpler display of text only links, without icons
 
 **content/_assets/styles/colors.scss**
 Define `$off-black` as `$black`

@@ -47,7 +47,7 @@ menuType: full # full | brief
 
 navigation:
   nextButtonText: Next
-  prevButtonText: Back
+  prevButtonText: Prev
 
 pageTitle:
   labelDivider: '. '

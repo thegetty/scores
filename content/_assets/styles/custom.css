@@ -32,6 +32,15 @@
   display: none;
 }
 
+:root {
+  --thumbnail-height: 40px;
+}
+@media screen and (min-width: 700px) {
+  :root {
+    --thumbnail-height: 60px;
+  }
+}
+
 /* GENERAL PAGE RESETS AND STYLES
 ============================================================================= */
 .quire-page__content {
@@ -60,6 +69,21 @@
 .quire-page__content .container .content ul li {
   margin-top: 0;
   margin-bottom: 0;
+}
+/* Prev/Next buttons */
+.quire-contents-buttons {
+  height: 200px;
+  padding: 0 2rem;
+}
+.quire-nav-button {
+  display: inline;
+  padding-right: 1rem;
+}
+.quire-nav-button a {
+  color: black;
+}
+.quire-nav-button svg {
+  display: none;
 }
 
 /* NAVBAR & SEARCH
@@ -219,27 +243,86 @@
   content: "";
 }
 
-/* THUMBNAIL NAVIGATOR ON ENTRY PAGES
+/* SCORE OBJECT PAGES
+============================================================================= */
+/* Make everything white text on a black background */
+.score-object .quire-navbar,
+.quire-entry div.side-by-side div.quire-entry__image-wrap::after,
+.score-object .quire-entry div.side-by-side div.quire-entry__content,
+.quire:not(.no-js).score-object  .quire__primary main  {
+  background-color: black;
+  color: white;
+}
+.score-object .quire-navbar a, 
+.score-object .quire-navbar button,
+.score-object .quire-navbar .button,
+.score-object .quire-entry__header .container,
+.score-object .quire-entry__header .quire-page__header__title,
+.score-object .quire-entry__tombstone > div.container,
+.score-object .quire-entry__tombstone .table,
+.score-object .quire-entry .quire-page__content .content,
+.score-object .quire-nav-button a {
+  background-color: transparent;
+  color: white !important;
+}
+.quire-entry div.side-by-side div.quire-entry__content section.section, 
+.quire-entry div.side-by-side div.quire-entry__content section, 
+.quire-entry div.side-by-side div.quire-entry__content header {
+  padding: 0;
+}
+
+/* Tombstone */
+.score-object .quire-entry__tombstone .table {
+  border-width: 0;
+  font-size: 1rem;
+  width: calc(100% - 4rem);
+  margin: 0 2rem;
+  padding: 0;
+}
+.score-object .quire-entry__tombstone tr td:first-child {
+  font-weight: 400;
+  padding-right: 2rem;
+}
+.score-object .quire-entry__tombstone .table td, 
+.score-object .quire-entry__tombstone .table th {
+  padding: 0;
+}
+/* Main content area */
+.score-object .quire-page__content .container .content {
+  padding-top: 0;
+}
+
+/* SCORE OBJECT PAGES -- THUMBNAIL NAVIGATOR
 ============================================================================= */
 @media screen and (min-width: 700px) {
-  .side-by-side .quire-entry__lightbox--with-thumbnails {
-    height: calc(100vh - 4rem - 182px);
+  .side-by-side .quire-entry__lightbox.quire-entry__lightbox--with-thumbnails {
+    height: calc(100vh - 4rem - (var(--thumbnail-height) + 4rem));
   }
+  .quire-entry__thumbnails {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: calc(56% - 8px);
+  }
+}
+.quire-entry div.side-by-side .q-lightbox-ui__navigation {
+  display: inherit;
+}
+.side-by-side .quire-entry__lightbox {
+  height: 100%;
+}
+.quire-entry div.side-by-side div.quire-entry__image-wrap::after {
+  height: 0;
 }
 .q-lightbox-slides__caption {
   display: none;
 }
 .quire-entry__thumbnails {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: calc(56% - 8px);
   z-index: 10;
-  height: 182px;
+  height: calc(var(--thumbnail-height) + 4rem);
   background-color: black;
   overflow-x: scroll;
   overflow-y: clip;
-  margin-top: 2rem;
 }
 .quire-entry__thumbnails__inner {
   display: flex;
@@ -251,14 +334,14 @@
   border-radius: .5rem;
   margin: 1rem .25rem;
   padding: .5rem;
-  height: 140px;
+  height: calc(var(--thumbnail-height) + 2rem);
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
 }
 .quire-entry__thumbnails .thumbnail img {
-  max-height: 90px;
-  height: 90px;
+  max-height: var(--thumbnail-height);
+  height: var(--thumbnail-height);
 }
 .quire-entry__thumbnails .thumbnail figcaption {
   text-align: center;

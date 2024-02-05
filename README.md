@@ -82,6 +82,9 @@ Changed to just four links, consistent across all pages
 **_includes/components/search.js**
 Replaced icons with text labels, and updated input placeholder text
 
+**_layouts/base.11ty.js**
+Added `layout` as a top-level class in order to custom style nav bar on certain layouts
+
 **_layouts/score.liquid**
 A custom layout for the primary score landing pages
 
@@ -95,8 +98,12 @@ Parse contributor info passed in as JSON string, for `score.liquid` layout
 **content/_assets/fonts/u001**
 Add u001 font
 
+**content/_assets/styles/components/quire-buttons.scss**
 **content/_assets/styles/components/quire-page.scss**
-Remove all `<a>` styles
+Remove all default `<a>` and `button` styles
+
+**content/_assets/styles/components/quire-entry.scss**
+Fixed hard-coded heights to use $navbar-height instead
 
 **content/_assets/styles/components/q-lightbox-ui.scss**
 Rewrote styles for simpler display of text only links, without icons

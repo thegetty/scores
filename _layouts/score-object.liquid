@@ -18,8 +18,8 @@ Entry content, including entry image and tombstone data
 <div {% if sideBySide == true or presentation == 'side-by-side' %} class="side-by-side" {% endif %}>
 
   {% comment %} Full-width entry image header {% endcomment %}
-  <div class="quire-entry__image-wrap{%- for object in pageObjects -%}{%- if object.figures.size > 1 -%} quire-entry__image-wrap--with-thumbnails{%- endif -%}{%- endfor -%}" data-outputs-include="html">
-    <div class="quire-entry__lightbox">
+  <div class="quire-entry__image-wrap" data-outputs-include="html">
+    <div class="quire-entry__lightbox{% for object in pageObjects %}{% if object.figures.size > 1 %} quire-entry__lightbox--with-thumbnails{% endif %}{% endfor %}">
       {% if image %}
       {% comment %} 
         To do: add support for images without ids defined in front matter

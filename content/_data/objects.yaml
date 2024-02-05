@@ -8,8 +8,8 @@ object_card:
   - id
   
 object_display_order:
-  - maker
   - title
+  - maker
   - date
   - medium
   - location

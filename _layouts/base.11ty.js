@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added `layout` as a top-level class in order to custom style nav bar on certain layouts
+//
 const path = require('path')
 const { html } = require('~lib/common-tags')
 
@@ -8,7 +12,7 @@ const { html } = require('~lib/common-tags')
  * @return     {Function}  Template render function
  */
 module.exports = async function(data) {
-  const { classes, collections, content, pageData, publication } = data
+  const { classes, collections, content, layout, pageData, publication } = data
   const { inputPath, outputPath, url } = pageData || {}
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
@@ -21,7 +25,7 @@ module.exports = async function(data) {
       <body>
         ${this.icons(data)}
         ${this.iconscc(data)}
-        <div class="quire no-js" id="container">
+        <div class="quire no-js ${layout}" id="container">
           <div
             aria-expanded="false"
             class="quire__secondary"

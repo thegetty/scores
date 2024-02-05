@@ -4,7 +4,7 @@
 # unless otherwise overridden by more specific contexts.
 [build]
 publish = "_site"
-command = "npx @thegetty/quire-cli@1.0.0-rc.11 build"
+command = "npx @thegetty/quire-cli build"
 
 [build.environment]
 NODE_VERSION = "18.16.0"

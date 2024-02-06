@@ -70,6 +70,26 @@
   margin-top: 0;
   margin-bottom: 0;
 }
+/* Table of contents */
+.quire-contents-list .menu-list a {
+  font-size: 1rem;
+  line-height: 1.3;
+}
+.quire-contents-list .page-item, .quire-contents-list .section-item {
+  margin-bottom: 0;
+  line-height: 1.3;
+}
+.quire-contents-list.list, .quire-contents-list.brief {
+  padding: 0 2rem;
+}
+.quire-contents-list .menu-list a .arrow,
+.quire-contents-list .menu-list .section-item ol {
+  display: none;
+}
+.quire-contents-list .menu-list a:hover,
+.quire-contents-list .menu-list a:hover * {
+  color: black;
+}
 /* Prev/Next buttons */
 .quire-contents-buttons {
   height: 200px;

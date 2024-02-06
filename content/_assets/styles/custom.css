@@ -263,6 +263,111 @@
   content: "";
 }
 
+/* IMAGE INDEX
+============================================================================= */
+.objects-page .quire-navbar,
+.quire:not(.no-js).objects-page .quire__primary main  {
+  background-color: black;
+  color: white;
+}
+.objects-page .quire-navbar a, 
+.objects-page .quire-navbar button,
+.objects-page .quire-navbar .button,
+.objects-page .quire-nav-button a,
+.objects-page .quire-page__header,
+.objects-page .quire-page h1,
+.objects-page .object-filters,
+.objects-page .object-filters__select select, 
+.objects-page .object-filters__select select:focus, 
+.objects-page .object-filters__select select:focus-visible,
+.objects-page .object-filters__button {
+  background-color: transparent;
+  color: white !important;
+}
+.objects-page .object-filters__select::after {
+  border-top-color: white;
+}
+.objects-page .object-filters__controls {
+  display: inherit;
+}
+.objects-page .object-filters__button {
+  border-width: 0;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+.objects-page .object-filters__item label {
+  font-size: 1rem;
+  font-weight: 400;
+  text-align: left;
+}
+.objects-page .object-filters__select select, 
+.objects-page .object-filters__select select:focus, 
+.objects-page .object-filters__select select:focus-visible {
+  font-size: 1rem;
+  border-bottom: 0;
+}
+.objects-page .object-filters__list {
+  display: initial;
+}
+@media screen and (min-width: 500px) {
+  .objects-page .object-filters__item {
+    grid-template-columns: 100px auto;
+  }
+  .objects-page .object-filters__item label {
+    text-align: left;
+  }
+}
+.objects-page .object-filters__button {
+  font-size: 1rem;
+  font-family: 'u001', sans-serif;
+  margin-right: 2rem;
+}
+.objects-page .object-filters__button.object-filters__button--active {
+  background-color: black !important;
+  border-bottom: 1px solid white;
+}
+.objects-page .object-filters__select::after {
+  all: revert !important;
+}
+.objects-page .object-card {
+  background-color: transparent;
+  margin-right: 2rem;
+}
+.objects-page .object-card__content {
+  padding: 0;
+}
+.objects-page .object-card .arrow {
+  display: none;
+}
+.objects-page .object-card__title {
+  color: white;
+  font-weight: 400;
+  font-size: 1rem;
+  font-family: 'u001', sans-serif;
+}
+.objects-page .object-card__title:not(:last-child), 
+.objects-page .object-card__image:not(:last-child) {
+  margin-bottom: 0;
+}
+.objects-page .object-card__image {
+  height: 110px;
+}
+.objects-page .object-card__image img {
+  max-height: 100%;
+  width: auto;
+  margin: 0 auto;
+}
+.objects-page ol.object-cards-list {
+  display: flex;
+}
+.objects-page section.object-cards {
+  margin: 2rem;
+}
+.objects-page .object-filters {
+  padding: 0 2rem;
+}
+
 /* SCORE OBJECT PAGES
 ============================================================================= */
 /* Make everything white text on a black background */

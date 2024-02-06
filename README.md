@@ -82,6 +82,9 @@ Changed to just four links, consistent across all pages
 **_includes/components/search.js**
 Replaced icons with text labels, and updated input placeholder text
 
+**_includes/components/object-filters/object-filters.webc**
+Used "..." instead of "All" in select boxes
+
 **_layouts/base.11ty.js**
 Added `layout` as a top-level class in order to custom style nav bar on certain layouts
 

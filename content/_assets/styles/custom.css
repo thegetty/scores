@@ -56,8 +56,10 @@
 .quire-page h1,
 .quire-page__header__title {
   font-size: 1rem;
+  font-weight: 400;
 }
 .quire-page h2 {
+  font-weight: 400;
   text-transform: none;
 }
 .quire-page__content .container .content a,
@@ -415,6 +417,9 @@
 /* Main content area */
 .score-object .quire-page__content .container .content {
   padding-top: 0;
+}
+.object-credit {
+  font-size: .75rem;
 }
 
 /* SCORE OBJECT PAGES -- THUMBNAIL NAVIGATOR

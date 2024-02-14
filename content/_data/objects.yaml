@@ -12,6 +12,7 @@ object_display_order:
   - maker
   - date
   - medium
+  - type
   - location
 
 object_list:
@@ -20,9 +21,10 @@ object_list:
     maker: "Morton Feldman (American, 1926–1987)"
     title: "*Intersection No. 3* with a dedication for David Tudor"
     date: 1953
-    medium:
+    medium: ""
     location: "Getty Research Institute, David Tudor Collection, 980039, box 9, folder 1"
     extended_caption: "This manuscript of Feldman’s score was drafted on graph paper, in an echo of Joseph Schillinger’s method of graph notation developed in the 1930s and 40s. Feldman’s draft freely distributes seven oblong rectangular staves in a way that is askew from the traditional vertical alignment of musical staves. No ruler was used."
+    credit: "Intersection III by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     type: Score
     figure: 
       - id: "F101a"
@@ -35,6 +37,7 @@ object_list:
     medium:
     location: "Getty Research Institute, David Tudor, 980039, box 9, folder 1"
     extended_caption: "This is one of Tudor’s earliest realizations of an indeterminate score. In fidelity to Feldman’s use of a metronome without any meter, Tudor uses no bar lines. Tudor’s notation is otherwise conventional. Octaves up or down are marked with local brackets and an “8” or “16.” Clusters are special attacks to be played with the palm or groups of fingers that include all notes notated with a vertical line linking two pitches. The clusters are fully chromatic (including all notes within the boundaries) unless marked by a natural sign, in which case only the white notes are to be played, or with a sharp sign, in which case only the black notes are to be played."
+    credit: "Intersection III by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     type: Score
     figure:
       - id: "F103a"
@@ -51,6 +54,7 @@ object_list:
     medium:
     location: "Getty Research Institute, David Tudor, 980039, box 9, folder 30"
     extended_caption: ""
+    credit: "Projection I by Morton Feldman © 1961 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     type: Sketches and Materials
     figure:
       - id: "F113a"

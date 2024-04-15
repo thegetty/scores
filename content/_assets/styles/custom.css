@@ -362,6 +362,7 @@
 }
 .objects-page ol.object-cards-list {
   display: flex;
+  flex-wrap: wrap;
 }
 .objects-page section.object-cards {
   margin: 2rem;

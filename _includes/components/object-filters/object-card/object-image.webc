@@ -1,3 +1,7 @@
+ <!-- 
+CUSTOMIZED FILE
+Fixed source of thumbnails for videos
+-->
 <figure class="object-card__image" :data-field-name="attribute.name">
   <img :src="src(attributes)" :alt="alt(attributes)">
 </figure>
@@ -13,9 +17,19 @@ const alt = ({ data }) => typeof data.thumbnail === 'object' ? data.thumbnail.al
  */
 const src = ({ data }) => {
   const { figures } = data;
-  const thumbnail = figures
-    ? figures.find(({ mediaType }) => mediaType === 'image').thumbnail
-    : data.thumbnail
+
+  let thumbnail = ''
+  if (figures) {
+    if (figures.find(({ mediaType }) => mediaType === 'image')) {
+      thumbnail = figures.find(({ mediaType }) => mediaType === 'image').static_inline
+        ? figures.find(({ mediaType }) => mediaType === 'image').static_inline
+        : figures.find(({ mediaType }) => mediaType === 'image').thumbnail
+    } else if (figures.find(({ mediaType }) => mediaType === 'vimeo')) {
+      thumbnail = figures.find(({ mediaType }) => mediaType === 'vimeo').static_inline
+    }
+  } else {
+    thumbnail = data.thumbnail
+  }
 
   const src = typeof thumbnail === 'object'
     ? thumbnail.src

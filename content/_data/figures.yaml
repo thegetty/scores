@@ -2,7 +2,7 @@ figure_list:
 -
     id: "fig-001-a"
     src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -602,7 +602,7 @@ figure_list:
 -
     id: "fig-042"
     src: figures/r2014402_980039_b62_f11_021.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1794,7 +1794,7 @@ figure_list:
 -
     id: "fig-064-c"
     src: figures/gri_980039_29_b6_f13_002_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1802,7 +1802,7 @@ figure_list:
 -
     id: "fig-064-d"
     src: figures/gri_980039_29_b6_f13_003_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1810,7 +1810,7 @@ figure_list:
 -
     id: "fig-064-e"
     src: figures/gri_980039_29_b6_f13_004_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1898,7 +1898,7 @@ figure_list:
 -
     id: "fig-064-p"
     src: figures/gri_980039_29_b6_f13_015_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1946,7 +1946,7 @@ figure_list:
 -
     id: "fig-064-v"
     src: figures/gri_980039_29_b6_f13_021_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1962,7 +1962,7 @@ figure_list:
 -
     id: "fig-064-x"
     src: figures/gri_980039_29_b6_f13_023_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1970,7 +1970,7 @@ figure_list:
 -
     id: "fig-064-y"
     src: figures/gri_980039_29_b6_f13_024_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1978,7 +1978,7 @@ figure_list:
 -
     id: "fig-064-z"
     src: figures/gri_980039_29_b6_f13_025_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1986,7 +1986,7 @@ figure_list:
 -
     id: "fig-064-aa"
     src: figures/gri_980039_29_b6_f13_026_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -1994,7 +1994,7 @@ figure_list:
 -
     id: "fig-064-ab"
     src: figures/gri_980039_29_b6_f13_027_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -2002,7 +2002,7 @@ figure_list:
 -
     id: "fig-064-ac"
     src: figures/gri_980039_29_b6_f13_028_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -2010,7 +2010,7 @@ figure_list:
 -
     id: "fig-064-ad"
     src: figures/gri_980039_29_b6_f13_029_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -2018,7 +2018,7 @@ figure_list:
 -
     id: "fig-064-ae"
     src: figures/gri_980039_29_b6_f13_030_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -2026,7 +2026,7 @@ figure_list:
 -
     id: "fig-064-af"
     src: figures/gri_980039_29_b6_f13_031_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -2034,7 +2034,7 @@ figure_list:
 -
     id: "fig-064-ag"
     src: figures/gri_980039_29_b6_f13_032_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -2042,7 +2042,7 @@ figure_list:
 -
     id: "fig-064-ah"
     src: figures/gri_980039_29_b6_f13_033_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -2050,7 +2050,7 @@ figure_list:
 -
     id: "fig-064-ai"
     src: figures/gri_980039_29_b6_f13_034_355536ds.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -4082,7 +4082,7 @@ figure_list:
 -
     id: "fig-095"
     src: figures/1958_05_06_NYTimes_GalleryReview.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -4114,7 +4114,7 @@ figure_list:
 -
     id: "fig-099"
     src: figures/r2014402_980039_b62_f13_025.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -4226,7 +4226,7 @@ figure_list:
 -
     id: "fig-111"
     src: figures/r2014402_980039_b62_f15_044.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -4338,7 +4338,7 @@ figure_list:
 -
     id: "fig-119"
     src: figures/r2015128_980039_b63_f2_017.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -5658,7 +5658,7 @@ figure_list:
 -
     id: "fig-136-cu"
     src: figures/gri_980039_b07_f05_066_mm.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -6770,7 +6770,7 @@ figure_list:
 -
     id: "fig-159-x"
     src: figures/gri_980039_b174_f03_040_mm.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -7346,7 +7346,7 @@ figure_list:
 -
     id: "fig-166"
     src: figures/r2015669_980039_b174_f4_014.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -7410,7 +7410,7 @@ figure_list:
 -
     id: "fig-174"
     src: figures/r2015669_980039_b174_f4_013.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -9378,7 +9378,7 @@ figure_list:
 -
     id: "fig-260-a"
     src: figures/r2014557_890164_b31_f48_090.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -9386,7 +9386,7 @@ figure_list:
 -
     id: "fig-260-b"
     src: figures/r2014557_890164_b31_f48_091.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10234,7 +10234,7 @@ figure_list:
 -
     id: "fig-298-a"
     src: figures/1_Maciunas-Young-1962-08c-p1.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10242,7 +10242,7 @@ figure_list:
 -
     id: "fig-298-b"
     src: figures/2_Maciunas-Young-1962-08c-p2.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10250,7 +10250,7 @@ figure_list:
 -
     id: "fig-298-c"
     src: figures/3_Maciunas-Young-1962-08c-p2b.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10354,7 +10354,7 @@ figure_list:
 -
     id: "fig-302-b"
     src: figures/r2014200_980039_b170_f1_002.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10378,7 +10378,7 @@ figure_list:
 -
     id: "fig-302-e"
     src: figures/r2014200_980039_b170_f1_005.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10386,7 +10386,7 @@ figure_list:
 -
     id: "fig-302-f"
     src: figures/r2014200_980039_b170_f1_006.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10402,7 +10402,7 @@ figure_list:
 -
     id: "fig-302-h"
     src: figures/r2014200_980039_b170_f1_008.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10426,7 +10426,7 @@ figure_list:
 -
     id: "fig-302-k"
     src: figures/r2014200_980039_b170_f1_011.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10450,7 +10450,7 @@ figure_list:
 -
     id: "fig-302-n"
     src: figures/r2014200_980039_b170_f1_014.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10498,7 +10498,7 @@ figure_list:
 -
     id: "fig-302-t"
     src: figures/r2014200_980039_b170_f1_027.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10506,7 +10506,7 @@ figure_list:
 -
     id: "fig-302-u"
     src: figures/r2014200_980039_b170_f1_028.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10514,7 +10514,7 @@ figure_list:
 -
     id: "fig-302-v"
     src: figures/r2014200_980039_b170_f1_029.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -10522,7 +10522,7 @@ figure_list:
 -
     id: "fig-302-w"
     src: figures/r2014200_980039_b170_f1_030.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -11514,7 +11514,7 @@ figure_list:
 -
     id: "fig-342-a"
     src: figures/r2014549_980039_b82_f18_001.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -11522,7 +11522,7 @@ figure_list:
 -
     id: "fig-342-b"
     src: figures/r2014549_980039_b82_f18_002.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -12658,7 +12658,7 @@ figure_list:
 -
     id: "fig-416-b"
     src: figures/r2014139_94_b14562_002.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -12938,7 +12938,7 @@ figure_list:
 -
     id: "fig-432"
     src: figures/r2014729_890164_b32_f6_021.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -13426,7 +13426,7 @@ figure_list:
 -
     id: "fig-462"
     src: figures/r2015842_2006_m_24_b22_f4_008.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""
@@ -15642,7 +15642,7 @@ figure_list:
 -
     id: "fig-512-bm"
     src: figures/gri_94_b16117_065.jpg
-    # zoom: true
+    zoom: true
     media_type: 
     media_id: 
     label: ""

@@ -1,5 +1,7 @@
 //@ts-check
-
+// CUSTOMIZED FILE -- Bronze Guidelines
+// Add script for iframe-based image viewer
+//
 /**
  * @fileOverview
  * @name application.js
@@ -20,6 +22,7 @@ import { goToFigureState, setUpUIEventHandlers } from './canvas-panel'
 import Accordion from './accordion'
 import Search from '../../../../_plugins/search/search.js'
 import scrollToHash from './scroll-to-hash'
+import './iframe-viewer'
 
 // array of leaflet instances
 const mapArr = []

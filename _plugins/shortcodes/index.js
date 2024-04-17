@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Add obj shortcode
+//
 const accordion = require('./accordion.js')
 const addComponentTag = require('../../_plugins/components/addComponentTag')
 const backmatter = require('./backmatter')
@@ -6,6 +10,7 @@ const cite = require('./cite')
 const contributors = require('./contributors')
 const figure = require('./figure')
 const figureGroup = require('./figureGroup')
+const obj = require('./obj')
 const ref = require('./ref')
 const shortcodeFactory = require('../components/shortcodeFactory')
 const title = require('./title')
@@ -22,6 +27,7 @@ module.exports = function(eleventyConfig, collections, options) {
   addComponentTag(eleventyConfig, 'contributors', contributors)
   addShortcode('figure', figure)
   addShortcode('figuregroup', figureGroup)
+  addShortcode('obj', obj)
   addShortcode('title', title)
   addShortcode('tombstone', tombstone)
 }

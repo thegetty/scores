@@ -98,7 +98,7 @@ module.exports = (eleventyConfig) => {
       {
         name: 'thumbnail',
         resize: {
-          width: 50
+          height: 120
         }
       },
       /**
@@ -117,7 +117,7 @@ module.exports = (eleventyConfig) => {
       {
         name: 'static-inline-figure-image',
         resize: {
-          width: 626
+          height: 440
         }
       }
     ]

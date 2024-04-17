@@ -25,7 +25,7 @@ const src = ({ data }) => {
         ? figures.find(({ mediaType }) => mediaType === 'image').static_inline
         : figures.find(({ mediaType }) => mediaType === 'image').thumbnail
     } else if (figures.find(({ mediaType }) => mediaType === 'vimeo')) {
-      thumbnail = figures.find(({ mediaType }) => mediaType === 'vimeo').static_inline
+      thumbnail = figures.find(({ mediaType }) => mediaType === 'vimeo').poster
     }
   } else {
     thumbnail = data.thumbnail

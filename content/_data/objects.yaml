@@ -28,7 +28,6 @@ object_list:
     extended_caption: ""
     credit: "Public domain; Thelonious Monk Corp."
     type: [ score ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-001-a", id: "fig-001-b", id: "fig-001-c", id: "fig-001-d" ]
 -
     id: "002"
@@ -603,7 +602,6 @@ object_list:
     extended_caption: "This review playfully leans into the futurism of the avant-garde, it and plays up the role of science and mathematics in advanced compositional methods and electronic music. The reviewer speculates that “sooner or later perhaps shall all be able to emulate him [Tudor]; Tin Pan Alley will flourish on the theory of numbers, and every guest will take his graph to the party.”"
     credit: ""
     type: [ press clipping ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-042" ]
 -
     id: "043"
@@ -995,7 +993,7 @@ object_list:
     location: "Getty Digital"
     extended_caption: "Graph T is one of the most virtuosic of Tudor’s graph-realizations in the first realization. Again, Cage’s choice of words in his instructions is strange. It is not clear what an “influence” is. What is clear is that the amoebas “grab” pitch material and temporal duration that should be played as a moving cluster. As with the others, Tudor translates the amoebas into traditional notation, with sharp lines indicating swipes of the palm or finger to fill out the contours of the cluster. Cage’s system of numbered dynamics (1–64) Tudor translates to his standard conventional scale of 0.5–10.5 (in blue ink). At the premiere, as with many of the excerpts, the sonic result is something like a pianistic version of psychosis. Again, as with graph J, Tudor could have fully complied with Cage’s graph by excerpting just a few clusters and playing them at a slow speed. By playing it fast, and in its entirety, he foregrounds his own Artaudian voice—a spectacle of an abstracted, formalized, and impersonal violence. In the Town Hall performance, Tudor executes graph T between 4′20″ and 4′55″."
     credit: "Copyright 1960, C.F. Peters"
-    type: [ Digital feature ]
+    type: [ digital feature ]
     figure: [ id: "fig-070" ]
 -
     id: "071"
@@ -1346,7 +1344,6 @@ object_list:
     extended_caption: "In anticipation of the premiere of *Concert for Piano and Orchestra*, Robert Rauschenberg and Jasper Johns, two of the sponsors of the Town Hall retrospective, encouraged Cage to display several of Cage’s scores in a midtown gallery. As a result, Cage’s scores began to be properly accorded recognition as visual works of art. Note what a strong contrast there is between Ashton’s description of the visual impact of his score (“calligraphic beauty” and “a delicate sense of design”) as opposed to the often violent and jarring impact Cage’s “mixed-up” sound world had on audiences. Like the disjuncture between the impersonal grace of Zen and the crushing violence of Artaud’s Theater of Cruelty, the sensory impact of Cage’s chance-based work confronts viewers and listeners with strange and puzzling contradictions. What Cage’s work ultimately is remains deliberately elusive."
     credit: ""
     type: [ press clipping ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-095" ]
 -
     id: "096"
@@ -1403,7 +1400,6 @@ object_list:
     extended_caption: "In his review of the Town Hall premiere for the New York Times, Parmenter foregrounds the size of the spectacle (an audience numbering one thousand), and, with respect to *Concert for Piano and Orchestra*, his Artaudian metaphors for psychosis (“crazy” and “mixed-up”). In line with other reviews, Parmenter summarizes Cage’s program note, playing the role of Cage’s public pedagogue. Whereas some high modernists like Milton Babbitt defended their avant-garde practice as a bourgeoning research discipline among institutional circles of specialists, Cage paralleled Allan Kaprow’s emergent practice of centering pedagogical gestures [LINK to Kaprow Ch. Commentary]: he repeatedly sought to explain the structure and significance of his work to his audiences. And to do so he used a variety of media—lectures, publications, press releases, program notes, television appearances, and, in this case, newspaper reviews."
     credit: ""
     type: [ press clipping ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-099" ]
 -
     id: "100"
@@ -1572,7 +1568,6 @@ object_list:
     extended_caption: "This review, of a recital Tudor delivered at NYU’s Maison Française immediately provides one with a sense of the strength of Tudor’s reputation. The author credits Tudor with being not only an excellent performer but also someone with exemplary skills in being able to “read” and “comprehend” these works. That is, the question of basic musical literacy is at stake. Can this material be read? Tudor’s reputation is that of a person who has both the physical ability and the intellectual capacity for decoding customized, esoteric, and future-oriented musical systems. The author ends the review with a remarkably philosophical explanation of the music, one that weaves nihilism, futurism, and necessity: “The philosophic implications of works like these may be disturbingly nihilist. So be it. Whatever their motivation, the pieces are giving us new and usable procedures to add to our musical vocabulary. This, if nothing else, makes them valid.”"
     credit: ""
     type: [ press clipping ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-111" ]
 -
     id: "112"
@@ -1685,7 +1680,6 @@ object_list:
     extended_caption: "Lang, a Hungarian-born musicologist, just a week after reviewing one of Tudor’s performances, steps on the philosophical soapbox. Lang compares Tudor’s composers to children who ignorantly destroy the highly valued tradition of Western Art Music. Echoing contemporaneous critiques of high formalism leveled by Theodor Adorno, Stanley Cavell, and many others at midcentury, Lang also critiques the excessively scientific approaches to musical composition as insensitive to the texture of “human frailty.” In Lang’s view, the avant-garde, driven by an excessive love for machines and science, has become in its own way metaphysical, cleaving to an apocalyptic vision of life. His critique relies upon a mantel of the Enlightenment (“the facts contradict it”) and nostalgic conceptions of genius, originality, and universal historical progress based in a “heartbeat of culture.” Elliott Carter, a comparatively traditional high modernist who left considerable place for human gesture in his work, serves as the more accessible foil for the nihilistic indulgences of Tudor’s experimentalism."
     credit: ""
     type: [ press clipping ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-119" ]
 -
     id: "120"
@@ -1699,7 +1693,7 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 3"
     extended_caption: "Sherman’s review of Tudor’s solo recital in Minneapolis is delightfully undecided. His descriptions of Tudor at the piano, with all its silences and strange noises, is fantastically evocative. From a traditionalist perspective, due to the extreme discontinuity of the recital’s chance-derived works, he worries about boredom (notwithstanding what he describes as an “amused and amazed” audience). But in response to the electronic sounds that Tudor used in that performance of Cage’s *Solo for Piano* (likely the second realization), Sherman remarks the inverse: like a wrestling match on television, or a sports game that entails violence, he hears the electronic aspects of Cage’s music as a “fearful bombardment” that is, no doubt due to its abstraction, still potentially “great fun.”"
     credit: ""
-    type: [ Press clipping ]
+    type: [ press clipping ]
     figure: [ id: "fig-120" ]
 -
     id: "121"
@@ -2344,7 +2338,6 @@ object_list:
     extended_caption: "This diagram shows a 1961 “postscript” version of *Pièces de chair II* (1958–60) that reworks elements of the original cycle. "
     credit: ""
     type: [ score ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-166" ]
 -
     id: "167"
@@ -2457,7 +2450,6 @@ object_list:
     extended_caption: ""
     credit: ""
     type: [ score ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-174" ]
 -
     id: "175"
@@ -3662,7 +3654,6 @@ object_list:
     extended_caption: ""
     credit: ""
     type: [ programs and flyers ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-260-a", id: "fig-260-b" ]
 -
     id: "261"
@@ -4195,7 +4186,6 @@ object_list:
     extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
     credit: "Jackson Mac Low Papers, University of California, San Diego, https://library.ucsd.edu/speccoll/findingaids/mss0180.html#aspace_ref5694_ljo"
     type: [ correspondence ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-298-a", id: "fig-298-b", id: "fig-298-c" ]
 -
     id: "299"
@@ -4812,7 +4802,6 @@ object_list:
     extended_caption: "Inspired by the concert series organized in 1960–61 by La Monte Young and Yoko Ono at Ono’s Chambers Street loft, Maciunas launched his own series at AG Gallery, a space he ran briefly with fellow Lithuanian American Almus Salcius at 925 Madison Avenue on the Upper East Side. Presented under the title “Mvsica Antiqva et Nova,” Maciunas’s programming was billed as an educational exploration of musical currents from the Renaissance to the contemporary, although sculptures, installations, and readings were included as well. Between May and July 1961 the series hosted events featuring works by John Cage, Richard Maxfield, La Monte Young, Henry Flynt, Dick Higgins, Jackson Mac Low, Toshi Ichiyanagi, Joseph Byrd, Walter De Maria, and Ray Johnson, among others."
     credit: ""
     type: [ programs and flyers ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-342-a", id: "fig-342-b" ]
 -
     id: "343"
@@ -6073,7 +6062,6 @@ object_list:
     extended_caption: "This review of Jackson Mac Low’s work by a music critic is one of a number of reviews included in this chapter that show how the poet-musician’s compositions were performed and received among an intermedial avant-garde milieu. Writers describe how Mac Low’s works combined vocalized words to create music, achieving abstract musicality and rhythm through the repetition and reconfiguration of a small selection of words and/or word fragments. Mac Low’s texts are meant to be performed live, interpreted by vocalists and musicians but also visual artists and dancers. Rather than being read from beginning to end, some are interpreted according to a rule-based yet indeterminate system that generates varying results. Mac Low did not match the figure of the solitary poet. Rather, he was an adaptable collaborator and multi-instrumentalist whose anarchist politics were matched by an anarchist aesthetics that brought individual voices and interpretations together into chaotic, irreducible, and irreconcilable ensembles."
     credit: "*New York Times*"
     type: [ press clipping ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-432" ]
 -
     id: "433"
@@ -6143,7 +6131,7 @@ object_list:
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 102.a, item R26"
     extended_caption: "In this audio recording, likely captured during a dance workshop led by Rainer, she describes an exercise in which participants are to split themselves into two groups: performers, who must remain in motion throughout the exercise, and audience, who are instructed to occupy the periphery of the space. These roles are changeable if a participant approaches someone in the opposite role and announces a desire to switch. Rainer designates herself a performer but refuses to model exact movement, instead suggesting that it is her attitude that participants might follow. She explains the dynamics of spatialization between moving bodies, inanimate objects, and audience members. She then instructs performers to move about the space and to move one another as well as objects over the course of the session, which will end when all objects and persons are returned more or less to where they were at the start. Finally, in accordance with her uninflected, task-based approach to dance, she instructs participants not to take her use of words such as “carry” and “pass” as “points of departure for free association or creative improvisation, or interpretation, but rather as directives for very specific behavior and activity.”"
     credit: "Yvonne Rainer"
-    type: [ audio recording ]
+    type: [ audio ]
     figure: [ id: "fig-437" ]
 -
     id: "438"
@@ -6494,7 +6482,6 @@ object_list:
     extended_caption: "This hostile review by dance critic Joan B. Cass contrasts with the generous, attentive takes of Jill Johnston and Deborah Jowitt also included in this chapter. Unable to perceive and appreciate the dedication, concentration, and skill required to execute Rainer’s choreography, Cass describes it as vapid, tedious non-dance, while revealing her own rigid expectation and standard of “attenuated, proudly presented bodies,” which she did not see in evidence despite the real talents of Rainer’s collaborators. Cass’s review is emblematic of a reactionary modernist response to emerging postmodern dance currents of the time."
     credit: "*Boston Herald Traveler*"
     type: [ press clipping ]
-    thumbnail: placeholder.jpg
     figure: [ id: "fig-462" ]
 -
     id: "463"
@@ -8077,7 +8064,7 @@ object_list:
     extended_caption: "The program for *Comfort Zones* makes it seems difficult film, since so much of the notations call for actions that are radically internal, such as thinking and sensing. When the program has the performers communicate their thoughts and feelings, they say only “now”—a word that expresses little and yet emphasizes the non-coincidence of the “now” of the recording and the “now” of the screening. At the same time, however, *Comfort Zones* has an intensity and visceral quality due to Kaprow’s deliberately stylized film grammar, which includes extreme close-ups and slow motion. Kaprow’s detailed shooting script can be viewed in the Archive section of this chapter, along with the activity booklet and the programs, in Spanish and English, that were used in this Madrid realization. "
     credit: ""
     type: [ score, video ]
-    figure: [ id: "fig-575-a", id: "fig-575-b" ]
+    figure: [ id: "fig-575" ]
 -
     id: "576"
     old_id: "11.19"
@@ -8119,7 +8106,7 @@ object_list:
     extended_caption: "Kaprow composed the program for *Private Parts* for a seminar on performance at the University of Wisconsin–Milwaukee in November 1976. He subsequently devised a shooting script for a video version of the activity and then produced this tape in 1977 at California State University at Long Beach. Peter Kirby shot and edited the video. An alumnus of the California Institute of the Arts, where Kaprow had been a dean and a professor (1969–74), Kirby also managed the Artists Post Production Facility at the Long Beach Museum of Art in Long Beach, California. Kaprow worked with Kirby on several additional videotapes for his activities, namely *Time Pieces* (1975), *Common Senses* (1977), and *7 Kinds of Sympathy* (1976), the last of which can also be viewed in the Playback section. The *Private Parts* activity booklet and Kaprow’s notes and sketches related to it can be viewed in the Archive section of this chapter."
     credit: "Allan Kaprow"
     type: [ score, video ]
-    figure: [ id: "fig-578-a", id: "fig-578-b" ]
+    figure: [ id: "fig-578" ]
 -
     id: "579"
     old_id: "11.22a"
@@ -8230,7 +8217,7 @@ object_list:
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 9, folder 6"
     extended_caption: "*Soap* was commissioned by Florida State University for the Eighteenth Annual Symposium at the Ringling Museum of Art, Sarasota, Florida, 1–4 February 1965. Kaprow lays out the form and meaning of the score for *Soap* in notes he may have used when introducing the happening to potential participants on 2 February."
     credit: ""
-    type: [ sketches and Materials ]
+    type: [ sketches and materials ]
     figure: [ id: "fig-586" ]
 -
     id: "587"

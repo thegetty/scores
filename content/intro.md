@@ -1,7 +1,7 @@
 ---
 title: Introduction
 layout: page
-order: 10
+order: 9
 contributor:
   - id: mgallope
   - id: nharren

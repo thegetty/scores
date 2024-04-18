@@ -37,7 +37,7 @@ window['copyLink'] = () => {
   }, 3000);
 }
 
-window['updateViewer'] = () => {
+window['updateViewer'] = (currentObjectHref) => {
   const myIFrame = document.getElementById('object-iframe');
   const myIFrameLoadIndicator = document.getElementById('iframe-loading-indicator');
   
@@ -72,7 +72,6 @@ window['updateViewer'] = () => {
   var nav = document.getElementById('iframe-nav');
   nav.innerHTML = '';
   const pageObjectLinks = document.querySelectorAll("a.object-link")
-  const currentObjectHref = event.target.getAttribute('href')
   let hrefArrayAll = []
   for (var index = 0; index < pageObjectLinks.length; ++index) {
     hrefArrayAll.push(pageObjectLinks[index].getAttribute('href'))
@@ -87,7 +86,9 @@ window['updateViewer'] = () => {
   prevButton.setAttribute('aria-label', 'Previous image')
   prevButton.setAttribute('target', 'object-iframe')
   prevButton.classList.add('iframe-control')
-  prevButton.addEventListener('click', updateViewer)
+  prevButton.addEventListener('click', () => {
+    updateViewer(hrefArrayUnique[prevObjectIndex]);
+  })
   prevButton.innerHTML = 'Prev'
 
   const nextButton = document.createElement("a");
@@ -95,7 +96,9 @@ window['updateViewer'] = () => {
   nextButton.setAttribute('aria-label', 'Next image')
   nextButton.setAttribute('target', 'object-iframe')
   nextButton.classList.add('iframe-control')
-  nextButton.addEventListener('click', updateViewer)
+  nextButton.addEventListener('click', () => {
+    updateViewer(hrefArrayUnique[nextObjectIndex]);
+  })
   nextButton.innerHTML = 'Next'
   
   nav.prepend(nextButton)
@@ -107,10 +110,11 @@ window['updateViewer'] = () => {
 }
 
 window.addEventListener('load', () => {
-  const objectLinks = document.querySelectorAll("a[target='object-iframe']:not(.button)")
-  for ( let link of objectLinks ) {
-    // var linkHref = link.getAttribute('href')
-    link.addEventListener('click', updateViewer)
+  document.querySelectorAll('a[target="object-iframe"]:not(.button)').forEach(link => {
     link.addEventListener('click', toggleViewer)
-  }
+    link.addEventListener('click', () => {
+      const currentObjectHref = link.getAttribute('href');
+      updateViewer(currentObjectHref);
+    })
+  })
 })

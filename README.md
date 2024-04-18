@@ -73,6 +73,10 @@ TK
 
 In addition to changes in `content/_assets/styles/custom.css` and `content/_assets/styles/variables.scss`, the following changes have been made to the template and style files in this project:
 
+**_includes/components/figure/audio/element.js**
+**_includes/components/lightbox/slides.js**
+Added support for HTML5 `audio` media_type
+
 **_includes/components/lightbox/ui.js**
 Use text labels instead of icons for full screen, next, and prev
 

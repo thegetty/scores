@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added support for HTML5 `audio` media_type
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -33,12 +37,12 @@ module.exports = function(eleventyConfig) {
         mediaType
       } = figure
 
-      const isAudio = mediaType === 'soundcloud'
+      const isAudio = mediaType === 'soundcloud' || mediaType == 'audio'
       const isVideo = mediaType === 'video' || mediaType === 'vimeo' || mediaType === 'youtube'
 
       const figureElement = async (figure) => {
         switch (true) {
-          case mediaType === 'soundcloud':
+          case isAudio:
             return figureAudioElement(figure)
           case mediaType === 'table':
             return `<div class="overflow-container">${await figureTableElement(figure)}</div>`

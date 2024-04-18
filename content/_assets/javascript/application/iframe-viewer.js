@@ -5,6 +5,15 @@
 window['toggleViewer'] = () => {
   var div = document.getElementById('iframe-viewer');
   div.style.display = div.style.display == "none" ? "block" : "none";
+
+  // Pause audio in iframe if it's playing
+  const target = document.getElementById('object-iframe').contentDocument
+  const mediaPlayers = target.querySelectorAll('audio')
+  for (let player of mediaPlayers) {
+    if (!player.paused) {
+      player.pause()
+    }
+  }
 }
 
 window['toggleTextSize'] = (target) => {

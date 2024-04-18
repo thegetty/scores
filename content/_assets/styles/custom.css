@@ -107,6 +107,10 @@
 .quire-nav-button svg {
   display: none;
 }
+/* Audio */
+audio {
+  width: 80%;
+}
 
 /* NAVBAR & SEARCH
 ============================================================================= */

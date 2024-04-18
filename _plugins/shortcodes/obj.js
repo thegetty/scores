@@ -45,7 +45,6 @@ module.exports = function (eleventyConfig, { page }) {
 
     for ( let fig of figureList ) {   
       if (fig.id == figId) {
-        const figFilename = fig.src.replace('figures/', '').replace('.jpg', '')
         figAlt = fig.alt ? fig.alt : ''
         // objImagePath
         if (fig.thumb) {
@@ -53,6 +52,7 @@ module.exports = function (eleventyConfig, { page }) {
         } else if (fig.annotations) {
           objImagePath = `/iiif/${figId}/base/static-inline-figure-image.jpg`
         } else if (fig.zoom) {
+          const figFilename = fig.src.replace('figures/', '').replace('.jpg', '')
           objImagePath = `/iiif/${figId}/${figFilename}/static-inline-figure-image.jpg`
         } else if (fig.media_type == 'vimeo' || 'soundcloud' || 'audio' ) {
           objImagePath = `/_assets/images/${fig.poster}`

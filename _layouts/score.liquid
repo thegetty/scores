@@ -40,103 +40,98 @@ description: A custom layout for the primary score landing pages
 </div>
 </section>
 
+{%- if score.objects -%}
 <section class="score-section score-section--score">
 <div class="score-section__header">
 <h2>The Score</h2>
-{{ if score.contributor }}
+{%- if score.contributor -%}
   {% capture scoreContributor %}
-  [{%- for person in score.contributor -%}
+  {%- for person in score.contributor -%}
     {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
-  {%- endfor -%}]
+  {%- endfor -%}
   {%- endcapture -%}
 {% contributors context=scoreContributor format='name-title-block' align='left' %}
-{{ endif }}
+{%- endif -%}
 </div>
 <div class="score-section__objects">
-{{ if score.objects }}
-{%- for thisObj in score.objects -%}
-  {%- assign figId = thisObj.id | prepend: "fig-" | append: "-a" -%}
-  <a href="/image-index/{{ thisObj.id }}/" target="object-iframe" class="object-link"><span class="object-label">{{ figId }}</span></a>
-  {% obj thisObj.id %}
-
-{%- endfor -%}
-{{ endif }}
+  {%- for thisObj in score.objects -%}
+    <a href="/image-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+    {%- obj thisObj.id -%}
+    </a>
+  {%- endfor -%}
 </div>
 <div class="score-section__link score-section__link--expander">
 <a href="#">Expand ...</a>
 </div>
 </section>
+{%- endif -%}
 
+{%- if playback.objects -%}
 <section class="score-section score-section--playback">
 <div class="score-section__header">
 <h2>Playback</h2>
-{{ if playback.contributor }}
+{%- if playback.contributor -%}
   {% capture playbackContributor %}
   [{%- for person in playback.contributor -%}
     {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
   {%- endfor -%}]
   {%- endcapture -%}
 {% contributors context=playbackContributor format='name-title-block' align='left' %}
-{{ endif }}
+{%- endif -%}
 </div>
 <div class="score-section__objects">
-{{ if playback.objects }}
-{%- for thisObj in playback.objects -%}
-  {%- for obj in objects.object_list -%}
-    {%- if obj.id == thisObj.id -%}
-      {%- assign figId = obj.figure[0].id -%}
-      {% figure figId %}
-    {%- endif -%}
+  {%- for thisObj in playback.objects -%}
+    <a href="/image-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+    {%- obj thisObj.id -%}
+    </a>
   {%- endfor -%}
-{%- endfor -%}
-{{ endif }}
 </div>
 <div class="score-section__link score-section__link--expander">
 <a href="#">Expand ...</a>
 </div>
 </section>
+{%- endif -%}
 
+{%- if archive.groups -%}
 <section class="score-section score-section--archive">
 <div class="score-section__header">
 <h2>Archive</h2>
-{{- if archive.contributor -}}
+{%- if archive.contributor -%}
   {%- capture archiveContributor -%}
     [{%- for person in archive.contributor -%}
     {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif -%}
     {%- endfor -%}]
   {%- endcapture -%}
   {%- contributors context=archiveContributor format='name-title' -%}
-{{- endif -}}
+{%- endif -%}
 </div>
 <div class="score-section__groups">
-{{- if archive.groups -}}
   {%- for group in archive.groups -%}
   {%- capture groupHeading -%}
   ### {{ group.heading }} ({{ group.objects.size }} item{% if group.objects.size > 1 %}s{% endif %})
   {%- endcapture -%}
   {%- accordion groupHeading -%}
     <div class="score-section__objects">
-    {%- for thisObj in group.objects -%}
-      {%- for obj in objects.object_list -%}
-        {%- if obj.id == thisObj.id -%}
-          {%- assign figId = obj.figure[0].id -%}
-          {% figure figId %}
-        {%- endif -%}
+      {%- for thisObj in group.objects -%}
+        <a href="/image-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+        {%- obj thisObj.id -%}
+        </a>
       {%- endfor -%}
-    {%- endfor -%}
     </div>
   {%- endaccordion -%}
   {%- endfor -%}
-{{- endif -}}
+  <div class="score-section__link score-section__link--expander">
+  {% accordionGlobalControls %}
+  </div>
 </div>
 </section>
+{%- endif -%}
 
 <div class="iframe_viewer" id="iframe-viewer" style="display:none;">
   <div class="iframe_viewer__nav-buttons" id="iframe-nav"></div>
   <div class="iframe_viewer__controls">
-    <a class="iframe-control--close" aria-label="Close" onclick="toggleViewer()">{% icon type='close', description='Close image viewer' %}</a>
-    <a class="iframe-control--share" id="iframe-share" aria-label="Copy link" onclick="copyLink()" data-baseurl="{{ publication.url }}">{% icon type='link', description='Copy link' %}</a>
-    <a class="iframe-control--toggle-size" id="iframe-toggle-size" style="display:none;" aria-label="Change text size" onclick="toggleTextSize('iframe')">{% icon type='text-size', description='Toggle text size' %}</a>
+    <a class="iframe-control--share" id="iframe-share" aria-label="Copy link" onclick="copyLink()" data-baseurl="{{ publication.url }}">Link</a>
+    <a class="iframe-control--close" aria-label="Close" onclick="toggleViewer()">Close</a>
     <span id="iframe-control-tooltip" style="display:none;"></span>
   </div>
   <iframe class="iframe_viewer__iframe" id="object-iframe" name="object-iframe" style="display:none;"></iframe>

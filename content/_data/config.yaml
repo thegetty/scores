@@ -5,8 +5,8 @@ accordion:
     successText: Copied page section link to clipboard
     symbol: §
   globalControls:
-    collapseText: Collapse All
-    expandText: Expand All
+    collapseText: Collapse all ...
+    expandText: Expand all ...
 
 analytics:
   googleId: ''

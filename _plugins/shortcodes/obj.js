@@ -16,6 +16,7 @@ const logger = chalkFactory('shortcodes:figureGroup')
  */
 module.exports = function (eleventyConfig, { page }) {
   const icon = eleventyConfig.getFilter('icon')
+  const markdownify = eleventyConfig.getFilter('markdownify')
   const { figure_list: figureList } = eleventyConfig.globalData.figures
   const { object_list: objectList } = eleventyConfig.globalData.objects
   
@@ -27,36 +28,45 @@ module.exports = function (eleventyConfig, { page }) {
     // }
 
     let figId = ''
+    let figAlt = ''
+    let objTitle = ''
     let objImagePath = ''
+    let objImageLengthString = ''
 
     for ( let obj of objectList ) {
       if (obj.id == objId) {
         figId = obj.figures[0].id
+        objTitle = obj.title
+        objImageLengthString = obj.figures.length > 1 
+          ? ` (${obj.figures.length} items)`
+          : ''
       }
     }
 
-    for ( let fig of figureList ) {
-    
+    for ( let fig of figureList ) {   
       if (fig.id == figId) {
         const figFilename = fig.src.replace('figures/', '').replace('.jpg', '')
-
+        figAlt = fig.alt ? fig.alt : ''
         // objImagePath
         if (fig.thumb) {
           objImagePath = `/_assets/images/${fig.thumb}`
         } else if (fig.annotations) {
-          objImagePath = `/iiif/${figId}/base/thumbnail.jpg`
+          objImagePath = `/iiif/${figId}/base/static-inline-figure-image.jpg`
         } else if (fig.zoom) {
-          objImagePath = `/iiif/${figId}/${figFilename}/thumbnail.jpg`
-        } else if (fig.media_type == 'vimeo' || 'youtube') {
+          objImagePath = `/iiif/${figId}/${figFilename}/static-inline-figure-image.jpg`
+        } else if (fig.media_type == 'vimeo' || 'soundcloud' || 'audio' ) {
           objImagePath = `/_assets/images/${fig.poster}`
         } 
       }
     }
 
     return html`
-      <div class="object">
-        <img src="${objImagePath}" alt="" />
-      </div>
+      <figure class="object-link__image">
+        <div class="object-link__image__wrapper">
+        <img src="${objImagePath}" alt="${figAlt}" />
+        </div>
+        <figcaption>${markdownify(objTitle)}${objImageLengthString}</figcaption>
+      </figure>
     `
 }
 }

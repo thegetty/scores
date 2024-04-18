@@ -38,7 +38,6 @@ window['copyLink'] = () => {
 }
 
 window['updateViewer'] = () => {
-  const textSizeButton = document.getElementById('iframe-toggle-size');
   const myIFrame = document.getElementById('object-iframe');
   const myIFrameLoadIndicator = document.getElementById('iframe-loading-indicator');
   
@@ -50,12 +49,6 @@ window['updateViewer'] = () => {
     // Add class for style overrides
     const pageBody = this.contentDocument.body
     pageBody.classList.add('iframe-version')
-
-    // Display textSizeButton if it's a table
-    const iframeMains = this.contentDocument.getElementsByTagName('main');
-    textSizeButton.style.display = iframeMains[0].classList.contains('tables-page') 
-      ? "flex"
-      : "none"
 
     // Add target=_blank to links displayed in iframe
     if (this.contentDocument.URL.includes('visual-atlas')) {
@@ -95,6 +88,7 @@ window['updateViewer'] = () => {
   prevButton.setAttribute('target', 'object-iframe')
   prevButton.classList.add('iframe-control')
   prevButton.addEventListener('click', updateViewer)
+  prevButton.innerHTML = 'Prev'
 
   const nextButton = document.createElement("a");
   nextButton.href = hrefArrayUnique[nextObjectIndex]
@@ -102,6 +96,7 @@ window['updateViewer'] = () => {
   nextButton.setAttribute('target', 'object-iframe')
   nextButton.classList.add('iframe-control')
   nextButton.addEventListener('click', updateViewer)
+  nextButton.innerHTML = 'Next'
   
   nav.prepend(nextButton)
   nav.prepend(prevButton)  
@@ -109,23 +104,13 @@ window['updateViewer'] = () => {
   // Add href path to share button for copying
   const shareButton = document.getElementById('iframe-share')
   shareButton.setAttribute('data-href', currentObjectHref)
-
-  // TEMP -- Log images on the page
-  const pageTitleElement = document.getElementsByClassName('quire-page__header__title')
-  const pageTitle = pageTitleElement[0].textContent
-  let pageObjects = []
-  for (let obj of pageObjectLinks) {
-    const href = obj.getAttribute('href')
-    const objectInfo = href.concat(",", pageTitle.trim())
-    pageObjects.push(objectInfo)
-  }
-  console.log(pageObjects)
 }
 
 window.addEventListener('load', () => {
   const objectLinks = document.querySelectorAll("a[target='object-iframe']:not(.button)")
-  for (var index = 0; index <= objectLinks.length; ++index) {
-    objectLinks[index].addEventListener('click', updateViewer)
-    objectLinks[index].addEventListener('click', toggleViewer)
+  for ( let link of objectLinks ) {
+    // var linkHref = link.getAttribute('href')
+    link.addEventListener('click', updateViewer)
+    link.addEventListener('click', toggleViewer)
   }
 })

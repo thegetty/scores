@@ -10,7 +10,7 @@ module.exports = function() {
 
     const homePageLink = html`<a href="/">The Scores Project</a>`
     const contentsLink = html`<a href="#contents">Contents</a>`
-    const imageIndexLink = html`<a href="/images/">Image Index</a>`
+    const imageIndexLink = html`<a href="/image-index/">Image Index</a>`
     const searchLink = html`<a onclick="toggleSearch()">Search</a>`
 
     return html`

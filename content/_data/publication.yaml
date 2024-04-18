@@ -74,6 +74,35 @@ contributor:
     title: ""
     affiliation: ""
     bio: ""
+  - id: gelewis
+    type: secondary
+    first_name: George E.
+    last_name: Lewis
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: bpiekut
+    type: secondary
+    first_name: Benjamin
+    last_name: Piekut
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: jbryanwilson
+    type: secondary
+    first_name: Julia
+    last_name: Bryan-Wilson
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: ercapper
+    type: secondary
+    first_name: Emily Ruth
+    last_name: Capper
+    title: ""
+    affiliation: ""
+    bio: ""
+
 
 # ------------------------------------------------------------------------------
 # Copright & License

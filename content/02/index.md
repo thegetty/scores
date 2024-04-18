@@ -4,7 +4,6 @@ subtitle: Concert for Piano and Orchestra (1968)
 order: 20
 outputs: 
   - html
-# layout: page
 layout: score
 commentary:
   contributor:

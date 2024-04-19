@@ -2,6 +2,7 @@
 // CUSTOMIZED FILE
 // Added `layout` as a top-level class in order to custom style nav bar on certain layouts
 // Added google analytics 4 snippet
+// Changed position of menu to appear as page footer
 //
 const path = require('path')
 const { html } = require('~lib/common-tags')
@@ -31,20 +32,12 @@ module.exports = async function(data) {
         ${this.icons(data)}
         ${this.iconscc(data)}
         <div class="quire no-js ${layout}" id="container">
-          <div
-            aria-expanded="false"
-            class="quire__secondary"
-            id="site-menu"
-            role="contentinfo"
-            data-outputs-exclude="epub,pdf"
-          >
-            ${this.menu({ collections, pageData })}
-          </div>
           <div class="quire__primary">
             ${this.navigation(data)}
             <main class="quire-page ${classes}" data-output-path="${outputPath}" data-page-id="${pageId}" >
               ${content}
             </main>
+            ${this.menu({ collections, pageData })}
           </div>
           ${this.search(data)}
         </div>

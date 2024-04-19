@@ -84,6 +84,11 @@ Added support for HTML5 `audio` media_type
 **_includes/components/lightbox/ui.js**
 Use text labels instead of icons for full screen, next, and prev
 
+**_includes/components/menu/index.js**
+**_includes/components/menu/item.js**
+**_includes/components/menu/resources.js**
+Restructured menu to appear as page footer
+
 **_includes/components/navigation.js**
 Changed to just four links, consistent across all pages
 

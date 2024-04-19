@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Used sentence case on "Other formats" heading
+//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -30,7 +34,7 @@ module.exports = function(eleventyConfig) {
     const otherFormatElement = otherFormats.length
       ? html`
         <div class="quire-menu__formats">
-          <h6>Other Formats</h6>
+          <h6>Other formats</h6>
           <div role="complementary" aria-label="downloads">
             ${linkList({ links: otherFormats, classes: ['menu-list'] })}
           </div>

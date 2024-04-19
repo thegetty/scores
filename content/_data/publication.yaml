@@ -108,13 +108,13 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2025 J. Paul Getty Trust
+copyright: © 2025 Getty Research Institute
 
 license:
   name: Creative Commons Attribution-NonCommercial 4.0 International License
   abbreviation: CC BY-NC
   url: https://creativecommons.org/licenses/by-nc/4.0/
-  scope: full # full | text-only | some-exceptions
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -129,6 +129,11 @@ resource_link:
   - type: other-format
     name: EPUB
     media_type: application/epub+zip
+    link_relation: alternate
+    url: #
+  - type: other-format
+    name: Paperback
+    media_type: print
     link_relation: alternate
     url: #
   - type: footer-link

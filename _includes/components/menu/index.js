@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Restructured menu to appear as page footer
+//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -19,7 +23,13 @@ module.exports = function(eleventyConfig) {
   const menuList = eleventyConfig.getFilter('menuList')
   const menuResources = eleventyConfig.getFilter('menuResources')
 
-  const { resource_link: resourceLinks } = eleventyConfig.globalData.publication
+  const { 
+    contributor_as_it_appears,
+    publisher,
+    title,
+    subtitle,
+    resource_link: resourceLinks 
+  } = eleventyConfig.globalData.publication
 
   return function(params) {
     const { collections, pageData } = params
@@ -33,40 +43,57 @@ module.exports = function(eleventyConfig) {
         class="quire-menu menu"
         role="banner"
         id="site-menu__inner"
-      >
-        ${menuHeader({ currentURL: pageData.url })}
+      > 
+        <h5 class="scores-menu__title">${title}</h5>
+
+        <h5 class="scores-menu__subtitle">${subtitle}</h5>
+        
         <nav id="nav" class="quire-menu__list menu-list" role="navigation" aria-label="full">
-          <h3 class="visually-hidden">Table of Contents</h3>
-          ${menuList({ currentURL: pageData.url, navigation: eleventyNavigation(collections.menu) })}
+          <h6 class="visually-hidden">Table of Contents</h6>
+          ${menuList({ currentURL: pageData.url, navigation: eleventyNavigation(collections.menu) })} 
         </nav>
 
-        ${menuResources()}
+        <p class="scores-menu__editors">${contributor_as_it_appears}<p>
 
-        <div class="quire-menu__formats">
-          <h6>Cite this Page</h6>
-          <div class="cite-this">
-            <span class="cite-this__heading">
-              Chicago
-            </span>
-            <span class="cite-this__text">
-            ${citation({ context: 'page', page: pageData, type: 'chicago' })}
-            </span>
+        <p class="scores-menu__publisher">Published by the ${publisher[0].name}</p>
+
+        <div class="scores-footer">
+
+          <div class="scores-footer__citation">
+            <h6>Cite this page</h6>
+            <div class="cite-this">
+              <span class="cite-this__heading">
+                Chicago
+              </span>
+              <span class="cite-this__text">
+              ${citation({ context: 'page', page: pageData, type: 'chicago' })}
+              </span>
+            </div>
+            <div class="cite-this">
+              <span class="cite-this__heading">
+                MLA
+              </span>
+              <span class="cite-this__text">
+                ${citation({ context: 'page', page: pageData, type: 'mla' })}
+              </span>
+            </div>
           </div>
 
-          <div class="cite-this">
-            <span class="cite-this__heading">
-              MLA
-            </span>
-            <span class="cite-this__text">
-              ${citation({ context: 'page', page: pageData, type: 'mla' })}
-            </span>
+          <div class="scores-footer__other-formats">
+            ${menuResources()}
           </div>
-        </div>
 
-        <footer class="quire-menu__footer" role="contentinfo">
-          ${copyright()}
-          ${linkList({ links: footerLinks, classes: ['menu-list']}) }
-        </footer>
+          <div class="scores-footer__copyright">
+          <h6>Copyright</h6>
+            ${copyright()}
+          </div>
+
+          <div class="scores-footer__links">
+            ${linkList({ links: footerLinks, classes: ['menu-list']}) }
+          </div>
+
+        </div> 
+        
       </div>
     `
   }

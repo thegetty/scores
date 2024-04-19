@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Added `layout` as a top-level class in order to custom style nav bar on certain layouts
+// Added google analytics 4 snippet
 //
 const path = require('path')
 const { html } = require('~lib/common-tags')
@@ -12,17 +13,21 @@ const { html } = require('~lib/common-tags')
  * @return     {Function}  Template render function
  */
 module.exports = async function(data) {
-  const { classes, collections, content, layout, pageData, publication } = data
+  const { classes, collections, config, content, layout, pageData, publication } = data
   const { inputPath, outputPath, url } = pageData || {}
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
+  const { googleId } = config.analytics
   const figures = pageData.page.figures
+
+  const analyticsSnippet = googleId ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''
 
   return html`
     <!doctype html>
     <html lang="${publication.language}">
       ${this.head(data)}
       <body>
+        ${analyticsSnippet}
         ${this.icons(data)}
         ${this.iconscc(data)}
         <div class="quire no-js ${layout}" id="container">

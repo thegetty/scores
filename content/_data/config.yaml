@@ -9,7 +9,7 @@ accordion:
     expandText: Expand all ...
 
 analytics:
-  googleId: ''
+  googleId: 'GTM-NRDC63K'
 
 bylineFormat: name-title # name | name-title | false
 

@@ -4010,7 +4010,7 @@ figure_list:
     zoom: 
     poster: audio-poster.jpg
     media_type: audio
-    media_id: figures/audio/sample.mp3 
+    media_id: figures/audio/sample.mp3
     label: ""
     alt: ""
 -
@@ -4264,7 +4264,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Two-page spread in white paper program with black printed text in English. Both pages feature the program for the performance, including performers, choreographers, composers, and accompanists, with each performance group''s information separated by a blank line. Program information covers the length of both pages. Top of left page lists time of performance in large bold font: “Thursday, August 14th, 1958, 8:30p.m.” Two staples at center between pages."'
+    alt: "Two-page spread in white paper program with black printed text in English. Both pages feature the program for the performance, including performers, choreographers, composers, and accompanists, with each performance group’s information separated by a blank line. Program information covers the length of both pages. Top of left page lists time of performance in large bold font: “Thursday, August 14th, 1958, 8:30p.m.” Two staples at center between pages."
 -
     id: "fig-089-e"
     src: figures/r2015159_980039_b71_f8_022.jpg
@@ -4273,7 +4273,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Two-page spread in white paper program with black printed text in English. Left page features the program for the performance, including performers, choreographers, composers, and accompanists, with each performance group''s information separated by a blank line. Right page features an ad for the 1958–59 season on the top half of the page and an ad for the college bookstore on the bottom half. "'
+    alt: "Two-page spread in white paper program with black printed text in English. Left page features the program for the performance, including performers, choreographers, composers, and accompanists, with each performance group’s information separated by a blank line. Right page features an ad for the 1958–59 season on the top half of the page and an ad for the college bookstore on the bottom half. "
 -
     id: "fig-089-f"
     src: figures/r2015159_980039_b71_f8_023.jpg
@@ -7216,7 +7216,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Blue front cover of bound book. “Composer''s Notebook” at top left in blue with short section of staff printed below."'
+    alt: "Blue front cover of bound book. “Composer’s Notebook” at top left in blue with short section of staff printed below."
 -
     id: "fig-158-b"
     src: figures/gri_980039_b174_f02_036_mm.jpg
@@ -8395,7 +8395,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Recto of white postcard with recipient David Tudor''s address at center in blue handwritten text, and sender Sylvano Bussotti''s address at top right in darker blue. Black ink stamps at top and right center. Prepaid purple print stamp at top right. "'
+    alt: "Recto of white postcard with recipient David Tudor’s address at center in blue handwritten text, and sender Sylvano Bussotti’s address at top right in darker blue. Black ink stamps at top and right center. Prepaid purple print stamp at top right. "
 -
     id: "fig-176-b"
     src: figures/r2015361_980039_b51_f8_002.jpg
@@ -8413,7 +8413,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Handwritten French language correspondence in black ink on Statler Holton letterhead. Addressed to David Tudor at left below heading, followed by two paragraphs of text. “New York 4.25'' 65” at top right below header. Bottom contains advertisement for hotel amenities. "'
+    alt: "Handwritten French language correspondence in black ink on Statler Holton letterhead. Addressed to David Tudor at left below heading, followed by two paragraphs of text. “New York 4.25’ 65” at top right below header. Bottom contains advertisement for hotel amenities. "
 -
     id: "fig-178"
     src: figures/r2015361_980039_b51_f8_005.jpg
@@ -8422,7 +8422,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"White page with black typewritten correspondence in English. Bussotti''s return address at top left, date below at right, followed by one paragraph of text running to just above the bottom quarter of the page. Signed “Sylvano” at bottom right. Small pencil corrections throughout paragraph."'
+    alt: "White page with black typewritten correspondence in English. Bussotti’s return address at top left, date below at right, followed by one paragraph of text running to just above the bottom quarter of the page. Signed “Sylvano” at bottom right. Small pencil corrections throughout paragraph."
 -
     id: "fig-179"
     src: figures/r2015361_980039_b51_f8_009.jpg
@@ -8449,7 +8449,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"White page with black typewritten correspondence in English. Bussotti''s return address at top left, date below at right, followed by five paragraphs of text that run the length of the page."'
+    alt: "White page with black typewritten correspondence in English. Bussotti’s return address at top left, date below at right, followed by five paragraphs of text that run the length of the page."
 -
     id: "fig-181-b"
     src: figures/r2015361_980039_b51_f8_008.jpg
@@ -8566,7 +8566,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Magazine page with blue background featuring “Harper''s magazine” in large white printed text at top followed by six-point list of article titles and by lines that run the length of the page."'
+    alt: "Magazine page with blue background featuring “Harper’s magazine” in large white printed text at top followed by six-point list of article titles and by lines that run the length of the page."
 -
     id: "fig-192-b"
     src: figures/r2015128_980039_b63_f1_011.jpg
@@ -10412,15 +10412,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Color video showing man wearing all black sitting outdoors at a table with electronic sound equipment on it. He wraps lengths of butcher paper around his head so that eventually he cannot see, while around his neck drapes a contact microphone that amplifies the sounds in a grating manner. Once his head is completely wrapped, he sits in near silence."
--
-    id: "fig-245"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
 -
     id: "fig-246"
     src: placeholder.jpg
@@ -13372,7 +13363,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Press release for *FLUXUS: Classic ''60''s Performances plus the premier of Alison Knowles’ “Natural Assemblages and the True Crow”* at The Kitchen, New York, NY"'
+    alt: "Press release for *FLUXUS: Classic ’60’s Performances plus the premier of Alison Knowles’ “Natural Assemblages and the True Crow”* at The Kitchen, New York, NY"
 -
     id: "fig-377-b"
     src: figures/r2012285_980039_b5_f23_001.jpg
@@ -15055,7 +15046,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Press clipping with two short columns of text in English titled “Miss Rainer Offers ''Mind is a Muscle''” at top of first column."'
+    alt: "Press clipping with two short columns of text in English titled “Miss Rainer Offers ’Mind is a Muscle’” at top of first column."
 -
     id: "fig-458"
     src: figures/r2015842_2006_m_24_b22_f4_003.jpg
@@ -15064,7 +15055,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Press clipping with five columns of text comprising one quarter of a broadsheet, titled “Rainer''s ''Mind is a Muscle''” at top of the first column."'
+    alt: "Press clipping with five columns of text comprising one quarter of a broadsheet, titled “Rainer’s ’Mind is a Muscle’” at top of the first column."
 -
     id: "fig-459"
     src: figures/r2015842_2006_m_24_b22_f4_004.jpg
@@ -17674,7 +17665,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Grey, white-flecked page with black typewritten text in English. Top center reads “SPATIAL POEM No.2” followed by five lines including the question “Around the time listed below what kind of direction are you moving or facing toward?” Page dominated by 26 lines listing specific dates, times, and locations. Shiomi''s return address is listed at bottom right with further instruction “Please print, or use typewriter.” "'
+    alt: "Grey, white-flecked page with black typewritten text in English. Top center reads “SPATIAL POEM No.2” followed by five lines including the question “Around the time listed below what kind of direction are you moving or facing toward?” Page dominated by 26 lines listing specific dates, times, and locations. Shiomi’s return address is listed at bottom right with further instruction “Please print, or use typewriter.” "
 -
     id: "fig-520"
     src: figures/r2014747_890164_b47_f3_008.jpg
@@ -17683,7 +17674,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Square-shaped light blue cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.5 open event” followed by four lines of text instructions, three bulleted points on documentation of a performance, and Shiomi''s return address. Utilizes large margins. "'
+    alt: "Square-shaped light blue cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.5 open event” followed by four lines of text instructions, three bulleted points on documentation of a performance, and Shiomi’s return address. Utilizes large margins. "
 -
     id: "fig-521"
     src: figures/r2014747_890164_b47_f3_009.jpg
@@ -17692,7 +17683,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Square-shaped bright orange cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.6 orbit event” followed by five lines of text instructions, three bulleted points on documentation of a performance, and Shiomi''s return address. Utilizes large margins."'
+    alt: "Square-shaped bright orange cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.6 orbit event” followed by five lines of text instructions, three bulleted points on documentation of a performance, and Shiomi’s return address. Utilizes large margins."
 -
     id: "fig-522"
     src: figures/r2014747_890164_b47_f3_010.jpg
@@ -17701,7 +17692,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Square-shaped bright orange cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.8 wind event” followed by five lines of text instructions, three bulleted points on documentation of a performance, and Shiomi''s return address. Utilizes large margins."'
+    alt: "Square-shaped bright orange cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.8 wind event” followed by five lines of text instructions, three bulleted points on documentation of a performance, and Shiomi’s return address. Utilizes large margins."
 -
     id: "fig-523"
     src: figures/r2014747_890164_b47_f3_011.jpg
@@ -17719,7 +17710,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Square-shaped light yellow cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.9 disappearing event” followed by six lines of text instructions, three bulleted points on documentation of a performance, and Shiomi''s return address. Utilizes large margins."'
+    alt: "Square-shaped light yellow cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.9 disappearing event” followed by six lines of text instructions, three bulleted points on documentation of a performance, and Shiomi’s return address. Utilizes large margins."
 -
     id: "fig-525"
     src: figures/grl_890164-b225.jpg
@@ -18493,7 +18484,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Black and white pages excerpted from magazine. At top left is a profile photo of a woman and, at right, the name “Mieko Shiomi” in large text, followed by two columns of text that continue to the bottom of the page. Text interspersed with printed examples of Shiomi''s scores."'
+    alt: "Black and white pages excerpted from magazine. At top left is a profile photo of a woman and, at right, the name “Mieko Shiomi” in large text, followed by two columns of text that continue to the bottom of the page. Text interspersed with printed examples of Shiomi’s scores."
 -
     id: "fig-531-b"
     src: figures/gri_sc_87_s1567_002.jpg
@@ -18502,7 +18493,7 @@ figure_list:
     media_type: 
     media_id: 
     label: ""
-    alt: '"Black and white pages excerpted from magazine. Two columns, the left featuring black and white documentary photographs of Shiomi''s performances, and the right featuring the score performed in the photograph. From top to bottom, Water Music, Disappearing Music for Face, and Air Event. "'
+    alt: "Black and white pages excerpted from magazine. Two columns, the left featuring black and white documentary photographs of Shiomi’s performances, and the right featuring the score performed in the photograph. From top to bottom, Water Music, Disappearing Music for Face, and Air Event. "
 -
     id: "fig-531-c"
     src: figures/gri_sc_87_s1567_003.jpg

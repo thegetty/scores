@@ -12,30 +12,68 @@ commentary:
   blurb: "Double bassist, composer, and founding Fluxus member Benjamin Patterson wrote *Paper Piece* in 1960 as part of a holiday letter written from Cologne, Germany to his parents in Pittsburgh. It is a work of experimental notation that nearly any group of people can play; one need only assemble sheets and bags of paper and follow the instructions to shake, break, tear, crumple, rumple, bumple, rub, scrub, twist, poof, and pop! Democratic in spirit and undeniably fun, *Paper Piece* would go on to become one of the most loved and performed Fluxus event scores from the 1960s and ‘70s."
 score:
   objects:
-    - id: ""
+    - id: "197"
+    - id: "198"
+    - id: "199"
+    - id: "200"
+    - id: "201"
+    - id: "202"
 playback:
   objects:
-    - id: ""
+    - id: "203"
+    - id: "204"
+    - id: "205"
+    - id: "206"
+    - id: "207"
+    - id: "208"
+    - id: "209"
 archive: 
   contributor:
     - id: mgallope
   groups:
     - heading: "Programs and flyers"
       objects:
-        - id: ""
+        - id: "211"
+        - id: "223"
+        - id: "229"
+        - id: "236"
     - heading: "Photographs"
       objects:
-        - id: ""
+        - id: "231"
+        - id: "232"
+        - id: "233"
+        - id: "234"
+        - id: "237"
     - heading: "Press clippings"
       objects:
-        - id: ""
+        - id: "230"
     - heading: "Archival materials"
       objects:
-        - id: ""
+        - id: "218"
+        - id: "219"
+        - id: "235"
     - heading: "Correspondence"
       objects:
-        - id: ""
-    - heading: "Sketches and materials"
+        - id: "221"
+        - id: "222"
+        - id: "224"
+        - id: "225"
+    - heading: "Scores"
       objects:
-        - id: ""
+        - id: "210"
+        - id: "212"
+        - id: "213"
+        - id: "214"
+        - id: "215"
+        - id: "216"
+        - id: "217"
+        - id: "226"
+        - id: "227"
+        - id: "228"
+    # - heading: "Sketches and materials"
+    #   objects:
+    #     - id: ""
+    - heading: "Manuscript"
+      objects:
+        - id: "220"
 ---

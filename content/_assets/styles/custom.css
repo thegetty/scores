@@ -34,6 +34,9 @@
 
 :root {
   --thumbnail-height: 40px;
+
+  --small-font-size: .8rem;
+  --small-font-line-height: 1.2;
 }
 @media screen and (min-width: 700px) {
   :root {
@@ -212,8 +215,9 @@ audio {
 .scores-footer * {
   all: initial;
   font-family: 'u001', sans-serif;
-  font-size: .8rem;
+  font-size: var(--small-font-size);
   font-weight: 400;
+  line-height: var(--small-font-line-height);
 }
 .scores-footer h6 {
   display: block;
@@ -338,8 +342,9 @@ audio {
 }
 .score-section.score-section--archive .score-section__objects .object-link__image figcaption {
   color: white;
-  font-size: .8rem;
-  line-height: 1.2;
+  font-size: var(--small-font-size);
+  line-height: var(--small-font-line-height);
+  margin-top: 0;
   padding: 0;
 }
 .accordion-section__controls--plus-minus::after {
@@ -541,7 +546,8 @@ audio {
   padding-top: 0;
 }
 .object-credit {
-  font-size: .75rem;
+  font-size: var(--small-font-size);
+  line-height: var(--small-font-line-height);
 }
 .score-object .quire-page__content .container .content a, 
 .score-object .quire-page__content .container .content a:hover {
@@ -612,8 +618,8 @@ audio {
 .quire-entry__thumbnails .thumbnail figcaption {
   text-align: center;
   color: white;
-  line-height: 1.3;
-  font-size: .75rem;
+  line-height: var(--small-font-line-height);
+  font-size: var(--small-font-size);
 }
 
 /*  iFRAME VIEWER

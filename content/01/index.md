@@ -5,9 +5,10 @@ order: 10
 outputs: 
   - html
 layout: score
+contributor:
+  - id: mgallope
+    section: commentary
 commentary:
-  contributor:
-    - id: mgallope
   link: "/01/commentary/"
   blurb: "The pointillism of Morton Feldman’s *Intersection 3* is an early example of experimental musical notation. One of many pieces in the 1950s that Feldman wrote on graph paper, the work features a metronomic tempo, while inviting its performer, pianist David Tudor, to decide what pitches to play, prescribing only the number of notes and the general pitch range. The sounds that resulted evoked associations of combat and even brutality among critics, an aesthetic that Feldman himself described as “violently boiling water in some monstrous kettle.”"
 score:

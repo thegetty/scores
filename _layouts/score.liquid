@@ -11,7 +11,6 @@ description: A custom layout for the primary score landing pages
   byline_format=byline_format,
   image=image,
   label=label,
-  pageContributors=pageContributors,
   subtitle=subtitle,
   title=title
 %}
@@ -23,14 +22,13 @@ description: A custom layout for the primary score landing pages
 <section class="score-section score-section--commentary">
 <div class="score-section__header">
 <h2>Commentary</h2>
-{{ if commentary.contributor }}
-  {% capture commentaryContributor %}
-  [{%- for person in commentary.contributor -%}
-    {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
-  {%- endfor -%}]
-  {%- endcapture -%}
-{% contributors context=commentaryContributor format='name-title' %}
-{{ endif }}
+{% capture contributorContext %}
+{% assign commentaryContributor = contributor | where: "section", "commentary" %}
+[{%- for person in commentaryContributor -%}
+  {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
+{%- endfor -%}]
+{%- endcapture -%}
+{% contributors context=contributorContext format='name-title' %}
 </div>
 <div class="score-section__blurb">
 {{ commentary.blurb | markdownify }}

@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Parse contributor info passed in as JSON string, for score.liquid layout, lines 52–57
+// refactored logic to handle oxford commas correctly, lines 122–29
 //
 const chalkFactory = require('~lib/chalk')
 const { html } = require('~lib/common-tags')
@@ -118,10 +119,14 @@ module.exports = function (eleventyConfig) {
       }
       case 'string': {
         const last = contributorNames.pop()
-        const namesString =
-          contributorNames.length >= 1
-            ? contributorNames.join(', ') + ', and ' + last
-            : last
+        let namesString = ''
+        if (contributorNames.length > 1) {
+          namesString = contributorNames.join(', ') + ', and ' + last
+        } else if (contributorNames.length == 1 ){
+          namesString = contributorNames + ' and ' + last
+        } else {
+          namesString = last
+        }
         contributorsElement = `<span class='quire-contributor'>${namesString}</span>`
         break
       }

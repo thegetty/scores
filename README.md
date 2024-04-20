@@ -104,6 +104,9 @@ Used "..." instead of "All" in select boxes
 **_layouts/base.11ty.js**
 Added `layout` as a top-level class in order to custom style nav bar on certain layouts
 
+**_layouts/essay.liquid**
+Added markup for iframe viewer
+
 **_layouts/score.liquid**
 A custom layout for the primary score landing pages
 
@@ -112,6 +115,11 @@ A custom layout based on `quire-entry` that adds figure thumbnails for lightbox 
 
 **_plugins/shortcodes/contributors.js**
 Parse contributor info passed in as JSON string, for `score.liquid` layout
+
+**_plugins/shortcodes/obj.js**
+**_plugins/shortcodes/objFigure.js**
+**_plugins/shortcodes/index.js**
+Add custom shortcodes for displaying figures/objects
 
 **content/_assets/fonts/index.scss**
 **content/_assets/fonts/u001**

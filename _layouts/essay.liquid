@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Added markup for iframe viewer
+##
 classes:
   - quire-essay
 layout: base.11ty.js
@@ -22,6 +25,16 @@ description: Essay layout. This layout describes a single-page template that has
     <div class="content">
       {{ content }}
       {% bibliography citations %}
+      <div class="iframe_viewer" id="iframe-viewer" style="display:none;">
+        <div class="iframe_viewer__nav-buttons" id="iframe-nav"></div>
+        <div class="iframe_viewer__controls">
+          <a class="iframe-control--share" id="iframe-share" aria-label="Copy link" onclick="copyLink()" data-baseurl="{{ publication.url }}">Link</a>
+          <a class="iframe-control--close" aria-label="Close" onclick="toggleViewer()">Close</a>
+          <span id="iframe-control-tooltip" style="display:none;"></span>
+        </div>
+        <iframe class="iframe_viewer__iframe" id="object-iframe" name="object-iframe" style="display:none;"></iframe>
+        <span id="iframe-loading-indicator" style="display:block;">Loading ...</span>
+      </div>
     </div>
     {% pageButtons pagination=pagination %}
   </div>

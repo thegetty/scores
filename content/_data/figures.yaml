@@ -1,5 +1,1363 @@
 figure_list:
 -
+    id: "fig-0-1a"
+    old_id: "0.01-a"
+    src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/001/
+    label: "Fig. 0.1a"
+    caption: "Four “Indeterminate” Notation Systems, . "
+    credit: "Public domain; Thelonious Monk Corp."
+    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
+-
+    id: "fig-0-1b"
+    old_id: "0.01-b"
+    src: figures/Purcell_diatonic_chromaticism.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/001/#fig-001-b
+    label: "Fig. 0.1b"
+    caption: "Four “Indeterminate” Notation Systems, . "
+    credit: "Public domain; Thelonious Monk Corp."
+    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
+-
+    id: "fig-0-1c"
+    old_id: "0.01-c"
+    src: figures/Thelonious-Monk-Jazz-Masters.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/001/#fig-001-c
+    label: "Fig. 0.1c"
+    caption: "Four “Indeterminate” Notation Systems, . "
+    credit: "Public domain; Thelonious Monk Corp."
+    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
+-
+    id: "fig-0-1d"
+    old_id: "0.01-d"
+    src: figures/Come_Thou_Fountain_Numbers.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/001/#fig-001-d
+    label: "Fig. 0.1d"
+    caption: "Four “Indeterminate” Notation Systems, . "
+    credit: "Public domain; Thelonious Monk Corp."
+    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
+-
+    id: "fig-0-2"
+    old_id: "0.02-a"
+    src: figures/r34134_86_s1483_annoiii_n5_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/002/
+    label: "Fig. 0.2"
+    caption: "Luigi Russolo (Italian, 1855–47), *Risveglio di una Cittá* (Awakening of a City), 1914. Getty Research Institute, Jean Brown Papers c.2: v.2, no.4 (1914)."
+    credit: "Public domain"
+    alt: "Two-page spread of dark black lines gradually rising and falling over treble and bass staves."
+-
+    id: "fig-0-3"
+    old_id: "0.03a"
+    src: placeholder.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/003/
+    label: "Fig. 0.3"
+    caption: "Earle Brown (American, 1926–2002), Prefatory notes for *December 1952* published in *Folio and 4 Systems*, 1961. "
+    credit: "Associated Music Publishers, 1961"
+    alt: "Diagram of a rectangular prism containing multiple arrows, with explanatory text above and to the right."
+-
+    id: "fig-0-4"
+    old_id: "0.04"
+    src: figures/21434-Smith-02.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/004/
+    label: "Fig. 0.4"
+    caption: "Wadada Leo Smith (American, b. 1941), *Kosmic Music*, 2008. "
+    credit: "Wadada Leo Smith"
+    alt: "Four multicolor rectangles marked with esoteric annotations including brackets and musical symbols. The leftmost three rectangles are connected by a sweeping gold band."
+-
+    id: "fig-0-5"
+    old_id: "0.05"
+    src: placeholder.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/005/
+    label: "Fig. 0.5"
+    caption: "Hugo Ball (German, 1886–1927), Hugo Ball performing *Karawane* at the Cabaret Voltaire, Zürich, 1916. "
+    credit: "Public domain"
+    alt: "Black-and-white photo of a man in a rigid cape and a tall hat standing between two music stands in a low-ceilinged room."
+-
+    id: "fig-0-6"
+    old_id: "0.06-a"
+    src: figures/r24271_85_s179_003.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/006/
+    label: "Fig. 0.6"
+    caption: "Kurt Schwitters (German, 1887–1948), *Ursonate*, in *Merz* 24 (Hannover, 1932), 1922–32. "
+    credit: "Kurt Schwitters Estate"
+    alt: "Two pages of typed repeated nonsense words, some featuring repeated letters or syllables, with instructive titles in German."
+-
+    id: "fig-0-7"
+    old_id: "0.07"
+    src: placeholder.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/007/
+    label: "Fig. 0.7"
+    caption: "George Brecht (American, 1926–2008), Page of notes from  John Cage’s course in experimental composition, July 1959. George Brecht Notebooks, Vol. 3, April–August 1959. Ed. Dieter Daniels with collaboration of Hermann Braun (Köln: W. König, 1991).."
+    credit: ""
+    alt: "Notebook page with writing at top (some crossed out) and a star-shaped diagram at bottom with nodes labeled “Composer,” “Notation,” “Performer,” “Sound,” and “Listener,” when read clockwise beginning at the top center."
+-
+    id: "fig-0-8"
+    old_id: "0.08-a"
+    src: figures/VOLUME1NR1_full_0008.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/008/
+    label: "Fig. 0.8"
+    caption: "Nam June Paik (Korean, 1932–2006), “Expanded Education for the Paperless Society” (1968), reproduced in *Radical Software* 1, no. 1 (1970): 7–8, 1968. "
+    credit: "Nam June Paik Estate"
+    alt: "Long rectangular page with a curving flowchart of text boxes surrounded by short text columns titled “Music,” “Great Thinkers,” “Philosophy,” “Instant Global University,” “Reading Aids,” and “Singing Lessons.”"
+-
+    id: "fig-0-9"
+    old_id: "0.09-a"
+    src: figures/scienceofenglish0000lani_0224.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/009/
+    label: "Fig. 0.9"
+    caption: "Sidney Lanier (American, 1842–81), *Science of English Verse*, 1880. "
+    credit: "(New York: Scribner’s, 1880), 216–17 "
+    alt: "Two-page spread of text interspersed with lines of unpitched musical notes paired with English syllables."
+-
+    id: "fig-0-10"
+    old_id: "0.10"
+    src: figures/gri_45_13_363327ds.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/010/
+    label: "Fig. 0.10"
+    caption: "Décio Pignatari (Brazilian, 1927–2012), *Beba Coca Cola*, 1957. Screen print . From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991). ."
+    credit: "Courtesy of the Estate of Décio Pignatari "
+    alt: "Red square at center of a white page containing all-lowercase, center-justified text."
+-
+    id: "fig-0-11"
+    old_id: "0.11"
+    src: figures/gri_loa_2016_e_15_001_363355ds.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/011/
+    label: "Fig. 0.11"
+    caption: "Ian Hamilton Finlay (Scottish, 1925–2006), *Star/Steer*, 1965. Sandblasted glass in wooden base. "
+    credit: "Ian Hamilton Finlay Estate"
+    alt: "Upright sandblasted glass rectangle with the word “star” repeated several times in blue to create a zig-zag shape at center that terminates with the word “steer” printed once."
+-
+    id: "fig-1-1"
+    old_id: "1.01-a"
+    src: figures/r32814_980039_b9_r_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/012/
+    label: "Fig. 1.1"
+    caption: "Morton Feldman (American, 1926–87), *Intersection No. 3* with a dedication for David Tudor, 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
+    credit: ""
+    alt: "Horizontal eleven-inch-wide graph paper with seven horizontal staves outlined in pencil, each one three grid boxes tall. Within the staves, seemingly random boxes are outlined and filled with handwritten numbers from 1 to 11 in black ink. Some grid boxes are outlined horizontally to create rectangles. Top margin handwritten text reads: outlined box “= MM 176” at left, “Intersection #3 for Tudor” at center, and “M Feldman [unreadable word] 1953” at right."
+-
+    id: "fig-1-2"
+    old_id: "1.13"
+    src: figures/r1115683_980039_b9_f30_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/045/
+    label: "Fig. 1.2"
+    caption: "Morton Feldman (American, 1926–87), Embryonic graph score, likely for Morton Feldman, *Projection No. 1*, Early 1950s. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 30."
+    credit: ""
+    alt: "Horizontal cream paper with orange printed grid. Three black horizontal marks evenly divide the top third of the page into three sections, with a larger fourth section on bottom. Each section is sparsely populated with squares and rectangles made from outlining one or more of the printed grid boxes. Key at bottom left reads: diamond shape, “Lowest Harmonic”; P, “Lowest pizz (played pizz)”; A, “Lowest Open sound (Played Arco)”; and outlined pen square, “= one beat.” Lines from top to bottom correspond to the O, P, and A key."
+-
+    id: "fig-1-3"
+    old_id: "1.03-a"
+    src: figures/r2015418_980039_b9_f26b_045.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/014/
+    label: "Fig. 1.3"
+    caption: "David Tudor (American, 1926–96), David Tudor’s realization of Feldman’s *Intersection 3* , 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
+    credit: ""
+    alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, all of this repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, yet the page is balanced with a roughly equal disruption of notations throughout. "
+-
+    id: "fig-1-4"
+    old_id: "1.08-a"
+    src: figures/r2013491_980039_b53_f7_002.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/021/
+    label: "Fig. 1.4"
+    caption: "Morton Feldman (American, 1926–87), Letter from Morton Feldman to David Tudor, 15 June 1953. Getty Research Institute, David Tudor Papers, 980039, box 53, folder 7."
+    credit: ""
+    alt: "Verso of sealed rectangular white envelope with alternating red, white, and blue border. Address at top center stricken through with a line of typewritten Xs. Top edge appears ripped open by knife or letter opener. "
+-
+    id: "fig-2-1"
+    old_id: "2.19e"
+    src: figures/tudor046.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/133/
+    label: "Fig. 2.1"
+    caption: "Photograph of John Cage and David Tudor in Japan, 1962. Getty Research Institute, David Tudor Papers, 980039, box 160."
+    credit: ""
+    alt: "Portrait-oriented black-and-white photograph of two men under a pavilion. The man at right stands with his head inside a large bell, and the man at left moves to hit the bell with a mounted wood hammer."
+-
+    id: "fig-2-2"
+    old_id: "2.16b-a"
+    src: figures/r2015446_980039_b52_f3_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/124/
+    label: "Fig. 2.2"
+    caption: "John Cage (American, 1912–92), Letter from John Cage to David Tudor, 1951. Getty Research Institute, David Tudor Papers, 980039, box 7, folder 7."
+    credit: ""
+    alt: "White page with handwritten English-language correspondence in pencil. Double-spaced lines of text cover three-quarters of the page. Bottom quarter of page contains generously spaced notes containing musical notation. Page has thin margins. "
+-
+    id: "fig-2-3"
+    old_id: "2.01a-an"
+    src: figures/gri_980039_b176_f01_040_mm.jpg
+    note: needs to be cropped
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/060/#fig-060-an
+    label: "Fig. 2.3"
+    caption: "John Cage (American, 1912–92), David Tudor’s copy of John Cage’s *Solo for Piano*, from *Concert for Piano and Orchestra*, 1957–58. Getty Research Institute, David Tudor Papers, 980039, box 176, folders 1–2."
+    credit: "Copyright 1960, C.F. Peters"
+    alt: "Thirty horizontal rectangular cream pages, each with black hand-drawn graphic notations made up of horizontal staff segments and circular musical notes. Notes are often connected by curving or straight lines to create shapes atop the staff. Graphics contain other musical notation symbols, numbers, and letters. Most pages contain at least three discreet graphics placed sparsely throughout the page. Most pages are less than 50 percent covered. Two pages are filled with four columns of handwritten text in English and one page filled with typewritten paragraphs in English. "
+-
+    id: "fig-2-4"
+    old_id: "2.20"
+    src: figures/cunningham_103.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/134/
+    label: "Fig. 2.4"
+    caption: "Photograph of Merce Cunningham conducting John Cage’s *Concert for Piano and Orchestra* at Town Hall, 15 May 1958. "
+    credit: "Printed in newspaper%%%include newspaper name?%%%; source%%%meaning photographer?%%% unknown"
+    alt: "Square-shaped black-and-white photograph of a man on a stage turned away from the camera and conducting an orchestra. The photo was shot from the audience."
+-
+    id: "fig-2-5"
+    old_id: "2.19c-a"
+    src: figures/tudor21.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/131/
+    label: "Fig. 2.5"
+    caption: "Photographs of David Tudor preparing his second realization of John Cage’s *Solo for Piano*, 1958. Getty Research Institute, David Tudor Papers, 980039, box 158."
+    credit: ""
+    alt: "Landscape-oriented black-and-white photograph of a man, at center, with his face visible to the camera while he sits behind a table covered with staff sheets. The man’s hands are on table, one holding a pen, the other flipping through the sheets."
+-
+    id: "fig-3-1"
+    old_id: "3.01-k"
+    src: figures/gri_980039_b174_f02_011_mm.jpg
+    note: needs to be cropped to No. 4 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/154/#fig-154-k
+    label: "Fig. 3.1"
+    caption: "Sylvano Bussotti (Italian, 1931–2021) , David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    credit: ""
+    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive.  "
+-
+    id: "fig-3-2"
+    old_id: "3.01-e"
+    src: figures/gri_980039_b174_f02_005_mm.jpg
+    note: needs to be cropped to No. 1
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/154/#fig-154-e
+    label: "Fig. 3.2"
+    caption: "Sylvano Bussotti (Italian, 1931–2021) , David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    credit: ""
+    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive.  "
+-
+    id: "fig-3-3"
+    old_id: "3.01-i"
+    src: figures/gri_980039_b174_f02_009_mm.jpg
+    note: needs to be cropped to No. 3
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/154/#fig-154-i
+    label: "Fig. 3.3"
+    caption: "Sylvano Bussotti (Italian, 1931–2021) , David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    credit: ""
+    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive.  "
+-
+    id: "fig-3-4a"
+    old_id: "3.01-i"
+    src: figures/gri_980039_b174_f02_009_mm.jpg
+    note: needs to be cropped to detail
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/154/#fig-154-i
+    label: "Fig. 3.4a"
+    caption: "Sylvano Bussotti (Italian, 1931–2021) , David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    credit: ""
+    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive.  "
+-
+    id: "fig-3-4b"
+    old_id: "3.04-r"
+    src: figures/gri_980039_b174_f02_052_mm.jpg
+    note: needs to be cropped to detail
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/158/#fig-158-r
+    label: "Fig. 3.4b"
+    caption: "David Tudor (American, 1926–1996), David Tudor’s realization of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    credit: ""
+    alt: "Blue front cover of bound book. “Composer’s Notebook” at top left in blue with short section of staff printed below."
+-
+    id: "fig-3-5"
+    old_id: "3.05-am"
+    src: figures/gri_980039_b174_f03_055_mm.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/159/#fig-159-am
+    label: "Fig. 3.5"
+    caption: "Sylvano Bussotti (Italian, 1931–2021) , Loose score sheets for Sylvano Bussotti’s *Pièces de chair II*, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
+    credit: ""
+    alt: "Cream page with rectangular field of horizontal black lines interrupted by line breaks, sweeping abstract line segments, stippled groupings of dots, and small polygons. Top margin contains title of piece at left, otherwise, blank."
+-
+    id: "fig-3-6"
+    old_id: "3.03b-f"
+    src: figures/gri_980039_b174_f02_032_mm.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/157/#fig-157-f
+    label: "Fig. 3.6"
+    caption: "David Tudor (American, 1926–1996), David Tudor’s realization of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    credit: ""
+    alt: "White page with six black horizontal printed staves containing dense pencil notation consisting of vertical rectangles, diamonds, letters and vertical arrows, all centered on bottom half of page. Some rectangles in blue pen. All shapes the scale of traditional staff-based notation. Pink pen brackets on bottom staff grouping sections of pencil and blue pen notation above."
+-
+    id: "fig-4-1"
+    old_id: "4.13f"
+    src: figures/r29591_890164_b39_012.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/217/
+    label: "Fig. 4.1"
+    caption: "Benjamin Patterson (American, 1934–2016), *Variations for Double Bass*, 1961, rev. 1962. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33."
+    credit: ""
+    alt: "White page with black typewritten text in English. Two columns run the length of the page and bisect it vertically. Title “Variations for Double-Bass” at top of first column followed by seventeen-point list of instructive sentences that continues into the second column. “cologne, 1961. revised Pittsburgh, 1962” at bottom of second column.  "
+-
+    id: "fig-4-2"
+    old_id: "4.24b-a"
+    src: figures/1_AR6155358.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/232/
+    label: "Fig. 4.2"
+    caption: "Benjamin Patterson performing *Variations for Double Bass*, 1962. "
+    credit: "https://www.arcananewmusic.org/events/ben-patterson"
+    alt: "Black-and-white full-body photograph of man in suit turned away from camera to play upright base while holding a hammer. In the background, a man behind lectern on raised stage smiles to camera."
+-
+    id: "fig-4-3"
+    old_id: "4.13d-f"
+    src: figures/r2012418_890164_b39_f32_014.jpg
+    note: Mike should look at 215 to confirm order and images
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/215/#fig-215-f
+    label: "Fig. 4.3"
+    caption: "Benjamin Patterson (American, 1934–2016), *Duo*, 1961. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32."
+    credit: ""
+    alt: "White page with black hand drawn symbols and handwritten text in English. Titled “Duo 1961” at top center below upper margin, followed by Patterson’s signature and one paragraph of text that covers one half of the page. Bottom half of page contains list of symbols and corresponding labels, some single words and others short phrases. "
+-
+    id: "fig-4-4"
+    old_id: "4.01"
+    src: figures/r2012418_890164_b39_f33_017.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/197/
+    label: "Fig. 4.4"
+    caption: "Benjamin Patterson (American, 1934–2016) , Printed score of *Paper Piece* in English, 1960. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33."
+    credit: ""
+    alt: "Vertical rectangular red page with printed text in English. Titled “Paper Piece for 5 Performers” at top left below large margin. The page is broken into seven sections by horizontal boarders, each with five to six lines of text instructions for performance. Many lines begin with transitive verbs such as “TEAR” and “RUMPLE.” Text runs the length of the page.   "
+-
+    id: "fig-5-1"
+    old_id: "5.01-a"
+    src: figures/r611559_94_b19099_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/
+    label: "Fig. 5.1"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-2"
+    old_id: "5.01-b"
+    src: figures/gri_94_b19099_002.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-b
+    label: "Fig. 5.2"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-3"
+    old_id: "5.01-c"
+    src: figures/gri_r929429_94_b19099_001_385155ds.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-c
+    label: "Fig. 5.3"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-4"
+    old_id: "5.01-d"
+    src: figures/r32686_94_b19099_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-d
+    label: "Fig. 5.4"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-5"
+    old_id: "5.01-e"
+    src: figures/gri_94_b19099_005.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-e
+    label: "Fig. 5.5"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-6"
+    old_id: "5.01-bj"
+    src: figures/gri_94_b19099_060.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-bj
+    label: "Fig. 5.6"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-7"
+    old_id: "5.01-bl"
+    src: figures/gri_94_b19099_062.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-bl
+    label: "Fig. 5.7"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-8"
+    old_id: "5.01-aa"
+    src: figures/gri_94_b19099_027.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-aa
+    label: "Fig. 5.8"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-9"
+    old_id: "5.01-m"
+    src: figures/gri_94_b19099_013.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-m
+    label: "Fig. 5.9"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-10"
+    old_id: "5.01-s"
+    src: figures/gri_94_b19099_019.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-s
+    label: "Fig. 5.10"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-11"
+    old_id: "5.01-al"
+    src: figures/gri_94_b19099_036.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/238/#fig-238-al
+    label: "Fig. 5.11"
+    caption: "Jackson Mac Low (American, 1922–2004) and George Maciunas (Lithuanian American, 1931–78), *An Anthology of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962. offset printed. Getty Research Institute, 94-B19099."
+    credit: ""
+    alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind. "
+-
+    id: "fig-5-12"
+    old_id: "5.33-a"
+    src: figures/r2014929_890164_b263_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/333/
+    label: "Fig. 5.12"
+    caption: "Henry Flynt (American, b. 1940);George Maciunas (Lithuanian American, 1931–78), *Communists Must Give Revolutionary Leadership in Culture*, 1965. double-sided offset print. Getty Research Institute, Jean Brown Papers, 890164, box 263, folder 1."
+    credit: ""
+    alt: "Square-shaped newspaper-like sheet with four columns of black print in English covering entire page. “Communists Must Give Revolutionary Leadership in Culture 44444444444444444444444” in top left corner across leftmost two columns. “By Henry Flynt” to right of graphic in smaller text. Three lines made from consecutive numbers 1, 2, or 3 near top rightmost two columns."
+-
+    id: "fig-6-1"
+    old_id: "6.01a"
+    src: placeholder.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/344/
+    label: "Fig. 6.1"
+    caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY , summer 1958. photograph. "
+    credit: "Photo: Harvey Y. Gross, Harvey Y. Gross/John Cage Trust"
+    alt: "Black-and-white photograph of eight men in a classroom, each sat at a chair desk. Photograph shot at eye level of sitting figures."
+-
+    id: "fig-6-2"
+    old_id: "6.01c"
+    src: figures/r32814_890164_127_003.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/346/
+    label: "Fig. 6.2"
+    caption: "George Brecht (American, 1926–2008), *Drip Music (Drip Event)*, 1959–62. offset print. Getty Research Institute, Jean Brown Papers, 890164, box 127 (contained within the compendium *Water Yam*)."
+    credit: "George Brecht/Bildkunst Bonn"
+    alt: "Printed page with large margins and left aligned black text. “DRIP MUSIC (DRIP EVENT)” at top is followed by “For single or multiple performance. A source of dripping water and an empty vessel are arranged so that the water falls into the vessel. Second version: Dripping.” “G. Brecht (1959-62)” printed below."
+-
+    id: "fig-6-3"
+    old_id: "6.12"
+    src: figures/ART480522.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/359/
+    label: "Fig. 6.3"
+    caption: "Dick Higgins performing George Brecht’s *Drip Music (Drip Event)* (1959–62) at the festival *Fluxus/Musik og Anti-Musik/det Instrumentale Teater*, at Nikolaj Church, Copenhagen, Denmark , 23 November 1962. photograph. "
+    credit: "Photo: Poul Hansen for *Dagbladet AKTUELT* newspaper"
+    alt: "Black and white photograph of a man in suit and tie holding a tea kettle while standing on a wooden ladder. At the base of the ladder sits a metal tub. Behind the ladder sits a large sign with painted words in Danish.  "
+-
+    id: "fig-6-4"
+    old_id: "6.13"
+    src: figures/From_NH_ARTOTHEK-65156.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/360/
+    label: "Fig. 6.4"
+    caption: "George Maciunas performing George Brecht’s *Drip Music (Drip Event)* (1959–62) at *Festum Fluxorum*, at Kunstakademie Düsseldorf, Düsseldorf, Germany, 2 February 1963. photograph. "
+    credit: "Photo: Manfred Leve/AFORK, Kunstpalast Düsseldorf"
+    alt: "Black and white photograph of a man in a suit and tie holding a pitcher while standing on an over ten-foot-tall ladder. Loose pages are strewn about the floor surrounding the ladder, while the high-ceilinged wall behind the ladder is blank.  "
+-
+    id: "fig-6-5"
+    old_id: "6.15"
+    src: figures/From_NH_PMoore_4-6-63_C21_cropped.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/362/
+    label: "Fig. 6.5"
+    caption: "George Brecht performing *Three Aqueous Events/Drip Music (Drip Event)* (1959–62) at the concert *Happenings, Events, and Advanced Musics*, at Douglass College, Rutgers University, New Brunswick, NJ, 6 April 1963. photograph. "
+    credit: "Photo: Peter Moore, EstPeter Moore/VAGA, NY, NY"
+    alt: "Black and white photograph of man bending over to pour water from a ceramic pitcher to a small bowl sitting on the floor below. In the background, an audience views the performance from behind clear plastic sheeting.  "
+-
+    id: "fig-6-6"
+    old_id: "6.01b"
+    src: figures/r1115683_890164_b3_f34_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/345/
+    label: "Fig. 6.6"
+    caption: "George Brecht (American, 1926–2008), *Event Score*, August 1965. offset print. Getty Research Institute, Jean Brown Papers, 890164, box 3, folder 34."
+    credit: "George Brecht/Bildkunst Bonn"
+    alt: "Horizontal page with black printed writing, titled “EVENT SCORE” at top left and followed by text “Arrange or discover an event score and then realize it” and two bullet pointed sentences. “George Brecht” printed at bottom."
+-
+    id: "fig-6-7"
+    old_id: "4.27"
+    src: figures/r2013740_980039_b159_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/237/
+    label: "Fig. 6.7"
+    caption: "Manfred Leve (German, 1936–2012), Benjamin Patterson, Hans G. Helms, Ursula Kagel, Khris Helms, David Tudor, and others performing George Brecht’s *Card-Piece for Voice* (1959) as part of the “Contre-Festival,” organized during the IGNM-Weltmusikfestes, Atelier Mary Bauermeister, Cologne, Germany, 15 June 1960. Getty Research Institute, David Tudor Papers, 980039, box 159."
+    credit: "Manfred Leve/AFORK"
+    alt: "Black-and-white landscape-oriented photograph of four men and three women sat indoors in an arc around a table. Most are looking to the man sat furthest right whose hands are in motion."
+-
+    id: "fig-6-8"
+    old_id: "6.03a"
+    src: placeholder.jpg
+    note: Water Yam 360
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/348/
+    label: "Fig. 6.8"
+    caption: "George Brecht (American, 1926–2008), *Water Yam*, 1963. wooden box with label; box contains ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
+    credit: "George Brecht/Bildkunst Bonn"
+    alt: "Top view of wooden box dominated by a white label with large black letters that read “Water Yam.” Smaller text surrounding reads “FLUXUS C” and “ARRANGED BY GEORGE BRECHT.” Hinged wooden box open to reveal stacked cardstock. Top page is white cardstock printed with “Drip Music” event score."
+-
+    id: "fig-7-1"
+    old_id: "7.01"
+    src: placeholder.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/404/
+    label: "Fig. 7.1"
+    caption: "Interactive map of locations relevant to the creation and distribution of Jackson Mac Low’s postcard scores, spring 1963. "
+    credit: "Fair Use Google map"
+    alt: "Customized Google map with pins dropped on various locations, mostly in the New York area and Western Europe, showing where Mac Low created and sent his postcard scores."
+-
+    id: "fig-7-2"
+    old_id: "7.17-a"
+    src: figures/gri_94_b19099_038.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/417/
+    label: "Fig. 7.2"
+    caption: "Jackson Mac Low (American, 1922–2004), Pages from Mac Low’s contribution to a unique copy of Mac Low and La Monte Young’s *An Anthology of Chance Operations* (New York: George Maciunas and Jackson Mac Low, 1962), 1962. Getty Research Institute Special Collections, item 94-B19099."
+    credit: "Anne Tardos/Estate of Jackson Mac Low"
+    alt: "Two-page spread in bound book. Left, blank salmon page. Right, white page with black all-text graphic oriented in off center cross pattern. Horizontal text reads, from top to bottom “Story Music Jackson Mac Low Chance Operations” Vertical text reads from right to left “Essays Poetry Indeterminacy.” Graphic covers three quarters of page, with bottom left mostly empty. "
+-
+    id: "fig-7-3"
+    old_id: "5.12d"
+    src: figures/r2014729_890164_b32_f6_005.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/275/
+    label: "Fig. 7.3"
+    caption: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by Yoko Ono and La Monte Young at  Ono’s studio, 112 Chambers Street, New York, NY, 8–9 April 1961. Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6."
+    credit: ""
+    alt: "White page with blue typewritten text in English. Title at top center reads “Poetry, Music & Theatre Works Jackson Mac Low,” followed by time, date, and location of performances. Middle two quarters of page contains numerical list of the titles of works to be performed in succession, their performers, and their original date of composition. Bottom quarter of page contains paragraph of information on other performances. All text single spaced with thin margins."
+-
+    id: "fig-7-4"
+    old_id: "7.04"
+    src: figures/07_Mac_Low_ILLS_for_review_before_archive_picks_dragged.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/405/
+    label: "Fig. 7.4"
+    caption: "Designer unknown, Collage of newspaper clippings documenting Jackson Mac Low’s arrest—along with Dorothy Day of the *Catholic Worker*, Bayard Rustin of the War Resisters League, and others—for refusing to participate in a nationwide mandatory air-raid drill, ca. June 1955. UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180, box 32, folder 4."
+    credit: ""
+    alt: "Collage of black-and-white news clippings covering one entire page. Top features New York World Telegram masthead followed by title “30 Arrests Mar H-Drill” followed by four articles in English across five columns of text at the center of the page. Three documentary photos of protestors with signs being arrested by police officers at bottom of page."
+-
+    id: "fig-8-1"
+    old_id: "8.14"
+    src: figures/gri_2006_m_24_241_1_b1_f2_349357ds.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/448/
+    label: "Fig. 8.1"
+    caption: "Yvonne Rainer (American, b. 1934), Notebook page related to *Watering Place* (ca. 1960), ca. 1960. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 2."
+    credit: "Yvonne Rainer"
+    alt: "Lined page in spiral notebook, the top half containing a black pen radial diagram annotated with red off-shooting lines, letters. and numbers, and the bottom half, several short numbered lists with single English language adjectives."
+-
+    id: "fig-8-2"
+    old_id: "8.29-b"
+    src: figures/r2013910_2006_m_24_b1_f4_004.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/470/#fig-470-b
+    label: "Fig. 8.2"
+    caption: "Yvonne Rainer (American, b. 1934), Notebook sketches for *Three Satie Spoons* and *Satie for Two*, 1961–62. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 4."
+    credit: "Yvonne Rainer"
+    alt: "Nineteen pages in bound notebook, shown in two-page spreads. First is the leading shown with back of notebook cover, followed by eight two-page spreads. Pages contain handwritten notes formatted in paragraphs, small figure drawings, numerical notation, and multicolor line diagrams.  "
+-
+    id: "fig-8-3"
+    old_id: "8.29-e"
+    src: figures/r2013910_2006_m_24_b1_f4_008.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/470/#fig-470-e
+    label: "Fig. 8.3"
+    caption: "Yvonne Rainer (American, b. 1934), Notebook sketches for *Three Satie Spoons* and *Satie for Two*, 1961–62. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 4."
+    credit: "Yvonne Rainer"
+    alt: "Nineteen pages in bound notebook, shown in two-page spreads. First is the leading shown with back of notebook cover, followed by eight two-page spreads. Pages contain handwritten notes formatted in paragraphs, small figure drawings, numerical notation, and multicolor line diagrams.  "
+-
+    id: "fig-8-4"
+    old_id: "8.24-a"
+    src: figures/gri_2006_m_24_61_a_330511ds.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/466/
+    label: "Fig. 8.4"
+    caption: "Yvonne Rainer (American, b. 1934), Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
+    credit: "Yvonne Rainer"
+    alt: "White page with black handwritten text in English and one diagram annotated with red pencil just above center of page. Top center titled “Instructions for Ruth” followed by short paragraph, radial diagram on faint at center, and more text spanning the length of the page."
+-
+    id: "fig-8-5"
+    old_id: "8.24-b"
+    src: figures/gri_2006_m_24_61_b_330511ds.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/466/#fig-466-b
+    label: "Fig. 8.5"
+    caption: "Yvonne Rainer (American, b. 1934), Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
+    credit: "Yvonne Rainer"
+    alt: "White page with black handwritten text in English and one diagram annotated with red pencil just above center of page. Top center titled “Instructions for Ruth” followed by short paragraph, radial diagram on faint at center, and more text spanning the length of the page."
+-
+    id: "fig-8-6"
+    old_id: "8.12"
+    src: figures/r425211_2006_m_24_b69_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/446/
+    label: "Fig. 8.6"
+    caption: "Yvonne Rainer (American, b. 1934), *We Shall Run* (1963), performed at the Wadsworth Atheneum, Hartford, CT. Performers (L to R): Yvonne Rainer, Deborah Hay, Robert Rauschenberg, Robert Morris, Sally Gross, Joseph Schlichter, Tony Holder, and Alex Hay, 7 March 1965. photograph. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 69."
+    credit: "Photo: Peter Moore, Est. Peter Moore/VAGA, NY, NY"
+    alt: "Horizontal black and white photograph of eight spot-lit people running barefoot in an otherwise empty room."
+-
+    id: "fig-8-7"
+    old_id: "8.01-a"
+    src: figures/r2013910_2006_m_24_b1_f5_014.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/436/
+    label: "Fig. 8.7"
+    caption: "Yvonne Rainer (American, b. 1934), Notebook sketches related to *We Shall Run* (1963), ca. 1963. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 5."
+    credit: "Yvonne Rainer"
+    alt: "Lined page in spiral notebook containing four pencil drawings of looping lines labeled with circles, boxes and arrows. “We Shall Run” handwritten at center of the right margin, “Running Dance” handwritten at top center."
+-
+    id: "fig-8-8"
+    old_id: "8.01-b"
+    src: figures/r2013910_2006_m_24_b1_f5_015.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/436/#fig-436-b
+    label: "Fig. 8.8"
+    caption: "Yvonne Rainer (American, b. 1934), Notebook sketches related to *We Shall Run* (1963), ca. 1963. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 5."
+    credit: "Yvonne Rainer"
+    alt: "Lined page in spiral notebook containing four pencil drawings of looping lines labeled with circles, boxes and arrows. “We Shall Run” handwritten at center of the right margin, “Running Dance” handwritten at top center."
+-
+    id: "fig-8-9"
+    old_id: "8.01-c"
+    src: figures/r2013910_2006_m_24_b1_f5_016.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/436/#fig-436-c
+    label: "Fig. 8.9"
+    caption: "Yvonne Rainer (American, b. 1934), Notebook sketches related to *We Shall Run* (1963), ca. 1963. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 5."
+    credit: "Yvonne Rainer"
+    alt: "Lined page in spiral notebook containing four pencil drawings of looping lines labeled with circles, boxes and arrows. “We Shall Run” handwritten at center of the right margin, “Running Dance” handwritten at top center."
+-
+    id: "fig-8-10"
+    old_id: "8.20-a"
+    src: figures/gri_2006_m_24_45_330393ds.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/454/
+    label: "Fig. 8.10"
+    caption: "Yvonne Rainer (American, b. 1934), Graphic scores related to *Trio B*, from *The Mind is a Muscle* (1966–68), ca. 1966–68. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 3."
+    credit: "Yvonne Rainer"
+    alt: "White graph paper divided into nine equally sized boxes, each containing diagrams comprised of diagonal and curving lines, each annotated in pencil with numbers, circles, and verbs. All diagrams in blue pen, all handwritten text in pencil. Top margin unlined, labeled “Steve 3” at top right."
+-
+    id: "fig-9-1"
+    old_id: "9.01"
+    src: placeholder.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/474/
+    label: "Fig. 9.1"
+    caption: "Dick Higgins and Jackson Mac Low in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958. photograph. external."
+    credit: "Photo: Harvey Y. Gross, Harvey Y. Gross/John Cage Trust"
+    alt: "In introduction"
+-
+    id: "fig-9-2"
+    old_id: "9.02"
+    src: placeholder.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/475/
+    label: "Fig. 9.2"
+    caption: "Alison Knowles (American, b. 1933), Score for *#2—Proposition*. In *by Alison Knowles* (New York: A Great Bear Pamphlet by Something Else Press, 1965), 2, 1965. external."
+    credit: ""
+    alt: "Horizontal rectangular brown paper with title “#2--Proposition (October, 1962)” followed by “Make a salad.”, and time, date and location of performance. All text black print aligned left. "
+-
+    id: "fig-9-3"
+    old_id: "9.03a"
+    src: figures/ART545952.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/476/
+    label: "Fig. 9.3"
+    caption: "Alison Knowles (American, b. 1933), Alison Knowles performing *#2—Proposition* (October 1962) at the Institute of Contemporary Arts, London, 1962. external."
+    credit: "Photo: Bruce Fleming. Courtesy of the Gilbert and Lila Silverman Fluxus Collection, Museum of Modern Art, New York"
+    alt: "Square black and white photograph of five people indoors at top left filling plates from a large wooden bucket of salad at center."
+-
+    id: "fig-9-4"
+    old_id: "9.03b"
+    src: figures/AR6153553.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/477/
+    label: "Fig. 9.4"
+    caption: "Alison Knowles (American, b. 1933), Alison Knowles, *Bean Rolls from Fluxkit*, 1965. metal tin with offset label, containing nine beans and fourteen offset scrolls. "
+    credit: "Fluxus Collection, Museum of Modern Art, New York"
+    alt: "Color photograph of square cream painted metal tin with circular logo with “An Alison Knowles Collection” on outer rim and “Bean Rolls” at center. Four rubber-banded rolls of paper to right of tin and four beans, three white and one black, in front of tin."
+-
+    id: "fig-9-5"
+    old_id: "9.04-a"
+    src: figures/1_gri_91_b35085_20.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/478/
+    label: "Fig. 9.5"
+    caption: "Tom Wasmuth (American, b. 1941), Diagram, 24 June 1969. In Alison Knowles’s *Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971), 35, 1971. "
+    credit: ""
+    alt: "Two-page spread in notebook. Left page contains landscape-oriented black and white photograph of four people eating at a long table. Right page contains photocopy of lined notebook paper filled with handwritten and typewritten black text. Top right margin contains date and “by Tom Wasmuth.” Diagram of tessellated squares on bottom quarter. "
+-
+    id: "fig-10-1"
+    old_id: "10.01"
+    src: figures/r2014747_890164_b47_f3_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/515/
+    label: "Fig. 10.1"
+    caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938), List of the participants in *Spatial Poem (Nos. 1–4)*, ca. 1972. offset print. Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3."
+    credit: "Mieko Shiomi"
+    alt: "Long, rectangular blue cardstock with typewritten black English text. The top center reads “List of the participants in SPATIAL POEM (No. 1-4)” followed by three columns over of over fifty lines long, most containing first and last names. Below the columns are five short lines of text with return address to Shiomi even further below at the bottom right of the page. "
+-
+    id: "fig-10-2"
+    old_id: "10.02"
+    src: figures/r2014747_890164_b47_f3_007.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/516/
+    label: "Fig. 10.2"
+    caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938), *Direction Music for Fingers* , September 1964. photocopy of handwritten score on lined paper. Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3."
+    credit: "Mieko Shiomi"
+    alt: "Photocopy of handwritten English correspondence on lined notebook paper. Titled “Direction music for fingers” at top center, followed by three sentences, one five-point list, and another two sentences, with each sentence starting on a new line. Signed “Sept. 1964 C. Shiomi” at bottom right. Text fills the length of the page. "
+-
+    id: "fig-10-3"
+    old_id: "10.03"
+    src: figures/AR6180666.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/517/
+    label: "Fig. 10.3"
+    caption: "Mieko Shiomi performing *Direction Music for Fingers* at Washington Square Gallery, New York, NY, 1964. photograph. "
+    credit: "Photo: Peter Moore; © 2019 Barbara Moore/Licensed by VAGA at Artists Rights Society (ARS), NY; Courtesy Paula Cooper Gallery, New York"
+    alt: "Black-and-white photograph of a woman sat on a box in the middle of a room raising her left hand from which thin wires suspend out of frame. The woman is surrounded by people in the background, while in the foreground a man kneels, writing and looking a map on the floor. "
+-
+    id: "fig-10-4"
+    old_id: "10.28"
+    src: figures/r2014557_890164_b31_f30_036.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/536/
+    label: "Fig. 10.4"
+    caption: "Letter from Mieko (Chieko) Shiomi to George Maciunas , ca. 1965. photocopy of typewritten text on paper. Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30."
+    credit: "Mieko Shiomi"
+    alt: "Typewritten correspondence in English on blank white page. At top left, the first line reads “Dear George,” followed by two left-aligned paragraphs that span the length of the page. Signed at bottom right. Entire page utilizes wide margins. "
+-
+    id: "fig-10-5"
+    old_id: "10.18"
+    src: figures/grl_890164-b225.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/525/
+    label: "Fig. 10.5"
+    caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938), with George Maciunas (Lithuanian American, 1931–78), Object edition of *Spatial Poem No. 1 (Word Event)* , 1965. clear plastic box with hinged lid and cork-covered bottom with paper-flag pins. Getty Research Institute, Jean Brown Papers, 890164, box 225."
+    credit: "Mieko Shiomi"
+    alt: ""
+-
+    id: "fig-10-6"
+    old_id: "10.19"
+    src: figures/gri_890164_ff37_005_mm.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/526/
+    label: "Fig. 10.6"
+    caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938), with George Maciunas (Lithuanian American, 1931–78), Object edition of *Spatial Poem No. 2 (Direction Event)* , 1966. offset print. Getty Research Institute, Jean Brown Papers, 890164, flat file 37**."
+    credit: "Mieko Shiomi"
+    alt: ""
+-
+    id: "fig-10-7"
+    old_id: "10.20"
+    src: figures/ShiomiMieko_SpatialPoem3_falling.jpg
+    note: 10.20 is assigned as the sequence image, but maybe we also need an overview shot?
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/527/
+    label: "Fig. 10.7"
+    caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938), with George Maciunas (Lithuanian American, 1931–78), Object edition of *Spatial Poem No. 3 (a fluxcalender)* , 1968. two sets of printed calendar pages (14 x 10.8 cm), one housed loose inside a wood box with a hinged lid and metal clasp, the other bolted into book form on a strap of leather. Getty Research Institute, Jean Brown Papers, 890164, box 223."
+    credit: "Mieko Shiomi"
+    alt: ""
+-
+    id: "fig-10-8"
+    old_id: "10.21"
+    src: placeholder.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/528/
+    label: "Fig. 10.8"
+    caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938), with George Maciunas (Lithuanian American, 1931–78), Object edition of *Spatial Poem No. 4 (a fluxmovie)* , 1973. white plastic box with a hinged lid containing a roll of microfilm mounted on a miniature green plastic viewer. Getty Research Institute, Jean Brown Papers, 890164, box 219."
+    credit: "Mieko Shiomi"
+    alt: ""
+-
+    id: "fig-10-9"
+    old_id: "10.22-a"
+    src: figures/gri_91_b36111_001_mm.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/530/
+    label: "Fig. 10.9"
+    caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938), Cover of *Spatial Poem* (Osaka, Japan: self-published, 1976), . artist’s book. Getty Research Institute Special Collections, item 91-B36111."
+    credit: "Mieko Shiomi"
+    alt: "Contents of Artist book. White pages with light and dark blue text and graphics, many containing continental maps marked with text boxes, others with documentary photographs of performances interspersed with text boxes, and others with text boxes connected to arrows pointing to points on a partially visible globe print. "
+-
+    id: "fig-10-10"
+    old_id: "10.10-a"
+    src: figures/r2014747_890164_b47_f3_003.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/518/
+    label: "Fig. 10.10"
+    caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938), Promotional postcard for *Complete Works: Spatial Poem*, ca. 1976. offset print. Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3."
+    credit: "Mieko Shiomi"
+    alt: "Recto Rectangular, light blue postcard with dark blue and white graphic resembling a planet partially in shadow at center. The right of the card reads “complete works SPATIAL POEM mieko shiomi” followed by a list of “nine global events.” At left, in red text, is listed over one hundred names of contributors to spatial poem. "
+-
+    id: "fig-11-1"
+    old_id: "11.01b"
+    src: placeholder.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/557/
+    label: "Fig. 11.1"
+    caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, New York, summer 1958. external."
+    credit: "Photo: Harvey Y. Gross, Harvey Y. Gross/John Cage Trust"
+    alt: "Landscape-oriented black and white photograph of three men, two sitting at desks on left, and one standing at right, all conversing indoors."
+-
+    id: "fig-11-2"
+    old_id: "11.22a-h"
+    src: figures/980063-1080-0833-b4f7_sh5r.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/579/#fig-579-h
+    label: "Fig. 11.2"
+    caption: "Allan Kaprow (American, 1927–2006), *Tape Score*, 1957. Getty Research Institute, Allan Kaprow Papers, 980063, box 4, folder 7."
+    credit: ""
+    alt: "Handwritten notation inscribed with blue ballpoint pen ink on sheets of lined yellow paper. Sequences of drawn circles marked with time stamps appear between pairs of parallel, horizontal drawn lines."
+-
+    id: "fig-11-3"
+    old_id: "11.03"
+    src: figures/gri_980063_b24_f09_012_mm-detail.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/561/
+    label: "Fig. 11.3"
+    caption: "Allan Kaprow (American, 1927–2006), Detail of part 4 of the printed program for *Routine* , 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
+    credit: ""
+    alt: "Rectangular horizontal white paper with black typewritten text in English. “4)” at top left. Four lines of double-spaced text each with one phrase at center running the length of the paper. "
+-
+    id: "fig-11-4"
+    old_id: "11.04"
+    src: figures/r32814_890164_127_100.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/562/
+    label: "Fig. 11.4"
+    caption: "George Brecht (American, 1926–2008), *Three Telephone Events*, from *Water Yam* (1963), spring 1961. wooden box with label, containing ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
+    credit: ""
+    alt: "Square white page with black print in English. “Three Telephone Events” at center, aligned left followed by three bulleted instructions. Performance note below list in smaller font, aligned right. “Spring 1961” at bottom left. Large margins. "
+-
+    id: "fig-11-5"
+    old_id: "11.05"
+    src: figures/v1_gri_980063_b24_f09_030_mm-detail.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/563/
+    label: "Fig. 11.5"
+    caption: "Allan Kaprow (American, 1927–2006), Detail of page 2 of the program for Allan Kaprow’s *Routine* (1973), with handwritten notes by a participant during Kaprow’s residency at the Portland Center for the Visual Arts, Portland, OR, December 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
+    credit: ""
+    alt: "Rectangular horizontal white paper with black typewritten text in English. “2)” at top left. Eight lines of double-spaced text each with one phrase at center running the length of the paper. “228.9611” at top center and short phrases to right of text handwritten in pencil. "
+-
+    id: "fig-11-6"
+    old_id: "11.06"
+    src: figures/980063-b24f9_standing.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/564/
+    label: "Fig. 11.6"
+    caption: "Allan Kaprow (American, 1927–2006), Drawing on the handwritten draft of the program for *Routine*, 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
+    credit: ""
+    alt: "Fragment of yellow lined paper with four lines of center aligned text at top handwritten in blue pen and two hand drawn illustrations of a stick figure in a box in green pen that cover one half of the page. “1 photo (2 people)” above. "
+-
+    id: "fig-11-7"
+    old_id: "11.07"
+    src: figures/gri_980063_b24_f09_003_mm-detail.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/565/
+    label: "Fig. 11.7"
+    caption: "Allan Kaprow (American, 1927–2006), Detail of page 3 of the *Routine* activity booklet, 1975. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
+    credit: "Photo by Alvin Comiter"
+    alt: "Square white paper with square black and white photograph at center of a man facing away from camera and to a woman holding a body-length mirror outdoors. Reflection of man in mirror. Bottom half contains five lines of bold black print in English. “1” at left, in line with first line of text. "
+-
+    id: "fig-11-8"
+    old_id: "11.08"
+    src: figures/gri_980063_b24_f09_049_mm.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/566/
+    label: "Fig. 11.8"
+    caption: "Allan Kaprow filming performers Sue Johnson and David Hauck for the film version of *Routine*, 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
+    credit: ""
+    alt: "Landscape-oriented black and white photograph of woman sat behind table at left and man with film camera turned to film woman at left. Audio equipment at center on table. Back of head wearing headphones out of focus in central foreground. "
+-
+    id: "fig-11-9"
+    old_id: "11.09"
+    src: figures/gri_980063_b24_f09_054_mm.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/567/
+    label: "Fig. 11.9"
+    caption: "Allan Kaprow (American, 1927–2006), The crew of the film *Routine* (1973) at the Portland Center for the Visual Arts, 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
+    credit: ""
+    alt: "Landscape-oriented black and white photograph of six people arranged in a clump and smiling to camera. Shot from chest up. "
+-
+    id: "fig-11-10"
+    old_id: "11.10"
+    src: figures/still-kaprow-routine.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/568/
+    label: "Fig. 11.10"
+    caption: "Allan Kaprow (American, 1927–2006), Film still from *Routine*, 1973. 1 film reel: 16mm, sd., b&w. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46."
+    credit: ""
+    alt: "Landscape-oriented black and white photograph with a woman at the center of the frame holding a full-body mirror outdoors in a parking lot. Reflection shows man with hands raised overhead. "
+-
+    id: "fig-11-11"
+    old_id: "11.17"
+    src: 
+    note: 
+    zoom: 
+    poster: figures/Copy_of_gri_980063_f46.jpg
+    media_type: vimeo
+    media_id: 935592356/d14609b942
+    link: /image-index/574/
+    label: "Fig. 11.11"
+    caption: "Allan Kaprow (American, 1927–2006), *Routine*, 1973. 1 film reel (16mm), sd., b&w. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46."
+    credit: ""
+    alt: "Black and white film alternating between title cards, each with three to five lines of text on black background, and stable shots of either one or two persons talking on the phone indoors or manipulating either a compact or full-body mirror outdoors. Moving portions have little to no set decoration, instead focusing on figure(s) at center of frame. "
+-
+    id: "fig-11-12"
+    old_id: "11.12"
+    src: 
+    note: 
+    zoom: 
+    poster: placeholder.jpg
+    media_type: vimeo
+    media_id: 
+    link: /image-index/570/
+    label: "Fig. 11.12"
+    caption: "Allan Kaprow (American, 1927–2006), Opening shot of *Warm-ups*, 1975. 1 film reel: 16mm, sd., color. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F47."
+    credit: ""
+    alt: ""
+-
+    id: "fig-11-13"
+    old_id: "11.18"
+    src: 
+    note: 
+    zoom: 
+    poster: figures/1_Copy_of_11_3Playback_2_Kaprow_Comfort_Zones_1.jpg
+    media_type: vimeo
+    media_id: 935589832/3271b8e7cf
+    link: /image-index/575/
+    label: "Fig. 11.13"
+    caption: "Allan Kaprow (American, 1927–2006), *Comfort Zones*. Produced by Galería Vandrés, S. A., Madrid, Spain. Photographed and edited by David Seaton, with performers Esther Llordén and Mario Costas, 1975. 1 film reel (16mm), sd., b/w. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F48."
+    credit: ""
+    alt: "Black and white film opening with male voiceover followed by title card “Comfort Zones Alan Kaprow” in white on black background. Film alternates between title cards with three to five short sentences read aloud by male voiceover and video of one or two people performing the actions from the previous title card. Shots are stable and either close-ups focusing on hands or faces, or wide shots of chest-up or full-body figures. Close-ups often capture movement or speech. Figures or hands are typically at the center of the frame, with no other points of visual interest. First half of video takes place indoors, and the second, outdoors. Four by three aspect ratio. "
+-
+    id: "fig-11-14"
+    old_id: "11.19"
+    src: 
+    note: 
+    zoom: 
+    poster: figures/Copy_of_11_3Playback_3_Kaprow_7KindsofSympathy.jpg
+    media_type: vimeo
+    media_id: 935626898/ab7a197d03
+    link: /image-index/576/
+    label: "Fig. 11.14"
+    caption: "Allan Kaprow (American, 1927–2006), *7 Kinds of Sympathy*. Produced by Peter Kirby and Anna Canepa Video Distribution, with performers Julie Steiny and Bryan Jones., 1976. U-matic videocassette, sd., color, 3/4-inch tape. Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V37."
+    credit: "Allan Kaprow"
+    alt: "Color film opening with male voiceover and blank white screen followed by title card “7 Kinds of Sympathy” in white on blue background. Film cycles through 1) a male voiceover accompanied by blank white background, 2) a color video of one or two people, either together or separate, performing actions from the voiceover, and 3) a title card with “later...” in white on blue background. Shots are stable and either close-ups focusing on hands or faces or wide shots of chest-up/full-body figures. Close-ups often capture movement or speech. Figures or hands are typically at the center of the frame, with no other points of visual interest. Background of scenes is either solid orange or solid red. Both figures wear maroon plain clothes. Four by three aspect ratio."
+-
     id: "fig-001-a"
     src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg
     zoom: true

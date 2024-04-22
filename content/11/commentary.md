@@ -82,7 +82,7 @@ Kaprow’s films and videos of the 1970s were experiments. He was clear about th
 
 [^4]: Allan Kaprow, interviewed by Joan Marter and Joseph Jacobs, in *Off Limits: Rutgers University and the Avant-Garde, 1957–63*, ed. Joan Marter (New Brunswick, NJ: Rutgers University Press, 1999), 132.
 
-[^5]: Kaprow recalled, “I went to John \[Cage\] to find out how I could use tapes, because I figured tapes could contain a lot more sound out of them, that I could do much more with them because I heard a lot of his work, and everybody was doing pre-electronic music in those days, calling it *musique concrète*, which was in the mid-fifties.” Moira Roth, oral history interview with Allan Kaprow, 5 and 18 February 1981, Archives of American Art, Smithsonian Institution, Washington, D.C., 22.
+[^5]: Kaprow recalled, “I went to John [Cage] to find out how I could use tapes, because I figured tapes could contain a lot more sound out of them, that I could do much more with them because I heard a lot of his work, and everybody was doing pre-electronic music in those days, calling it *musique concrète*, which was in the mid-fifties.” Moira Roth, oral history interview with Allan Kaprow, 5 and 18 February 1981, Archives of American Art, Smithsonian Institution, Washington, D.C., 22.
 
 [^6]: Allan Kaprow, in conversation with Gordon Mumma, James Tenney, Christian Wolff, Alvin Curran, and Maryanne Amacher, in “Cage’s Influence: A Panel Discussion,” in *Writings through John Cage’s Music, Poetry, and Art*, ed. David W. Bernstein and Christopher Hatch (Chicago: University of Chicago Press, 2001), 171.
 
@@ -96,7 +96,7 @@ Kaprow’s films and videos of the 1970s were experiments. He was clear about th
 
 [^11]: Kaprow, “Nontheatrical Performance,” 167.
 
-[^12]: Allan [Kaprow,]{.mark} *Routine* [activity booklet (LOCATION TK: PUBLISHER TK, 1975]{.mark}).
+[^12]: Allan Kaprow, *Routine* activity booklet (%%%Location TK: PUBLISHER TK%%%, 1975).
 
 [^13]: On Kaprow’s complex uses of photography in happenings, see Judith F. Rodenbeck, “Foil,” in *Radical Prototypes:* *Allan Kaprow and the Invention of Happenings* (Cambridge, MA: MIT Press, 2011), 223–40. On this topic in relation to *Routine*, see Rodenbeck, “Various Small Ethnofictions of Coastal California,” in *The Uses of Photography: Art, Politics, and the Reinvention of a Medium*, ed. Jill Dawsey (San Diego, CA: Museum of Contemporary Art San Diego, 2016), 103–6.
 

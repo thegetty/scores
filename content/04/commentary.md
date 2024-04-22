@@ -32,11 +32,11 @@ Between 1959 and 1964, Patterson was in a period of rapid growth. *Paper Piece*,
 
 Patterson’s earliest pieces, including *Paper Piece*, often comprised three main elements:
 
-> \(1\) a set of materials, physical and/or temporal;
+> (1) a set of materials, physical and/or temporal;
 >
-> \(2\) performance instructions and process elaboration; and
+> (2) performance instructions and process elaboration; and
 >
-> \(3\) limits and ending conditions.
+> (3) limits and ending conditions.
 
 In the aforementioned 2011 Columbia University seminar, Patterson noted the advantages of using paper in his work: “It was a material that was readily available anywhere, everywhere in the world, and it came in all types and shades, dimensions, and had a great variety of acoustic possibilities, from crystal paper, tissue paper, all the way to heavy cardboard, paper bags, and so forth.” The number and types of materials are precisely given in the score, but some room is left for performer choice and foraging. Thus, a performance of the work could be considered site-specific, as it might depend on the kinds of paper available in a given area.
 
@@ -92,7 +92,7 @@ The level of precision of the notation in *Paper Piece* contrasts markedly with 
 
 On the first evening of the Festum Fluxorum Fluxus at the Staatliche Kunstakademie Düsseldorf in 1962, in response to Academy faculty member and festival organizer Joseph Beuys, who had requested that some kind of manifesto regarding Fluxus be presented at the festival, the sounds of crumpling and tearing, apparently emanating from behind an on-stage paper screen, announced the commencement of a performance of *Paper Piece*.[^21] At some point sheets of paper containing a text were dumped onto the heads of the audience. The authorship of this text was later attributed to Fluxus cofounder George Maciunas, and it became known as “The Fluxus Manifesto,” which reads in part:
 
-> [Purge]{.underline} the world of bourgeois sickness, “intellectual,” professional & commercialized culture, PURGE the world of dead art, imitation, artificial art, abstract art, illusionistic art, mathematical art,—PURGE THE WORLD OF “EUROPANISM!” \[. . .\] PROMOTE A REVOLUTIONARY FLOOD AND TIDE IN ART, Promote living art, anti-art, promote [NON ART REALITY]{.underline} to be [\[%%%COMP: keep strikethrough word%%%\]]{.mark}~~fully~~ grasped by all peoples, not only critics, dilettantes and professionals. \[. . .\] [FUSE]{.underline} the cadres of cultural, social & political revolutionaries into united front & action.[^22]
+> [Purge]{.underline} the world of bourgeois sickness, “intellectual,” professional & commercialized culture, PURGE the world of dead art, imitation, artificial art, abstract art, illusionistic art, mathematical art,—PURGE THE WORLD OF “EUROPANISM!” [. . .] PROMOTE A REVOLUTIONARY FLOOD AND TIDE IN ART, Promote living art, anti-art, promote [NON ART REALITY]{.underline} to be [fully]{.strikethrough} grasped by all peoples, not only critics, dilettantes and professionals. [. . .] [FUSE]{.underline} the cadres of cultural, social & political revolutionaries into united front & action.[^22]
 
 In Smith’s account of the Düsseldorf event, the performance ended “as the paper screen was gradually torn to shreds, leaving a paper-strewn stage.”[^23] One could easily imagine copies of the manifesto being crumpled, rumpled, and bumpled, in an implicitly satiric distancing from the very idea of “manifesto.” In the Columbia University seminar, Patterson observed that something like this “happened at the very first performance, without even trying to do it. At every performance after that, paper drifted off into the audience off the stage by accident and everybody joined in. So it’s now the big audience piece in which everybody participates, even though it may start on the stage.”[^24]
 
@@ -130,7 +130,7 @@ Thus, as saxophonist and composer Eric Dolphy remarked in the concluding sonic e
 
 [^8]: Benjamin Patterson, *Paper Piece*.
 
-[^9]: ^9^ Patterson, *Paper Piece.*
+[^9]: Patterson, *Paper Piece.*
 
 [^10]: Patterson, “Lecture at Columbia University.”
 
@@ -174,6 +174,6 @@ Thus, as saxophonist and composer Eric Dolphy remarked in the concluding sonic e
 
 [^30]: Patterson, “Lecture at Columbia University.”
 
-[^31]: Eric Dolphy, final track on the album *Last Date*, \[1965\] 2008.
+[^31]: Eric Dolphy, final track on the album *Last Date*, [1965] 2008.
 
 [^32]: Ben Patterson, *Ben Patterson Tells Fluxus Stories (from 1962 to 2002)*, ? Records 7, 2002, compact disc.

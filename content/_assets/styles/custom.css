@@ -114,6 +114,13 @@
 audio {
   width: 80%;
 }
+/* Inline utility classes */
+.underline {
+  text-decoration: underline;
+}
+.strikethrough {
+  text-decoration: line-through;
+}
 
 /* NAVBAR & SEARCH
 ============================================================================= */
@@ -413,6 +420,25 @@ audio {
   font-size: .8rem;
   line-height: 1.2;
 }
+.scores-figure-grid--2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+@media print {
+  .scores-figure-grid--2 {
+    display: block;
+  }
+  .scores-figure-grid--2 .scores-figure {
+    width: 50%;
+    float: left;
+    margin-right: 1rem;
+  }
+  .scores-figure-grid--2 .scores-figure:last-child {
+    margin-right: 0;
+  }
+}
+
 
 /* IMAGE INDEX
 ============================================================================= */

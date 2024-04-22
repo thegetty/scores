@@ -39,7 +39,7 @@ description: A custom layout for the primary score landing pages
 </section>
 
 {%- if score.objects -%}
-<section class="score-section score-section--score">
+<section class="score-section score-section--score" id="score">
 <div class="score-section__header">
 <h2>The Score</h2>
 {%- if score.contributor -%}
@@ -65,7 +65,7 @@ description: A custom layout for the primary score landing pages
 {%- endif -%}
 
 {%- if playback.objects -%}
-<section class="score-section score-section--playback">
+<section class="score-section score-section--playback" id="playback">
 <div class="score-section__header">
 <h2>Playback</h2>
 {%- if playback.contributor -%}
@@ -91,7 +91,7 @@ description: A custom layout for the primary score landing pages
 {%- endif -%}
 
 {%- if archive.groups -%}
-<section class="score-section score-section--archive">
+<section class="score-section score-section--archive" id="archive">
 <div class="score-section__header">
 <h2>Archive</h2>
 {%- if archive.contributor -%}

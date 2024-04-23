@@ -1,3 +1,7 @@
+//
+// CUSTOMIZE FILE
+// Add class to current thumbnail for styling, lines 123–31
+//
 import { intersectionObserverFactory } from './intersection-observer-factory'
 import Accordion from './accordion'
 import poll from './poll'
@@ -115,6 +119,15 @@ const goToFigureState = function ({
   const url = new URL(window.location.pathname, window.location.origin)
   url.hash = figureId
   scrollToHash(url.hash)
+
+  /**
+   * Add class to current thumbnail for styling
+   */
+  const currentThumbnail = document.querySelector('a.current-thumbnail')
+  currentThumbnail ? currentThumbnail.classList.remove('current-thumbnail') : ''
+  const newThumbnailSelector = `a[data-figure-id="${figureId}"`
+  const newThumbnail = document.querySelector(newThumbnailSelector)
+  newThumbnail.classList.add('current-thumbnail');
 
   /** 
    * Build params

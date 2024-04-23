@@ -694,6 +694,19 @@ audio {
   line-height: var(--small-font-line-height);
   font-size: var(--small-font-size);
 }
+.quire-entry__thumbnails .thumbnail.current-thumbnail::before {
+  content: "•";
+  font-size: 2rem;
+  line-height: 0;
+  color: white;
+  text-align: center;
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: -1rem;
+}
+.quire-entry__thumbnails .thumbnail::before {
+  content: "";
+}
 
 /*  iFRAME VIEWER
 ============================================================================= */

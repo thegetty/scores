@@ -39,9 +39,10 @@ Entry content, including entry image and tombstone data
   <div class="quire-entry__thumbnails thumbnail-box">
   <div class="quire-entry__thumbnails__inner">
     {%- for thisFig in object.figures -%}
+      {%- if forloop.first == true -%}{%- assign firstThumb = true -%}{%- else -%}{%- assign firstThumb = false -%}{%- endif -%}
       {%- for figure in figures.figure_list -%}
         {%- if thisFig.id == figure.id -%}
-          <a class="ref thumbnail" data-annotation-ids="" data-figure-id="{{ figure.id }}">
+          <a class="ref thumbnail{% if firstThumb == true %} current-thumbnail{%- endif -%}" data-annotation-ids="" data-figure-id="{{ figure.id }}">
           <figure>
           <img src="/iiif/{{ figure.id }}/{{ figure.src | replace: "figures/", "" | replace: ".jpg", "/thumbnail.jpg" }}" alt="thumb">
           <figcaption>{{ figure.label }}</figcaption>

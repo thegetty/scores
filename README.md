@@ -125,6 +125,9 @@ Add custom shortcodes for displaying figures/objects
 **content/_assets/fonts/u001**
 Add u001 font
 
+**content/_assets/javascript/application/canvas-panel.js**
+Add class to current thumbnail for styling
+
 **content/_assets/styles/components/quire-buttons.scss**
 **content/_assets/styles/components/quire-page.scss**
 Remove all default `<a>` and `button` styles

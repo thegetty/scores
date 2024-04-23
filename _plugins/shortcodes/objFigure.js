@@ -46,7 +46,7 @@ module.exports = function (eleventyConfig, { page }) {
           figImagePath = `/iiif/${figId}/base/static-inline-figure-image.jpg`
         } else if (fig.zoom) {
           const figFilename = fig.src.replace('figures/', '').replace('.jpg', '')
-          figImagePath = `/iiif/${figId}/${figFilename}/static-inline-figure-image.jpg`
+          figImagePath = `/iiif/${figId}/${figFilename}/static-inline-commentary-image.jpg`
         } else if (fig.media_type == 'vimeo' || 'soundcloud' || 'audio' ) {
           figImagePath = `/_assets/images/${fig.poster}`
         } 

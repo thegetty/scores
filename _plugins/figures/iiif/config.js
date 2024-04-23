@@ -117,7 +117,16 @@ module.exports = (eleventyConfig) => {
       {
         name: 'static-inline-figure-image',
         resize: {
-          height: 440 
+          height: 440
+        }
+      },
+      /**
+       * Transformation applied to IIIF resources for use in Commentary figures
+       */
+      {
+        name: 'static-inline-commentary-image',
+        resize: {
+          height: 792
         }
       }
     ]

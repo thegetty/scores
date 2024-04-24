@@ -425,20 +425,6 @@ audio {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
 }
-@media print {
-  .scores-figure-grid--2 {
-    display: block;
-  }
-  .scores-figure-grid--2 .scores-figure {
-    width: 50%;
-    float: left;
-    margin-right: 1rem;
-  }
-  .scores-figure-grid--2 .scores-figure:last-child {
-    margin-right: 0;
-  }
-}
-
 
 /* IMAGE INDEX
 ============================================================================= */
@@ -827,4 +813,34 @@ body.iframe-version .quire-page__content {
 }
 body.iframe-version .quire .quire__primary main {
   background-color: black;
+}
+
+/* PRINT
+============================================================================= */
+@media print {
+  .content p:not(:last-child), .content dl:not(:last-child), .content ol:not(:last-child), .content ul:not(:last-child), .content blockquote:not(:last-child), .content pre:not(:last-child), .content table:not(:last-child) {
+    margin-bottom: 0;
+  }
+  .quire-page__content .container .content p {
+    text-indent: .325in;
+  }
+  .quire-essay .quire-page__content .container .content p,
+  .quire-essay .quire-page__content .container .content * {
+    line-height: 1.5;;
+  }
+  .quire-page__content .container .content p:first-child {
+    text-indent: 0;
+  }
+  .content figure.scores-figure {
+    -prince-float: top;
+    margin-top: 0 !important;
+    text-align: left;
+  }
+  .content figure.scores-figure img {
+    filter: grayscale(100%);
+    width: 60%;
+  }
+  .scores-figure-grid--2 {
+    display: block;
+  }
 }

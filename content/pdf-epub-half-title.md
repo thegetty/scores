@@ -1,7 +1,7 @@
 ---
 layout: base.11ty.js
 classes:
-  - half-title-page
+  - scores-half-title-page
 order: 2
 outputs:
   - epub
@@ -9,7 +9,7 @@ outputs:
 toc: false
 ---
 
-<section class="half-title">
+<section class="scores-half-title">
 
 {% if publication.short_title %}
   {{ publication.short_title | markdownify }}

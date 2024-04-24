@@ -41,7 +41,7 @@ object_list:
     location: "Getty Research Institute, Jean Brown Papers c.2: v.2, no.4 (1914)"
     extended_caption: "Luigi Russolo composed *Risveglio di una Cittá* (Awakening of a City) in 1913, to be performed on *intonarumori* (noise machines), and it was published the following year in *Lacerba* (1 March 1914): 72–73."
     credit: ""
-    type: [ score  ]
+    type: [ score ]
     figure: [ id: "fig-002-a", id: "fig-002-b" ]
 -
     id: "003"
@@ -53,7 +53,7 @@ object_list:
     date_end: 1961-12-31
     medium: ""
     location: ""
-    extended_caption: "*December 1952* was widely distributed as part of Earle Brown’s *Folio and 4 Systems*, a collection of graphic scores composed between 1952 and 1954 and published by Associated Music Publishers, New York, in 1961. "
+    extended_caption: "*December 1952* was widely distributed as part of Earle Brown’s *Folio and 4 Systems*, a collection of graphic scores composed between 1952 and 1954 and published by Associated Music Publishers, New York, in 1961."
     credit: "Earle Brown Estate"
     type: [ score ]
     figure: [ id: "fig-003" ]
@@ -81,7 +81,7 @@ object_list:
     date_end: 1916-12-31
     medium: ""
     location: ""
-    extended_caption: "This photograph was taken at the Cabaret Voltaire in Zürich, Switzerland, among the earliest meeting grounds for Dada activities in Europe. The inscription reads “Verse ohne Worte im kubistichem Kostüm” (Verse without words in a cubist costume). "
+    extended_caption: "This photograph was taken at the Cabaret Voltaire in Zürich, Switzerland, among the earliest meeting grounds for Dada activities in Europe. The inscription reads “Verse ohne Worte im kubistichem Kostüm” (Verse without words in a cubist costume)."
     credit: ""
     type: [ photograph ]
     figure: [ id: "fig-005" ]
@@ -95,9 +95,9 @@ object_list:
     date_end: 
     medium: ""
     location: ""
-    extended_caption: "Schwitters’s *Ursonate* (Sonata in Primal Sounds) is a forty-minute phonetic poem and is representative of Dadaism. It was first published in the magazine *Merz* in 1932. Schwitters originated the term *Merz* based on an advertisement he saw in *Kommerzbank*. The concept is present in all of Schwitters’s artistic works.  "
+    extended_caption: "Schwitters’s *Ursonate* (Sonata in Primal Sounds) is a forty-minute phonetic poem and is representative of Dadaism. It was first published in the magazine *Merz* in 1932. Schwitters originated the term *Merz* based on an advertisement he saw in *Kommerzbank*. The concept is present in all of Schwitters’s artistic works. "
     credit: ""
-    type: [ score  ]
+    type: [ score ]
     figure: [ id: "fig-006-a", id: "fig-006-b" ]
 -
     id: "007"
@@ -108,7 +108,7 @@ object_list:
     date_start: 1959-07-01
     date_end: 1959-07-31
     medium: ""
-    location: "George Brecht Notebooks, Vol. 3, April–August 1959. Ed. Dieter Daniels with collaboration of Hermann Braun (Köln: W. König, 1991)."
+    location: "George Brecht Notebooks, Vol. 3, April–August 1959. Ed. Dieter Daniels with collaboration of Hermann Braun (Köln: W. König, 1991)"
     extended_caption: ""
     credit: ""
     type: [ archival materials ]
@@ -149,8 +149,8 @@ object_list:
     date: "1957"
     date_start: 1957-01-01
     date_end: 1957-12-31
-    medium: "Screen print "
-    location: "From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991). "
+    medium: "Screen print"
+    location: "From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991)."
     extended_caption: "English translation: “drink coca cola / drool glue / drink coca [cocaine] / drool glue shard / shard / glue / cesspool.”"
     credit: ""
     type: [ artwork ]
@@ -201,7 +201,7 @@ object_list:
     id: "014"
     old_id: "1.03"
     maker: [ "David Tudor (American, 1926–96)" ]
-    title: "David Tudor’s realization of Feldman’s *Intersection 3* "
+    title: "David Tudor’s realization of Feldman’s *Intersection 3*"
     date: "1953"
     date_start: 1953-01-01
     date_end: 1953-12-31
@@ -327,7 +327,7 @@ object_list:
     id: "023"
     old_id: "1.10"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    title: "Transparency sheet with graph guidelines "
+    title: "Transparency sheet with graph guidelines"
     date: "Early 1950s"
     date_start: 
     date_end: 
@@ -341,7 +341,7 @@ object_list:
     id: "024"
     old_id: "1.11a"
     maker: 
-    title: "Program for a concert featuring David Tudor, pianist, at the Festival of Contemporary Arts, University of Illinois School of Music "
+    title: "Program for a concert featuring David Tudor, pianist, at the Festival of Contemporary Arts, University of Illinois School of Music"
     date: "22 March 1953"
     date_start: 1953-03-22
     date_end: 1953-03-22
@@ -355,7 +355,7 @@ object_list:
     id: "025"
     old_id: "1.11b"
     maker: 
-    title: "Program for “Musik der Zeit,” featuring David Tudor and John Cage, pianists, at Nordwestdeutscher Rundfunk Köln "
+    title: "Program for “Musik der Zeit,” featuring David Tudor and John Cage, pianists, at Nordwestdeutscher Rundfunk Köln"
     date: "26 November 1954"
     date_start: 1954-11-26
     date_end: 1954-11-26
@@ -417,7 +417,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 71, folder 3"
-    extended_caption: "A handwritten note in ink by an unknown person reads: “my mother wouldn’t let me do that to our piano.” "
+    extended_caption: "A handwritten note in ink by an unknown person reads: “my mother wouldn’t let me do that to our piano.”"
     credit: "Courtesy of the Morton Feldman Estate"
     type: [ programs and flyers ]
     figure: [ id: "fig-029-a", id: "fig-029-b" ]
@@ -439,7 +439,7 @@ object_list:
     id: "031"
     old_id: "1.12b"
     maker: 
-    title: "“Merce Cunningham of New York” "
+    title: "“Merce Cunningham of New York”"
     date: "August 1953?"
     date_start: 
     date_end: 31 August 1953?
@@ -453,7 +453,7 @@ object_list:
     id: "032"
     old_id: "1.12c"
     maker: 
-    title: "“Concerts Are Arranged at College,” *Asheville Citizen-Times* "
+    title: "“Concerts Are Arranged at College,” *Asheville Citizen-Times*"
     date: "21 June 1953"
     date_start: 1953-06-21
     date_end: 1953-06-21
@@ -564,7 +564,7 @@ object_list:
 -
     id: "040"
     old_id: "1.12k"
-    maker: [ "R. P. " ]
+    maker: [ "R. P." ]
     title: "“John Cage Offers Stereophonic Concert Including Eight Radios and Four Pianos,” *New York Times*"
     date: "31 May 1956"
     date_start: 1956-05-31
@@ -663,7 +663,7 @@ object_list:
     id: "047"
     old_id: "1.15a"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    title: "*Intersection +* "
+    title: "*Intersection +*"
     date: "1953"
     date_start: 1953-01-01
     date_end: 1953-12-31
@@ -677,7 +677,7 @@ object_list:
     id: "048"
     old_id: "1.15b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    title: "Realization of Morton Feldman’s *Intersection +* (Sketches of Numbered Boxes) "
+    title: "Realization of Morton Feldman’s *Intersection +* (Sketches of Numbered Boxes)"
     date: "ca. 1953"
     date_start: 
     date_end: 
@@ -1097,7 +1097,7 @@ object_list:
     id: "078"
     old_id: "2.10"
     maker: [ "David Tudor (American, 1926–96)" ]
-    title: "Studio recording of Tudor performing *Concert for Piano and Orchestra* "
+    title: "Studio recording of Tudor performing *Concert for Piano and Orchestra*"
     date: "1993"
     date_start: 1993-01-01
     date_end: 1993-12-31
@@ -1139,7 +1139,7 @@ object_list:
     id: "081"
     old_id: "2.13a"
     maker: [ "David Tudor (American, 1926–96)" ]
-    title: "Live performance of the *Solo for Piano* at the Almeida Theatre in London "
+    title: "Live performance of the *Solo for Piano* at the Almeida Theatre in London"
     date: "13 June 1986"
     date_start: 1986-06-13
     date_end: 1986-06-13
@@ -1349,7 +1349,7 @@ object_list:
     id: "096"
     old_id: "2.15c"
     maker: 
-    title: "“A Whistle, a ‘Slinky’ and a Bunch of Screws,” photograph by Sy Friedman, New York Times, p. X9. "
+    title: "“A Whistle, a ‘Slinky’ and a Bunch of Screws,” photograph by Sy Friedman, New York Times, p. X9."
     date: "11 May 1958"
     date_start: 1958-05-11
     date_end: 1958-05-11
@@ -1377,7 +1377,7 @@ object_list:
     id: "098"
     old_id: "2.15e"
     maker: [ "Milew Kastendieck" ]
-    title: "“Cage’s Music Still a Phenomenon,” New York Journal-American, p. 12. "
+    title: "“Cage’s Music Still a Phenomenon,” New York Journal-American, p. 12."
     date: "16 May 1958"
     date_start: 1958-05-16
     date_end: 1958-05-16
@@ -1769,7 +1769,7 @@ object_list:
     id: "126"
     old_id: "2.16d"
     maker: [ "James Klosty" ]
-    title: "Letter from James Klosty to David Tudor "
+    title: "Letter from James Klosty to David Tudor"
     date: "1971"
     date_start: 1971-01-01
     date_end: 1971-12-31
@@ -2335,7 +2335,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
-    extended_caption: "This diagram shows a 1961 “postscript” version of *Pièces de chair II* (1958–60) that reworks elements of the original cycle. "
+    extended_caption: "This diagram shows a 1961 “postscript” version of *Pièces de chair II* (1958–60) that reworks elements of the original cycle."
     credit: "Hal Leonard"
     type: [ score ]
     figure: [ id: "fig-166" ]
@@ -2455,7 +2455,7 @@ object_list:
     id: "175"
     old_id: "3.11k"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    title: "Miscellaneous scores by Sylvano Bussotti sent to David Tudor "
+    title: "Miscellaneous scores by Sylvano Bussotti sent to David Tudor"
     date: "1959(?)"
     date_start: 
     date_end: 
@@ -2595,7 +2595,7 @@ object_list:
     id: "185"
     old_id: "3.13c"
     maker: 
-    title: "Program from a Wesleyan University piano recital "
+    title: "Program from a Wesleyan University piano recital"
     date: "24 April 1961"
     date_start: 1961-04-24
     date_end: 1961-04-24
@@ -2656,7 +2656,7 @@ object_list:
     date_start: 1960-03-29
     date_end: 1960-03-29
     medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 1 "
+    location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 1"
     extended_caption: "Lang, typically critical of the avant-garde, leans into his own exasperation in a way that was likely entertaining to middlebrow readers, noting, with some sense of humor, the extreme anxiety induced by Tudor’s performances: “Now I must go home, take some barbiturates, and turn on the vaporizer.”"
     credit: ""
     type: [ press clipping ]
@@ -2671,7 +2671,7 @@ object_list:
     date_end: 1960-03-29
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 1"
-    extended_caption: "This is a mostly negative review of Tudor’s first of three recitals at the Living Theatre. Like many reviewers, Salzman praises Tudor’s pianism (“he can do the most unbelievable things”) while denigrating the underlying works (“real sound content: almost nil”). He makes the interesting observation that Tudor’s pianism “must be seen to be appreciated” because of its sheer theatricality (swiping up and down the keyboard with gloves, going inside and around the piano, and, in this case, breaking off a black key). "
+    extended_caption: "This is a mostly negative review of Tudor’s first of three recitals at the Living Theatre. Like many reviewers, Salzman praises Tudor’s pianism (“he can do the most unbelievable things”) while denigrating the underlying works (“real sound content: almost nil”). He makes the interesting observation that Tudor’s pianism “must be seen to be appreciated” because of its sheer theatricality (swiping up and down the keyboard with gloves, going inside and around the piano, and, in this case, breaking off a black key)."
     credit: ""
     type: [ press clipping ]
     figure: [ id: "fig-190" ]
@@ -2679,7 +2679,7 @@ object_list:
     id: "191"
     old_id: "3.14f"
     maker: [ "Ed Wallace" ]
-    title: "“War on the Keys: Above Ground Test Deactivates Piano,” *New York World-Telegram and Sun* "
+    title: "“War on the Keys: Above Ground Test Deactivates Piano,” *New York World-Telegram and Sun*"
     date: "5 April 1960"
     date_start: 1960-04-05
     date_end: 1960-04-05
@@ -2833,7 +2833,7 @@ object_list:
     id: "202"
     old_id: "4.06"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    title: "Typed score of *Paper Piece* in English "
+    title: "“War on the Keys: Above Ground Test Deactivates Piano,” *New York World-Telegram and Sun* "
     date: "1960"
     date_start: 1960-01-01
     date_end: 1960-12-31
@@ -2917,7 +2917,7 @@ object_list:
     id: "208"
     old_id: "4.10c"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    title: "Performance of *Paper Piece* at Staatsgalerie Stuttgart "
+    title: "Performance of *Paper Piece* at Staatsgalerie Stuttgart"
     date: "2012"
     date_start: 2012-01-01
     date_end: 2012-12-31
@@ -3155,7 +3155,7 @@ object_list:
     id: "225"
     old_id: "4.19"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    title: "Letter from George Maciunas to Benjamin Patterson "
+    title: "Letter from George Maciunas to Benjamin Patterson"
     date: "January 1963"
     date_start: 1963-01-01
     date_end: 1963-01-31
@@ -3231,7 +3231,7 @@ object_list:
     date_end: 1962-08-30
     medium: ""
     location: ""
-    extended_caption: "Extended caption: This article, written by Emmett Williams, was published in advance of the first major Fluxus festival to take place at the Museum Wiesbaden, Germany, in September 1962. As one of the earliest journalistic accounts of Fluxus, it is remarkable on multiple accounts. Williams was a Fluxus insider, highly informed about the group’s activities, and yet he plays the role of a bemused novice to the avant-garde scene as he previews the Fluxus festival and asks questions of (then Paris-based) participant Benjamin Patterson, including about his approach to interpreting unconventional scores. Williams’s naïve posturing appears to be for the benefit of the readership of *The Stars and Stripes*: United States military personnel stationed abroad. Williams worked as editor for the newspaper, and he was not the only Fluxus affiliate to be employed by the US military. For a time, Patterson played in the Seventh Army Symphony, and George Maciunas worked as a graphic designer stationed with the US military base in Wiesbaden, where the watershed Fluxus festival was soon to take place. "
+    extended_caption: "Extended caption: This article, written by Emmett Williams, was published in advance of the first major Fluxus festival to take place at the Museum Wiesbaden, Germany, in September 1962. As one of the earliest journalistic accounts of Fluxus, it is remarkable on multiple accounts. Williams was a Fluxus insider, highly informed about the group’s activities, and yet he plays the role of a bemused novice to the avant-garde scene as he previews the Fluxus festival and asks questions of (then Paris-based) participant Benjamin Patterson, including about his approach to interpreting unconventional scores. Williams’s naïve posturing appears to be for the benefit of the readership of *The Stars and Stripes*: United States military personnel stationed abroad. Williams worked as editor for the newspaper, and he was not the only Fluxus affiliate to be employed by the US military. For a time, Patterson played in the Seventh Army Symphony, and George Maciunas worked as a graphic designer stationed with the US military base in Wiesbaden, where the watershed Fluxus festival was soon to take place."
     credit: ""
     type: [ press clipping ]
     figure: [ id: "fig-230" ]
@@ -3239,7 +3239,7 @@ object_list:
     id: "231"
     old_id: "4.24a"
     maker: 
-    title: "Photos of the Neo-Dada in der Musik festival, Kammerspiele, Düsseldorf "
+    title: "Photos of the Neo-Dada in der Musik festival, Kammerspiele, Düsseldorf"
     date: "1962"
     date_start: 1962-01-01
     date_end: 1962-12-31
@@ -3295,7 +3295,7 @@ object_list:
     id: "235"
     old_id: "4.25"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    title: "Portrait of Benjamin Patterson "
+    title: "Portrait of Benjamin Patterson"
     date: ""
     date_start: 
     date_end: 
@@ -3343,7 +3343,7 @@ object_list:
     date_end: 1962-12-31
     medium: "offset printed"
     location: "Getty Research Institute, 94-B19099"
-    extended_caption: "This preliminary edition of *An Anthology of Chance Operations* is a unique handbound example that predates the standard 1963 edition. It may have been assembled by George Maciunas, the book’s designer, as a bound proof. In this rare 1962 edition, the named copublishers are Maciunas and Mac Low, whereas the 1963 edition names Jackson Mac Low and La Monte Young. Also unlike the 1963 edition, this one contains text pieces by Robert Morris that Morris later removed while the collated yet unbound pages of *An Anthology* were being stored at his New York loft. Copies of the 1963 edition still include a Robert Morris title page but none of his scores, since the recto of that leaf is the last page of a Richard Maxfield essay and could not be removed. The copy of *An Anthology* reproduced here, therefore, is the most complete representation of this publication that exists, while also being distinct from all others in circulation.    "
+    extended_caption: "This preliminary edition of *An Anthology of Chance Operations* is a unique handbound example that predates the standard 1963 edition. It may have been assembled by George Maciunas, the book’s designer, as a bound proof. In this rare 1962 edition, the named copublishers are Maciunas and Mac Low, whereas the 1963 edition names Jackson Mac Low and La Monte Young. Also unlike the 1963 edition, this one contains text pieces by Robert Morris that Morris later removed while the collated yet unbound pages of *An Anthology* were being stored at his New York loft. Copies of the 1963 edition still include a Robert Morris title page but none of his scores, since the recto of that leaf is the last page of a Richard Maxfield essay and could not be removed. The copy of *An Anthology* reproduced here, therefore, is the most complete representation of this publication that exists, while also being distinct from all others in circulation.   "
     credit: ""
     type: [ score ]
     figure: [ id: "fig-238-a", id: "fig-238-b", id: "fig-238-c", id: "fig-238-d", id: "fig-238-e", id: "fig-238-f", id: "fig-238-g", id: "fig-238-h", id: "fig-238-i", id: "fig-238-j", id: "fig-238-k", id: "fig-238-l", id: "fig-238-m", id: "fig-238-n", id: "fig-238-o", id: "fig-238-p", id: "fig-238-q", id: "fig-238-r", id: "fig-238-s", id: "fig-238-t", id: "fig-238-u", id: "fig-238-v", id: "fig-238-w", id: "fig-238-x", id: "fig-238-y", id: "fig-238-z", id: "fig-238-aa", id: "fig-238-ab", id: "fig-238-ac", id: "fig-238-ad", id: "fig-238-ae", id: "fig-238-af", id: "fig-238-ag", id: "fig-238-ah", id: "fig-238-ai", id: "fig-238-aj", id: "fig-238-ak", id: "fig-238-al", id: "fig-238-am", id: "fig-238-an", id: "fig-238-ao", id: "fig-238-ap", id: "fig-238-aq", id: "fig-238-ar", id: "fig-238-as", id: "fig-238-at", id: "fig-238-au", id: "fig-238-av", id: "fig-238-aw", id: "fig-238-ax", id: "fig-238-ay", id: "fig-238-az", id: "fig-238-ba", id: "fig-238-bb", id: "fig-238-bc", id: "fig-238-bd", id: "fig-238-be", id: "fig-238-bf", id: "fig-238-bg", id: "fig-238-bh", id: "fig-238-bi", id: "fig-238-bj", id: "fig-238-bk", id: "fig-238-bl", id: "fig-238-bm", id: "fig-238-bn", id: "fig-238-bo", id: "fig-238-bp", id: "fig-238-bq", id: "fig-238-br", id: "fig-238-bs", id: "fig-238-bt" ]
@@ -3393,7 +3393,7 @@ object_list:
     id: "242"
     old_id: "5.02d"
     maker: [ "John Cage (American, 1912–92)" ]
-    title: '"Julia Holter performing Cage’s *45'' for a Speaker* (1954) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada "'
+    title: '"Julia Holter performing Cage’s *45'' for a Speaker* (1954) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"'
     date: "4 December 2021"
     date_start: 2021-12-04
     date_end: 2021-12-04
@@ -3407,7 +3407,7 @@ object_list:
     id: "243"
     old_id: "5.02e"
     maker: [ "Jackson Mac Low (American, 1922–2004)", "Simone Forti (American, b. 1935)" ]
-    title: "Phoebe Berglund and Andros Zins-Browne performing Forti’s dance realization of Mac Low’s *Asymmetry 222* (1980) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada "
+    title: "Phoebe Berglund and Andros Zins-Browne performing Forti’s dance realization of Mac Low’s *Asymmetry 222* (1980) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_start: 2021-12-04
     date_end: 2021-12-04
@@ -3421,7 +3421,7 @@ object_list:
     id: "244"
     old_id: "5.02f"
     maker: [ "Takehisa Kosugi (Japanese, 1938–2018)" ]
-    title: "Ezra Buchla performing Kosugi’s *Micro 1* (1961) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada "
+    title: "Ezra Buchla performing Kosugi’s *Micro 1* (1961) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_start: 2021-12-04
     date_end: 2021-12-04
@@ -3435,7 +3435,7 @@ object_list:
     id: "246"
     old_id: "5.02h"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada "
+    title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_start: 2021-12-04
     date_end: 2021-12-04
@@ -3449,7 +3449,7 @@ object_list:
     id: "247"
     old_id: "5.02i"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    title: "Corey Fogel and Luisa Muhr performing Brown’s *December 1952* (1952) on vibraphone as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada "
+    title: "Corey Fogel and Luisa Muhr performing Brown’s *December 1952* (1952) on vibraphone as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_start: 2021-12-04
     date_end: 2021-12-04
@@ -3477,7 +3477,7 @@ object_list:
     id: "249"
     old_id: "5.02k"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    title: "Corey Fogel, Celia Hollander, Julia Holter, and Tashi Wada performing Brecht’s *Motor Vehicle Sundown (Event)* (1960) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada "
+    title: "Corey Fogel, Celia Hollander, Julia Holter, and Tashi Wada performing Brecht’s *Motor Vehicle Sundown (Event)* (1960) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_start: 2021-12-04
     date_end: 2021-12-04
@@ -3525,7 +3525,7 @@ object_list:
     date_end: 1966-09-13
     medium: ""
     location: ""
-    extended_caption: "This recording of one of Jackson Mac Low’s scores included in *An Anthology* features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can hear the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry. "
+    extended_caption: "This recording of one of Jackson Mac Low’s scores included in *An Anthology* features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can hear the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry."
     credit: ""
     type: [ audio ]
     figure: [ id: "fig-252" ]
@@ -3791,7 +3791,7 @@ object_list:
     date_end: 
     medium: "photocopy of original correspondence"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 5"
-    extended_caption: "These letters show Maciunas’s frantic attempts to orchestrate and control Fluxus events from afar during his time working as a graphic designer at a U.S. military base in Wiesbaden, Germany. He discusses sending and receiving scores by mail, exploiting his access to inexpensive Army Post Office (APO) rates, and Higgins’s efforts to organize a Fluxus festival in Stockholm in March 1963, which, against Maciunas’s wishes, ultimately did take place. "
+    extended_caption: "These letters show Maciunas’s frantic attempts to orchestrate and control Fluxus events from afar during his time working as a graphic designer at a U.S. military base in Wiesbaden, Germany. He discusses sending and receiving scores by mail, exploiting his access to inexpensive Army Post Office (APO) rates, and Higgins’s efforts to organize a Fluxus festival in Stockholm in March 1963, which, against Maciunas’s wishes, ultimately did take place."
     credit: "Courtesy of Billie Maciunas "
     type: [ correspondence ]
     figure: [ id: "fig-271-a", id: "fig-271-b", id: "fig-271-c", id: "fig-271-d", id: "fig-271-e", id: "fig-271-f", id: "fig-271-g", id: "fig-271-h", id: "fig-271-i", id: "fig-271-j" ]
@@ -4029,7 +4029,7 @@ object_list:
     date_end: 
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "This miniature mock-up of *An Anthology* shows how Jackson Mac Low, La Monte Young, and George Maciunas approached the basic design of the publication, ordering page spreads and choosing different stocks of paper, samples of which are stapled to individual leaves throughout. "
+    extended_caption: "This miniature mock-up of *An Anthology* shows how Jackson Mac Low, La Monte Young, and George Maciunas approached the basic design of the publication, ordering page spreads and choosing different stocks of paper, samples of which are stapled to individual leaves throughout."
     credit: "© Estate of Jackson Mac Low"
     type: [ sketches and materials ]
     figure: [ id: "fig-288-a", id: "fig-288-b", id: "fig-288-c", id: "fig-288-d" ]
@@ -4043,7 +4043,7 @@ object_list:
     date_end: 1961-12-01
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-289" ]
@@ -4057,7 +4057,7 @@ object_list:
     date_end: 1962-02-20
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-290-a", id: "fig-290-b" ]
@@ -4071,7 +4071,7 @@ object_list:
     date_end: 1962-05-13
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-291" ]
@@ -4085,7 +4085,7 @@ object_list:
     date_end: 1962-08-22
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-292-a", id: "fig-292-b", id: "fig-292-c" ]
@@ -4099,7 +4099,7 @@ object_list:
     date_end: 1962-08-31
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-293" ]
@@ -4113,7 +4113,7 @@ object_list:
     date_end: 1962-10-31
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-294" ]
@@ -4127,7 +4127,7 @@ object_list:
     date_end: 1962-12-31
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-295" ]
@@ -4141,7 +4141,7 @@ object_list:
     date_end: 
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-296" ]
@@ -4155,7 +4155,7 @@ object_list:
     date_end: 1963-01-31
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-297-a", id: "fig-297-b" ]
@@ -4169,7 +4169,7 @@ object_list:
     date_end: 
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*.  "
+    extended_caption: "During the final stages of *An Anthology*’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, Germany, where he worked as a graphic designer for the United States military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: "Courtesy of Billie Maciunas "
     type: [ correspondence ]
     figure: [ id: "fig-298-a", id: "fig-298-b", id: "fig-298-c" ]
@@ -4518,7 +4518,7 @@ object_list:
     date_start: 
     date_end: 31 November–December 1960
     medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9 "
+    location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the official performances in Young and Ono’s loft series of 1960–61."
     credit: ""
     type: [ score ]
@@ -4555,7 +4555,7 @@ object_list:
     id: "326"
     old_id: "5.29d"
     maker: [ "Terry Jennings (American, 1940–81)" ]
-    title: "Letter from Terry Jennings to David Tudor on *Piano Piece* "
+    title: "Letter from Terry Jennings to David Tudor on *Piano Piece*"
     date: "November 1960"
     date_start: 1960-11-01
     date_end: 1960-11-30
@@ -4792,8 +4792,8 @@ object_list:
 -
     id: "343"
     old_id: "5.37"
-    maker: [ "Matsuzaki Kunitoshi " ]
-    title: "Photograph from a performance of John Cage’s *Music Walk* (1958), performed by John Cage, David Tudor, Yoko Ono, and Mayuzumi Toshirō, at Tokyo Bunka Kaikan Hall, Tokyo, Japan "
+    maker: [ "Matsuzaki Kunitoshi" ]
+    title: "Photograph from a performance of John Cage’s *Music Walk* (1958), performed by John Cage, David Tudor, Yoko Ono, and Mayuzumi Toshirō, at Tokyo Bunka Kaikan Hall, Tokyo, Japan"
     date: "9 October 1962"
     date_start: 1962-10-09
     date_end: 1962-10-09
@@ -4807,7 +4807,7 @@ object_list:
     id: "344"
     old_id: "6.01a"
     maker: 
-    title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY "
+    title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY"
     date: "summer 1958"
     date_start: summer 1958
     date_end: 
@@ -4965,7 +4965,7 @@ object_list:
     date: "2 November 2015"
     date_start: 2015-11-02
     date_end: 2015-11-02
-    medium: "digital video, 2:05 "
+    medium: "digital video, 2:05"
     location: ""
     extended_caption: "Following many decades of art historical and curatorial work centered on Fluxus performance, much now available online, event scores are more available to young practitioners than ever before. This video documents a group of five performers (Midori Kubota, Rina Matsuo, Konomi Araki, Chikae Akagi, Saika Tsurufusa) at Kobe College in Hyogo, Japan, who, under the direction of Kubota, creatively interpreted George Brecht’s *Drip Music (Drip Event* (1959–62) (specifically its second version: “dripping”) to include multiple performers and vessels. They perform the piece not in a concert hall but arrayed on an outdoor staircase, which takes the place of the conventional ladder. Their simple yet compelling realization, which Brecht likely would have appreciated, integrates the sounds of nature, other rehearsal activities at the school, and the sounds of people chatting and coming and going."
     credit: ""
@@ -5017,7 +5017,7 @@ object_list:
     id: "359"
     old_id: "6.12"
     maker: 
-    title: "Dick Higgins performing George Brecht’s *Drip Music (Drip Event)* (1959–62) at the festival *Fluxus/Musik og Anti-Musik/det Instrumentale Teater*, at Nikolaj Church, Copenhagen, Denmark "
+    title: "Dick Higgins performing George Brecht’s *Drip Music (Drip Event)* (1959–62) at the festival *Fluxus/Musik og Anti-Musik/det Instrumentale Teater*, at Nikolaj Church, Copenhagen, Denmark"
     date: "23 November 1962"
     date_start: 1962-11-23
     date_end: 1962-11-23
@@ -5639,7 +5639,7 @@ object_list:
     date_end: 1963-07-31
     medium: "letter"
     location: "Getty Research Institute, Mary Caroline Richards Papers, 960036, box 6, folder 6"
-    extended_caption: "This letter from George Brecht to M. C. Richards from July 1963 captures the particular kind of conversation Brecht was able to have with a poet about the carefully composed language of his event scores. Explaining his aversion to using articles and connectives, Brecht admits, “My own leaning is toward having as little as possible do as much as possible.” The rest is a beautiful meditation on his sense of the extraordinariness of the ordinary and banal, his feeling that “all moments are equally miraculous.” Brecht’s references to “the center” and “centering” evince an awareness of Richards’s book-in-progress, *Centering In Pottery, Poetry and the Person*, which would be published the following year. "
+    extended_caption: "This letter from George Brecht to M. C. Richards from July 1963 captures the particular kind of conversation Brecht was able to have with a poet about the carefully composed language of his event scores. Explaining his aversion to using articles and connectives, Brecht admits, “My own leaning is toward having as little as possible do as much as possible.” The rest is a beautiful meditation on his sense of the extraordinariness of the ordinary and banal, his feeling that “all moments are equally miraculous.” Brecht’s references to “the center” and “centering” evince an awareness of Richards’s book-in-progress, *Centering In Pottery, Poetry and the Person*, which would be published the following year."
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-403-a", id: "fig-403-b" ]
@@ -5927,7 +5927,7 @@ object_list:
     id: "424"
     old_id: "7.28"
     maker: 
-    title: "Poster for a “peace illumination walk” in sympathy with suffering in Vietnam "
+    title: "Poster for a “peace illumination walk” in sympathy with suffering in Vietnam"
     date: "23 December 1966"
     date_start: 1966-12-23
     date_end: 1966-12-23
@@ -6010,7 +6010,7 @@ object_list:
 -
     id: "430"
     old_id: "7.34"
-    maker: [ "Peter Zummo " ]
+    maker: [ "Peter Zummo" ]
     title: "“Words: Jackson Mac Low, The Brook,” *Soho Weekly News*"
     date: "8 April 1976"
     date_start: 1976-04-08
@@ -6141,9 +6141,9 @@ object_list:
     date: "April 1982"
     date_start: 1982-04-01
     date_end: 1982-04-30
-    medium: "video, 4:51 "
+    medium: "video, 4:51"
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 108, item V38"
-    extended_caption: "In this video created for Korean television broadcast, Rainer explains that although she is performing a solo initially choreographed in 1966, she has mainly abandoned live performance in favor of making films. When she made *Trio A*, the idea was to generate “a continuum of movement” that would incorporate many details and different parts of the body and performance space but would maintain a sense of “serene continuity.” She had worked on the dance for six months, and it became the first section of *The Mind Is a Muscle* (1966–68). In the video, which appears to be a rehearsal for a public performance of the dance, a confident, midcareer Rainer moves across the wooden floor in thoughtful and elegant movements, incorporating bends at various joints, slight pauses in poses, and rolls on the floor, rarely executing the same motion twice. When this video appeared in 1982, it demonstrated that Rainer’s international reputation as a dancer was solidified, at a time when she had already directed her energies elsewhere. "
+    extended_caption: "In this video created for Korean television broadcast, Rainer explains that although she is performing a solo initially choreographed in 1966, she has mainly abandoned live performance in favor of making films. When she made *Trio A*, the idea was to generate “a continuum of movement” that would incorporate many details and different parts of the body and performance space but would maintain a sense of “serene continuity.” She had worked on the dance for six months, and it became the first section of *The Mind Is a Muscle* (1966–68). In the video, which appears to be a rehearsal for a public performance of the dance, a confident, midcareer Rainer moves across the wooden floor in thoughtful and elegant movements, incorporating bends at various joints, slight pauses in poses, and rolls on the floor, rarely executing the same motion twice. When this video appeared in 1982, it demonstrated that Rainer’s international reputation as a dancer was solidified, at a time when she had already directed her energies elsewhere."
     credit: ""
     type: [ video ]
     figure: [ id: "fig-439" ]
@@ -6225,7 +6225,7 @@ object_list:
     date: "9 November 1970"
     date_start: 1970-11-09
     date_end: 1970-11-09
-    medium: "film transferred to digital video, 18:32 "
+    medium: "film transferred to digital video, 18:32"
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 125d, item DVD4"
     extended_caption: "Performing nude except for U.S. flags tied at their necks and draped over the fronts of their bodies, Rainer and five dancers from the Grand Union dance troupe perform *Trio A* for a solemn, attentive audience at the opening of *The People’s Flag Show*. Organized by Faith Ringgold, Jean Toche, and Jon Hendricks at Judson Memorial Church, the group exhibition was staged against the backdrop of the Vietnam War in response to repressive laws regarding the display and use of the American flag. (A few days later, the organizers were arrested and then acquitted on charges of desecrating the flag.) Rainer adapted the presentation of her preexisting dance *Trio A* to highlight the fraught relationship between the flag and the identity and humanity of those it purports to represent, as well as to combine multiple taboos into “a double-barreled attack on repression and censorship.” Surrounded by a multitude of artworks commenting on the flag, the dancers become objects of the spectators’ gaze as defined by the flag’s iconic design in ways akin to the audience members themselves, who are subjects similarly living under conditions defined by the American flag and all the causes it is used to justify."
     credit: ""
@@ -6297,7 +6297,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 10"
-    extended_caption: "These ephemera are related to Rainer’s multipart work *The Mind Is a Muscle*, of which *Trio A* is a part. They show the extent to which, of all the notation styles Rainer experimented with, straightforward linguistic description remained one of her favored methods. "
+    extended_caption: "These ephemera are related to Rainer’s multipart work *The Mind Is a Muscle*, of which *Trio A* is a part. They show the extent to which, of all the notation styles Rainer experimented with, straightforward linguistic description remained one of her favored methods."
     credit: ""
     type: [ sketches and materials ]
     figure: [ id: "fig-450-a", id: "fig-450-b", id: "fig-450-c", id: "fig-450-d", id: "fig-450-e", id: "fig-450-f", id: "fig-450-g", id: "fig-450-h", id: "fig-450-i", id: "fig-450-j", id: "fig-450-k", id: "fig-450-l", id: "fig-450-m", id: "fig-450-n", id: "fig-450-o", id: "fig-450-p", id: "fig-450-q" ]
@@ -6319,7 +6319,7 @@ object_list:
     id: "452"
     old_id: "8.18"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    title: "Score for *Satie for Two* "
+    title: "Score for *Satie for Two*"
     date: "1962"
     date_start: 1962-01-01
     date_end: 1962-12-31
@@ -6417,7 +6417,7 @@ object_list:
     id: "459"
     old_id: "8.21e"
     maker: [ "Jill Johnston (American, 1929–2010)" ]
-    title: "“Rainer’s Muscle,” *The Village Voice* "
+    title: "“Rainer’s Muscle,” *The Village Voice*"
     date: "18 April 1968"
     date_start: 1968-04-18
     date_end: 1968-04-18
@@ -6458,7 +6458,7 @@ object_list:
 -
     id: "462"
     old_id: "8.21h"
-    maker: [ "Joan B. Cass " ]
+    maker: [ "Joan B. Cass" ]
     title: "“Brandeis Offers Dance Contrasts,” *Boston Herald Traveler*"
     date: "16 January 1968"
     date_start: 1968-01-16
@@ -6521,7 +6521,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10"
-    extended_caption: "These notebook pages show Rainer using language as a tool to both deconstruct and rediscover the body’s possibilities for movement, much like the American sculptor Richard Serra would do in 1967 with his text piece *Verb List*, which spells out the available terms of his sculptural process. Rainer’s notes evoke the intertwined conversations between dance, object-making, poetry, and music in this time period and point to the underacknowledged influence of dance in particular on the minimal and postminimal art forms that would appear later in the decade. "
+    extended_caption: "These notebook pages show Rainer using language as a tool to both deconstruct and rediscover the body’s possibilities for movement, much like the American sculptor Richard Serra would do in 1967 with his text piece *Verb List*, which spells out the available terms of his sculptural process. Rainer’s notes evoke the intertwined conversations between dance, object-making, poetry, and music in this time period and point to the underacknowledged influence of dance in particular on the minimal and postminimal art forms that would appear later in the decade."
     credit: ""
     type: [ sketches and materials ]
     figure: [ id: "fig-466-a", id: "fig-466-b" ]
@@ -6619,7 +6619,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 8"
-    extended_caption: "This score for *Trio A* was created by notators trained in Labanotation, a form of dance notation first developed by the Austro-Hungarian dance theorist Rudolf von Laban in the 1920s. Labanotation remains the most widely used standardized form of dance notation that exists, although it has not been adopted to the extent that staff notation has in the discipline of music. In the main, dance practitioners rely on rehearsal, muscle memory, and body-to-body transmission alongside moving-image documentation and personal note-taking systems. Rainer has written: “If the thought of having *Trio A* Laban notated had ever crossed my mind, it was only with the conviction that such a venture would be quite impossible. The subtleties and dynamics of this dance, performed without the structuring support of a musical score, seemed outside the domain of any graphic notation system. But when the opportunity arose in conjunction with teaching *Trio A* at the Greenwich Dance Agency in the summer of 2003, I did not object; in fact, I was curious. The notators were Joukje Kolff and Melanie Clarke. Their intense devotion to and completion of the task have given rise to some ruminations about conservation and immortality” (Rainer, “*Trio A*: Genealogy, Documentation, Notation,” *Dance Research Journal* 41, no. 2 (Winter 2009): 16).  "
+    extended_caption: "This score for *Trio A* was created by notators trained in Labanotation, a form of dance notation first developed by the Austro-Hungarian dance theorist Rudolf von Laban in the 1920s. Labanotation remains the most widely used standardized form of dance notation that exists, although it has not been adopted to the extent that staff notation has in the discipline of music. In the main, dance practitioners rely on rehearsal, muscle memory, and body-to-body transmission alongside moving-image documentation and personal note-taking systems. Rainer has written: “If the thought of having *Trio A* Laban notated had ever crossed my mind, it was only with the conviction that such a venture would be quite impossible. The subtleties and dynamics of this dance, performed without the structuring support of a musical score, seemed outside the domain of any graphic notation system. But when the opportunity arose in conjunction with teaching *Trio A* at the Greenwich Dance Agency in the summer of 2003, I did not object; in fact, I was curious. The notators were Joukje Kolff and Melanie Clarke. Their intense devotion to and completion of the task have given rise to some ruminations about conservation and immortality” (Rainer, “*Trio A*: Genealogy, Documentation, Notation,” *Dance Research Journal* 41, no. 2 (Winter 2009): 16). "
     credit: ""
     type: [ score ]
     figure: [ id: "fig-473-a", id: "fig-473-b", id: "fig-473-c", id: "fig-473-d", id: "fig-473-e", id: "fig-473-f", id: "fig-473-g", id: "fig-473-h", id: "fig-473-i", id: "fig-473-j", id: "fig-473-k", id: "fig-473-l", id: "fig-473-m", id: "fig-473-n", id: "fig-473-o", id: "fig-473-p", id: "fig-473-q", id: "fig-473-r", id: "fig-473-s", id: "fig-473-t", id: "fig-473-u", id: "fig-473-v", id: "fig-473-w", id: "fig-473-x", id: "fig-473-y", id: "fig-473-z", id: "fig-473-aa", id: "fig-473-ab", id: "fig-473-ac", id: "fig-473-ad", id: "fig-473-ae", id: "fig-473-af", id: "fig-473-ag", id: "fig-473-ah", id: "fig-473-ai", id: "fig-473-aj", id: "fig-473-ak" ]
@@ -6661,7 +6661,7 @@ object_list:
     date_end: 1962-12-31
     medium: ""
     location: "external"
-    extended_caption: "This photograph shows Alison Knowles (second from right, holding a plate) during the premiere of what she considered to be her first score, *#2—Proposition*, which reads simply, “Make a salad.” This first realization occurred at the Institute for Contemporary Arts in London on 21 October  1962, one stop on the inaugural Fluxus concert tour through Europe. Knowles prepared a giant green salad with fresh ingredients and served it to the ICA audience. Living out of a suitcase on tour, Knowles had to improvise her kitchen tools. Here she borrowed a pickle barrel to serve as a mixing bowl from the classic British food emporium Crosse & Blackwell. "
+    extended_caption: "This photograph shows Alison Knowles (second from right, holding a plate) during the premiere of what she considered to be her first score, *#2—Proposition*, which reads simply, “Make a salad.” This first realization occurred at the Institute for Contemporary Arts in London on 21 October  1962, one stop on the inaugural Fluxus concert tour through Europe. Knowles prepared a giant green salad with fresh ingredients and served it to the ICA audience. Living out of a suitcase on tour, Knowles had to improvise her kitchen tools. Here she borrowed a pickle barrel to serve as a mixing bowl from the classic British food emporium Crosse & Blackwell."
     credit: "Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY; © Alison Knowles"
     type: [ photograph ]
     figure: [ id: "fig-476" ]
@@ -6703,7 +6703,7 @@ object_list:
     date_end: 
     medium: ""
     location: ""
-    extended_caption: "Knowles first published the score for *The Identical Lunch* in the last issue of *The Outsider*, a primarily Beat literary magazine published in small batches by Gypsy Lou and Jon Edgar Webb of the Loujon Press in New Orleans. Knowles’s text is joined by the work of colleagues Allan Kaprow, Dick Higgins, Jackson Mac Low, and Emmett Williams, but the more numerous texts by Beat writers in the issue strike an instructive counterpoint to Knowles’s quasi-objective and seemingly systematic reporting. While the Beat writers similarly dwell on everyday life in artist enclaves and working-class neighborhoods, they do so in a lyrical and markedly subjective way. "
+    extended_caption: "Knowles first published the score for *The Identical Lunch* in the last issue of *The Outsider*, a primarily Beat literary magazine published in small batches by Gypsy Lou and Jon Edgar Webb of the Loujon Press in New Orleans. Knowles’s text is joined by the work of colleagues Allan Kaprow, Dick Higgins, Jackson Mac Low, and Emmett Williams, but the more numerous texts by Beat writers in the issue strike an instructive counterpoint to Knowles’s quasi-objective and seemingly systematic reporting. While the Beat writers similarly dwell on everyday life in artist enclaves and working-class neighborhoods, they do so in a lyrical and markedly subjective way."
     credit: ""
     type: [ score ]
     figure: [ id: "fig-479-a", id: "fig-479-b", id: "fig-479-c" ]
@@ -6729,7 +6729,7 @@ object_list:
     date: "5 May 2012"
     date_start: 2012-05-05
     date_end: 2012-05-05
-    medium: "video, 8:34 "
+    medium: "video, 8:34"
     location: ""
     extended_caption: "This video documents the premiere of Alison Knowles’s *Identical Lunch Symphony* on 5 May 2012 at the Logan Center for the Arts at the University of Chicago. Knowles devised this realization on the basis of George Maciunas’s previously unrealized proposal to blend the components of *The Identical Lunch* to make a kind of fish soup. For this realization, she enlisted some friends and a group of students at the University of Chicago and the University of Illinois at Chicago. Each participant brought a blender and pressed the buttons in response to Knowles’s conductor’s gestures. Each blender emitted a distinct whirr, depending on age, brand, model, etc. At the end of the symphony, Knowles and the participants served the mixture in paper cups to the audience members, only some of whom were willing to try it."
     credit: "Courtesy of the Smart Museum of Art."
@@ -6743,9 +6743,9 @@ object_list:
     date: "2012"
     date_start: 2012-01-01
     date_end: 2012-12-31
-    medium: "video, 4:10 "
+    medium: "video, 4:10"
     location: ""
-    extended_caption: "This video was produced on the occasion of the Smart Museum of Art’s exhibition *Feast: Radical Hospitality in Contemporary Art*. "
+    extended_caption: "This video was produced on the occasion of the Smart Museum of Art’s exhibition *Feast: Radical Hospitality in Contemporary Art*."
     credit: "Courtesy of the Smart Museum of Art."
     type: [ video ]
     figure: [ id: "fig-482" ]
@@ -6843,7 +6843,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 36"
-    extended_caption: "Alison Knowles’s career as an artist began before the women’s movement. In retrospect, she and others have identified a feminist impulse in her early work that involved making and serving food. But her sense of herself as a woman artist, one who might seek out collaborations and solidarities with other women, emerged after teaching at CalArts in the early 1970s, where Judy Chicago and Miriam Schapiro developed the Feminist Art Program. As she recalled later in an interview with former student Aviva Rahmani, Knowles’s experience at CalArts “forced me to take a harder look at myself and what my own history had been” (Aviva Rahmani, “Alison Knowles: An Interview,” in *M/E/A/N/I/N/G: An Anthology of Artists’ Writings, Theory, and Criticism*, ed. Susan Bee and Mira Schor (Durham, NC, and London: Duke University Press, 2000), 364) Still, Knowles remained committed to collaborating with and mentoring artists of all genders, and this led to her occasional feeling of estrangement from the Feminist Art Program, which insisted on women-only cohorts and curricula. In this letter to collector Jean Brown, written sometime after Knowles returned to New York from California, one can see Knowles’s excitement about creating both a women’s household with Bici Forbes (Nye Ffarrabas), and a women’s avant-garde publication with Anna (now Annea) Lockwood. At the same time, however, Knowles stakes a position in opposition to “the partisanship within the women’s movement.” The *Womens Work* magazine she pitches here came to fruition in 1975; a second issue was published in 1978. "
+    extended_caption: "Alison Knowles’s career as an artist began before the women’s movement. In retrospect, she and others have identified a feminist impulse in her early work that involved making and serving food. But her sense of herself as a woman artist, one who might seek out collaborations and solidarities with other women, emerged after teaching at CalArts in the early 1970s, where Judy Chicago and Miriam Schapiro developed the Feminist Art Program. As she recalled later in an interview with former student Aviva Rahmani, Knowles’s experience at CalArts “forced me to take a harder look at myself and what my own history had been” (Aviva Rahmani, “Alison Knowles: An Interview,” in *M/E/A/N/I/N/G: An Anthology of Artists’ Writings, Theory, and Criticism*, ed. Susan Bee and Mira Schor (Durham, NC, and London: Duke University Press, 2000), 364) Still, Knowles remained committed to collaborating with and mentoring artists of all genders, and this led to her occasional feeling of estrangement from the Feminist Art Program, which insisted on women-only cohorts and curricula. In this letter to collector Jean Brown, written sometime after Knowles returned to New York from California, one can see Knowles’s excitement about creating both a women’s household with Bici Forbes (Nye Ffarrabas), and a women’s avant-garde publication with Anna (now Annea) Lockwood. At the same time, however, Knowles stakes a position in opposition to “the partisanship within the women’s movement.” The *Womens Work* magazine she pitches here came to fruition in 1975; a second issue was published in 1978."
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-489" ]
@@ -6921,7 +6921,7 @@ object_list:
     id: "495"
     old_id: "9.21"
     maker: 
-    title: "Xerox of “Alison Knowles,” in Miriam Shapiro’s *Art: A Woman’s Sensibility* (Valencia, CA: CalArts, 1975), 36 "
+    title: "Xerox of “Alison Knowles,” in Miriam Shapiro’s *Art: A Woman’s Sensibility* (Valencia, CA: CalArts, 1975), 36"
     date: ""
     date_start: 
     date_end: 
@@ -7165,7 +7165,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 94-B16117"
-    extended_caption: "Knowles has always shared authorship of *The Identical Lunch* with the composer Philip Corner. As she writes in the introduction to this book, “Philip midwifed if not actually preconceived *The Identical Lunch*. . . .He caught me eating the same lunch at the same time at the same place each day. From that day on, the experience was elevated into a formal score.” Inspired by Knowles’s formalization, performance, and documentation of eating the lunch, Corner, in turn, undertook a parallel project at Riss Foods. He decided to realize Knowles’s score by ordering everything on the menu, “starting from ‘tunafish,’ which is the third down on the board, mov[ing] down the left, then up the right side of that board, and then on to the other boards which offer, for example, hot plates, salads, etc.” Many complications ensue and ethical decisions have to be made as the diner menu is rewritten and inconsistencies appear. Corner records his thinking about all that in this book, which sometimes addresses Knowles directly, thereby staging a conversation of sorts between this book and Knowles’s *Journal of the Identical Lunch*. "
+    extended_caption: "Knowles has always shared authorship of *The Identical Lunch* with the composer Philip Corner. As she writes in the introduction to this book, “Philip midwifed if not actually preconceived *The Identical Lunch*. . . .He caught me eating the same lunch at the same time at the same place each day. From that day on, the experience was elevated into a formal score.” Inspired by Knowles’s formalization, performance, and documentation of eating the lunch, Corner, in turn, undertook a parallel project at Riss Foods. He decided to realize Knowles’s score by ordering everything on the menu, “starting from ‘tunafish,’ which is the third down on the board, mov[ing] down the left, then up the right side of that board, and then on to the other boards which offer, for example, hot plates, salads, etc.” Many complications ensue and ethical decisions have to be made as the diner menu is rewritten and inconsistencies appear. Corner records his thinking about all that in this book, which sometimes addresses Knowles directly, thereby staging a conversation of sorts between this book and Knowles’s *Journal of the Identical Lunch*."
     credit: ""
     type: [ score ]
     figure: [ id: "fig-512-a", id: "fig-512-b", id: "fig-512-c", id: "fig-512-d", id: "fig-512-e", id: "fig-512-f", id: "fig-512-g", id: "fig-512-h", id: "fig-512-i", id: "fig-512-j", id: "fig-512-k", id: "fig-512-l", id: "fig-512-m", id: "fig-512-n", id: "fig-512-o", id: "fig-512-p", id: "fig-512-q", id: "fig-512-r", id: "fig-512-s", id: "fig-512-t", id: "fig-512-u", id: "fig-512-v", id: "fig-512-w", id: "fig-512-x", id: "fig-512-y", id: "fig-512-z", id: "fig-512-aa", id: "fig-512-ab", id: "fig-512-ac", id: "fig-512-ad", id: "fig-512-ae", id: "fig-512-af", id: "fig-512-ag", id: "fig-512-ah", id: "fig-512-ai", id: "fig-512-aj", id: "fig-512-ak", id: "fig-512-al", id: "fig-512-am", id: "fig-512-an", id: "fig-512-ao", id: "fig-512-ap", id: "fig-512-aq", id: "fig-512-ar", id: "fig-512-as", id: "fig-512-at", id: "fig-512-au", id: "fig-512-av", id: "fig-512-aw", id: "fig-512-ax", id: "fig-512-ay", id: "fig-512-az", id: "fig-512-ba", id: "fig-512-bb", id: "fig-512-bc", id: "fig-512-bd", id: "fig-512-be", id: "fig-512-bf", id: "fig-512-bg", id: "fig-512-bh", id: "fig-512-bi", id: "fig-512-bj", id: "fig-512-bk", id: "fig-512-bl", id: "fig-512-bm" ]
@@ -7215,7 +7215,7 @@ object_list:
     id: "516"
     old_id: "10.02"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    title: "*Direction Music for Fingers* "
+    title: "*Direction Music for Fingers*"
     date: "September 1964"
     date_start: 1964-09-01
     date_end: 1964-09-30
@@ -7341,7 +7341,7 @@ object_list:
     id: "525"
     old_id: "10.18"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    title: "Object edition of *Spatial Poem No. 1 (Word Event)* "
+    title: "Object edition of *Spatial Poem No. 1 (Word Event)*"
     date: "1965"
     date_start: 1965-01-01
     date_end: 1965-12-31
@@ -7355,7 +7355,7 @@ object_list:
     id: "526"
     old_id: "10.19"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    title: "Object edition of *Spatial Poem No. 2 (Direction Event)* "
+    title: "Object edition of *Spatial Poem No. 2 (Direction Event)*"
     date: "1966"
     date_start: 1966-01-01
     date_end: 1966-12-31
@@ -7369,13 +7369,13 @@ object_list:
     id: "527"
     old_id: "10.20"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    title: "Object edition of *Spatial Poem No. 3 (a fluxcalender)* "
+    title: "Object edition of *Spatial Poem No. 3 (a fluxcalender)*"
     date: "1968"
     date_start: 1968-01-01
     date_end: 1968-12-31
     medium: "two sets of printed calendar pages (14 x 10.8 cm), one housed loose inside a wood box with a hinged lid and metal clasp, the other bolted into book form on a strap of leather"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 223"
-    extended_caption: "Departing from the map-based designs of *Spatial Poem No. 1* and *Spatial Poem No. 2*, George Maciunas designed for *No. 3 (Falling Event)* a day calendar made of four simple bolts driven through a piece of leather to be mounted on a wall. The more than one hundred individual pages of the calendar, hung on the top two bolts, could then “fall” down to the bottom two bolts, or off the calendar altogether. Each page represents one realization of Shiomi’s event, originally performed between June and August of 1966. This calendar would surely be an erratic way to mark time, as many days are either repeated or missing. "
+    extended_caption: "Departing from the map-based designs of *Spatial Poem No. 1* and *Spatial Poem No. 2*, George Maciunas designed for *No. 3 (Falling Event)* a day calendar made of four simple bolts driven through a piece of leather to be mounted on a wall. The more than one hundred individual pages of the calendar, hung on the top two bolts, could then “fall” down to the bottom two bolts, or off the calendar altogether. Each page represents one realization of Shiomi’s event, originally performed between June and August of 1966. This calendar would surely be an erratic way to mark time, as many days are either repeated or missing."
     credit: ""
     type: [ artwork ]
     figure: [ id: "fig-527" ]
@@ -7383,7 +7383,7 @@ object_list:
     id: "528"
     old_id: "10.21"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    title: "Object edition of *Spatial Poem No. 4 (a fluxmovie)* "
+    title: "Object edition of *Spatial Poem No. 4 (a fluxmovie)*"
     date: "1973"
     date_start: 1973-01-01
     date_end: 1973-12-31
@@ -7453,7 +7453,7 @@ object_list:
     id: "533"
     old_id: "10.25"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1963"
     date_start: 
     date_end: 
@@ -7467,7 +7467,7 @@ object_list:
     id: "534"
     old_id: "10.26"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "fall 1965"
     date_start: fall 1965
     date_end: 
@@ -7481,7 +7481,7 @@ object_list:
     id: "535"
     old_id: "10.27"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1965"
     date_start: 
     date_end: 
@@ -7495,7 +7495,7 @@ object_list:
     id: "536"
     old_id: "10.28"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1965"
     date_start: 
     date_end: 
@@ -7509,13 +7509,13 @@ object_list:
     id: "537"
     old_id: "10.29"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "1966"
     date_start: 1966-01-01
     date_end: 1966-12-31
     medium: "photocopy of typewritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
-    extended_caption: "This letter comments on George Maciunas’s proposal for the object edition documenting *Spatial Poem No. 2 (Direction Event)* (1965), which eventually took the form of a large map. Shiomi implies that her manner of transmitting participants’ reports to Maciunas was to retype their texts into an edited compilation, indicating that she favored concise textual descriptions of individual performances and did not always reproduce word for word the reports she received. "
+    extended_caption: "This letter comments on George Maciunas’s proposal for the object edition documenting *Spatial Poem No. 2 (Direction Event)* (1965), which eventually took the form of a large map. Shiomi implies that her manner of transmitting participants’ reports to Maciunas was to retype their texts into an edited compilation, indicating that she favored concise textual descriptions of individual performances and did not always reproduce word for word the reports she received."
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-537-a", id: "fig-537-b", id: "fig-537-c" ]
@@ -7523,7 +7523,7 @@ object_list:
     id: "538"
     old_id: "10.30"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
     date_start: 
     date_end: 
@@ -7551,7 +7551,7 @@ object_list:
     id: "540"
     old_id: "10.32"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "1966"
     date_start: 1966-01-01
     date_end: 1966-12-31
@@ -7565,7 +7565,7 @@ object_list:
     id: "541"
     old_id: "10.33"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
     date_start: 
     date_end: 
@@ -7579,7 +7579,7 @@ object_list:
     id: "542"
     old_id: "10.34"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
     date_start: 
     date_end: 
@@ -7593,13 +7593,13 @@ object_list:
     id: "543"
     old_id: "10.35"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
     date_start: 
     date_end: 
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
-    extended_caption: "This letter critically responds to George Maciunas’s 1965 historical diagram and manifesto-like statement, *Fluxus (Its Historical Development and Relationship to Avant-Garde Movements)*. It stands as Shiomi’s most explicit rebuke to Maciunas about his delimited vision and “rough and autocratic” manner in organizing Fluxus publications and events, which she warns may lead to “social suicide.” Citing the historical example of André Breton’s role in the demise of French Surrealism, she advocates a vision of Fluxus success in which “many artists have to be spontaneously co-operative having the same aim and desire”—a model that in many ways corresponds to the structure of her *Spatial Poem* series. "
+    extended_caption: "This letter critically responds to George Maciunas’s 1965 historical diagram and manifesto-like statement, *Fluxus (Its Historical Development and Relationship to Avant-Garde Movements)*. It stands as Shiomi’s most explicit rebuke to Maciunas about his delimited vision and “rough and autocratic” manner in organizing Fluxus publications and events, which she warns may lead to “social suicide.” Citing the historical example of André Breton’s role in the demise of French Surrealism, she advocates a vision of Fluxus success in which “many artists have to be spontaneously co-operative having the same aim and desire”—a model that in many ways corresponds to the structure of her *Spatial Poem* series."
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-543-a", id: "fig-543-b", id: "fig-543-c" ]
@@ -7607,13 +7607,13 @@ object_list:
     id: "544"
     old_id: "10.36"
     maker: 
-    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas "
+    title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1968"
     date_start: 
     date_end: 
     medium: "handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
-    extended_caption: "Following the completion of *Spatial Poem No. 3 (Falling Event)*, Shiomi sent George Maciunas a list of additional contributors who had been incorporated into the project by the time *Spatial Poem No. 4 (Shadow Event)* launched. The letter also includes mention of the Massachusetts-based collector of Dada and Surrealist ephemera Jean Brown, who recognized the importance of Fluxus among other contemporaneous neo-avant-garde tendencies and was beginning to collect works directly from artists.  "
+    extended_caption: "Following the completion of *Spatial Poem No. 3 (Falling Event)*, Shiomi sent George Maciunas a list of additional contributors who had been incorporated into the project by the time *Spatial Poem No. 4 (Shadow Event)* launched. The letter also includes mention of the Massachusetts-based collector of Dada and Surrealist ephemera Jean Brown, who recognized the importance of Fluxus among other contemporaneous neo-avant-garde tendencies and was beginning to collect works directly from artists. "
     credit: ""
     type: [ correspondence ]
     figure: [ id: "fig-544-a", id: "fig-544-b", id: "fig-544-c", id: "fig-544-d" ]
@@ -7621,7 +7621,7 @@ object_list:
     id: "545"
     old_id: "10.37"
     maker: 
-    title: "Postcard from Mieko Shiomi to George Maciunas "
+    title: "Postcard from Mieko Shiomi to George Maciunas"
     date: "ca. 1968"
     date_start: 
     date_end: 
@@ -7635,7 +7635,7 @@ object_list:
     id: "546"
     old_id: "10.38"
     maker: 
-    title: "Letter from Mieko Shiomi to George Maciunas "
+    title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1968"
     date_start: 
     date_end: 
@@ -7649,7 +7649,7 @@ object_list:
     id: "547"
     old_id: "10.39"
     maker: 
-    title: "Letter from Mieko Shiomi to George Maciunas "
+    title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1971"
     date_start: 
     date_end: 
@@ -7663,7 +7663,7 @@ object_list:
     id: "548"
     old_id: "10.40"
     maker: 
-    title: "Postcard from Mieko Shiomi to George Maciunas "
+    title: "Postcard from Mieko Shiomi to George Maciunas"
     date: "1971"
     date_start: 1971-01-01
     date_end: 1971-12-31
@@ -7677,7 +7677,7 @@ object_list:
     id: "549"
     old_id: "10.41"
     maker: 
-    title: "Letter from Mieko Shiomi to George Maciunas "
+    title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
     date_start: 
     date_end: 
@@ -7691,7 +7691,7 @@ object_list:
     id: "550"
     old_id: "10.42"
     maker: 
-    title: "Letter from Mieko Shiomi to George Maciunas "
+    title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
     date_start: 
     date_end: 
@@ -7705,7 +7705,7 @@ object_list:
     id: "551"
     old_id: "10.43"
     maker: 
-    title: "Letter from Mieko Shiomi to George Maciunas "
+    title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
     date_start: 
     date_end: 
@@ -7719,7 +7719,7 @@ object_list:
     id: "552"
     old_id: "10.44"
     maker: 
-    title: "Letter from Mieko Shiomi to George Maciunas "
+    title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
     date_start: 
     date_end: 
@@ -7733,7 +7733,7 @@ object_list:
     id: "553"
     old_id: "10.45"
     maker: 
-    title: "Letter from Mieko Shiomi to George Maciunas "
+    title: "Letter from Mieko Shiomi to George Maciunas"
     date: "1972"
     date_start: 1972-01-01
     date_end: 1972-12-31
@@ -7747,7 +7747,7 @@ object_list:
     id: "554"
     old_id: "10.46"
     maker: 
-    title: "Letter from Mieko Shiomi to George Maciunas "
+    title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1974"
     date_start: 
     date_end: 
@@ -7765,7 +7765,7 @@ object_list:
     date: "2021"
     date_start: 2021-01-01
     date_end: 2021-12-31
-    medium: "digital video, 18:17 "
+    medium: "digital video, 18:17"
     location: ""
     extended_caption: "The original instructions for *Mirror Piece* (1963) by Mieko Shiomi read: ¶ Stand on the sandy beach with your back to the sea. ¶ Hold a mirror before your face and look in it. ¶ Then step back to the sea and enter into the water. ¶ Here the piece is performed by Tatiana Luboviski-Acosta, Taylor Doran, Yvonne Tam, and Dicky Bahto at various locations along the Pacific coast."
     credit: ""
@@ -7775,13 +7775,13 @@ object_list:
     id: "556"
     old_id: "11.01a"
     maker: 
-    title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY "
+    title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY"
     date: "summer 1958"
     date_start: summer 1958
     date_end: 
     medium: ""
     location: "external"
-    extended_caption: "John Cage taught experimental composition at the New School for Social Research multiple times between 1956 and 1960. This photograph shows the catalytic Summer 1958 cohort, which included Jackson Mac Low (fourth from left), Allan Kaprow (in the back row, second from right), George Brecht (in the back row, right, elbow visible), Al Hansen (center, with tie), and Dick Higgins. Each week, Cage asked the students to compose a score in response to a prompt, which might specify readymade “instruments” (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, students realize an Al Hansen assignment using a portable collection of noisy toys—whirler tube, cat-meow, and bicycle bell, among others. Kaprow took Cage’s course more often than anyone else and affirmed several times that he created what he considered to be his first happenings (avant la lettre) as assignments for Cage’s class. "
+    extended_caption: "John Cage taught experimental composition at the New School for Social Research multiple times between 1956 and 1960. This photograph shows the catalytic Summer 1958 cohort, which included Jackson Mac Low (fourth from left), Allan Kaprow (in the back row, second from right), George Brecht (in the back row, right, elbow visible), Al Hansen (center, with tie), and Dick Higgins. Each week, Cage asked the students to compose a score in response to a prompt, which might specify readymade “instruments” (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, students realize an Al Hansen assignment using a portable collection of noisy toys—whirler tube, cat-meow, and bicycle bell, among others. Kaprow took Cage’s course more often than anyone else and affirmed several times that he created what he considered to be his first happenings (avant la lettre) as assignments for Cage’s class."
     credit: ""
     type: [ photograph ]
     figure: [ id: "fig-556" ]
@@ -7795,7 +7795,7 @@ object_list:
     date_end: 
     medium: ""
     location: "external"
-    extended_caption: "John Cage taught experimental composition at the New School for Social Research multiple times between 1956 and 1960. This photograph shows the catalytic Summer 1958 cohort, which included Allan Kaprow (seated, right), George Brecht (seated, left), Al Hansen (standing), Jackson Mac Low, and Dick Higgins. Each week Cage asked the students to compose a score in response to a prompt, which might specify readymade “instruments” (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, Kaprow and Brecht talk to Hansen about realizing his score for a portable collection of noisy toys—whirler tube, cat-meow, and bicycle bell, among others. Kaprow took Cage’s course more often than anyone else and affirmed several times that he created what he considered to be his first happenings (avant la lettre) as assignments for this class. "
+    extended_caption: "John Cage taught experimental composition at the New School for Social Research multiple times between 1956 and 1960. This photograph shows the catalytic Summer 1958 cohort, which included Allan Kaprow (seated, right), George Brecht (seated, left), Al Hansen (standing), Jackson Mac Low, and Dick Higgins. Each week Cage asked the students to compose a score in response to a prompt, which might specify readymade “instruments” (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, Kaprow and Brecht talk to Hansen about realizing his score for a portable collection of noisy toys—whirler tube, cat-meow, and bicycle bell, among others. Kaprow took Cage’s course more often than anyone else and affirmed several times that he created what he considered to be his first happenings (avant la lettre) as assignments for this class."
     credit: ""
     type: [ photograph ]
     figure: [ id: "fig-557" ]
@@ -7809,7 +7809,7 @@ object_list:
     date_end: 
     medium: ""
     location: "external"
-    extended_caption: "John Cage taught experimental composition at the New School for Social Research multiple times between 1956 and 1960. This photograph shows Jackson Mac Low (right) and Dick Higgins (left), two students in the catalytic Summer 1958 cohort, which also included Allan Kaprow, George Brecht, and Al Hansen. Each week, Cage asked the students to compose a score in response to a prompt, which might specify readymade “instruments” (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, Higgins and Mac Low play a toy battleship and whirler tube, respectively, in a realization of an Al Hansen composition created in response to one of Cage’s assignments. "
+    extended_caption: "John Cage taught experimental composition at the New School for Social Research multiple times between 1956 and 1960. This photograph shows Jackson Mac Low (right) and Dick Higgins (left), two students in the catalytic Summer 1958 cohort, which also included Allan Kaprow, George Brecht, and Al Hansen. Each week, Cage asked the students to compose a score in response to a prompt, which might specify readymade “instruments” (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, Higgins and Mac Low play a toy battleship and whirler tube, respectively, in a realization of an Al Hansen composition created in response to one of Cage’s assignments."
     credit: ""
     type: [ photograph ]
     figure: [ id: "fig-558" ]
@@ -7845,7 +7845,7 @@ object_list:
     id: "561"
     old_id: "11.03"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "Detail of part 4 of the printed program for *Routine* "
+    title: "Detail of part 4 of the printed program for *Routine*"
     date: "1973"
     date_start: 1973-01-01
     date_end: 1973-12-31
@@ -8047,7 +8047,7 @@ object_list:
     date_end: 1975-12-31
     medium: "1 film reel (16mm), sd., b/w"
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F48"
-    extended_caption: "The program for *Comfort Zones* makes it seems difficult film, since so much of the notations call for actions that are radically internal, such as thinking and sensing. When the program has the performers communicate their thoughts and feelings, they say only “now”—a word that expresses little and yet emphasizes the non-coincidence of the “now” of the recording and the “now” of the screening. At the same time, however, *Comfort Zones* has an intensity and visceral quality due to Kaprow’s deliberately stylized film grammar, which includes extreme close-ups and slow motion. Kaprow’s detailed shooting script can be viewed in the Archive section of this chapter, along with the activity booklet and the programs, in Spanish and English, that were used in this Madrid realization. "
+    extended_caption: "The program for *Comfort Zones* makes it seems difficult film, since so much of the notations call for actions that are radically internal, such as thinking and sensing. When the program has the performers communicate their thoughts and feelings, they say only “now”—a word that expresses little and yet emphasizes the non-coincidence of the “now” of the recording and the “now” of the screening. At the same time, however, *Comfort Zones* has an intensity and visceral quality due to Kaprow’s deliberately stylized film grammar, which includes extreme close-ups and slow motion. Kaprow’s detailed shooting script can be viewed in the Archive section of this chapter, along with the activity booklet and the programs, in Spanish and English, that were used in this Madrid realization."
     credit: ""
     type: [ score, video ]
     figure: [ id: "fig-575" ]
@@ -8117,7 +8117,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 4, folder 13"
-    extended_caption: "Kaprow composed this score while he was attending John Cage’s experimental composition course at the New School for Social Research. By taxonomizing and then scoring behavior that is ordinarily involuntary (coughing, clearing one’s throat), Kaprow explores Cage’s ideal of non-intentionality in a comic mode. Cage himself could sometimes be a subtly comic performer, making use of puns and deadpan in some of his performance lectures. "
+    extended_caption: "Kaprow composed this score while he was attending John Cage’s experimental composition course at the New School for Social Research. By taxonomizing and then scoring behavior that is ordinarily involuntary (coughing, clearing one’s throat), Kaprow explores Cage’s ideal of non-intentionality in a comic mode. Cage himself could sometimes be a subtly comic performer, making use of puns and deadpan in some of his performance lectures."
     credit: "GRI"
     type: [ score ]
     figure: [ id: "fig-580" ]
@@ -8145,7 +8145,7 @@ object_list:
     date_end: 1958-12-31
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 5, folder 2"
-    extended_caption: "This script for Kaprow’s recorded speech offers a trenchant critique of the idea that humans are capable of communicating information seamlessly and immediately, like machines. He asks: How can one access another person’s experience except through highly formulaic phrases and gestures, which ipso facto falsify that experience? Kaprow’s paradoxical conclusion that “the only ‘communication’ that interests me is the communication of non-communication” resonates with many of his activities of the 1970s. "
+    extended_caption: "This script for Kaprow’s recorded speech offers a trenchant critique of the idea that humans are capable of communicating information seamlessly and immediately, like machines. He asks: How can one access another person’s experience except through highly formulaic phrases and gestures, which ipso facto falsify that experience? Kaprow’s paradoxical conclusion that “the only ‘communication’ that interests me is the communication of non-communication” resonates with many of his activities of the 1970s."
     credit: "GRI"
     type: [ score ]
     figure: [ id: "fig-582-a", id: "fig-582-b" ]
@@ -8159,7 +8159,7 @@ object_list:
     date_end: 1958-12-31
     medium: ""
     location: "Rutgers University Libraries, Special Collections and University Archives"
-    extended_caption: "The entire student body of Douglass College was required to attend all of the lectures given as part of the annual Voorhees Assembly. "
+    extended_caption: "The entire student body of Douglass College was required to attend all of the lectures given as part of the annual Voorhees Assembly."
     credit: ""
     type: [ archival materials ]
     figure: [ id: "fig-583" ]
@@ -8187,7 +8187,7 @@ object_list:
     date_end: 1964-12-31
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 9, folder 6"
-    extended_caption: "This happening was commissioned by Florida State University for the Eighteenth Annual Symposium at the Ringling Museum of Art, in Sarasota, Florida, 1–4 February 1965. In this score, Kaprow sets up an equivalence between natural and social cycles. In the mid-1960s Kaprow engaged with structural anthropology and the study of ritual, and in his notes for the *Soap* briefing, he even went so far as to call it an “archaic purification rite,” seemingly without irony. But in asking student participants to urinate and bury one another in sand while naked, Kaprow violated fundamental taboos. As a result, the happening was canceled. Nevertheless, a graduate student named Robert Carter decided to realize the score, and he wrote a letter to Kaprow about his experience, which is also included in the Archive section of this chapter. "
+    extended_caption: "This happening was commissioned by Florida State University for the Eighteenth Annual Symposium at the Ringling Museum of Art, in Sarasota, Florida, 1–4 February 1965. In this score, Kaprow sets up an equivalence between natural and social cycles. In the mid-1960s Kaprow engaged with structural anthropology and the study of ritual, and in his notes for the *Soap* briefing, he even went so far as to call it an “archaic purification rite,” seemingly without irony. But in asking student participants to urinate and bury one another in sand while naked, Kaprow violated fundamental taboos. As a result, the happening was canceled. Nevertheless, a graduate student named Robert Carter decided to realize the score, and he wrote a letter to Kaprow about his experience, which is also included in the Archive section of this chapter."
     credit: "GRI"
     type: [ score ]
     figure: [ id: "fig-585-a", id: "fig-585-b", id: "fig-585-c" ]
@@ -8257,7 +8257,7 @@ object_list:
     date_end: 1965-02-01
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 9, folder 6"
-    extended_caption: "When Kaprow was commissioned to compose and present a happening at a university, as he often was in the mid- to late-1960s, he would typically start by researching and selecting one or two settings. To this end, for *Soap*, Kaprow consulted this chart, which shows the average times and heights for the highs and lows of the waves at Sarasota Bay in February. Viewed through the lens of the avant-garde, the chart looks like a readymade graphic score, and this is far from incidental in a practice like Kaprow’s, which tends to model his artistic forms on vernacular references. "
+    extended_caption: "When Kaprow was commissioned to compose and present a happening at a university, as he often was in the mid- to late-1960s, he would typically start by researching and selecting one or two settings. To this end, for *Soap*, Kaprow consulted this chart, which shows the average times and heights for the highs and lows of the waves at Sarasota Bay in February. Viewed through the lens of the avant-garde, the chart looks like a readymade graphic score, and this is far from incidental in a practice like Kaprow’s, which tends to model his artistic forms on vernacular references."
     credit: ""
     type: [ sketches and materials ]
     figure: [ id: "fig-590" ]
@@ -8265,13 +8265,13 @@ object_list:
     id: "591"
     old_id: "11.26g"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "Program for Florida State University’s Eighteenth Annual Symposium, which included Kaprow’s *Soap* "
+    title: "Program for Florida State University’s Eighteenth Annual Symposium, which included Kaprow’s *Soap*"
     date: "1–4 February 1965"
     date_start: 
     date_end: 
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 9, folder 6"
-    extended_caption: "In this conference program, interested participants—but “no onlookers”—are invited to meet Kaprow in the Ringling Museum’s courtyard on the second day of the symposium (Tuesday, 2 February) at 2 p.m. The happening itself was scheduled for various slots on February 3 and 4. "
+    extended_caption: "In this conference program, interested participants—but “no onlookers”—are invited to meet Kaprow in the Ringling Museum’s courtyard on the second day of the symposium (Tuesday, 2 February) at 2 p.m. The happening itself was scheduled for various slots on February 3 and 4."
     credit: ""
     type: [ programs and flyers ]
     figure: [ id: "fig-591-a", id: "fig-591-b" ]
@@ -8299,7 +8299,7 @@ object_list:
     date_end: 1968-02-28
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 14, folder 1"
-    extended_caption: "The abstraction or elegance of Kaprow’s programs oftentimes obscures from view the many practical problems involved in enacting a happening—and for him the moment of enactment was an essential part of the whole. On this copy of the poster for *Transfer*, Kaprow addresses many of these practical issues, such as location and timing, which, as a rule, he tried to iron out by phone with collaborators and students in the month before his arrival on campus. "
+    extended_caption: "The abstraction or elegance of Kaprow’s programs oftentimes obscures from view the many practical problems involved in enacting a happening—and for him the moment of enactment was an essential part of the whole. On this copy of the poster for *Transfer*, Kaprow addresses many of these practical issues, such as location and timing, which, as a rule, he tried to iron out by phone with collaborators and students in the month before his arrival on campus."
     credit: "Getty "
     type: [ programs and flyers ]
     figure: [ id: "fig-593" ]
@@ -8312,7 +8312,7 @@ object_list:
     date_start: 1968-02-01
     date_end: 1968-02-28
     medium: ""
-    location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 14, folder 1 "
+    location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 14, folder 1"
     extended_caption: "This happening was commissioned by Wesleyan University, in Middletown, Connecticut, and realized there over two days in February. Kaprow drew and designed this poster, and it is an effective piece of advertising. It includes the program for *Transfer* in its entirety, but it also makes clear that readers will be initiated into the mystery only if they attend a preliminary meeting with Kaprow himself. There is just enough definition in the words and image on the poster to make a passerby curious about the details."
     credit: "Getty "
     type: [ programs and flyers ]
@@ -8327,7 +8327,7 @@ object_list:
     date_end: 1967-12-20
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 14, folder 1"
-    extended_caption: "In the late 1960s, Kaprow standardized his happenings agreements with universities and other commissioning institutions. In this example, he goes so far as to request “the full-time services of a competent assistant.” Professor Viggiani politely declines and directs Kaprow back to Kaprow’s usual ragtag workforce of college students. It is also striking how Kaprow here seeks to gain control over the photographic documentation of his work by mandating that no one can photograph the happening without his permission and direction. "
+    extended_caption: "In the late 1960s, Kaprow standardized his happenings agreements with universities and other commissioning institutions. In this example, he goes so far as to request “the full-time services of a competent assistant.” Professor Viggiani politely declines and directs Kaprow back to Kaprow’s usual ragtag workforce of college students. It is also striking how Kaprow here seeks to gain control over the photographic documentation of his work by mandating that no one can photograph the happening without his permission and direction."
     credit: ""
     type: [ archival materials ]
     figure: [ id: "fig-595-a", id: "fig-595-b" ]
@@ -8369,7 +8369,7 @@ object_list:
     date_end: 1973-04-12
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-    extended_caption: "It is instructive to note that the Portland Center for the Visual Arts assumed that Kaprow would want to use the film budget to produce “documentation” of his event. This kind of assumption lies behind Kaprow’s choice to begin every activity booklet and film with the assertion that “this is not a record” (or similar). "
+    extended_caption: "It is instructive to note that the Portland Center for the Visual Arts assumed that Kaprow would want to use the film budget to produce “documentation” of his event. This kind of assumption lies behind Kaprow’s choice to begin every activity booklet and film with the assertion that “this is not a record” (or similar)."
     credit: "Ilo Bonyhadi Estate"
     type: [ archival materials ]
     figure: [ id: "fig-598-a", id: "fig-598-b" ]
@@ -8411,7 +8411,7 @@ object_list:
     date_end: 1973-11-21
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-    extended_caption: "It is instructive to note that Mary L. Beebe assumed that Kaprow would collaborate with Michael Sullivan on film “documentation.”  This kind of assumption lies behind Kaprow’s choice to begin every activity booklet and film with the assertion that “this is not a record” (or similar). "
+    extended_caption: "It is instructive to note that Mary L. Beebe assumed that Kaprow would collaborate with Michael Sullivan on film “documentation.”  This kind of assumption lies behind Kaprow’s choice to begin every activity booklet and film with the assertion that “this is not a record” (or similar)."
     credit: "Used by permission of Mary Beebe"
     type: [ correspondence ]
     figure: [ id: "fig-601" ]
@@ -8461,7 +8461,7 @@ object_list:
     id: "605"
     old_id: "11.30g"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "Production still from Kaprow’s 16mm film of *Routine* "
+    title: "Production still from Kaprow’s 16mm film of *Routine*"
     date: "29 November–2 December 1973"
     date_start: 
     date_end: 31 29 November–2 December 1973
@@ -8495,7 +8495,7 @@ object_list:
     date_end: 1975-12-31
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-    extended_caption: "This photograph shows the film production crew for *Routine*, with director Michael Sullivan in the foreground on the left. Kaprow credited Sullivan as the director of *Routine*. A recent graduate of Harvard College, Sullivan was at the time working as a cameraman for local TV news; he would later become a documentary filmmaker. On the right is Mel Katz, an art professor at Portland State University, who cofounded the Portland Center for the Visual Arts in 1972. Kaprow himself was the photographer of this image, as evidenced by his reflection in the upper right of the mirror that was carefully placed behind the crew. "
+    extended_caption: "This photograph shows the film production crew for *Routine*, with director Michael Sullivan in the foreground on the left. Kaprow credited Sullivan as the director of *Routine*. A recent graduate of Harvard College, Sullivan was at the time working as a cameraman for local TV news; he would later become a documentary filmmaker. On the right is Mel Katz, an art professor at Portland State University, who cofounded the Portland Center for the Visual Arts in 1972. Kaprow himself was the photographer of this image, as evidenced by his reflection in the upper right of the mirror that was carefully placed behind the crew."
     credit: "Getty "
     type: [ photograph ]
     figure: [ id: "fig-607" ]
@@ -8503,13 +8503,13 @@ object_list:
     id: "608"
     old_id: "11.30j"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "Production still of *Routine* "
+    title: "Production still of *Routine*"
     date: "1975"
     date_start: 1975-01-01
     date_end: 1975-12-31
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-    extended_caption: "Mary Beebe, director of the Portland Center for the Visual Arts, is on the right in a plaid suit. Film director Michael Sullivan is behind the camera, with Mel Katz on his left. "
+    extended_caption: "Mary Beebe, director of the Portland Center for the Visual Arts, is on the right in a plaid suit. Film director Michael Sullivan is behind the camera, with Mel Katz on his left."
     credit: "Getty "
     type: [ photograph ]
     figure: [ id: "fig-608-a", id: "fig-608-b" ]
@@ -8517,7 +8517,7 @@ object_list:
     id: "609"
     old_id: "11.30l"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "Production still of *Routine* "
+    title: "Production still of *Routine*"
     date: "1975"
     date_start: 1975-01-01
     date_end: 1975-12-31
@@ -8531,7 +8531,7 @@ object_list:
     id: "610"
     old_id: "11.30m"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "Production still of *Routine* "
+    title: "Production still of *Routine*"
     date: "1975"
     date_start: 1975-01-01
     date_end: 1975-12-31
@@ -8545,7 +8545,7 @@ object_list:
     id: "611"
     old_id: "11.30n"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "Production still of *Routine* "
+    title: "Production still of *Routine*"
     date: "1975"
     date_start: 1975-01-01
     date_end: 1975-12-31
@@ -8559,7 +8559,7 @@ object_list:
     id: "612"
     old_id: "11.30o"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "Production still of *Routine* "
+    title: "Production still of *Routine*"
     date: "1975"
     date_start: 1975-01-01
     date_end: 1975-12-31
@@ -8573,13 +8573,13 @@ object_list:
     id: "613"
     old_id: "11.38"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "“How to Use these videotapes and booklets” "
+    title: "“How to Use these videotapes and booklets”"
     date: "ca. 1970s"
     date_start: 
     date_end: 
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 34, folder 10"
-    extended_caption: "Kaprow likely composed this text to accompany an exhibition of his videotapes and activity booklets. Here he explains how photographic media can be used to create something like “music scores,” or “notations which one or more persons can carry out” after looking at them. The “How to” of the title of this text is a nod to Kaprow’s irreverent idea that artists’ scores belong to the ordinary social world of educational films and product packaging. "
+    extended_caption: "Kaprow likely composed this text to accompany an exhibition of his videotapes and activity booklets. Here he explains how photographic media can be used to create something like “music scores,” or “notations which one or more persons can carry out” after looking at them. The “How to” of the title of this text is a nod to Kaprow’s irreverent idea that artists’ scores belong to the ordinary social world of educational films and product packaging."
     credit: ""
     type: [ sketches and materials ]
     figure: [ id: "fig-613-a", id: "fig-613-b" ]
@@ -8593,7 +8593,7 @@ object_list:
     date_end: 1989-06-22
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 54, folder 3"
-    extended_caption: "PhD diss., UC San Diego, 1993, 38–54. Kaprow was a professor of visual arts at the University of California, San Diego (1974–92), while Richard Wood Massi was writing his dissertation in the music department. "
+    extended_caption: "PhD diss., UC San Diego, 1993, 38–54. Kaprow was a professor of visual arts at the University of California, San Diego (1974–92), while Richard Wood Massi was writing his dissertation in the music department."
     credit: ""
     type: [ archival materials ]
     figure: [ id: "fig-614-a", id: "fig-614-b", id: "fig-614-c", id: "fig-614-d", id: "fig-614-e", id: "fig-614-f", id: "fig-614-g", id: "fig-614-h", id: "fig-614-i", id: "fig-614-j", id: "fig-614-k", id: "fig-614-l", id: "fig-614-m", id: "fig-614-n", id: "fig-614-o", id: "fig-614-p", id: "fig-614-q" ]
@@ -8727,7 +8727,7 @@ object_list:
     id: "624"
     old_id: "11.34g"
     maker: 
-    title: "Contact sheet of photographs of the review session for *Loss* "
+    title: "Contact sheet of photographs of the review session for *Loss*"
     date: "1973"
     date_start: 1973-01-01
     date_end: 1973-12-31
@@ -8783,7 +8783,7 @@ object_list:
     id: "628"
     old_id: "11.35c"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "Shooting script for 16mm film of *Comfort Zones* "
+    title: "Shooting script for 16mm film of *Comfort Zones*"
     date: "June 1975"
     date_start: 1975-06-01
     date_end: 1975-06-30
@@ -8831,7 +8831,7 @@ object_list:
     date_end: 1976-03-31
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 7"
-    extended_caption: "This videotape of *7 Kinds of Sympathy* was shot and edited by Peter Kirby, an alumnus of the California Institute of the Arts, where Kaprow had been a dean and a professor (1969–74). Kirby ran the Artists Post Production Facility at the Long Beach Museum of Art in Long Beach, California. You can view the *7 Kinds of Sympathy* videotape in the Playback section of this chapter. "
+    extended_caption: "This videotape of *7 Kinds of Sympathy* was shot and edited by Peter Kirby, an alumnus of the California Institute of the Arts, where Kaprow had been a dean and a professor (1969–74). Kirby ran the Artists Post Production Facility at the Long Beach Museum of Art in Long Beach, California. You can view the *7 Kinds of Sympathy* videotape in the Playback section of this chapter."
     credit: "Getty "
     type: [ sketches and materials ]
     figure: [ id: "fig-631" ]

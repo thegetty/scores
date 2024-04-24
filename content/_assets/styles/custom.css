@@ -564,7 +564,8 @@ audio {
 .score-object .quire-entry__tombstone > div.container,
 .score-object .quire-entry__tombstone .table,
 .score-object .quire-entry .quire-page__content .content,
-.score-object .quire-nav-button a {
+.score-object .quire-nav-button a,
+.quire-entry__tombstone a {
   background-color: transparent;
   color: white !important;
 }
@@ -614,6 +615,11 @@ audio {
   background-color: inherit;
   color: inherit;
 }
+.quire-entry__tombstone a, 
+.quire-entry__tombstone a:hover {
+  border-bottom-width: 0;
+}
+
 /* Main content area */
 .score-object .quire-page__content .container .content {
   padding-top: 0;

@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Handle special outputs for Maker and Type properties
+//
 const { html, oneLine } = require('~lib/common-tags')
 const path = require('path')
 
@@ -17,10 +21,25 @@ module.exports = function(eleventyConfig, { page }) {
     const tableRow = (object, property) => {
       if (!object || !property || !object[property]) return ''
 
+      let propertyValue = ''
+      if ( property == 'maker' ) {
+        propertyValue = object[property].join('; ')
+      } else if ( property == 'type' ) {
+        propertyValue = []
+        propertyArray = object[property].toString().split(',')
+        for ( let item of propertyArray ) {
+          typeLink = oneLine`<a href="/image-index/?type=${item.replace(' ', '%2520')}">${item}</a>`
+          propertyValue.push(typeLink)
+        }
+        propertyValue = propertyValue.join(', ')
+      } else {
+        propertyValue = markdownify(object[property].toString())
+      }
+
       return html`
         <tr>
           <td>${titleCase(property)}</td>
-          <td>${markdownify(object[property].toString())}</td>
+          <td data-prop="${property}">${propertyValue}</td>
         </tr>
       `
     }

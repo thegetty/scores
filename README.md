@@ -101,6 +101,9 @@ Fixed source of thumbnails for videos
 **_includes/components/object-filters/object-filters.webc**
 Used "..." instead of "All" in select boxes
 
+**_plugins/shortcodes/tombstone.js**
+Handle special outputs for Maker and Type properties
+
 **_layouts/base.11ty.js**
 Added `layout` as a top-level class in order to custom style nav bar on certain layouts
 

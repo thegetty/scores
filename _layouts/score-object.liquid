@@ -34,9 +34,24 @@ Entry content, including entry image and tombstone data
     </div>
   </div>
 
+  <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+    {% if image %}
+      {% comment %} 
+        @TODO: add support for images without ids defined in front matter
+        {% figure image %}
+      {% endcomment %}
+    {% elsif pageObjects %}
+      {% for object in pageObjects %}
+        {% for figure in object.figures %}
+          {% figure figure.id %}
+        {% endfor %}
+      {% endfor %}
+    {% endif %}
+  </div>
+  
   {%- for object in pageObjects -%}
   {%- if object.figures.size > 1 -%}
-  <div class="quire-entry__thumbnails thumbnail-box">
+  <div class="quire-entry__thumbnails thumbnail-box" data-outputs-include="html">
   <div class="quire-entry__thumbnails__inner">
     {%- for thisFig in object.figures -%}
       {%- if forloop.first == true -%}{%- assign firstThumb = true -%}{%- else -%}{%- assign firstThumb = false -%}{%- endif -%}

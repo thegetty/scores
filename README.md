@@ -79,6 +79,7 @@ Added Google Analytics 4
 
 **_includes/components/figure/audio/element.js**
 **_includes/components/lightbox/slides.js**
+**_plugins/shortcodes/figure.js**
 Added support for HTML5 `audio` media_type
 
 **_includes/components/lightbox/ui.js**

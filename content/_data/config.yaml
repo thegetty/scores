@@ -52,6 +52,8 @@ navigation:
 pageTitle:
   labelDivider: '. '
 
+quire_credit_line: 'This publication was created using [Quire](https://quire.getty.edu/)™, a multiformat publishing tool from Getty.'
+
 ref:
   sequenceTransition: 30
 

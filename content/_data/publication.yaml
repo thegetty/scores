@@ -19,25 +19,41 @@ reading_line:
 short_title:
 
 description:
-  one_line:
-  full: ""
+  one_line: A unique digital compilation of experimental scores, audiovisual materials, and source documents from the postwar avant-gardes, interpreted by experts on art, music, dance, and poetry.
+  full: Artists working in and across the fields of visual art, music, poetry, theater, and dance at midcentury began to use experimental scores in ways that revolutionized artistic practice and opened up new forms of interdisciplinary collaboration. Their experimental practices—associated with the neo-avant-garde, neo-Dadaism, intermedia, Fluxus, and postmodernism—exploded in notoriety during the 1960s in locales from New York to Europe, East Asia, and Latin America, becoming foundational to global trends in contemporary art and performance. *The Scores Project* is a unique digital publication that provides a comprehensive view of this historical moment through a series of experimental scores and complete edition of the groundbreaking *An Anthology of Chance Operations* (1963). The featured scores by John Cage, George Brecht, Sylvano Bussotti, Morton Feldman, Allan Kaprow, Alison Knowles, Jackson Mac Low, Benjamin Patterson, Yvonne Rainer, Mieko Shiomi, David Tudor, and La Monte Young include expert commentaries from an interdisciplinary team of scholars and are accompanied by a digitized archive of over 2,000 ephemera and audiovisual materials. Ambitious, provocative, and playful, *The Scores Project* fosters a renewed sense of wonder at this innovative and historically complex moment in the history of art.
+  online_edition: The free online edition of this open-access publication is available at [getty.edu/publications/scores/](https://www.getty.edu/publications/scores/) and includes video, audio, and more than 2,000 zoomable illustrations. Free PDF and EPUB downloads of the book are also available.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2025-02-01 # YYYY-MM-DD
+pub_date: 2025-03-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: "978-1-60606-936-3"
 
 publisher:
   - name: Getty Research Institute
     location: Los Angeles
-    url:
+    url: https://www.getty.edu/publications/
     logo: logo-getty.png
+    address: |
+      **Published by the Getty Research Institute, Los Angeles**
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications/](https://www.getty.edu/publications/)
+
+project_team:
+  - Adriana Romero, *Production Editor*
+  - Lisa Marietta, *Manuscript Editor*
+  - Greg Albers, *Digital Publications Manager*
+  - Andrew LeClair and Roon Kang, *Design*
+  - Molly McGeehan, *Production*
+  - Karen Ehrmann and Pauline Lopez, *Image and Rights Acquisition*
+  - Victoria Barry, Audrey Warne, Dina Murokh, Chloe Millhauser, Kate Justement, and Jenny Park, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -154,19 +170,37 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: 
-    name: 
-    identifer: 
+  - type: bisac
+    name: ART / History / Contemporary (1945-)
+    identifer: ART015110
+  - type: bisac
+    name: ART / Conceptual
+    identifer: ART008000
+  - type: bisac
+    name: ART / Performance
+    identifer: ART060000
+
+library_of_congress_cip: |
+  **Library of Congress Cataloging-in-Publication Data**
+  - Names:
+  - Title: 
+  - Description:  
+  - Identifiers:  
+  - Subjects: 
+  - Classification: 
 
 # ------------------------------------------------------------------------------
 # Revision History
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: March 1, 2025
     summary:
+      - First edition
 
-repository_url:
+revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com<wbr/>/thegetty<wbr/>/scores/](https://github.com/thegetty/scores), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+
+repository_url: https://github.com/thegetty/scores
 
 # ------------------------------------------------------------------------------
 # Promo Image

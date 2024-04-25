@@ -2,6 +2,7 @@
 layout: base.11ty.js
 classes:
   - scores-title-page
+  - frontmatter
 order: 3
 outputs:
   - pdf

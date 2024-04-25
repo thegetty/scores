@@ -822,15 +822,34 @@ body.iframe-version .quire .quire__primary main {
     margin-bottom: 0;
   }
   .quire-page__content .container .content p {
-    text-indent: .325in;
+    text-indent: 0.325in;
   }
   .quire-essay .quire-page__content .container .content p,
   .quire-essay .quire-page__content .container .content * {
-    line-height: 1.5;;
+    line-height: 1.5;
   }
   .quire-page__content .container .content p:first-child {
     text-indent: 0;
   }
+  .quire-essay .quire-page__content .container .content sup, 
+  .quire-essay .quire-page__content .container .content sup a {
+    line-height: 0;
+  }
+  /* Page headers */
+  .hero-body {
+    padding: 0 !important;
+  }
+  .quire-page__header {
+    margin: 0;
+  }
+  .quire-page h1, 
+  .quire-page__header__title {
+    margin-top: 1rem;
+  }
+  .quire-page__header__contributor {
+    margin: 1rem 0;
+  }
+  /* Figures */
   .content figure.scores-figure {
     -prince-float: top;
     margin-top: 0 !important;
@@ -842,5 +861,126 @@ body.iframe-version .quire .quire__primary main {
   }
   .scores-figure-grid--2 {
     display: block;
+  }
+  /* Blockquotes */
+  .quire-essay .quire-page__content .container .content blockquote {
+    margin: 1rem 0 1rem 0.325in;
+  }
+  .quire-essay .quire-page__content .container .content blockquote p {
+    text-indent: 0;
+  }
+  /* Footnotes */
+  .quire-page__content .content h2.notes-heading {
+    margin-bottom: 0;
+  }
+  .quire-essay .quire-page__content .container .content .footnotes,
+  .quire-essay .quire-page__content .container .content .footnotes * {
+    line-height: 1.5;
+  }
+  /* Score image pages */
+  objects-catalog {
+    display: none;
+  }
+  .quire-score-object .quire-page__content .container .content {
+    font-size: var(--small-font-size);
+    line-height: 1.5;
+    padding: 0;
+  }
+  .quire-score-object .quire-entry__header {
+    display: none;
+  }
+  .quire-page__content .content .footnotes ol li {
+    margin-bottom: 0;
+  }
+  /* Score image pages: Tombstones */
+  .quire-entry__tombstone {
+    margin: 1rem 0;
+  }
+  .quire-entry__tombstone a,
+  .quire-entry__tombstone a:hover {
+    color: black !important;
+  }
+  .quire-entry__tombstone .table {
+    border-width: 0;
+  }
+  .quire-entry__tombstone tr td:first-child {
+    font-weight: 400;
+  }
+  .quire-entry__tombstone .table td,
+  .quire-entry__tombstone .table th {
+    font-size: var(--small-font-size);
+    line-height: 1.5;
+    padding: 0 0 .25rem;
+  }
+  .quire-entry__tombstone .table td:first-child,
+  .quire-entry__tombstone .table th:first-child {
+    padding-right: 1rem;
+  }
+  .quire-entry__tombstone .table tr:last-child td,
+  .quire-entry__tombstone .table tr:last-child th {
+    padding-bottom: 0;
+  }
+  /* Score image pages: Image */
+  .quire-entry .quire-entry__image-wrap .q-figure:first-child {
+    page: initial;
+    display: block;
+    height: 100%;
+  }
+  .quire-entry .quire-entry__image-wrap .q-figure img {
+    height: auto !important;
+    filter: grayscale(100%);
+    width: 60%;
+  }
+  .quire-entry .quire-page__content .container .content p.object-credit {
+    text-indent: 0;
+    margin-top: 1rem;
+  }
+  /* Score image pages: URL tag */
+  .quire-entry .object-url {
+    margin-top: 1rem;
+  }
+  .quire-entry .quire-page__content .container .content .object-url p {
+    text-indent: 0;
+    margin-bottom: 1rem;
+  }
+  /* Copyright page */
+  .quire-page.frontmatter {
+    page: no-footer;
+  }
+  .scores-copyright-page {
+    font-size: var(--small-font-size);
+    line-height: var(--small-font-line-height);
+  }
+  .scores-copyright-page .quire-page__content .container .content p {
+    text-indent: 0;
+    margin-bottom: 1em;
+  }
+  .scores-copyright-page .copyright__publisher-logo, 
+  .scores-copyright-page .quire-copyright__icon__link {
+    display: none;
+  }
+  .scores-copyright-page .quire-page__content .container .content ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+    margin-bottom: 1em;
+  }
+  .scores-copyright-page .quire-page__content .container .content ul li,
+  .scores-copyright-page .quire-page__content .container .content ul li p {
+    margin-bottom: 0;
+    padding-left: 0;
+    margin-left: 0;
+  }
+  .scores-copyright-page .quire-page__content .container .content ul li:before {
+    content: '';
+  }
+  .scores-copyright-page .quire-page__content .container .content .cip-data p {
+    margin-bottom: 0;
+  }
+  .scores-copyright-page .quire-page__content .container .content .cip-data ul {
+    margin-left: 1.5em;
+  }
+  .scores-copyright-page .quire-page__content .container .content .cip-data ul li {
+    text-indent: -1.5em;
   }
 }

@@ -70,11 +70,11 @@ $print-inner-margin: 0.5in;
 $print-base-font-size: 9pt;
 $print-text-color: $black;
 
-$print-splash-color: $off-white;
+$print-splash-color: $white;
 
-$print-entry-image-color: $black; // or can use $rich-black with PrinceXML
-$print-entry-caption-color: $white;
-$print-entry-image-display: all; // first | all
+$print-entry-image-color: $white; // or can use $rich-black with PrinceXML
+$print-entry-caption-color: $black;
+$print-entry-image-display: first; // first | all
 
 // Themes
 // -----------------------------------------------------------------------------

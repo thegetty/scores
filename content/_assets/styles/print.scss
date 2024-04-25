@@ -71,9 +71,9 @@ $print-trim: $print-bleed * 2;
     margin-right: $print-outer-margin;
 
     @bottom-left {
-      content: string(pagetitle);
-      font-family: $print-footer-font;
-      font-size: $print-footer-font-size;
+      // content: string(pagetitle);
+      // font-family: $print-footer-font;
+      // font-size: $print-footer-font-size;
     }
 
     @bottom-right {

@@ -2,6 +2,7 @@
 layout: base.11ty.js
 classes:
   - scores-half-title-page
+  - frontmatter
 order: 2
 outputs:
   - epub

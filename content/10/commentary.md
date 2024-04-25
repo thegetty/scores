@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: Spatial Poem (1965–75)
-artist: Mieko Shiomi
+subtitle: Mieko Shiomi, Spatial Poem (1965–75)
 order: 101
 layout: essay
 toc: false

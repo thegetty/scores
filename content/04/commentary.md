@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: Paper Piece (1960)
-artist: Benjamin Patterson
+subtitle: Benjamin Patterson, Paper Piece (1960)
 order: 41
 layout: essay
 toc: false

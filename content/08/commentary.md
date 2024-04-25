@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: We Shall Run (1963)
-artist: Yvonne Rainer
+subtitle: Yvonne Rainer, We Shall Run (1963)
 order: 81
 layout: essay
 toc: false

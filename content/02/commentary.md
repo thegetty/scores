@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: Concert for Piano and Orchestra (1968)
-artist: John Cage
+subtitle: John Cage, Concert for Piano and Orchestra (1968)
 order: 21
 layout: essay
 toc: false

@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: Drip Music (Drip Event) (1959–62), from Water Yam (1963)
-artist: George Brecht
+subtitle: George Brecht, Drip Music (Drip Event) (1959–62), from Water Yam (1963)
 order: 61
 layout: essay
 toc: false

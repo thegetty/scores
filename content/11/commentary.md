@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: Routine (1973–75)
-artist: Allan Kaprow
+subtitle: Allan Kaprow, Routine (1973–75)
 order: 111
 layout: essay
 toc: false

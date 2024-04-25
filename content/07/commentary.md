@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: Three Social Projects (1963)
-artist: Jackson Mac Low
+subtitle: Jackson Mac Low, Three Social Projects (1963)
 order: 71
 layout: essay
 toc: false

@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: Five Piano Pieces for David Tudor (1959)
-artist: Sylvano Bussotti
+subtitle: Sylvano Bussotti, Five Piano Pieces for David Tudor (1959)
 order: 31
 layout: essay
 toc: false

@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: Intersection 3 (1953)
-artist: Morton Feldman
+subtitle: Morton Feldman, Intersection 3 (1953)
 order: 11
 layout: essay
 toc: false

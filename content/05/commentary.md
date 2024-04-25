@@ -1,7 +1,6 @@
 ---
 title: Commentary
-score: An Anthology of Chance Operations (1962–63
-artist: La Monte Young, ed.
+subtitle: La Monte Young, ed., An Anthology of Chance Operations (1962–63)
 order: 51
 layout: essay
 toc: false

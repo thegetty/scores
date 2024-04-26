@@ -182,9 +182,28 @@ audio {
 /* MENU & FOOTER
 ============================================================================= */
 .quire-menu {
+  display: none;
   padding: 2rem;
   font-family: 'u001', sans-serif;
   color: black;
+}
+.quire-menu.is-expanded {
+  display: block;
+}
+.quire-score-object + .quire-menu.is-expanded {
+  position: fixed;
+  top: 4rem;
+  bottom: 0;
+  overflow-y: scroll;
+  z-index: 10;
+  background-color: white;
+  padding-top: 1rem;
+}
+.quire-score-object + .quire-menu.is-expanded .scores-menu__title {
+  display: none;
+}
+.quire-score-object + .quire-menu.is-expanded  .scores-menu__subtitle {
+  margin-top: 0;
 }
 .quire-menu .scores-menu__subtitle {
   max-width: 20rem;

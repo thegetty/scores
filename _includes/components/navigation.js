@@ -6,10 +6,14 @@ const { html } = require('~lib/common-tags')
 
 module.exports = function() {
 
-  return function () {
+  return function (layout) {
+
+    const contentsAction = layout == 'score-object'
+      ? `onclick="toggleMenu()"`
+      : `href="#site-menu"`
 
     const homePageLink = html`<a href="/">The Scores Project</a>`
-    const contentsLink = html`<a href="#contents">Contents</a>`
+    const contentsLink = html`<a ${contentsAction} id="site-menu-link">Contents</a>`
     const imageIndexLink = html`<a href="/image-index/">Image Index</a>`
     const searchLink = html`<a onclick="toggleSearch()">Search</a>`
 

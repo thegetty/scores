@@ -38,11 +38,19 @@ module.exports = function(eleventyConfig) {
 
     const footerLinks = resourceLinks.filter(({ type }) => type === 'footer-link')
 
+    const menuState = pageData.data.layout != 'score-object' 
+      ? 'is-expanded'
+      : ''
+    
+
     return html`
       <div
-        class="quire-menu menu"
-        role="banner"
-        id="site-menu__inner"
+        class="quire-menu menu ${menuState}"
+        data-page-layout="${pageData.data.layout}"
+        role="contentinfo"
+        id="site-menu"
+        aria-expanded="false"
+        data-outputs-exclude="epub,pdf"
       > 
         <h5 class="scores-menu__title">${title}</h5>
 

@@ -33,7 +33,7 @@ module.exports = async function(data) {
         ${this.iconscc(data)}
         <div class="quire no-js ${layout}" id="container">
           <div class="quire__primary">
-            ${this.navigation(data)}
+            ${this.navigation(layout)}
             <main class="quire-page ${classes}" data-output-path="${outputPath}" data-page-id="${pageId}" >
               ${content}
             </main>

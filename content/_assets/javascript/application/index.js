@@ -1,6 +1,7 @@
 //@ts-check
 // CUSTOMIZED FILE -- Bronze Guidelines
 // Add script for iframe-based image viewer
+// Add script to toggle image size on object cards
 //
 /**
  * @fileOverview
@@ -321,6 +322,33 @@ function toggleCite() {
 }
 
 /**
+ * objectSize
+ * @description Adds a button to the object controls to toggle the image size
+ */
+function objectSize() {
+  const objectControls = document.querySelector('.object-filters__controls')
+  const sizeButton = document.createElement('button')
+  sizeButton.setAttribute('id', 'object-size-button')
+  sizeButton.classList.add('object-filters__button')
+  sizeButton.innerHTML = 'View: Large'
+  sizeButton.addEventListener('click', () => {
+    toggleObjectSize();
+  })
+  objectControls.append(sizeButton)
+}
+window['toggleObjectSize'] = () => {
+  const objectCards = document.querySelector('.object-cards')
+  const objectCardsClasses = objectCards.classList;
+  objectCardsClasses.toggle('large')
+
+  const sizeButton = document.getElementById('object-size-button')
+  console.log("sizeButton.innerHTML :: " + sizeButton.innerHTML)
+  sizeButton.innerHTML == 'View: Large' 
+    ? sizeButton.innerHTML = 'View: Small'
+    : sizeButton.innerHTML = 'View: Large'
+}
+
+/**
  * pageSetup
  * @description This function is called after each smoothState reload.
  * Set up page UI elements here.
@@ -328,6 +356,7 @@ function toggleCite() {
 function pageSetup() {
   setDate()
   toggleCite()
+  objectSize()
 }
 
 function parseQueryParams() {

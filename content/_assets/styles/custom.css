@@ -587,6 +587,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .objects-page .object-filters__select::after {
   all: revert !important;
 }
+.objects-page .object-filters__button#object-size-button {
+  float: right;
+}
 .objects-page .object-card {
   background-color: transparent;
   margin-right: 2rem;
@@ -607,8 +610,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .objects-page .object-card__image:not(:last-child) {
   margin-bottom: 0;
 }
-.objects-page .object-card__image {
+.objects-page .object-cards .object-card__image {
   height: 110px;
+}
+.objects-page .object-cards.large .object-card__image {
+  height: 330px;
 }
 .objects-page .object-card__image img {
   max-height: 100%;

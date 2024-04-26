@@ -1,4 +1,5 @@
 ---
+label: 4
 title: Benjamin Patterson
 subtitle: Paper Piece (1960)
 order: 40

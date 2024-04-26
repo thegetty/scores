@@ -1,4 +1,5 @@
 ---
+label: 5
 title: La Monte Young, ed.
 subtitle: An Anthology of Chance Operations (1962–63)
 order: 50

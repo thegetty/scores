@@ -75,6 +75,12 @@
   margin-top: 0;
   margin-bottom: 0;
 }
+.quire-page__header .hero-body .label,
+.quire-page__header .hero-body .label .visually-hidden {
+  all: initial;
+  font-size: 1em;
+  font-family: "u001", sans-serif;
+}
 /* Table of contents */
 .quire-contents-list .menu-list a {
   font-size: 1rem;

@@ -1,4 +1,5 @@
 ---
+label: 2
 title: John Cage
 subtitle: Concert for Piano and Orchestra (1968)
 order: 20

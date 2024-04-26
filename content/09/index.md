@@ -1,4 +1,5 @@
 ---
+label: 9
 title: Alison Knowles
 subtitle: The Identical Lunch (late 1960s–early ’70s)
 order: 90

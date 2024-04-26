@@ -4,17 +4,13 @@ layout: page
 order: 20000
 outputs:
   - html
+classes:
+  - scores-copyright-page
 ---
 
 {{ publication.description.full }}
 
 {% backmatter %}
-
-## About the Authors
-
-{% for author in publication.contributor  %}
-  {{ author.bio | markdownify }}
-{% endfor %}
 
 <div class="citation-info">
 

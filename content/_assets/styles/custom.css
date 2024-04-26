@@ -451,6 +451,66 @@ audio {
   gap: 1rem;
 }
 
+/* COPYRIGHT & ABOUT PAGE
+============================================================================= */
+.scores-copyright-page .quire-page__content .container .content {
+  padding: 0;
+  margin: 0 auto;
+  max-width: 36rem;
+  margin-bottom: 4rem;
+}
+.scores-copyright-page .quire-page__content .container .content p {
+  line-height: 1.3;
+}
+.scores-copyright-page .quire-page__content .container .content .backmatter,
+.scores-copyright-page .quire-page__content .container .content .backmatter * {
+  color: black;
+  font-size: var(--small-font-size);
+  font-weight: 400;
+  line-height: var(--small-font-line-height) !important;
+}
+.scores-copyright-page .quire-page__content .container .content .backmatter h2,
+.scores-copyright-page .quire-page__content .container .content .backmatter h3 {
+  text-transform: none;
+  border-bottom: none;
+  font-size: 1em;
+  font-weight: inherit;
+  letter-spacing: 0;
+  padding: 0;
+  line-height: inherit;
+}
+.scores-copyright-page .copyright__publisher-logo, 
+.scores-copyright-page .quire-copyright__icon__link {
+  display: none;
+}
+.scores-copyright-page .quire-page__content .container .content .publisher {
+  margin-bottom: 1rem;
+}
+.scores-copyright-page .quire-page__content .container .content ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+  margin-bottom: 1em;
+}
+.scores-copyright-page .quire-page__content .container .content ul li,
+.scores-copyright-page .quire-page__content .container .content ul li p {
+  margin-bottom: 0;
+  padding-left: 0;
+  margin-left: 0;
+}
+.scores-copyright-page .quire-page__content .container .content ul li:before {
+  content: '';
+}
+.scores-copyright-page .quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.scores-copyright-page .quire-page__content .container .content .cip-data ul {
+  margin-left: 1.5em;
+}
+.scores-copyright-page .quire-page__content .container .content .cip-data ul li {
+  text-indent: -1.5em;
+}
+
 /* IMAGE INDEX
 ============================================================================= */
 .objects-page .quire-navbar,
@@ -979,33 +1039,5 @@ body.iframe-version .quire .quire__primary main {
   .scores-copyright-page .quire-page__content .container .content p {
     text-indent: 0;
     margin-bottom: 1em;
-  }
-  .scores-copyright-page .copyright__publisher-logo, 
-  .scores-copyright-page .quire-copyright__icon__link {
-    display: none;
-  }
-  .scores-copyright-page .quire-page__content .container .content ul {
-    list-style-type: none;
-    padding-left: 0;
-    margin-left: 0;
-    margin-bottom: 1em;
-  }
-  .scores-copyright-page .quire-page__content .container .content ul li,
-  .scores-copyright-page .quire-page__content .container .content ul li p {
-    margin-bottom: 0;
-    padding-left: 0;
-    margin-left: 0;
-  }
-  .scores-copyright-page .quire-page__content .container .content ul li:before {
-    content: '';
-  }
-  .scores-copyright-page .quire-page__content .container .content .cip-data p {
-    margin-bottom: 0;
-  }
-  .scores-copyright-page .quire-page__content .container .content .cip-data ul {
-    margin-left: 1.5em;
-  }
-  .scores-copyright-page .quire-page__content .container .content .cip-data ul li {
-    text-indent: -1.5em;
   }
 }

@@ -1,9 +1,11 @@
 ---
 title: Cover
-layout: table-of-contents
+layout: page
 order: 1
 menu: false
 toc: false
 outputs:
   - html
+classes:
+  - scores-cover-page
 ---

@@ -128,6 +128,15 @@ audio {
   text-decoration: line-through;
 }
 
+/* COVER
+============================================================================= */
+main.scores-cover-page {
+  display: none;
+}
+main.scores-cover-page + .quire-menu  .scores-menu__title {
+  display: none;
+}
+
 /* NAVBAR & SEARCH
 ============================================================================= */
 .quire-navbar {

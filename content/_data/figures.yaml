@@ -20394,10 +20394,10 @@ figure_list:
     alt: "Landscape-oriented black and white photograph with a woman at the center of the frame holding a full-body mirror outdoors in a parking lot. Reflection shows man with hands raised overhead. "
 -
     id: "fig-569"
-    src: 
-    zoom: 
-    poster: figures/KaprowRoutineFilmClip_1.jpg
-    media_type: vimeo
+    src: placeholder.jpg
+    zoom: true
+    # poster: figures/KaprowRoutineFilmClip_1.jpg
+    # media_type: vimeo
     media_id: 
     label: ""
     alt: "Black screen with “‘Routine’ by Allan Kaprow” in bold all-capitalized white text with male voiceover."
@@ -20412,10 +20412,10 @@ figure_list:
     alt: ""
 -
     id: "fig-571"
-    src: 
-    zoom: 
-    poster: figures/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
-    media_type: vimeo
+    src: placeholder.jpg
+    zoom: true 
+    # poster: figures/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
+    # media_type: vimeo
     media_id: 
     label: ""
     alt: "Male voiceover accompanied by bluish-white field of color in a 4:3 format. Title card with “7 Kinds of Sympathy” at center in bold all-capitalized white text atop solid blue background appears when voiceover concludes. "

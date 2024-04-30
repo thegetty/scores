@@ -327,7 +327,8 @@ function toggleCite() {
  */
 function objectSize() {
   const objectControls = document.querySelector('.object-filters__controls')
-  const sizeButton = document.createElement('button')
+  if (objectControls) {
+    const sizeButton = document.createElement('button')
   sizeButton.setAttribute('id', 'object-size-button')
   sizeButton.classList.add('object-filters__button')
   sizeButton.innerHTML = 'View: Large'
@@ -335,6 +336,7 @@ function objectSize() {
     toggleObjectSize();
   })
   objectControls.append(sizeButton)
+  }  
 }
 window['toggleObjectSize'] = () => {
   const objectCards = document.querySelector('.object-cards')

@@ -13,7 +13,7 @@ contributor:
     section: commentary
 commentary:
   link: "/02/commentary/"
-  blurb: "On May 15, 1958, pianist David Tudor, accompanied by a small orchestra of eight players, performed a compendium of John Cage’s inventive, chance-derived musical notations in front of an audience of hundreds at New York’s Town Hall. To prepare for his performance—one that critics associated with insanity, violence, and grotesque comedy—Tudor devised a customized system that translated Cage’s notations into a fastidiously detailed performance score."
+  blurb: "On May 15, 1958, the pianist David Tudor, accompanied by a small orchestra of eight players, performed a compendium of John Cage’s inventive, chance-derived musical notations in front of an audience of hundreds at New York’s Town Hall. To prepare for his performance—one that critics associated with insanity, violence, and grotesque comedy—Tudor devised a customized system that translated Cage’s notations into a fastidiously detailed score."
 score:
   objects:
     - id: "060"

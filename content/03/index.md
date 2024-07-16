@@ -11,7 +11,7 @@ contributor:
     section: commentary
 commentary:
   link: "/03/commentary/"
-  blurb: "This suite of pieces by Italian composer Sylvano Bussotti represents some of the most visually expressive—even psychedelic—of any of the experimental notations that David Tudor performed during the 1950s. While some of the pieces in Bussotti’s *Five Piano Pieces* employ traditional elements of musical notation, others ask the performer to learn customized symbol systems and require the performer to make calculations. *No. 3* leaves the pianist largely on their own to devise their own system for decoding and realizing a performance."
+  blurb: "This suite of pieces by the Italian composer Sylvano Bussotti represents some of the most visually expressive—even psychedelic—of any of the experimental notations that David Tudor performed during the 1950s. While some of the parts in Bussotti’s *Five Piano Pieces for David Tudor* employ traditional elements of musical notation, others ask the performer to learn customized symbol systems and make calculations. *No. 3* of the five pieces leaves the pianist largely on their own to devise their own system for decoding and realizing a performance."
 score:
   objects:
     - id: "154"

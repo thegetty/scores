@@ -40,7 +40,7 @@ object_list:
     date_end: 1914-12-31
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers c.2: v.2, no.4 (1914)"
-    extended_caption: "Luigi Russolo composed *Risveglio di una Cittá* (Awakening of a City) in 1913, to be performed on *intonarumori* (noise machines), and it was published the following year in *Lacerba* (1 March 1914): 72–73."
+    extended_caption: "Luigi Russolo composed *Risveglio di una Cittá* (Awakening of a City) in 1913, to be performed on *intonarumori* (noise machines). The score was published the following year in *Lacerba* (1 March 1914): 72–73."
     credit: ""
     featured: 
     type: [ score ]
@@ -64,14 +64,14 @@ object_list:
     id: "004"
     old_id: "0.04"
     maker: [ "Wadada Leo Smith (American, b. 1941)" ]
-    title: "*Kosmic Music*"
+    title: "*The Dream*, a panel from *Kosmic Music* (The Ankhrasmation Symbolic Language Art-Score)"
     date: "2008"
     date_start: 2008-01-01
     date_end: 2008-12-31
-    medium: ""
+    medium: "acrylic and ink on paper"
     location: ""
     extended_caption: ""
-    credit: ""
+    credit: "Wadada Leo Smith, www.wadadaleosmith.com."
     featured: 
     type: [ score ]
     figure: [ id: "fig-004" ]
@@ -100,7 +100,7 @@ object_list:
     date_end: 
     medium: ""
     location: ""
-    extended_caption: "Schwitters’s *Ursonate* (Sonata in Primal Sounds) is a forty-minute phonetic poem and is representative of Dadaism. It was first published in the magazine *Merz* in 1932. Schwitters originated the term *Merz* based on an advertisement he saw in *Kommerzbank*. The concept is present in all of Schwitters’s artistic works. "
+    extended_caption: "Schwitters’s *Ursonate* is a forty-minute phonetic poem and is representative of Dadaism. It was first published in the magazine *Merz* in 1932. Schwitters coined the term *Merz* based on an advertisement he saw in *Kommerzbank*. The concept is present in all of Schwitters’s artistic works. "
     credit: ""
     featured: 
     type: [ score ]
@@ -114,7 +114,7 @@ object_list:
     date_start: 1959-07-01
     date_end: 1959-07-31
     medium: ""
-    location: "George Brecht Notebooks, Vol. 3, April–August 1959. Ed. Dieter Daniels with collaboration of Hermann Braun (Köln: W. König, 1991)"
+    location: "George Brecht Notebooks, Vol. 3, April–August 1959. Ed. Dieter Daniels with collaboration of Hermann Braun (Cologne: W. König, 1991)."
     extended_caption: ""
     credit: ""
     featured: 
@@ -184,14 +184,14 @@ object_list:
     id: "012"
     old_id: "1.01"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    title: "*Intersection No. 3* with a dedication for David Tudor"
+    title: "*Intersection 3* with a dedication for David Tudor"
     date: "1953"
     date_start: 1953-01-01
     date_end: 1953-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1"
-    extended_caption: "This manuscript of Feldman’s score was drafted on graph paper, which echoes Joseph Schillinger’s method of graph notation developed in the 1930s and ’40s. Feldman’s draft freely distributes seven horizontal oblong staves in a way that is askew from the traditional vertical alignment of musical staves. No ruler was used."
-    credit: ""
+    extended_caption: "This manuscript of Feldman’s score was drafted on graph paper, which echoes Joseph Schillinger’s method of graph notation developed in the 1930s and ’40s. Feldman varies the justification of his seven horizontal oblong staves in a way that departs from the traditional vertical alignment of musical staves."
+    credit: "*Intersection 3* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     featured: true
     type: [ score ]
     figure: [ id: "fig-012-a", id: "fig-012-b" ]
@@ -205,7 +205,7 @@ object_list:
     date_end: 1953-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 30"
-    extended_caption: "The final version of the score spreads out the same information from fig. 1 onto two pages. This version is not on graph paper; it was instead made with ink and a ruler."
+    extended_caption: "The final version of the score for *Intersection 3* spreads out the same information from fig. 1 onto two pages. This version is not on graph paper; it was instead made with ink and a ruler."
     credit: ""
     featured: true
     type: [ score ]
@@ -214,14 +214,14 @@ object_list:
     id: "014"
     old_id: "1.03"
     maker: [ "David Tudor (American, 1926–96)" ]
-    title: "David Tudor’s realization of Feldman’s *Intersection 3*"
+    title: "Realization of Feldman’s *Intersection 3*"
     date: "1953"
     date_start: 1953-01-01
     date_end: 1953-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1"
-    extended_caption: "This is one of Tudor’s earliest realizations of an indeterminate score. In fidelity to Feldman’s use of a metronome without any meter, Tudor uses no bar lines. Tudor’s notation is otherwise conventional. Octaves up or down are marked with local brackets and an “8” or “16.” Clusters are special attacks that include all chromatic pitches in a certain range—to be played with the palm or groups of fingers—and are notated with a vertical line linking the highest and lowest pitches of the cluster. The clusters are fully chromatic (including all notes within the boundaries) unless marked by either a natural sign, in which case only the white notes of the keyboard are to be played, or with a sharp sign, in which case only the black notes are to be played."
-    credit: ""
+    extended_caption: "This is one of Tudor’s earliest realizations of an indeterminate score. Tudor uses no bar lines, but his notation is otherwise conventional. Octaves up or down are marked with local brackets and an “8” or “16.” Clusters are special attacks that include all chromatic pitches in a certain range—to be played with the palm or groups of fingers—and are notated with a vertical line linking the highest and lowest pitches of the cluster. The clusters are fully chromatic (including all notes within the boundaries) unless marked by either a natural sign, in which case only the white notes of the keyboard are to be played, or with a sharp sign, in which case only the black notes are to be played."
+    credit: "*Intersection 3* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     featured: true
     type: [ score ]
     figure: [ id: "fig-014-a", id: "fig-014-b", id: "fig-014-c", id: "fig-014-d", id: "fig-014-e", id: "fig-014-f" ]
@@ -229,7 +229,7 @@ object_list:
     id: "015"
     old_id: "1.04"
     maker: [ "David Tudor (American, 1926–96)" ]
-    title: "Rereleased recording of David Tudor performing *Intersection No.3*"
+    title: "Rereleased recording of David Tudor performing *Intersection 3*"
     date: "2007"
     date_start: 2007-01-01
     date_end: 2007-12-31
@@ -325,11 +325,11 @@ object_list:
     date_end: 1953-06-15
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 53, folder 7"
-    extended_caption: "Feldman’s emotional intimacy with Tudor reveals both the closeness of their relationship at the time and the extraordinary power Tudor had over composers in simply performing their works. The letter also reveals the mutual sympathy the two had for an Artaudian aesthetic of violence in the postwar period."
+    extended_caption: "Feldman’s emotional intimacy with Tudor reveals both the closeness of their relationship at the time and the extraordinary power Tudor had over composers in simply performing their works and platforming them for the public. The letter also reveals the mutual sympathy the two had for an Artaudian aesthetic of violence in the postwar period."
     credit: ""
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-021-a", id: "fig-021-b", id: "fig-021-c" ]
+    figure: [ id: "fig-021-c", id: "fig-021-b", id: "fig-021-a" ]
 -
     id: "022"
     old_id: "1.09"
@@ -350,12 +350,12 @@ object_list:
     old_id: "1.10"
     maker: [ "Morton Feldman (American, 1926–87)" ]
     title: "Transparency sheet with graph guidelines"
-    date: "Early 1950s"
+    date: "early 1950s"
     date_start: 
     date_end: 
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 26B"
-    extended_caption: "This was likely an aid to making an early graph score, such as Feldman’s *Projection 1*"
+    extended_caption: "This was likely an aid to making an early graph score, such as Feldman’s *Projection 1*."
     credit: ""
     featured: 
     type: [ sketches and materials ]
@@ -371,7 +371,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 70, folder 7"
     extended_caption: "One problem for indeterminate scores is the issue of how the audience comes to understand the process involved in realizing the work. There were varied solutions to this problem: exhibiting scores beforehand (as in the Stable Gallery exhibition prior to Cage’s Town Hall performance in 1958), displays of scores during the performance (as with Cage’s *Water Music* in posterboard form), and descriptions and reproductions of scores in newspapers and magazine reviews and previews. For this 1953 recital at the University of Illinois, the concert program includes a description of the score."
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-024-a", id: "fig-024-b" ]
@@ -386,7 +386,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 70, folder 10"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-025-a", id: "fig-025-b" ]
@@ -401,7 +401,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 70, folder 12"
     extended_caption: "For this “noon-hour” concert in Vancouver, Cage joined Tudor on stage for three of seven compositions."
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-026" ]
@@ -416,7 +416,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 70, folder 14"
     extended_caption: "For this performance at Harvard in 1956, Cage typed program notes for the entire recital and sent them to Harvard for printing in their program. The concert was sponsored by the Harvard radio station WHRB."
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-027-a", id: "fig-027-b", id: "fig-027-c", id: "fig-027-d", id: "fig-027-e" ]
@@ -431,7 +431,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 71, folder 1"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-028" ]
@@ -446,7 +446,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 71, folder 3"
     extended_caption: "A handwritten note in ink by an unknown person reads: “my mother wouldn’t let me do that to our piano.”"
-    credit: "Courtesy of the Morton Feldman Estate"
+    credit: "Courtesy of the Morton Feldman Estate."
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-029-a", id: "fig-029-b" ]
@@ -460,8 +460,8 @@ object_list:
     date_end: 1953-11-30
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
-    extended_caption: "This review exemplifies Tudor’s reception during the 1950s. On the one hand, there is a sense of scandal over the musical avant-garde, as shown through remarks about audiences dwindling away, protesting, or ignoring the music. On the other hand, there is an unflinching admiration for Tudor’s technical expertise and credibility as a pianist. This proved to be a powerful combination for these composers; a person could complain they did not like the experiment, but Tudor’s expertise thwarted accusations of outright fraudulence."
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    extended_caption: "This review exemplifies Tudor’s reception during the 1950s. On the one hand, there is a sense of scandal over the musical avant-garde, as shown through remarks about audiences dwindling away, protesting, or ignoring the music. On the other hand, there is an unflinching admiration for Tudor’s technical expertise and credibility as a pianist. This proved to be a powerful combination for these composers; an audience member could complain they did not like the experiment, but Tudor’s expertise thwarted accusations of outright fraudulence."
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-030" ]
@@ -476,7 +476,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-031" ]
@@ -491,7 +491,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-032" ]
@@ -506,7 +506,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-033" ]
@@ -521,7 +521,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-034" ]
@@ -536,7 +536,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-035" ]
@@ -551,7 +551,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-036-a", id: "fig-036-b", id: "fig-036-c" ]
@@ -565,8 +565,8 @@ object_list:
     date_end: 1954-04-15
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 7"
-    extended_caption: "The author of this review of a recital by Tudor at the Carl Fischer Concert Hall in New York in 1954 wrings their hands over the absence of traditional musical styles and the onslaught of “strident, percussive, and brutal” sounds. But it also recognizes the typical midcentury claim of aesthetic autonomy as having a loosely ethical value in the context of modernity: “[The concern of aesthetic fraudulence in this music] has its problems, but as a relief from constant percussion, it has its virtues.”"
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    extended_caption: "The author of this review of a recital by Tudor at the Carl Fischer Concert Hall in New York in 1954 wrings their hands over the absence of traditional musical styles and the onslaught of “strident, percussive, and brutal” sounds. But it also recognizes the typical midcentury claim of aesthetic autonomy as having an ethical value in the context of modernity: “[The concern of aesthetic fraudulence in this music] has its problems, but as a relief from constant percussion, it has its virtues.”"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-037" ]
@@ -580,8 +580,8 @@ object_list:
     date_end: 1954-04-29
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 7"
-    extended_caption: "This positive review of David Tudor’s avant-garde piano recital at Carl Fischer Hall claims that the “hep” 1954 New York audience was highly supportive, and the techniques involved unusual modes of playing the piano. At least one heckler audibly wished for the actual destruction of a piano, an action that would anticipate the destructive play of Fluxus affiliate Philip Corner’s *Piano Activities* (1962). In an echo of 4¢ 33¢¢ (1952), the reviewer also notes the abundant use of silence in the compositions Tudor performed, remarking that during these extended periods “one can almost hear the air molecules rushing past one’s ear.”"
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    extended_caption: "This positive review of David Tudor’s avant-garde piano recital at Carl Fischer Hall claims that the “hep” 1954 New York audience was highly supportive, and the techniques involved unusual modes of playing the piano. At least one heckler audibly wished for the actual destruction of a piano, an action that would anticipate the destructive play of Fluxus affiliate Philip Corner’s *Piano Activities* (1962). In an echo of 4′33″ (1952), the reviewer also notes the abundant use of silence in the compositions Tudor performed, remarking that during these extended periods “one can almost hear the air molecules rushing past one’s ear.”"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-038" ]
@@ -595,8 +595,8 @@ object_list:
     date_end: 1954-05-08
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 7"
-    extended_caption: "This is a review of David Tudor’s 1954 avant-garde piano recital at Carl Fischer Hall. The critic praises Tudor’s performance, though their attitude towards the repertoire itself is muted. They intriguingly state that the avant-garde qualities of the works presented by Stefan Wolpe, Pierre Boulez, Morton Feldman, Christian Wolff, and John Cage should be heard as a continuation of the Futurists and the ultra-modernists of the 1920s, which, in the critic’s view, represented an unpalatable stylistic trend."
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    extended_caption: "This is a review of David Tudor’s 1954 avant-garde piano recital at Carl Fischer Hall. The critic praises Tudor’s performance, though their attitude towards the repertoire itself is muted. They note that the avant-garde qualities of the works presented by Stefan Wolpe, Pierre Boulez, Morton Feldman, Christian Wolff, and John Cage should be heard as a continuation of the Futurists and the ultra-modernists of the 1920s, which, in the critic’s view, represented an unpalatable stylistic trend."
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-039-a", id: "fig-039-b", id: "fig-039-c", id: "fig-039-d", id: "fig-039-e", id: "fig-039-f", id: "fig-039-g" ]
@@ -610,8 +610,8 @@ object_list:
     date_end: 1956-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 9"
-    extended_caption: "This review of a 1956 concert in New York by David Tudor makes clear that John Cage’s reputation as a New York experimentalist was well established; he was already playing to a packed house that featured recognizable modernist painters. Alongside performances by Tudor, the concert featured the spectacle of Cage’s *Radio Music* (1956) for eight performers on radios following a chance-derived score; a nontraditional performance layout with audience members seated on stage; and works featuring up to four pianos spread out in unusual locations."
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    extended_caption: "This review of a concert in New York by David Tudor makes clear that John Cage’s reputation as a New York experimentalist was well established by 1956; he was already playing to a packed house that featured recognizable modernist painters. Alongside performances by Tudor, the concert featured the spectacle of Cage’s *Radio Music* (1956) for eight performers on radios following a chance-derived score; a nontraditional performance layout with audience members seated on stage; and works featuring up to four pianos spread out in unusual locations."
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-040" ]
@@ -626,7 +626,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 9"
     extended_caption: "This is one of the most negative of reviews Tudor and Cage received in the 1950s. Here, one finds the Artaudian aesthetic of sonic violence so admired by Feldman echoed in the critic’s sense of scandal and even outrage: “I vow that in all of my life—a major part of it devoted to contemporary music—I have never heard piano scores so aggressively unattractive, so utterly hideous, so insistently repellent.”"
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-041" ]
@@ -641,7 +641,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 11"
     extended_caption: "This review playfully leans into the futurism of the avant-garde, it and plays up the role of science and mathematics in advanced compositional methods and electronic music. The reviewer speculates that “sooner or later perhaps shall all be able to emulate him [Tudor]; Tin Pan Alley will flourish on the theory of numbers, and every guest will take his graph to the party.”"
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-042" ]
@@ -656,7 +656,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 11"
     extended_caption: "This review appeared for a 1956 recital David Tudor gave in Vienna featuring works by Morton Feldman, John Cage, Earle Brown, Christian Wolff, Karlheinz Stockhausen, and Bo Nilsson. It casts the sheer complexity of the scores, Tudor’s use of the prepared piano, and other extended techniques as a “sound experiment” (*Klangexperiment*) that lies outside the boundaries of what Germans referred to under the concept of “New Music” (*Neue Musik*), a term first coined by music critic Paul Bekker in 1919 to account for the emergence of atonality associated with Arnold Schoenberg."
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-043" ]
@@ -671,7 +671,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 11"
     extended_caption: "This review playfully and imaginatively describes David Tudor’s recital in Vienna as a “fight with a dragon,” dramatically narrating how Tudor’s use of nontraditional techniques and preparations were akin to a combat between Tudor and the piano itself, with the audience cheering the spectacle on. The critic notes Tudor’s deadpan persona despite the apparent anarchy and disorder of the music."
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-044" ]
@@ -679,14 +679,14 @@ object_list:
     id: "045"
     old_id: "1.13"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    title: "Embryonic graph score, likely for Morton Feldman, *Projection No. 1*"
-    date: "Early 1950s"
+    title: "Embryonic graph score, likely for *Projection 1*"
+    date: "early 1950s"
     date_start: 
     date_end: 
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 30"
     extended_caption: "This early graph score by Morton Feldman was likely an early sketch for his first completed graph score, *Projection 1*."
-    credit: ""
+    credit: "*Projection 1* by Morton Feldman © 1961 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-045" ]
@@ -694,13 +694,13 @@ object_list:
     id: "046"
     old_id: "1.14"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    title: "Score for Feldman’s *Projection No. 1* for solo cello"
+    title: "Score for Feldman’s *Projection 1* for solo cello"
     date: "1962"
     date_start: 1962-01-01
     date_end: 1962-12-31
     medium: ""
-    location: "Copyright 1962, C.F. Peters"
-    extended_caption: "Published in 1962, after Feldman secured a publishing deal with C. F. Peters, this composition was first drafted in 1950. *Projection No. 1* is typically cited as Feldman’s first indeterminate graph score."
+    location: ""
+    extended_caption: "Published in 1962, after Feldman secured a publishing deal with C. F. Peters, this composition was first drafted in 1950. *Projection 1* is typically cited as Feldman’s first indeterminate graph score."
     credit: ""
     featured: 
     type: [ score ]
@@ -806,7 +806,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 26"
     extended_caption: "This is an early graph score by Feldman similar in style to *Intersection 3*, although with more silence, a slower tempo, and fewer notes."
-    credit: "Intersection II by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
+    credit: "*Intersection 2* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     featured: 
     type: [ score ]
     figure: [ id: "fig-053" ]
@@ -819,9 +819,9 @@ object_list:
     date_start: 
     date_end: 
     medium: ""
-    location: "Copyright 1962, C.F. Peters"
-    extended_caption: "This is likely Tudor’s first attempt at a realization of any indeterminate score. It was notated in a specially bound book of staff paper. For his realization of Cage’s scores in the mid-to-late 1950s, Tudor would eventually come to use short, loose staff paper sheets on relatively thicker cardstock. These sheets could be reshuffled and bound in various orders."
-    credit: "Intersection II by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
+    location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 26"
+    extended_caption: "This is likely Tudor’s first attempt at a realization of any indeterminate score. It was notated in a bound book of staff paper. For his realization of Cage’s scores in the mid-to-late 1950s, Tudor would eventually come to use short, loose staff paper sheets on relatively thicker cardstock. These realizations on cardstock could be reshuffled and bound in various orders."
+    credit: "*Intersection 2* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     featured: 
     type: [ score ]
     figure: [ id: "fig-054-a", id: "fig-054-b", id: "fig-054-c", id: "fig-054-d", id: "fig-054-e", id: "fig-054-f", id: "fig-054-g", id: "fig-054-h", id: "fig-054-i", id: "fig-054-j", id: "fig-054-k", id: "fig-054-l", id: "fig-054-m", id: "fig-054-n", id: "fig-054-o", id: "fig-054-p", id: "fig-054-q", id: "fig-054-r", id: "fig-054-s", id: "fig-054-t", id: "fig-054-u", id: "fig-054-v", id: "fig-054-w" ]
@@ -835,8 +835,8 @@ object_list:
     date_end: 1954-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 158"
-    extended_caption: "Here, Tudor performs a work by John Cage with an array of auxiliary percussion. Throughout the 1950s, Cage built upon his past practice with the prepared piano, devised in 1938, writing works that called for extended techniques (piano preparation, hitting the outside of the keyboard, strumming, plucking, or scraping strings inside the piano, and the use of auxiliary sounds/miscellaneous percussion). Cage credited composer Henry Cowell for inspiring his work with extended techniques."
-    credit: "Kluver/Martin Archive?  or. Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    extended_caption: "Here, Tudor performs a work by John Cage with an array of auxiliary percussion. Throughout the 1950s, Cage built upon his past practice with the prepared piano, writing works that called for extended techniques (inserting bolts, rubber, and other hardware into the strings, hitting the outside of the keyboard, strumming, plucking, or scraping strings inside the piano, and the use of auxiliary sounds/miscellaneous percussion). Cage credited composer Henry Cowell for inspiring his work with extended techniques."
+    credit: ""
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-055" ]
@@ -851,7 +851,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 158"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: true
     type: [ photograph ]
     figure: [ id: "fig-056" ]
@@ -866,7 +866,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 158"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-057" ]
@@ -881,7 +881,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 158"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-058" ]
@@ -895,7 +895,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 166"
-    extended_caption: "An iconic photograph of Tudor with the “New York School” of composers."
+    extended_caption: "An iconic photograph of Tudor with the New York School of composers."
     credit: ""
     featured: 
     type: [ photograph ]
@@ -910,8 +910,8 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 176, folders 1–2"
-    extended_caption: "This is Tudor’s copy of Cage’s *Solo for Piano*, copied out in Cage’s trademark penmanship, which features capital letters with exaggerated serifs. Marveling at the score can be an overwhelming experience; the notation asks us to puzzle over an exceedingly complicated set of rules and procedures. Following the title page, Cage includes two introductory pages of lettered directions that serve as a key for deciphering the lettered graphs that follow. Each graph, paired with its corresponding instructions, thus functions as its own self-contained mini score. Globally, there is a playful sense of inventiveness and creativity to the visual language of Cage’s graphs. In fact, spurred by the encouragement of Jasper Johns and Robert Rauschenberg, the score for *Concert for Piano and Orchestra* was exhibited at a midtown gallery just prior to the Town Hall premiere, and it was thus Cage’s first score to be publicly appreciated as visual art. [A review of the exhibition is available here.] Though many of the *Concert*’s graphs are quite indeterminate, leaving a lot of the compositional process up to the performer, Tudor’s performances turned out a certain consistency; reviewers attested that the *Solo for Piano* sounded “mixed-up,” and that it evoked “anarchy,” a sense of psychosis, or even a “jungle.”"
-    credit: "Edition Peters"
+    extended_caption: "This is Tudor’s copy of Cage’s *Solo for Piano*, copied out in Cage’s trademark penmanship, which features capital letters with exaggerated serifs. Marveling at the score can be an overwhelming experience; the notation asks us to puzzle over an exceedingly complicated set of rules and procedures. Following the title page, Cage’s score includes two introductory pages of lettered directions that serve as a key for deciphering the lettered graphs that follow. Each graph, paired with its corresponding instructions, thus functions as its own self-contained mini score. Globally, there is a playful sense of inventiveness and creativity to the visual language of Cage’s graphs. In fact, spurred by the encouragement of Jasper Johns and Robert Rauschenberg, the score for *Concert for Piano and Orchestra* was exhibited at a midtown gallery just prior to the Town Hall premiere, and it was thus Cage’s first score to be publicly appreciated as visual art. (Dore Ashton’s review of the exhibition is available [here](/image-index/095/).) Though many of the *Concert*’s graphs are quite indeterminate, leaving many of the compositional process up to the performer, Tudor’s performances turned out a certain consistent impression; reviewers attested that the *Solo for Piano* sounded “mixed-up,” and that it evoked “anarchy,” a sense of psychosis, or even a “jungle.”"
+    credit: "Edition Peters."
     featured: true
     type: [ score ]
     figure: [ id: "fig-060-a", id: "fig-060-b", id: "fig-060-c", id: "fig-060-d", id: "fig-060-e", id: "fig-060-f", id: "fig-060-g", id: "fig-060-h", id: "fig-060-i", id: "fig-060-j", id: "fig-060-k", id: "fig-060-l", id: "fig-060-m", id: "fig-060-n", id: "fig-060-o", id: "fig-060-p", id: "fig-060-q", id: "fig-060-r", id: "fig-060-s", id: "fig-060-t", id: "fig-060-u", id: "fig-060-v", id: "fig-060-w", id: "fig-060-x", id: "fig-060-y", id: "fig-060-z", id: "fig-060-aa", id: "fig-060-ab", id: "fig-060-ac", id: "fig-060-ad", id: "fig-060-ae", id: "fig-060-af", id: "fig-060-ag", id: "fig-060-ah", id: "fig-060-ai", id: "fig-060-aj", id: "fig-060-ak", id: "fig-060-al", id: "fig-060-am", id: "fig-060-an", id: "fig-060-ao", id: "fig-060-ap", id: "fig-060-aq", id: "fig-060-ar", id: "fig-060-as", id: "fig-060-at", id: "fig-060-au", id: "fig-060-av", id: "fig-060-aw", id: "fig-060-ax", id: "fig-060-ay", id: "fig-060-az", id: "fig-060-ba", id: "fig-060-bb", id: "fig-060-bc", id: "fig-060-bd", id: "fig-060-be", id: "fig-060-bf", id: "fig-060-bg", id: "fig-060-bh", id: "fig-060-bi", id: "fig-060-bj", id: "fig-060-bk", id: "fig-060-bl", id: "fig-060-bm", id: "fig-060-bn", id: "fig-060-bo", id: "fig-060-bp", id: "fig-060-bq", id: "fig-060-br", id: "fig-060-bs", id: "fig-060-bt" ]
@@ -926,7 +926,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7, folder 2"
     extended_caption: ""
-    credit: "Concert for Piano and Orchestra by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
+    credit: "*Concert for Piano and Orchestra* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
     featured: 
     type: [ score ]
     figure: [ id: "fig-061-a", id: "fig-061-b" ]
@@ -940,8 +940,8 @@ object_list:
     date_end: 
     medium: ""
     location: ""
-    extended_caption: "The thirteen orchestral parts for the *Concert* are essentially solo instrument parts with single attacks and a wide range of extended techniques. Many of them were created in conversation with individual performers who introduced Cage to various nontraditional possibilities of each instrument. The performances of these parts displeased Cage. As the recordings featured here attest, these performers often played loudly and frequently competed with Tudor. Some players strayed from the score with what Cage later described as “unprofessional” and “foolish” playing [link to Stravinsky quote and Jazz riff in the playback section]. Some responsibility for the difficulties seemed to lie with Cage; indeed, he was unaccustomed to writing for an orchestra, and the piece’s lack of traditional orchestration was inevitably going to lead to the different sounds stepping on one another’s toes. We might speculate: Did Cage realize he needed a stronger (dare we say “intentional” or “expressive”) hand in sculpting the result? Whatever the case, the difficulties exemplify a recurring problem Cage had when he was not working with trusted collaborators like Tudor. In his book *Experimentalism Otherwise* (2011) Benjamin Piekut has interviewed the original performers from the New York Philharmonic who participated in the slightly later, and even more controversial, premiere of *Atlas Eclipticalis* (1964) under Leonard Bernstein."
-    credit: "Concert for Piano and Orchestra by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
+    extended_caption: "The thirteen orchestral parts for the *Concert* are essentially solo instrument parts with single attacks and a wide range of extended techniques. Many of them were created in conversation with individual performers who introduced Cage to various nontraditional possibilities of each instrument. The performances of these parts displeased Cage. As the recordings featured here attest, these performers often played loudly and frequently competed with Tudor. Some players strayed from the score with what Cage later described as “unprofessional” and “foolish” playing. Some responsibility for the difficulties seemed to lie with Cage; indeed, he was unaccustomed to writing for an orchestra, and the piece’s lack of traditional orchestration was inevitably going to lead to the different sounds stepping on one another’s toes. We might speculate: Did Cage realize he needed a stronger (dare we say “intentional” or “expressive”) hand in sculpting the result? Whatever the case, the difficulties exemplify a recurring problem Cage had when he was not working with trusted collaborators like Tudor. For his book *Experimentalism Otherwise* (2011) Benjamin Piekut interviewed the original performers from the New York Philharmonic who participated in the slightly later, and even more controversial, premiere of *Atlas Eclipticalis* (1964) under the direction of Leonard Bernstein."
+    credit: "*Concert for Piano and Orchestra* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
     featured: 
     type: [ score ]
     figure: [ id: "fig-062-a", id: "fig-062-b", id: "fig-062-c", id: "fig-062-d", id: "fig-062-e", id: "fig-062-f", id: "fig-062-g", id: "fig-062-h" ]
@@ -956,7 +956,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: ""
-    credit: "Concert for Piano and Orchestra by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
+    credit: "*Concert for Piano and Orchestra* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
     featured: true
     type: [ score ]
     figure: [ id: "fig-063-a", id: "fig-063-b", id: "fig-063-c", id: "fig-063-d", id: "fig-063-e", id: "fig-063-f", id: "fig-063-g", id: "fig-063-h" ]
@@ -970,7 +970,7 @@ object_list:
     date_end: 1958-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 5, folder 11"
-    extended_caption: "This is the bound copy of the first realization of Cage’s *Solo for Piano* in the form that it was given by Tudor to the Getty Research Institute. This two-ring binder would have allowed Tudor to reshuffle his realizations of individual graphs *Solo for Piano*into different sequences, for performances of varying lengths. In paging through the realization pages in the binder, viewers will notice several characteristics of Tudor’s notation. The basics (the notes, clefs, etc.) are written in black pen, while Tudor used blue pen for bar lines, dynamics, pedaling, and short phrases of language that describe specialized techniques. Note that, in blue, Tudor often adopts a uniquely precise numerical notation, borrowed from composer Bo Nilsson, for dynamics (0.5 being the quietest, up to 10.5 being the loudest). Tudor’s red pen marks off unusual sounds, groups attacks in a way that corresponds to a given specialized technique (as in “bounce 3-fingers, left hand” in his realization of graph J), and diagrams parts of his realization in a way that mirrors visual elements of Cage’s graphs. In pencil, one finds labels corresponding to Tudor’s sequencing, which includes the Cage graph, the page in Cage’s score, and the duration or timing of Tudor’s page, along with miscellaneous annotations. See the Playback section [an annotation layer] for visible explanations of Tudor’s various conventions."
+    extended_caption: "This is the bound copy of the first realization of Cage’s *Solo for Piano* in the form that it was given by Tudor to the Getty Research Institute. This two-ring binder would have allowed Tudor to reshuffle his realizations of individual graphs *Solo for Piano* into different sequences for performances of varying lengths. In paging through the realization pages in the binder, readers will notice several characteristics of Tudor’s notation. The basics (the notes, clefs, etc.) are written in black pen, while Tudor used blue pen for bar lines, dynamics, pedaling, and short phrases of language that describe specialized techniques. Note that, in blue, Tudor often adopts a uniquely precise numerical notation, borrowed from composer Bo Nilsson, for dynamics (0.5 being the quietest, up to 10.5 being the loudest). Tudor’s red pen marks off unusual sounds, groups attacks in a way that corresponds to a given specialized technique (as in “bounce 3-fingers, left hand” in his realization of graph J), and diagrams parts of his realization in a way that mirrors visual elements of Cage’s graphs. In pencil, one finds labels corresponding to Tudor’s sequencing, which includes the Cage graph, the page in Cage’s score, and the duration or timing of Tudor’s page, along with miscellaneous annotations. See the [Playback section for chapter 2](/02/#playback) for visible explanations of Tudor’s various conventions."
     credit: ""
     featured: true
     type: [ score ]
@@ -985,7 +985,7 @@ object_list:
     date_end: 1958-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 6, folder 11"
-    extended_caption: "These loose sheets, given to the Getty Research Institute, could have been inserted, removed, and reordered with any of the sheets included in the binder of the first realization. The same color conventions of Tudor’s notation apply here. Among these realization sheets, note that in Tudor’s realization of graph BT one finds short phrases of language indicating specialized auxiliary sounds, the eschewal of use of the staff to mark the passage of time, and the adoption of numbered list for which Western musical techniques and skills are no longer necessary. Tudor’s realization of graph BT echoes his use of “readymade” sound-producing materials in earlier works like *Water Music* (1952) [see photographs] and anticipates the use of language popularized by La Monte Young, George Brecht, George Maciunas, Yoko Ono, and Jackson Mac Low in the coming years."
+    extended_caption: "These loose sheets, given to the Getty Research Institute, could have been inserted, removed, and reordered with any of the sheets included in the binder of the first realization. The same color conventions of Tudor’s notation apply here. Among these realization sheets, note that in Tudor’s realization of graph BT one finds short phrases of language indicating specialized auxiliary sounds, the eschewal of use of the staff to mark the passage of time, and the adoption of numbered list for which Western musical techniques and skills are no longer necessary. Tudor’s realization of graph BT echoes his use of “readymade” sound-producing materials in earlier works like *Water Music* (1952) and anticipates the use of language popularized by La Monte Young, George Brecht, George Maciunas, Yoko Ono, and Jackson Mac Low in the coming years."
     credit: ""
     featured: 
     type: [ score ]
@@ -1015,7 +1015,7 @@ object_list:
     date_end: 1958-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 6, folder 12"
-    extended_caption: "This is a reproduction of Tudor’s second realization of the *Solo for Piano*, used in the 1959 *Indeterminacy* recording. Cage, who had already made a practice of giving lectures that helped make his work accessible to audiences, recalled, in September 1958, that Tudor had suggested that Cage give a lecture consisting entirely of stories. Cage delivered the first version—thirty stories—at the Brussels Fair that month, with no musical accompaniment. In March of 1959, Cage was then asked to deliver a ninety-minute lecture at Columbia Teachers College. For the event, Cage added sixty stories and asked Tudor to provide a ninety-minute accompaniment. For the occasion, Tudor prepared a second, far sparser realization of the *Solo for Piano*. He culled all sheets from the first realization that consisted of “single ictus” attacks (fifty-three out of his existing sixty-three) and “superimposed” them. By superimposing, Tudor means this: Imagine putting these sheets into a single stack, converting the papers into transparencies, and then enlarging a single image of all attacks into a ninety-minute landscape. Tudor achieved this by measuring the horizontal distances of individual attacks within each graph. Then, by way of meticulous calculations, he expanded these distances into a single ninety-minute backdrop in which the attacks of each graph are interwoven with every other. In the resultant performance score, each horizontal line is roughly thirty seconds, with a page equaling roughly one minute, and individual events are notated proportionally. Readers interested in the nuts and bolts of Tudor’s calculations will find a complete digitization of Tudor’s materials for the second realization at [supplementary website here]."
+    extended_caption: "This is a reproduction of Tudor’s second realization of the *Solo for Piano*, used in the 1959 *Indeterminacy* recording. Cage, who had already made a practice of giving lectures that helped make his work accessible to audiences, recalled, in September 1958, that Tudor had suggested that Cage give a lecture consisting entirely of stories. Cage delivered the first version—thirty stories—at the Brussels Fair that month, with no musical accompaniment. In March of 1959, Cage was then asked to deliver a ninety-minute lecture at Columbia Teachers College. For the event, Cage added sixty stories and asked Tudor to provide a ninety-minute accompaniment. For the occasion, Tudor prepared a second, far sparser realization of the *Solo for Piano*. He culled all the sheets from his first realization that consisted of “single ictus” attacks (fifty-three out of his existing sixty-three) and “superimposed” them. By superimposing, Tudor means this: Imagine putting these sheets into a single stack, converting the papers into transparencies, and then enlarging a single image of all attacks into a ninety-minute landscape. Tudor achieved this by measuring the horizontal distances of individual attacks within each graph. Then, by way of meticulous calculations, he expanded these distances into a single ninety-minute backdrop in which the attacks of each graph are interwoven with every other. In the resultant performance score, each horizontal line is roughly thirty seconds, with a page equaling roughly one minute, and individual events are notated proportionally. Readers interested in the nuts and bolts of Tudor’s calculations will find a complete digitization of Tudor’s materials for the second realization at [supplementary website here]."
     credit: ""
     featured: true
     type: [ score ]
@@ -1024,13 +1024,13 @@ object_list:
     id: "068"
     old_id: "2.06b"
     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-    title: "Animation of Tudor’s realization of graph J of the *Solo for Piano*"
+    title: "Animation of David Tudor’s realization of graph J of the *Solo for Piano*"
     date: "1958"
     date_start: 1958-01-01
     date_end: 1958-12-31
     medium: ""
-    location: "Getty Digital"
-    extended_caption: "Tudor chose to play graph J early on—thirty seconds in). It is a ferociously violent and dissonant series of flourishes that use the whole range of the piano, a prime example of Tudor’s pianism at its most spectacular. Note that Tudor’s trademark deadpan stage presence (he reported to his wife, M. C. Richards, that he was known as the “Buster Keaton of the piano” in Europe) often conveyed to audiences a solemn and self-negating commitment to high modernism. But here, at Town Hall, in front of the largest audience of his career—the *New York Times* reported nearly one thousand people in attendance—and in a performance that was Tudor’s first performance of a piano concerto, Tudor gives himself a bombastic solo entrance in the venerable tradition of piano concertos from Beethoven through Rachmaninoff. Note that Tudor, here as elsewhere, simplifies Cage’s instructions. He ignores Cage’s logically convoluted instructions about “direction in space time” and simply obeys the number of notes (with a little fudging) and the outer pitch parameters (quite strictly), deciding to play a series of ascending or descending gamuts within these parameters. Little in Cage’s graph prescribes tone clusters, let alone bombastic ones. It is Tudor’s choice to play the entire graph in just over thirty seconds. Another perfectly compliant realization of graph J could entail delicate scales—interrupted or done only in fragments—sweeping the range of the piano over the course of two or three minutes. Note as well that in the [sketches] for graph J, Tudor at first has a different order; the sequencing here is Tudor’s compositional choice."
+    location: ""
+    extended_caption: "In his premiere performance of the first realization, Tudor chose to play graph J early on—thirty seconds in. It is a ferociously violent and dissonant series of flourishes that use the whole range of the piano, a prime example of Tudor’s pianism at its most spectacular. Note that Tudor’s trademark deadpan stage presence (he reported to his partner, M. C. Richards, that he was known as the “Buster Keaton of the piano” in Europe) often conveyed to audiences a solemn and self-negating commitment to high modernism. But here, at Town Hall, in front of the largest audience of his career—the *New York Times* reported nearly one thousand people in attendance—and in a performance that was Tudor’s first performance of a piano concerto, Tudor gives himself a bombastic solo entrance in the venerable tradition of piano concertos from Beethoven through Rachmaninoff. Note that Tudor, here as elsewhere, simplifies Cage’s instructions. He ignores Cage’s logically convoluted instructions about “direction in space time” and simply obeys the number of notes (with a little fudging) and the outer pitch parameters (quite strictly), deciding to play a series of ascending or descending gamuts within these parameters. Little in Cage’s graph prescribes tone clusters, let alone bombastic ones. It is Tudor’s choice to play the entire graph in just over thirty seconds. Another perfectly compliant realization of graph J could entail delicate scales—interrupted or done only in fragments—sweeping the range of the piano over the course of two or three minutes. Note as well that in the sketches for graph J, Tudor at first has a different order; the sequencing here is Tudor’s compositional choice."
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -1044,7 +1044,7 @@ object_list:
     date_start: 1958-01-01
     date_end: 1958-12-31
     medium: ""
-    location: "Getty Digital"
+    location: ""
     extended_caption: "After the explosion of graph J, Tudor inserts a silence of about fifteen seconds and then plays the eight chords of graph K around 1′20″. Graph K is visually distinctive; it is noted for having adorned the cover of C.F. Peters’s Cage catalog. It is a grand staff, thick lined and gargantuan in its proportions, with a framework of dual ledger lines extending on either side. The clefs float off to the left, adrift from their usual positions. Instead of notes, Cage has drawn a jumble of polygons with vertices labeled as specific pitches. And the instructions for graph K are perplexing, to say the least. What does it mean to play only an odd or even number of tones in a performance? We surely know what the sided figures are, and Tudor plays them in the manner of staccato grace-like notes or punctuated attacks. But in relation to what? It may be that the logical cul-de-sac of Cage’s instructions is part of the point; the existence of a correct solution may be immaterial. Perhaps Cage is foregrounding inexhaustible esotericism—his almost mystical and naturalistic attachment to the impersonal powers of procedures, instructions, and calculations. This formalism provides discipline for all that is noble in the practice of indeterminacy. Note as well in Tudor’s performance that he uses the notation here, as elsewhere, as a guide for sequencing the tasks. Other than playing graph K relatively quickly, Tudor makes no effort to read the spacing of the chords as proportional notation (in which a timeline for a performance would move steadily from left to right)."
     credit: ""
     featured: 
@@ -1059,7 +1059,7 @@ object_list:
     date_start: 1958-01-01
     date_end: 1958-12-31
     medium: ""
-    location: "Getty Digital"
+    location: ""
     extended_caption: "Graph T is one of the most virtuosic of Tudor’s graph-realizations in the first realization. Again, Cage’s choice of words in his instructions is strange. It is not clear what an “influence” is. What is clear is that the amoebas “grab” pitch material and temporal duration that should be played as a moving cluster. As with the others, Tudor translates the amoebas into traditional notation, with sharp lines indicating swipes of the palm or finger to fill out the contours of the cluster. Cage’s system of numbered dynamics (1–64) Tudor translates to his standard conventional scale of 0.5–10.5 (in blue ink). At the premiere, as with many of the excerpts, the sonic result is something like a pianistic version of psychosis. Again, as with graph J, Tudor could have fully complied with Cage’s graph by excerpting just a few clusters and playing them at a slow speed. By playing it fast, and in its entirety, he foregrounds his own Artaudian voice—a spectacle of an abstracted, formalized, and impersonal violence. In the Town Hall performance, Tudor executes graph T between 4′20″ and 4′55″."
     credit: ""
     featured: 
@@ -1074,8 +1074,8 @@ object_list:
     date_start: 1958-01-01
     date_end: 1958-12-31
     medium: ""
-    location: "Getty Digital"
-    extended_caption: "This graph is directly redolent of the notational techniques used in Morton Feldman’s graph compositions, almost to the point of appearing as a quotation. Cage makes the debt to Feldman explicit when he begins his instructions with “Graph Music” and identifies the time unit. Here, though, a complicated wrinkle presents itself, one that, we hope, the animation makes clear. Numbers of notes can be played in any portion of the given box, and, as Cage states, the clefs are largely “mobile” (with the bottom regions as necessarily in the treble region). Tudor elects to play the whole graph at the top of the piano and writes a charmingly self-contained music box of steady quarter and eighth-note attacks with a few triplet figures inserted. The [sketches for graph AY] show clear parallelisms to [Tudor’s 1953 realization of Feldman’s *Intersection 3*]."
+    location: ""
+    extended_caption: "This graph is directly redolent of the notational techniques used in Morton Feldman’s graph compositions, almost to the point of appearing as a quotation. Cage makes the debt to Feldman explicit when he begins his instructions with “Graph Music” and identifies the time unit. Here, though, a complicated wrinkle presents itself, one that, we hope, the animation makes clear. Numbers of notes can be played in any portion of the given box, and, as Cage states, the clefs are largely “mobile” (with the bottom regions as necessarily in the treble region). Tudor elects to play the whole graph at the top of the piano and writes a charmingly self-contained music box of steady quarter and eighth-note attacks with a few triplet figures inserted. The sketches for graph AY show clear parallelisms to [Tudor’s 1953 realization of Feldman’s *Intersection 3*](/image-index/014/)."
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -1089,8 +1089,8 @@ object_list:
     date_start: 1958-01-01
     date_end: 1958-12-31
     medium: ""
-    location: "Getty Digital"
-    extended_caption: "Graph CE looks a bit like experimental-notation wallpaper or an aleatoric midcentury countertop. Again, clefs are ambiguous. The graph is filled with ledger lines. Uniquely, in this graph Cage’s four staves are crooked and intersecting such that any given note has one, two, or three different possible “readings.” Cage’s instructions remain minimal, however(“make intervals and aggregates where suggested by notation”), and Tudor’s reading is correspondingly straightforward. He reads the graph left to right horizontally, and simply assigns one, two, or three pitch values to each note. For note heads with two or three pitches, Tudor uses these pitches as the endpoints of a large cluster, rendered in his realization as two close-together parallel lines, many of which require an entire forearm to play. Dynamic values are reduced to three traditional markings in blue (p, m, f). Aside from a few blasts from the trumpeter Melvyn Broiles, strings dominate the orchestral texture during this moment of this performance, providing Tudor’s solo with plenty of acoustic space."
+    location: ""
+    extended_caption: "Graph CE looks a bit like experimental-notation wallpaper or an aleatoric midcentury countertop. Again, clefs are ambiguous. The graph is filled with ledger lines. Uniquely, in this graph Cage’s four staves are crooked and intersecting such that any given note has one, two, or three different possible “readings.” Cage’s instructions remain minimal, however (“make intervals and aggregates where suggested by notation”), and Tudor’s reading is correspondingly straightforward. He reads the graph left to right horizontally, and simply assigns one, two, or three pitch values to each note. For note heads with two or three pitches, Tudor uses these pitches as the endpoints of a large cluster, rendered in his realization as two close-together parallel lines, many of which require an entire forearm to play. Dynamic values are reduced to three traditional markings in blue (p, m, f). Aside from a few blasts from the trumpeter Melvyn Broiles, strings dominate the orchestral texture during this moment of this performance, providing Tudor’s solo with plenty of acoustic space."
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -1104,8 +1104,8 @@ object_list:
     date_start: 1958-01-01
     date_end: 1958-12-31
     medium: ""
-    location: "Getty Digital"
-    extended_caption: "In this flipbook, users can press play to hear the entire recording of the Town Hall premiere. On the lower half of the screen is the sheet from the first realization that Tudor would have had on the piano’s music tray. On the top half of the screen, users will find a reconstruction of the graph(s) that Tudor realized. Perhaps surprisingly, Tudor’s performance sequence for the premiere has a certain classical sense of balance. He alternates between dramatic performances of individual graphs and stoic silences; only in a few places are multiple graphs superimposed. Cage may have complained about the “foolish” behavior of some of the musicians—but, in 1958, a specialist performer in experimental music was an uncommon occurrence. All three brass players Cage hired (trombonist Frank Rehak; tuba player Don Butterfield, the improviser of Stravinsky’s *Rite of Spring* around 3′25″; and trumpeter Melvyn Broiles, who plays a jazz riff around 6′40″ were schooled in jazz; in fact, Butterfield and Rehak were essentially jazz musicians. (Broiles did limited jazz and session work but had considerable experience as a classical trumpeter.) Also note the sounds of the audience: raucous and wild, Town Hall was [reportedly] filled with insiders, friends, and onlookers that night, even at the late hour of 11 p.m., when the *Concert* was finally performed. They cheer many of Tudor’s auxiliary sounds: the tape playback, the noises made on the strings of the inside of the piano, and the slinky that featured a contact microphone. Were these signs of disrespect? Or could they be understood as part of Cage’s spectacle? If the subsequent performances with Cunningham’s *Antic Meet* (1958) are a meaningful comparison, the laughter may have been, in some ways, part of the act. Cunningham’s choreography for *Antic Meet *was a vaudevillian audience favorite."
+    location: ""
+    extended_caption: "In this flipbook, users can press play to hear the entire recording of the Town Hall premiere. On the lower half of the screen is the sheet from the first realization that Tudor would have had on the piano’s music tray. On the top half of the screen, users will find a reconstruction of the graph(s) that Tudor realized. Perhaps surprisingly, Tudor’s performance sequence for the premiere has a certain classical sense of balance. He alternates between dramatic performances of individual graphs and stoic silences; only in a few places are multiple graphs superimposed. Cage may have complained about the “foolish” behavior of some of the musicians—but, in 1958, a specialist performer in experimental music was an uncommon occurrence. All three brass players Cage hired (trombonist Frank Rehak; tuba player Don Butterfield, the improviser of Stravinsky’s *Rite of Spring* around 3′25″; and trumpeter Melvyn Broiles, who plays a jazz riff around 6′40″ were schooled in jazz; in fact, Butterfield and Rehak were essentially jazz musicians. (Broiles did limited jazz and session work but had considerable experience as a classical trumpeter.) Also note the sounds of the audience: raucous and wild, Town Hall was reportedly filled with insiders, friends, and onlookers that night, even at the late hour of 11 p.m., when the *Concert* was finally performed. They cheer many of Tudor’s auxiliary sounds: the tape playback, the noises made on the strings of the inside of the piano, and the slinky that featured a contact microphone. Were these signs of disrespect? Or could they be understood as part of Cage’s spectacle? If the subsequent performances with Cunningham’s *Antic Meet* (1958) are a meaningful comparison, the laughter may have been, in some ways, part of the act. Cunningham’s choreography for *Antic Meet *was a vaudevillian audience favorite."
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -1119,8 +1119,8 @@ object_list:
     date_start: 1958-01-01
     date_end: 1958-12-31
     medium: ""
-    location: "Getty Digital"
-    extended_caption: "In the second realization, Tudor performs on piano and with electronic tape while Cage reads his famous stories concurrently for ninety minutes. Curiously, it was Tudor who had suggested making a recording of the collaboration; Cage agreed, and they pitched it to Smithsonian Folkways, who had already expressed interest in recording Cage’s work. For many of the auxiliary sounds called for in this recording of the second realization, Tudor used Cage’s recently completed tape piece, *Fontana Mix* (1958). Each page contains two lines of music that roughly equal thirty seconds each, for one minute total per page. Though Tudor overall conforms to the large-scale time lengths, page by page, there is some push and pull with regards to tempo. If a single sound is complex to execute, it may take longer (and many of these, as you shall hear, are quite complex to execute). This temporal flexibility is characteristic of Tudor’s performances of the era. It is somewhat remarkable in this instance, for we know Tudor had gone through elaborate labors to superimpose all the single ictus attacks from various graphs and spread them out over ninety minutes. Again, it raises the question of why focus with such precision on calculations and perfect penmanship if a performance will inevitably be loose and more practical? Listeners may note as well that in this recording Cage narrates the story of his discontent with the musicians from the Town Hall premiere."
+    location: ""
+    extended_caption: "In the second realization, Tudor performs on piano and with electronic tape while Cage reads his famous stories concurrently for ninety minutes. Curiously, it was Tudor who had suggested making a recording of the collaboration; Cage agreed, and they pitched it to Smithsonian Folkways, who had already expressed interest in recording Cage’s work. For many of the auxiliary sounds called for in this recording of the second realization, Tudor used Cage’s recently completed tape piece, *Fontana Mix* (1958). Each page contains two lines of music that roughly equal thirty seconds each, for one minute total per page. Though Tudor overall conforms to the large-scale time lengths, page by page, there is some push and pull with regards to tempo. If a single sound is complex to execute, it may take longer (and many of these, as you shall hear, are quite complex to execute). This temporal flexibility is characteristic of Tudor’s performances of the era. It is somewhat remarkable in this instance, for we know Tudor had gone through elaborate labors to superimpose all the single ictus attacks from various graphs and spread them out over ninety minutes. Again, it raises a question: Why focus with such precision on calculations and perfect penmanship if a performance will inevitably be loose and more practical? Listeners may note as well that in this recording Cage narrates the story of his discontent with the musicians from the Town Hall premiere."
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -1239,7 +1239,7 @@ object_list:
     date_start: 
     date_end: 
     medium: ""
-    location: "Getty Digital"
+    location: ""
     extended_caption: ""
     credit: ""
     featured: 
@@ -1286,7 +1286,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 71, folder 7"
     extended_caption: ""
-    credit: "Research Library, The Getty Research Institute, Los Angeles, California (980039)"
+    credit: ""
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-085-a", id: "fig-085-b", id: "fig-085-c", id: "fig-085-d", id: "fig-085-e", id: "fig-085-f", id: "fig-085-g", id: "fig-085-h" ]
@@ -1391,7 +1391,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: ""
-    credit: "%%%Need to work on credit line%%% Music © David Tudor.  Disc covers and pamphlet - courtesy of the Smithsonian Folkways Recordings . Text - John Cage Trust"
+    credit: "Music © David Tudor.  Disc covers and pamphlet—courtesy of the Smithsonian Folkways Recordings. Text—John Cage Trust."
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-092-a", id: "fig-092-b", id: "fig-092-c", id: "fig-092-d", id: "fig-092-e", id: "fig-092-f", id: "fig-092-g", id: "fig-092-h", id: "fig-092-i", id: "fig-092-j", id: "fig-092-k", id: "fig-092-l", id: "fig-092-m", id: "fig-092-n" ]
@@ -1405,7 +1405,7 @@ object_list:
     date_end: 1961-01-22
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 5."
-    extended_caption: "The author of this mock review collages together a *Harper’s Magazine* feature article on Tudor, and includes a score reproduction, commentary on Tudor’s work, information about the performance, and a note about the virtues of Photostat-based typography. Though he seems not to have attended the concert, the writer’s observations about Tudor’s work (presumably based on the *Harper’s* article) exemplify the tendency of middlebrow critics to engage in their own armchair philosophizing about the upending of traditional ontologies of music. The author calls Tudor’s performance an indeterminate “thing,” and compares experimental notation to a tradition of formalized diagraming that is more familiar but equally complex—a football playbook."
+    extended_caption: "The author of this mock review collages together a [*Harper’s Magazine* feature article on Tudor](/image-index/192/), and includes a score reproduction, commentary on Tudor’s work, information about the performance, and a note about the virtues of Photostat-based typography. Though he seems not to have attended the concert, the writer’s observations about Tudor’s work (presumably based on the *Harper’s* article) exemplify the tendency of middlebrow critics to engage in their own armchair philosophizing about the upending of traditional ontologies of music. The author calls Tudor’s performance an indeterminate “thing,” and compares experimental notation to a tradition of formalized diagraming that is more familiar but equally complex—a football playbook."
     credit: ""
     featured: 
     type: [ programs and flyers ]
@@ -1420,7 +1420,7 @@ object_list:
     date_end: 1958-09-25
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 13"
-    extended_caption: "This is one of a group of reviews for David Tudor’s European premiere of John Cage’s *Concert for Piano and Orchestra* in Cologne. As was common in German music criticism, the reviewer labels Cage as “American,” recognizes his existing notoriety, and associates him with chance procedures, games, and unusual extended techniques and preparations. Though unlike a 1956 reviewer who categorized his work as a “sound experiment,” here, the reviewer marginalizes him an “enfant terrible” of the German tradition of *Neue Musik* (New Music). Though the reviewer misidentifies Karlheinz Stockhausen’s *Klavierstück XI* as *Klavierstück IX*, they correctly describe the indeterminate elements of Stockhausen’s score: that wherever Tudor’s eye falls on the page of this oversize score, he is to play the notation he finds."
+    extended_caption: "This is one of a group of reviews for David Tudor’s European premiere of John Cage’s *Concert for Piano and Orchestra* in Cologne. As was common in German music criticism, the reviewer labels Cage as “American,” recognizes his existing notoriety, and associates him with chance procedures, games, and unusual extended techniques and preparations. Though unlike a 1956 reviewer who categorized his work as a “sound experiment,” here, the reviewer marginalizes him an “enfant terrible” of the German tradition of *Neue Musik* (New Music). Though the reviewer misidentifies Karlheinz Stockhausen’s *Klavierstück XI* as *Klavierstück IX*, they correctly describe the indeterminate elements of Stockhausen’s score: wherever Tudor’s eye falls on the page of this oversize score, he is to play the notation he finds."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -1435,7 +1435,7 @@ object_list:
     date_end: 1958-05-06
     medium: ""
     location: "New York Times Archive"
-    extended_caption: "In anticipation of the premiere of *Concert for Piano and Orchestra*, Robert Rauschenberg and Jasper Johns, two of the sponsors of the Town Hall retrospective, encouraged Cage to display several of Cage’s scores in a midtown gallery. As a result, Cage’s scores began to be properly accorded recognition as visual works of art. Note what a strong contrast there is between Ashton’s description of the visual impact of his score (“calligraphic beauty” and “a delicate sense of design”) as opposed to the often violent and jarring impact Cage’s “mixed-up” sound world had on audiences. Like the disjuncture between the impersonal grace of Zen and the crushing violence of Artaud’s Theater of Cruelty, the sensory impact of Cage’s chance-based work confronts viewers and listeners with strange and puzzling contradictions. What Cage’s work ultimately is remains deliberately elusive."
+    extended_caption: "In anticipation of the premiere of *Concert for Piano and Orchestra*, Robert Rauschenberg and Jasper Johns, two of the sponsors of the Town Hall retrospective, encouraged Cage to display several of Cage’s scores in a midtown gallery. As a result, Cage’s scores began to be accorded recognition as visual works of art. Note the strong contrast there is between Ashton’s description of the visual impact of his score (“calligraphic beauty” and “a delicate sense of design”) as opposed to the often violent and jarring impact that Cage’s “mixed-up” sound world had on audiences. Like the disjuncture between the impersonal grace of Zen and the crushing violence of Artaud’s Theater of Cruelty, the sensory impact of Cage’s chance-based work confronts viewers and listeners with strange and puzzling contradictions. What Cage’s work ultimately is remains deliberately elusive."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -1444,13 +1444,13 @@ object_list:
     id: "096"
     old_id: "2.15c"
     maker: 
-    title: "“A Whistle, a ‘Slinky’ and a Bunch of Screws,” photograph by Sy Friedman, New York Times, p. X9."
+    title: "“A Whistle, a ‘Slinky’ and a Bunch of Screws,” photograph by Sy Friedman, *New York Times*, p. X9"
     date: "11 May 1958"
     date_start: 1958-05-11
     date_end: 1958-05-11
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 13"
-    extended_caption: "This preview of the Town Hall performance in the New York Times makes a spectacle of what ordinarily would go unseen by an audience seated in a concert hall: the innards of the prepared piano, with its bolts and screws wedged in between strings. This photograph appears somewhat staged, with Cage staring blankly into the piano, and Tudor eyeing the camera as he knocks the amplified slinky with his hand. Throughout the later 1950s and the 1960s, the duo would continue to refine and rework the showmanship of their performances."
+    extended_caption: "This preview of the Town Hall performance in the *New York Times* makes a spectacle of what ordinarily would go unseen by an audience seated in a concert hall: the innards of the prepared piano, with its bolts and screws wedged in between strings. This photograph appears somewhat staged, with Cage staring blankly into the piano, and Tudor eyeing the camera as he knocks the amplified slinky with his hand. Throughout the later 1950s and the 1960s, the duo would continue to refine and rework the showmanship of their performances."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -1459,7 +1459,7 @@ object_list:
     id: "097"
     old_id: "2.15d"
     maker: [ "Jay S. Harrison" ]
-    title: "“John Cage Retrospective Is Presented at Town Hall,” New York Herald Tribune, p. 12."
+    title: "“John Cage Retrospective Is Presented at Town Hall, *New York Herald Tribune*, p. 12"
     date: "16 May 1958"
     date_start: 1958-05-16
     date_end: 1958-05-16
@@ -1474,13 +1474,13 @@ object_list:
     id: "098"
     old_id: "2.15e"
     maker: [ "Milew Kastendieck" ]
-    title: "“Cage’s Music Still a Phenomenon,” New York Journal-American, p. 12."
+    title: "“Cage’s Music Still a Phenomenon,” *New York Journal-American*, p. 12"
     date: "16 May 1958"
     date_start: 1958-05-16
     date_end: 1958-05-16
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 13"
-    extended_caption: "If [Biancolli] exemplifies unbridled enthusiasm, Kastendieck divides the devotees, who believe Cage is a prophet of musical futures, from the onlookers, who see him as merely a “sophisticated primitivist.” From here, the review is critical. Kastendieck suggests that Cage is highly indebted to non-Western music and describes his 1930s and ’40s works as struggling to keep up with various versions of the real thing (jazz drumming, Balinense gamelan, Kabuki theater). He refers, quite critically, to *Concert for Piano and Orchestra* as “sheer anarchy” and an “evolutionary cul-de-sac.” Ironically, the phrases might have pleased Cage, notwithstanding the reviewer’s critical intentions. Cage’s *Imaginary Landscape No. 1* (1939) is compared to two other pressing cultural phenomena of the 1950s: horror films and air-raid sirens."
+    extended_caption: "If [Biancolli’s review](/image-index/100/) exemplifies unbridled enthusiasm, Kastendieck divides the devotees, who believe Cage is a prophet of musical futures, from the onlookers, who see him as merely a “sophisticated primitivist.” From here, the review is critical. Kastendieck suggests that Cage is highly indebted to non-Western music and describes his 1930s and ’40s works as struggling to keep up with various versions of the real thing (jazz drumming, Balinense gamelan, Kabuki theater). He refers, quite critically, to *Concert for Piano and Orchestra* as “sheer anarchy” and an “evolutionary cul-de-sac.” Ironically, the phrases might have pleased Cage, notwithstanding the reviewer’s critical intentions. Cage’s *Imaginary Landscape No. 1* (1939) is compared to two other pressing cultural phenomena of the 1950s: horror films and air-raid sirens."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -1489,13 +1489,13 @@ object_list:
     id: "099"
     old_id: "2.15f"
     maker: [ "Ross Parmenter" ]
-    title: "“Music: Experimenter: Zounds! Sound by John Cage at Town Hall,” New York Times, p. 20."
+    title: "“Music: Experimenter: Zounds! Sound by John Cage at Town Hall,” *New York Times*, p. 20"
     date: "16 May 1958"
     date_start: 1958-05-16
     date_end: 1958-05-16
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 13"
-    extended_caption: "In his review of the Town Hall premiere for the New York Times, Parmenter foregrounds the size of the spectacle (an audience numbering one thousand), and, with respect to *Concert for Piano and Orchestra*, his Artaudian metaphors for psychosis (“crazy” and “mixed-up”). In line with other reviews, Parmenter summarizes Cage’s program note, playing the role of Cage’s public pedagogue. Whereas some high modernists like Milton Babbitt defended their avant-garde practice as a bourgeoning research discipline among institutional circles of specialists, Cage paralleled Allan Kaprow’s emergent practice of centering pedagogical gestures [LINK to Kaprow Ch. Commentary]: he repeatedly sought to explain the structure and significance of his work to his audiences. And to do so he used a variety of media—lectures, publications, press releases, program notes, television appearances, and, in this case, newspaper reviews."
+    extended_caption: "In his review of the Town Hall premiere for the *New York Times*, Parmenter foregrounds the size of the spectacle (an audience numbering one thousand), and, with respect to *Concert for Piano and Orchestra*, his Artaudian metaphors for psychosis (“crazy” and “mixed-up”). In line with other reviews, Parmenter summarizes Cage’s program note, playing the role of Cage’s public pedagogue. Whereas some high modernists like Milton Babbitt defended their avant-garde practice as a bourgeoning research discipline among institutional circles of specialists, Cage paralleled Allan Kaprow’s emergent practice of centering pedagogical gestures: he repeatedly sought to explain the structure and significance of his work to his audiences. And to do so he used a variety of media—lectures, publications, press releases, program notes, television appearances, and, in this case, newspaper reviews."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -1504,7 +1504,7 @@ object_list:
     id: "100"
     old_id: "2.15g"
     maker: [ "Louis Biancolli" ]
-    title: "“John Cage Gives Review of Work,” New York World-Telegram and Sun, p. 25."
+    title: "“John Cage Gives Review of Work,” *New York World-Telegram and Sun*, p. 25"
     date: "16 May 1958"
     date_start: 1958-05-16
     date_end: 1958-05-16
@@ -1519,7 +1519,7 @@ object_list:
     id: "101"
     old_id: "2.15h"
     maker: [ "Margaret Lloyd" ]
-    title: "“Modern American Dance in Connecticut: Contrasting Styles Seen in Eleventh Annual%%%word(s) missing? TK%%%,” Christian Science Monitor"
+    title: "“Modern American Dance in Connecticut: Contrasting Styles Seen in Eleventh Annual,” *Christian Science Monitor*"
     date: "23 August 1958"
     date_start: 1958-08-23
     date_end: 1958-08-23
@@ -1540,7 +1540,7 @@ object_list:
     date_end: 1958-09-21
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 13"
-    extended_caption: "In this review of the European premiere of John Cage’s *Concert for Piano and Orchestra* in Cologne, the reviewer describes the *Concert* as depicting “the collision of extreme phenomena” (*das Zusammenprallen extremer Phänomene*), a description that was typical for the reception of Cage’s work in the 1950s. That is, far from accepting sounds as formalist exercises in chance and indeterminacy, many critics could not resist the temptation to hear them as representations of violence (as clashes, collisions, fights, and struggles). Though Cage never subscribed to these types of interpretations, his interest in Antonin Artaud during the 1950s that he shared with Morton Feldman, David Tudor, and M. C. Richards suggests that such associations may not have been far from his mind. The reviewer also represents the performer’s choices as “improvisation,” a word from which Cage distanced himself during these years, considering it to have unpalatable associations with ego-driven choices even as he turned to improvisational performances during the 1960s."
+    extended_caption: "In this review of the European premiere of John Cage’s *Concert for Piano and Orchestra* in Cologne, the reviewer describes the *Concert* as depicting “the collision of extreme phenomena” (*das Zusammenprallen extremer Phänomene*), a description that was typical for the reception of Cage’s work in the 1950s. That is, far from accepting sounds as formalist exercises in chance and indeterminacy, many critics could not resist the temptation to hear them as representations of violence (as clashes, collisions, fights, and struggles). Though Cage did not endorse these types of interpretations, his interest in Antonin Artaud during the 1950s that he shared with Morton Feldman, David Tudor, and M. C. Richards suggests that such associations may not have been far from his mind. The reviewer also represents the performer’s choices as “improvisation,” a word Cage distanced himself from during these years. He considered the term to have unpalatable associations with ego-driven choices even as he turned to improvisational performances during the 1960s."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -1638,7 +1638,7 @@ object_list:
 -
     id: "109"
     old_id: "2.15p"
-    maker: 
+    maker: "Kurt Driesch"
     title: "“‘Avantgardistische Musik’ am Abgrund: Europäische Erstauffühurng von John Cage’s ‘Klavierkonzert’ in Köln,” *Rhein Neckar-Azeitung*"
     date: "30 September 1958"
     date_start: 1958-09-30
@@ -1654,7 +1654,7 @@ object_list:
     id: "110"
     old_id: "2.15q"
     maker: [ "H.H. Stuckenschmidt" ]
-    title: "“Sessions on Modern Music Held Near Darmstadt,” *Musical America*, pp. 18–19, 34."
+    title: "“Sessions on Modern Music Held Near Darmstadt,” *Musical America*, pp. 18–19, 34"
     date: "October 1958"
     date_start: 1958-10-01
     date_end: 1958-10-31
@@ -1669,13 +1669,13 @@ object_list:
     id: "111"
     old_id: "2.15r"
     maker: [ "A. H." ]
-    title: "“David Tudor in Piano Recital,” *New York Herald Tribune*, p. 11."
+    title: "“David Tudor in Piano Recital,” *New York Herald Tribune*, p. 11"
     date: "20 March 1959"
     date_start: 1959-03-20
     date_end: 1959-03-20
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 15"
-    extended_caption: "This review, of a recital Tudor delivered at NYU’s Maison Française immediately provides one with a sense of the strength of Tudor’s reputation. The author credits Tudor with being not only an excellent performer but also someone with exemplary skills in being able to “read” and “comprehend” these works. That is, the question of basic musical literacy is at stake. Can this material be read? Tudor’s reputation is that of a person who has both the physical ability and the intellectual capacity for decoding customized, esoteric, and future-oriented musical systems. The author ends the review with a remarkably philosophical explanation of the music, one that weaves nihilism, futurism, and necessity: “The philosophic implications of works like these may be disturbingly nihilist. So be it. Whatever their motivation, the pieces are giving us new and usable procedures to add to our musical vocabulary. This, if nothing else, makes them valid.”"
+    extended_caption: "This review, of a recital Tudor delivered at NYU’s Maison Française immediately provides one with a sense of the strength of Tudor’s reputation. The author credits Tudor with being not only an excellent performer but also someone with exemplary skills in being able to “read” and “comprehend” these works. That is, the question of basic musical literacy is at stake. Can this material be read? Tudor’s reputation is that of a person who has both the physical ability and the intellectual capacity for decoding customized, esoteric, and future-oriented musical systems. The author ends the review with a remarkably philosophical explanation of the music, one that weaves together nihilism, futurism, and necessity: “The philosophic implications of works like these may be disturbingly nihilist. So be it. Whatever their motivation, the pieces are giving us new and usable procedures to add to our musical vocabulary. This, if nothing else, makes them valid.”"
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -1699,7 +1699,7 @@ object_list:
     id: "113"
     old_id: "2.15t"
     maker: [ "Doris Hering" ]
-    title: "“The ‘Good Guys’ Versus the ‘Bad Guys’: Twelfth American Dance Festival,” *Dance Magazine*, pp. 31–35, 82."
+    title: "“The ‘Good Guys’ Versus the ‘Bad Guys’: Twelfth American Dance Festival,” *Dance Magazine*, pp. 31–35, 82"
     date: "October 1959"
     date_start: 1959-10-01
     date_end: 1959-10-31
@@ -1720,7 +1720,7 @@ object_list:
     date_end: 1959-11-02
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 15"
-    extended_caption: "A critic writing for *Time* seeks to translate the unfamiliar into terms that are familiar, which in this case means using references to midcentury domestic American culture. This review describes *Indeterminacy* with reference to the noises of an irritating dinner guest, a broken TV, and the unpredictability of a thunderstorm."
+    extended_caption: "A critic writing for *Time* translates unfamiliar experimentalism into terms that are familiar, by way of making references to midcentury domestic American culture. This review describes *Indeterminacy* with reference to the noises of an irritating dinner guest, a broken TV, and the unpredictability of a thunderstorm."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -1744,7 +1744,7 @@ object_list:
     id: "116"
     old_id: "2.15w"
     maker: [ "Eric Salzman" ]
-    title: "“John Cage in Story Hour for Some Friends,” * New York Times*"
+    title: "“John Cage in Story Hour for Some Friends,” *New York Times*"
     date: "26 January 1960"
     date_start: 1960-01-26
     date_end: 1960-01-26
@@ -1759,7 +1759,7 @@ object_list:
     id: "117"
     old_id: "2.15x"
     maker: [ "Fred Grunfeld" ]
-    title: "“Cage Without Bars,” *The Reporter*, pp. 35, 37."
+    title: "“Cage Without Bars,” *The Reporter*, pp. 35, 37"
     date: "4 February 1960"
     date_start: 1960-02-04
     date_end: 1960-02-04
@@ -1774,7 +1774,7 @@ object_list:
     id: "118"
     old_id: "2.15y"
     maker: [ "Walter Terry" ]
-    title: "“Cunningham Dance Group Gives Avant Garde Works,” *New York Herald Tribune*, p. 19."
+    title: "“Cunningham Dance Group Gives Avant Garde Works,” *New York Herald Tribune*, p. 19"
     date: "17 February 1960"
     date_start: 1960-02-17
     date_end: 1960-02-17
@@ -1789,13 +1789,13 @@ object_list:
     id: "119"
     old_id: "2.15z"
     maker: [ "Paul Henry Lang" ]
-    title: "“What Is Offered by Electronic Age?,” *New York Herald Tribune*, p. 6."
+    title: "“What Is Offered by Electronic Age?,” *New York Herald Tribune*, p. 6"
     date: "10 April 1960"
     date_start: 1960-04-10
     date_end: 1960-04-10
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 2"
-    extended_caption: "Lang, a Hungarian-born musicologist, just a week after reviewing one of Tudor’s performances, steps on the philosophical soapbox. Lang compares Tudor’s composers to children who ignorantly destroy the highly valued tradition of Western Art Music. Echoing contemporaneous critiques of high formalism leveled by Theodor Adorno, Stanley Cavell, and many others at midcentury, Lang also critiques the excessively scientific approaches to musical composition as insensitive to the texture of “human frailty.” In Lang’s view, the avant-garde, driven by an excessive love for machines and science, has become in its own way metaphysical, cleaving to an apocalyptic vision of life. His critique relies upon a mantel of the Enlightenment (“the facts contradict it”) and nostalgic conceptions of genius, originality, and universal historical progress based in a “heartbeat of culture.” Elliott Carter, a comparatively traditional high modernist who left considerable place for human gesture in his work, serves as the more accessible foil for the nihilistic indulgences of Tudor’s experimentalism."
+    extended_caption: "Lang, a Hungarian-born musicologist, just a week after reviewing one of Tudor’s performances, steps on the philosophical soapbox. He compares Tudor’s composers to children who ignorantly destroy the highly valued tradition of Western Art Music. Echoing contemporaneous critiques of high formalism leveled by Theodor Adorno, Stanley Cavell, and many others at midcentury, Lang also critiques the excessively scientific approaches to musical composition as insensitive to the texture of “human frailty.” In Lang’s view, the avant-garde, driven by an excessive love for machines and science, has become in its own way metaphysical, cleaving to an apocalyptic vision of life. His critique exhibits the reflexes of midcentury positivism (“the facts contradict it”) and nostalgic conceptions of genius, originality, and universal historical progress based in a “heartbeat of culture.” Elliott Carter, a comparatively traditional high modernist who left considerable place for human gesture in his work, serves as the more accessible foil for the nihilistic indulgences of Tudor’s experimentalism."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -1834,7 +1834,7 @@ object_list:
     id: "122"
     old_id: "2.15ad"
     maker: 
-    title: "“Far-Out at the Philharmonic,” *Time*, pp. 79–80."
+    title: "“Far-Out at the Philharmonic,” *Time*, pp. 79–80"
     date: "14 February 1964"
     date_start: 1964-02-14
     date_end: 1964-02-14
@@ -1856,7 +1856,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7, folder 1"
     extended_caption: ""
-    credit: "Courtesy of the John Cage Trust"
+    credit: "Courtesy of the John Cage Trust."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-123-a", id: "fig-123-b" ]
@@ -1871,7 +1871,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7, folder 7"
     extended_caption: ""
-    credit: "Courtesy of the John Cage Trust"
+    credit: "Courtesy of the John Cage Trust."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-124-a", id: "fig-124-b", id: "fig-124-c" ]
@@ -1886,7 +1886,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 52, folder 3"
     extended_caption: ""
-    credit: "Getty"
+    credit: ""
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-125-a", id: "fig-125-b" ]
@@ -1901,7 +1901,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 55, folder 4"
     extended_caption: ""
-    credit: "Letter © James Klosty"
+    credit: "Letter © James Klosty."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-126" ]
@@ -1991,7 +1991,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 159"
     extended_caption: ""
-    credit: "Manfred Leve Estate "
+    credit: "Manfred Leve Estate."
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-132" ]
@@ -1999,14 +1999,14 @@ object_list:
     id: "133"
     old_id: "2.19e"
     maker: 
-    title: "Photograph of John Cage and David Tudor in Japan"
+    title: "John Cage and David Tudor in the Tôkei-ji Temple Garden (Kanazawa, Japan)"
     date: "1962"
     date_start: 1962-01-01
     date_end: 1962-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 160"
     extended_caption: ""
-    credit: "Photographer: © Matsuzaki Kunitoshi. Provided courtesy of the John Cage Trust"
+    credit: "Photographer: © Matsuzaki Kunitoshi. Provided courtesy of the John Cage Trust."
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-133" ]
@@ -2045,9 +2045,9 @@ object_list:
     old_id: "2.22a"
     maker: [ "David Tudor (American, 1929–96)" ]
     title: "Dynamics table for graph A for the first realization of John Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2060,9 +2060,9 @@ object_list:
     old_id: "2.22b"
     maker: [ "David Tudor (American, 1929–96)" ]
     title: "Auxiliary sound inventory for the first realization of John Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2074,10 +2074,10 @@ object_list:
     id: "138"
     old_id: "2.22c"
     maker: [ "David Tudor (American, 1929–96)" ]
-    title: "Graph sequence for the Antic Meet performance of Cage’s *Solo for Piano* at the American Dance Festival"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    title: "Graph sequence for the Antic Meet performance of John Cage’s *Solo for Piano* at the American Dance Festival"
+    date: "August 1958"
+    date_start: 1958-08-01
+    date_end: 1958-08-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2089,10 +2089,10 @@ object_list:
     id: "139"
     old_id: "2.22d"
     maker: [ "David Tudor (American, 1929–96)" ]
-    title: "Graph sequence for the Antic Meet performance of Cage’s *Solo for Piano* at the Phoenix Theatre, New York"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    title: "Graph sequence for the Antic Meet performance of John Cage’s *Concert for Piano and Orchestra* at the Phoenix Theatre, New York"
+    date: "16 February 1960"
+    date_start: 1960-02-16
+    date_end: 1960-02-16
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2104,10 +2104,10 @@ object_list:
     id: "140"
     old_id: "2.22e"
     maker: [ "David Tudor (American, 1929–96)" ]
-    title: "Graph sequence for the Cologne performance of Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    title: "Graph sequence for the Cologne performance of John Cage’s *Solo for Piano*"
+    date: "September 1958"
+    date_start: 1958-09-01
+    date_end: 1958-09-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2119,10 +2119,10 @@ object_list:
     id: "141"
     old_id: "2.22f"
     maker: [ "David Tudor (American, 1929–96)" ]
-    title: "Graph sequence for the Town Hall rehearsal and premiere of Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    title: "Graph sequence for the Town Hall rehearsal and premiere of John Cage’s *Solo for Piano*"
+    date: "15 May 1958"
+    date_start: 1958-05-15
+    date_end: 1958-05-15
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2134,10 +2134,10 @@ object_list:
     id: "142"
     old_id: "2.22g"
     maker: [ "David Tudor (American, 1929–96)" ]
-    title: "Graph sequence for the Vienna performance of Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    title: "Graph sequence for the Vienna performance of John Cage’s *Solo for Piano*"
+    date: "19 November 1959"
+    date_start: 1959-11-19
+    date_end: 1959-11-19
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2149,10 +2149,10 @@ object_list:
     id: "143"
     old_id: "2.22h"
     maker: [ "David Tudor (American, 1929–96)" ]
-    title: "Graph sequence for the Village Vanguard performance of Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    title: "Graph sequence for the Village Vanguard performance of John Cage’s *Solo for Piano*"
+    date: "25 May 1958"
+    date_start: 1958-05-25
+    date_end: 1958-05-25
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2165,9 +2165,9 @@ object_list:
     old_id: "2.22i"
     maker: [ "David Tudor (American, 1929–96)" ]
     title: "Grids and templates for the first realization of John Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2180,9 +2180,9 @@ object_list:
     old_id: "2.22j"
     maker: [ "David Tudor (American, 1929–96)" ]
     title: "Index of graphs and pages from John Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2195,9 +2195,9 @@ object_list:
     old_id: "2.22k"
     maker: [ "David Tudor (American, 1929–96)" ]
     title: "Map of graphs for the first realization of John Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2210,9 +2210,9 @@ object_list:
     old_id: "2.22l"
     maker: [ "David Tudor (American, 1929–96)" ]
     title: "Notes for tape A for the first realization of John Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2225,9 +2225,9 @@ object_list:
     old_id: "2.22m"
     maker: [ "David Tudor (American, 1929–96)" ]
     title: "Notes for tape B for the first realization of John Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2240,9 +2240,9 @@ object_list:
     old_id: "2.22n"
     maker: [ "David Tudor (American, 1929–96)" ]
     title: "Realization fragment for the first realization of John Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2254,10 +2254,10 @@ object_list:
     id: "150"
     old_id: "2.22o"
     maker: [ "David Tudor (American, 1929–96)" ]
-    title: "Reverse sequence of Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    title: "Reverse sequence of John Cage’s *Solo for Piano*"
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2269,10 +2269,10 @@ object_list:
     id: "151"
     old_id: "2.22p"
     maker: [ "David Tudor (American, 1929–96)" ]
-    title: "Sketch of the graph sequence for the Cologne performance of Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    title: "Sketch of the graph sequence for the Cologne performance of John Cage’s *Solo for Piano*"
+    date: "September 1958"
+    date_start: 1958-09-01
+    date_end: 1958-09-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2300,9 +2300,9 @@ object_list:
     old_id: "2.22r"
     maker: [ "David Tudor (American, 1929–96)" ]
     title: "Unidentified sketches for the first realization of John Cage’s *Solo for Piano*"
-    date: "1958"
-    date_start: 1958-01-01
-    date_end: 1958-12-31
+    date: "May 1958"
+    date_start: 1958-05-01
+    date_end: 1958-05-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
     extended_caption: ""
@@ -2351,7 +2351,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2"
     extended_caption: "In this realization, Tudor largely recopies Bussotti’s tablature piano notation from *No. 1* into a more readable format that specifies more precise proportional notation for the gestures prescribed in Bussotti’s original score."
-    credit: "?"
+    credit: ""
     featured: 
     type: [ score ]
     figure: [ id: "fig-156-a", id: "fig-156-b", id: "fig-156-c", id: "fig-156-d", id: "fig-156-e", id: "fig-156-f", id: "fig-156-g", id: "fig-156-h", id: "fig-156-i", id: "fig-156-j" ]
@@ -2366,7 +2366,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2"
     extended_caption: "Tudor’s approach to realizing *No. 4* was more systematic than his approach to *No. 3*. It involved measuring parameters and distances and calculating a series of values for events that were then notated. This created a more challenging score that Tudor appears to have only partially had time to prepare for performance."
-    credit: "?"
+    credit: ""
     featured: true
     type: [ score ]
     figure: [ id: "fig-157-a", id: "fig-157-b", id: "fig-157-c", id: "fig-157-d", id: "fig-157-e", id: "fig-157-f", id: "fig-157-g", id: "fig-157-h" ]
@@ -2440,7 +2440,7 @@ object_list:
     date_end: 
     medium: ""
     location: ""
-    extended_caption: "*Nos. 2* and *5* of Bussotti’s *Five Pieces for David Tudor* are in traditional music notation. %%%Animation caption TK%%%"
+    extended_caption: "*Nos. 2* and *5* of Bussotti’s *Five Pieces for David Tudor* are in traditional music notation."
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -2501,7 +2501,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: "This diagram shows a 1961 “postscript” version of *Pièces de chair II* (1958–60) that reworks elements of the original cycle."
-    credit: "Hal Leonard"
+    credit: "Courtesy of Hal Leonard."
     featured: 
     type: [ score ]
     figure: [ id: "fig-166" ]
@@ -2516,7 +2516,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-167" ]
@@ -2531,7 +2531,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-168" ]
@@ -2546,7 +2546,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-169" ]
@@ -2561,7 +2561,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-170" ]
@@ -2576,7 +2576,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-171" ]
@@ -2591,7 +2591,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-172" ]
@@ -2606,7 +2606,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: "From 1959 to 1967, Bussotti sent Tudor packages that included personalized signatures, drawings, and graphic notations in colored pen, often in fragmented form."
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-173" ]
@@ -2621,7 +2621,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Hal Leonard"
+    credit: "Courtesy of Hal Leonard."
     featured: 
     type: [ score ]
     figure: [ id: "fig-174" ]
@@ -2636,7 +2636,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Hal Leonard"
+    credit: "Courtesy of Hal Leonard."
     featured: 
     type: [ score ]
     figure: [ id: "fig-175-a", id: "fig-175-b", id: "fig-175-c", id: "fig-175-d", id: "fig-175-e" ]
@@ -2651,7 +2651,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-176-a", id: "fig-176-b" ]
@@ -2666,7 +2666,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-177" ]
@@ -2680,8 +2680,8 @@ object_list:
     date_end: 1959-11-02
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
-    extended_caption: "This letter negotiates performances by Tudor in Italy."
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    extended_caption: "This letter contains negotiations for performances by Tudor in Italy."
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-178" ]
@@ -2696,7 +2696,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-179" ]
@@ -2711,7 +2711,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-180" ]
@@ -2726,7 +2726,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: "This is the letter Bussotti included with his initial package of scores to Tudor. It makes explicit the high level of trust the composer has in the performer’s ability to realize his scores."
-    credit: "Courtesy of the Sylvano Bussotti Estate"
+    credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-181-a", id: "fig-181-b" ]
@@ -2815,7 +2815,7 @@ object_list:
     date_end: 1959-11-15
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 15"
-    extended_caption: "This is a review of David Tudor’s concert in Venice of works by a group of Darmstadt-associated composers: Henry Posseur, Franco Evangelisti, Karlheinz Stockhausen, Frank Amey, John Cage, and Sylvano Bussotti (particularly his *Five Piano Pieces for David Tudor*). The review, which is largely informative, notes that organizing three concerts in Italy (the other two were in Padua and Rome) was a considerable challenge. It describes Bussotti and Evangelisti as holding “extremely advanced positions” (*posizioni estremamente avanzate*), adding that Bussotti had extended Cage’s use of indeterminacy into the realm of graphic notation in *No. 3* of *Pieces* in Lodovico Mamprin describes as a “a desperate search for order” (*una disperata ricerca di ordine*)."
+    extended_caption: "This is a review of David Tudor’s concert in Venice of works by a group of Darmstadt-associated composers: Henry Posseur, Franco Evangelisti, Karlheinz Stockhausen, Frank Amey, John Cage, and Sylvano Bussotti (particularly his *Five Piano Pieces for David Tudor*). The review, which is largely informative, notes that organizing three concerts in Italy (the other two were in Padua and Rome) was a considerable challenge. It describes Bussotti and Evangelisti as holding “extremely advanced positions” (*posizioni estremamente avanzate*), adding that Bussotti had extended Cage’s use of indeterminacy into the realm of graphic notation in *No. 3* of *Pieces* in what reviewer Lodovico Mamprin describes as a “a desperate search for order” (*una disperata ricerca di ordine*)."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -2890,7 +2890,7 @@ object_list:
     date_end: 1960-06-30
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 1"
-    extended_caption: "This six-page feature on Tudor by Harold Schonberg humanizes Tudor in a way that shorter reviews did not. Schonberg remarks that adjectives used to describe Tudor include “enigmatic,” “mystical,” “shy,” and “permanently concentrated.” Elsewhere he claims Tudor and his circle are surrounded by Zen Buddhism, mysticism, and mathematics. As with Wallace’s review two months earlier, Schonberg’s article includes reproductions and detailed captions of graphs BB and O from Cage’s *Solo for Piano*, as well as *No. 1* from Bussotti’s *Five Pieces for David Tudor*. The feature also emphasizes the great significance Cage and Tudor currently had on the visual arts. It is often noted that Cage and Morton Feldman spent more time with artists and dancers than they did with fellow composers and musicians. But Schonberg adds that the audiences for their performances were also dominated by the presence of artists and other non-musicians."
+    extended_caption: "This six-page feature on Tudor by Harold Schonberg humanizes Tudor in a way that shorter reviews did not. Schonberg remarks that adjectives used to describe Tudor include “enigmatic,” “mystical,” “shy,” and “permanently concentrated.” Elsewhere he claims Tudor and his circle are surrounded by Zen Buddhism, mysticism, and mathematics. As with [Wallace’s review](/image-index/191/) two months earlier, Schonberg’s article includes reproductions and detailed captions of graphs BB and O from Cage’s *Solo for Piano*, as well as *No. 1* from Bussotti’s *Five Pieces for David Tudor*. The feature also emphasizes the great significance Cage and Tudor currently had on the visual arts. It is often noted that Cage and Morton Feldman spent more time with artists and dancers than they did with fellow composers and musicians. But Schonberg adds that the audiences for their performances were also dominated by the presence of artists and other non-musicians."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -2928,8 +2928,8 @@ object_list:
 -
     id: "195"
     old_id: "3.15"
-    maker: [ "David Tudor (American, 1926–16)" ]
-    title: "Lecture notes on Tudor’s performance practice as a pianist during the late 1950s and early ’60s."
+    maker: [ "David Tudor (American, 1926–96)" ]
+    title: "Lecture notes on Tudor’s performance practice as a pianist during the late 1950s and early ’60s"
     date: "early 1960s"
     date_start: 
     date_end: 
@@ -3033,17 +3033,17 @@ object_list:
 -
     id: "202"
     old_id: "4.06"
-    maker: [ "Benjamin Patterson (American, 1934–2016)" ]
+    maker: [ "Ed Wallace" ]
     title: "“War on the Keys: Above Ground Test Deactivates Piano,” *New York World-Telegram and Sun* "
-    date: "1960"
-    date_start: 1960-01-01
-    date_end: 1960-12-31
+    date: "5 April 1960"
+    date_start: 1960-04-05
+    date_end: 1960-04-05
     medium: ""
-    location: "Getty Research Institute, 890164, box 39, folder 33"
-    extended_caption: ""
+    location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 1"
+    extended_caption: "Wallace had the benefit of having already read outraged reviews of David Tudor’s first recital at the Living Theatre, and here he aspires to make Tudor’s work better understood by his readers. Notably, he reproduces Sylvano Bussotti’s notation in the newspaper, a gesture that would give the piece’s visual artistry vastly farther reach than it would see in the hands of a publisher or Tudor himself."
     credit: ""
     featured: 
-    type: [ score ]
+    type: [ press clipping ]
     figure: [ id: "fig-202" ]
 -
     id: "203"
@@ -3101,7 +3101,7 @@ object_list:
     medium: "Silent 16 mm film with a voiceover description by Ben Vautier"
     location: ""
     extended_caption: ""
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ video ]
     figure: [ id: "fig-206" ]
@@ -3116,7 +3116,7 @@ object_list:
     medium: "Silent 16 mm film with a voiceover description by Ben Vautier"
     location: ""
     extended_caption: ""
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ video ]
     figure: [ id: "fig-207" ]
@@ -3131,7 +3131,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: ""
-    credit: "© The Estate of Benjamin Patterson; © Staatsgalerie Stuttgart"
+    credit: "© The Estate of Benjamin Patterson; © Staatsgalerie Stuttgart."
     featured: 
     type: [ video ]
     figure: [ id: "fig-208" ]
@@ -3139,13 +3139,13 @@ object_list:
     id: "209"
     old_id: "4.10d"
     maker: 
-    title: "Sampler%%%TK%%%"
+    title: "Sampler"
     date: ""
     date_start: 
     date_end: 
     medium: ""
     location: ""
-    extended_caption: "%%%TK%%%"
+    extended_caption: ""
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -3160,7 +3160,7 @@ object_list:
     date_end: 1960-04-30
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32"
-    extended_caption: "Patterson’s colleague,Wolf Vostell had branded his work décollage, a technique of disassembling, deconstructing, or removing material from an object to create a work. In this score written for an exhibition by Vostell, Patterson riffs on Cage’s use of transparencies in scores, first used in 1958 in *Variations I* and *Fontana Mix.* The first transparency is a timeline with hashmarks indicating various actions of removal (“tearing, cutting, sawing, grinding, sanding, chiseling, scraping, burning, eating,”) from four surfaces marked “A,” “B,” “C,” and “D.” The underlying paper contains various regions that specify the surface to be deconstructed (or a rest, if no letter is in the region where the hashmark appears). Two additional transparencies indicate the dynamics of each individual action. In providing a score for a practice Vostell had already developed, Patterson reveals a latent game-like procedure in his fellow artist’s work that can be subject to formalization and chance procedures (via the free distribution of the transparencies). The presence here of a timeline and dynamic markings (not the case for the event scores) reveal Patterson’s continued interest in elements of traditional musical notation."
+    extended_caption: "Patterson’s colleague, Wolf Vostell had branded his work décollage, a technique of disassembling, deconstructing, or removing material from an object to create a work. In this score written for an exhibition by Vostell, Patterson riffs on Cage’s use of transparencies in scores, which Cage first used in 1958 in *Variations I* and *Fontana Mix.* The first transparency is a timeline with hashmarks indicating various actions of removal (“tearing, cutting, sawing, grinding, sanding, chiseling, scraping, burning, eating,”) from four surfaces marked “A,” “B,” “C,” and “D.” The underlying paper contains various regions that specify the surface to be deconstructed (or a rest, if no letter is in the region where the hashmark appears). Two additional transparencies indicate the dynamics of each individual action. In providing a score for a practice Vostell had already developed, Patterson reveals a latent game-like procedure in his fellow artist’s work that can be subject to formalization and chance procedures (via the free distribution of the transparencies). The presence of a timeline and dynamic markings reveals Patterson’s continued interest in elements of traditional musical notation."
     credit: ""
     featured: 
     type: [ score ]
@@ -3174,7 +3174,7 @@ object_list:
     date_start: 1961-05-01
     date_end: 1961-05-31
     medium: ""
-    location: "Getty Research Institute, Jean Brown Papers, 890164 %%%box and folder number TK%%%"
+    location: "Getty Research Institute, Jean Brown Papers, 890164, box 41, folder 4"
     extended_caption: ""
     credit: ""
     featured: 
@@ -3191,7 +3191,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32"
     extended_caption: "This is the first of a number of chance compositions Patterson was invited to write for openings at Haro Lauhus’s gallery in Köln. This score for three pianos achieves chance procedures through shuffled cards that feature unspecified attacks of varied durations, amounts, and qualities (including clusters, varied spacings, and transpositions)."
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ score ]
     figure: [ id: "fig-212-a", id: "fig-212-b" ]
@@ -3206,7 +3206,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32"
     extended_caption: "This score for a solo string instrument doubles as a work of visual art. Its imaginative and inventive four pages propose a novel symbolic system of musical notation. Each circle is a sound event: a letter indicates the pitch, the size of the circle indicates either loudness or duration (up to the performer), and the shape indicates a range of extended techniques Patterson knew well as a professional double bassist. Solid circles are rests, and pauses can be taken at the ends of lines. Repetition is allowed. The fourth page is more traditionally notated."
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: true
     type: [ score ]
     figure: [ id: "fig-213-a", id: "fig-213-b", id: "fig-213-c", id: "fig-213-d", id: "fig-213-e" ]
@@ -3221,7 +3221,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33"
     extended_caption: "These text scores are closer to the emerging genre of event scores insofar as they minimize specifications of time and residues of musical notation."
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ score ]
     figure: [ id: "fig-214" ]
@@ -3236,7 +3236,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32"
     extended_caption: "This transparency score consists of five pages that can be freely superimposed upon one another. The three red rectangles function as staves indicating pitch and duration; the sheet of red circles groups symbols together into events for either the string player or the vocalist. The three sheets of miscellaneous musical symbols indicate various extended techniques. This score is a generative tool for the performers to make a realization. Performers would likely have to reposition the transparencies repeatedly within the forest of symbols to get enough attacks to constitute a performance of ten minutes or more."
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: true
     type: [ score ]
     figure: [ id: "fig-215-a", id: "fig-215-b", id: "fig-215-c", id: "fig-215-d", id: "fig-215-e", id: "fig-215-f", id: "fig-215-g", id: "fig-215-h", id: "fig-215-i", id: "fig-215-j" ]
@@ -3251,7 +3251,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32"
     extended_caption: "A performance of *Pond* that involves a grid written on the ground and the aleatoric actions of wind-up toys was coordinated in 2013 at NYU and is documented here: https://www.youtube.com/watch?v=DoDfaRQH8mk."
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ score ]
     figure: [ id: "fig-216-a", id: "fig-216-b", id: "fig-216-c" ]
@@ -3266,7 +3266,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33"
     extended_caption: "First performed by Patterson himself, these variations take the performer and their bass as the “theme”; the “variations” are a series of event scores. The number of sounds and the duration of each variation are left up to the bassist."
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ score ]
     figure: [ id: "fig-217" ]
@@ -3329,7 +3329,7 @@ object_list:
     credit: ""
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-221-a", id: "fig-221-b" ]
+    figure: [ id: "fig-221-b", id: "fig-221-a" ]
 -
     id: "222"
     old_id: "4.17b"
@@ -3344,7 +3344,7 @@ object_list:
     credit: ""
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-222-a", id: "fig-222-b" ]
+    figure: [ id: "fig-222-b", id: "fig-222-a" ]
 -
     id: "223"
     old_id: "4.17c"
@@ -3359,7 +3359,7 @@ object_list:
     credit: ""
     featured: 
     type: [ programs and flyers ]
-    figure: [ id: "fig-223-a", id: "fig-223-b" ]
+    figure: [ id: "fig-223-b", id: "fig-223-a" ]
 -
     id: "224"
     old_id: "4.18"
@@ -3385,7 +3385,7 @@ object_list:
     date_end: 1963-01-31
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 29"
-    extended_caption: "In this letter from Maciunas, he describes a performance of *Paper Piece* and tells Patterson that he has purchased a double bass (along with its associated auxiliary percussion and objects), with the intention of performing *Variations for Double-Bass* (1961, rev. 1962)."
+    extended_caption: "In this letter from Maciunas, he describes a performance of *Paper Piece* and tells Patterson that he has purchased a double bass (along with its associated auxiliary percussion and objects), with the intention of performing *Variations for Double Bass* (1961, rev. 1962)."
     credit: ""
     featured: 
     type: [ correspondence ]
@@ -3401,7 +3401,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 11, folder 13"
     extended_caption: "This is Patterson’s collection of published event scores."
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ score ]
     figure: [ id: "fig-226-a", id: "fig-226-b", id: "fig-226-c", id: "fig-226-d", id: "fig-226-e", id: "fig-226-f", id: "fig-226-g", id: "fig-226-h", id: "fig-226-i", id: "fig-226-j" ]
@@ -3415,8 +3415,8 @@ object_list:
     date_end: 1960-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 195, folder 3"
-    extended_caption: "A composition for one to twelve pianists, *Ants* generated chance procedures through a photograph of ants that were then transposed into a series of novel notations that reflect Patterson’s circle notations in *String Music* (1960). Notwithstanding the unique way Patterson used insects to derive material, the score itself is one of his more straightforward; as with Tudor’s realization sheets, each page covers thirty seconds, leading to a performance of exactly six minutes if all twelve sheets are played. As was also the case with Tudor’s realization, the pages themselves can be freely re-sequenced."
-    credit: "© The Estate of Benjamin Patterson"
+    extended_caption: "A composition for one to twelve pianists, *Ants* generated chance procedures through a photograph of ants that were then transposed into a series of novel notations that mirror Patterson’s circle notations in *String Music* (1960). Notwithstanding the unique way Patterson used insects to derive material, the score itself is one of his more straightforward; as with Tudor’s realization sheets, each page covers thirty seconds, leading to a performance of exactly six minutes if all twelve sheets are played. As was also the case with Tudor’s realization, the pages themselves can be freely re-sequenced."
+    credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ score ]
     figure: [ id: "fig-227-a", id: "fig-227-b", id: "fig-227-c", id: "fig-227-d", id: "fig-227-e", id: "fig-227-f", id: "fig-227-g", id: "fig-227-h", id: "fig-227-i", id: "fig-227-j", id: "fig-227-k", id: "fig-227-l", id: "fig-227-m", id: "fig-227-n", id: "fig-227-o" ]
@@ -3431,22 +3431,22 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 11, folder 13"
     extended_caption: ""
-    credit: "© The Estate of Benjamin Patterson"
+    credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ score ]
     figure: [ id: "fig-228-a", id: "fig-228-b" ]
 -
     id: "229"
     old_id: "4.21"
-    maker: 
-    title: "Concert program featuring Patterson’s work at the Fluxus Internationale Festspiele Neuester Musik, Wiesbaden"
-    date: "1962"
-    date_start: 1962-01-01
-    date_end: 1962-12-31
-    medium: ""
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 39 %%%folder number TK%%%"
+    maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
+    title: "Flyer for Fluxus Internationale Festspiele Neuester Musik, Städtisches Museum, Wiesbaden, Germany"
+    date: "1–23 September 1962"
+    date_start: 1962-09-01
+    date_end: 1962-09-23
+    medium: "Double-sided offset lithograph"
+    location: "Getty Research Institute, Jean Brown Papers, 890164, box 39"
     extended_caption: ""
-    credit: ""
+    credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. Courtesy of Billie Maciunas."
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-229" ]
@@ -3460,7 +3460,7 @@ object_list:
     date_end: 1962-08-30
     medium: ""
     location: ""
-    extended_caption: "Extended caption: This article, written by Emmett Williams, was published in advance of the first major Fluxus festival to take place at the Museum Wiesbaden, Germany, in September 1962. As one of the earliest journalistic accounts of Fluxus, it is remarkable on multiple accounts. Williams was a Fluxus insider, highly informed about the group’s activities, and yet he plays the role of a bemused novice to the avant-garde scene as he previews the Fluxus festival and asks questions of (then Paris-based) participant Benjamin Patterson, including about his approach to interpreting unconventional scores. Williams’s naïve posturing appears to be for the benefit of the readership of *The Stars and Stripes*: United States military personnel stationed abroad. Williams worked as editor for the newspaper, and he was not the only Fluxus affiliate to be employed by the US military. For a time, Patterson played in the Seventh Army Symphony, and George Maciunas worked as a graphic designer stationed with the US military base in Wiesbaden, where the watershed Fluxus festival was soon to take place."
+    extended_caption: "This article, written by Emmett Williams, was published in advance of the first major Fluxus festival to take place at the Museum Wiesbaden, Germany, in September 1962. As one of the earliest journalistic accounts of Fluxus, it is remarkable on multiple accounts. Williams was a Fluxus insider, highly informed about the group’s activities, and yet he plays the role of a bemused novice to the avant-garde scene as he previews the Fluxus festival and asks questions of (then Paris-based) participant Benjamin Patterson, including about his approach to interpreting unconventional scores. Williams’s naïve posturing appears to be for the benefit of the readership of *The Stars and Stripes*: United States military personnel stationed abroad. Williams worked as editor for the newspaper, and he was not the only Fluxus affiliate to be employed by the US military. For a time, Patterson played in the Seventh Army Symphony, and George Maciunas worked as a graphic designer stationed with the US military base in Wiesbaden, where the watershed Fluxus festival was soon to take place."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -3483,15 +3483,15 @@ object_list:
 -
     id: "232"
     old_id: "4.24b"
-    maker: 
-    title: "Benjamin Patterson performing *Variations for Double Bass*"
-    date: "1962"
-    date_start: 1962-01-01
-    date_end: 1962-12-31
-    medium: ""
+    maker: [ "possibly Rolf Jährling" ]
+    title: "Benjamin Patterson performing *Variations for Double Bass* at *Kleinen Sommerfest: Après John Cage*, Galerie Parnass, Wuppertal, West Germany"
+    date: "9 June 1962"
+    date_start: 1962-06-09
+    date_end: 1962-06-09
+    medium: "gelatin silver print"
     location: ""
     extended_caption: ""
-    credit: ""
+    credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. © The Estate of Benjamin Patterson. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY."
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-232-a", id: "fig-232-b" ]
@@ -3506,7 +3506,7 @@ object_list:
     medium: "Black-and-white photo, 10 x 15 cm, contained in a ring binder"
     location: ""
     extended_caption: ""
-    credit: "Photographer unknown. Used by permission of Fondazione Bonotto"
+    credit: "Photographer unknown. Used by permission of Fondazione Bonotto."
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-233" ]
@@ -3518,10 +3518,10 @@ object_list:
     date: "23 June 1963"
     date_start: 1963-06-23
     date_end: 1963-06-23
-    medium: ""
+    medium: "gelatin silver print"
     location: ""
     extended_caption: ""
-    credit: "© The Estate of Benjamin Patterson. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY.  "
+    credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. © The Estate of Benjamin Patterson. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY."
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-234" ]
@@ -3544,7 +3544,7 @@ object_list:
     id: "236"
     old_id: "4.26"
     maker: 
-    title: "Invitation and program sent to David Tudor for the exhibition *Kleinen Sommerfest: Après John Cage*, organized by George Maciunas and Benjamin Patterson at Galerie Parnass, Wuppertal, Germany"
+    title: "Invitation and program sent to David Tudor for the exhibition *Kleinen Sommerfest: Après John Cage*, organized by George Maciunas and Benjamin Patterson at Galerie Parnass, Wuppertal, West Germany"
     date: "9 June 1962"
     date_start: 1962-06-09
     date_end: 1962-06-09
@@ -3626,7 +3626,7 @@ object_list:
     medium: "video"
     location: "Getty Center, Los Angeles"
     extended_caption: ""
-    credit: "?"
+    credit: ""
     featured: 
     type: [ video ]
     figure: [ id: "fig-241" ]

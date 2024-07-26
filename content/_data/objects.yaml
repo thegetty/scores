@@ -704,7 +704,7 @@ object_list:
     credit: ""
     featured: 
     type: [ score ]
-    figure: [ id: "fig-046" ]
+    figure: [ id: "fig-046-a", id: "fig-046-b", id: "fig-046-c", id: "fig-046-d", id: "fig-046-e" ]
 -
     id: "047"
     old_id: "1.15a"
@@ -809,7 +809,7 @@ object_list:
     credit: "*Intersection 2* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     featured: 
     type: [ score ]
-    figure: [ id: "fig-053" ]
+    figure: [ id: "fig-053-a", id: "fig-053-b", id: "fig-053-c", id: "fig-053-d", id: "fig-053-e", id: "fig-053-f", id: "fig-053-g", id: "fig-053-h", id: "fig-053-i", id: "fig-053-j", id: "fig-053-k" ]
 -
     id: "054"
     old_id: "1.16b"
@@ -944,7 +944,7 @@ object_list:
     credit: "*Concert for Piano and Orchestra* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
     featured: 
     type: [ score ]
-    figure: [ id: "fig-062-a", id: "fig-062-b", id: "fig-062-c", id: "fig-062-d", id: "fig-062-e", id: "fig-062-f", id: "fig-062-g", id: "fig-062-h" ]
+    figure: [ id: "fig-062-a", id: "fig-062-b", id: "fig-062-c", id: "fig-062-d", id: "fig-062-e", id: "fig-062-f", id: "fig-062-g", id: "fig-062-h", id: "fig-062-i", id: "fig-062-j", id: "fig-062-k", id: "fig-062-l", id: "fig-062-m", id: "fig-062-n" ]
 -
     id: "063"
     old_id: "2.01d"
@@ -959,7 +959,7 @@ object_list:
     credit: "*Concert for Piano and Orchestra* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
     featured: true
     type: [ score ]
-    figure: [ id: "fig-063-a", id: "fig-063-b", id: "fig-063-c", id: "fig-063-d", id: "fig-063-e", id: "fig-063-f", id: "fig-063-g", id: "fig-063-h" ]
+    figure: [ id: "fig-063-a", id: "fig-063-b", id: "fig-063-c", id: "fig-063-d", id: "fig-063-e", id: "fig-063-f", id: "fig-063-g", id: "fig-063-h", id: "fig-063-i", id: "fig-063-j", id: "fig-063-k", id: "fig-063-l", id: "fig-063-m", id: "fig-063-n" ]
 -
     id: "064"
     old_id: "2.02"
@@ -1638,7 +1638,7 @@ object_list:
 -
     id: "109"
     old_id: "2.15p"
-    maker: "Kurt Driesch"
+    maker: [ "Kurt Driesch" ]
     title: "“‘Avantgardistische Musik’ am Abgrund: Europäische Erstauffühurng von John Cage’s ‘Klavierkonzert’ in Köln,” *Rhein Neckar-Azeitung*"
     date: "30 September 1958"
     date_start: 1958-09-30
@@ -3164,7 +3164,7 @@ object_list:
     credit: ""
     featured: 
     type: [ score ]
-    figure: [ id: "fig-210-a", id: "fig-210-b", id: "fig-210-c", id: "fig-210-d", id: "fig-210-e", id: "fig-210-f", id: "fig-210-g", id: "fig-210-h" ]
+    figure: [ id: "fig-210-d", id: "fig-210-e", id: "fig-210-f", id: "fig-210-g", id: "fig-210-b", id: "fig-210-c", id: "fig-210-h", id: "fig-210-a" ]
 -
     id: "211"
     old_id: "4.12"
@@ -3640,7 +3640,7 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: "From his earliest days as a college student, John Cage was known as a charismatic speaker. After turning to chance procedures and indeterminate notations in the 1950s, Cage’s music could sound austere and inaccessible; in this context, spoken lectures helped audiences connect with the philosophical complexity and playfulness of his compositional process—without, however, fully explaining that process. With *45′ for a Speaker* (1954), Cage first realized his ideal lecture practice, which would, in his words, “permit the audience to experience what I had to say rather than just hear about it.” Cage used chance procedures to determine many of its elements, from the subject matter discussed and quotations selected, to how fast or loud to read, and even when to cough or “lean on elbow.” The result is a peculiarly intense amalgamation of philosophical propositions, program note–like discussions of avant-garde techniques, ordinary gestures, and—of course—silences."
+    extended_caption: "From his earliest days as a college student, John Cage was known as a charismatic speaker. After turning to chance procedures and indeterminate notations in the 1950s, Cage’s music could sound austere and inaccessible; in this context, spoken lectures helped audiences connect with the philosophical complexity and playfulness of his compositional process—without, however, fully explaining that process. With [*45′ for a Speaker*](/image-index/238/#fig-238-s) (1954), Cage first realized his ideal lecture practice, which would, in his words, “permit the audience to experience what I had to say rather than just hear about it.” Cage used chance procedures to determine many of its elements, from the subject matter discussed and quotations selected, to how fast or loud to read, and even when to cough or “lean on elbow.” The result is a peculiarly intense amalgamation of philosophical propositions, program note–like discussions of avant-garde techniques, ordinary gestures, and—of course—silences."
     credit: "*45′ for a Speaker* by John Cage © 1954 by John Cage. Permission by C.F. Peters Corporation. All rights reserved."
     featured: 
     type: [ video ]
@@ -3790,7 +3790,7 @@ object_list:
     date_end: 1966-09-13
     medium: ""
     location: ""
-    extended_caption: "This recording of one of Jackson Mac Low’s scores included in *An Anthology* features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can hear the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry."
+    extended_caption: "This recording of one of Jackson Mac Low’s scores included in *An Anthology* features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can appreciate the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry."
     credit: " © Estate of Jackon Mac Low."
     featured: 
     type: [ audio ]
@@ -4064,7 +4064,7 @@ object_list:
     credit: "Courtesy of Billie Maciunas."
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-271-a", id: "fig-271-b", id: "fig-271-c", id: "fig-271-d", id: "fig-271-e", id: "fig-271-f", id: "fig-271-g", id: "fig-271-h", id: "fig-271-i", id: "fig-271-j" ]
+    figure: [ id: "fig-271-a", id: "fig-271-b", id: "fig-271-c", id: "fig-271-d", id: "fig-271-e", id: "fig-271-f", id: "fig-271-g", id: "fig-271-h", id: "fig-271-i", id: "fig-271-j", id: "fig-271-l" ]
 -
     id: "272"
     old_id: "5.11f"
@@ -4287,6 +4287,7 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
     extended_caption: ""
     credit: "Remy Charlip Estate."
+    related: [ "277" ]
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-286-a", id: "fig-286-b" ]
@@ -4830,36 +4831,38 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-322-a", id: "fig-322-b", id: "fig-322-c", id: "fig-322-d", id: "fig-322-e", id: "fig-322-f", id: "fig-322-g", id: "fig-322-h" ]
--
-    id: "323"
-    old_id: "5.29a"
-    maker: [ "Terry Jennings (American, 1940–81)" ]
-    title: "*Piano Piece*"
-    date: "November–December 1960"
-    date_start: 
-    date_end: 31 November–December 1960
-    medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-    extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
-    credit: ""
-    featured: 
-    type: [ score ]
-    figure: [ id: "fig-323-a", id: "fig-323-b", id: "fig-323-c", id: "fig-323-d", id: "fig-323-e", id: "fig-323-f" ]
--
-    id: "324"
-    old_id: "5.29b"
-    maker: [ "Terry Jennings (American, 1940–81)" ]
-    title: "*Piano Piece*"
-    date: "June 1960"
-    date_start: 1960-06-01
-    date_end: 1960-06-30
-    medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-    extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
-    credit: ""
-    featured: 
-    type: [ score ]
-    figure: [ id: "fig-324" ]
+# REMOVED
+# -
+#     id: "323"
+#     old_id: "5.29a"
+#     maker: [ "Terry Jennings (American, 1940–81)" ]
+#     title: "*Piano Piece*"
+#     date: "November–December 1960"
+#     date_start: 
+#     date_end: 31 November–December 1960
+#     medium: ""
+#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
+#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
+#     credit: ""
+#     featured: 
+#     type: [ score ]
+#     figure: [ id: "fig-323-a", id: "fig-323-b", id: "fig-323-c", id: "fig-323-d", id: "fig-323-e", id: "fig-323-f" ]
+# REMOVED
+# -
+#     id: "324"
+#     old_id: "5.29b"
+#     maker: [ "Terry Jennings (American, 1940–81)" ]
+#     title: "*Piano Piece*"
+#     date: "June 1960"
+#     date_start: 1960-06-01
+#     date_end: 1960-06-30
+#     medium: ""
+#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
+#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
+#     credit: ""
+#     featured: 
+#     type: [ score ]
+#     figure: [ id: "fig-324" ]
 -
     id: "325"
     old_id: "5.29c"
@@ -4875,36 +4878,38 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-325-a", id: "fig-325-b", id: "fig-325-c", id: "fig-325-d", id: "fig-325-e" ]
--
-    id: "326"
-    old_id: "5.29d"
-    maker: [ "Terry Jennings (American, 1940–81)" ]
-    title: "Letter from Terry Jennings to David Tudor on *Piano Piece*"
-    date: "November 1960"
-    date_start: 1960-11-01
-    date_end: 1960-11-30
-    medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-    extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
-    credit: ""
-    featured: 
-    type: [ correspondence ]
-    figure: [ id: "fig-326" ]
--
-    id: "327"
-    old_id: "5.29e"
-    maker: [ "Terry Jennings (American, 1940–81)" ]
-    title: "*Piece for Strings*"
-    date: "June 1960"
-    date_start: 1960-06-01
-    date_end: 1960-06-30
-    medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-    extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
-    credit: ""
-    featured: 
-    type: [ score ]
-    figure: [ id: "fig-327-a", id: "fig-327-b" ]
+# REMOVED
+# -
+#     id: "326"
+#     old_id: "5.29d"
+#     maker: [ "Terry Jennings (American, 1940–81)" ]
+#     title: "Letter from Terry Jennings to David Tudor on *Piano Piece*"
+#     date: "November 1960"
+#     date_start: 1960-11-01
+#     date_end: 1960-11-30
+#     medium: ""
+#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
+#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
+#     credit: ""
+#     featured: 
+#     type: [ correspondence ]
+#     figure: [ id: "fig-326" ]
+# REMOVED
+# -
+#     id: "327"
+#     old_id: "5.29e"
+#     maker: [ "Terry Jennings (American, 1940–81)" ]
+#     title: "*Piece for Strings*"
+#     date: "June 1960"
+#     date_start: 1960-06-01
+#     date_end: 1960-06-30
+#     medium: ""
+#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
+#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
+#     credit: ""
+#     featured: 
+#     type: [ score ]
+#     figure: [ id: "fig-327-a", id: "fig-327-b" ]
 -
     id: "328"
     old_id: "5.29f"
@@ -4920,21 +4925,22 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-328" ]
--
-    id: "329"
-    old_id: "5.29g"
-    maker: [ "Terry Jennings (American, 1940–81)" ]
-    title: "Letter from Terry Jennings to David Tudor"
-    date: "30 March, ca. 1961"
-    date_start: 
-    date_end: 31 30 March, ca. 1961
-    medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9; and box 189, folders 4a and 4b"
-    extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
-    credit: ""
-    featured: 
-    type: [ correspondence ]
-    figure: [ id: "fig-329" ]
+# REMOVED
+# -
+#     id: "329"
+#     old_id: "5.29g"
+#     maker: [ "Terry Jennings (American, 1940–81)" ]
+#     title: "Letter from Terry Jennings to David Tudor"
+#     date: "30 March, ca. 1961"
+#     date_start: 
+#     date_end: 31 30 March, ca. 1961
+#     medium: ""
+#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9; and box 189, folders 4a and 4b"
+#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/image-index/257/)."
+#     credit: ""
+#     featured: 
+#     type: [ correspondence ]
+#     figure: [ id: "fig-329" ]
 -
     id: "330"
     old_id: "5.30"
@@ -4950,21 +4956,22 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-330-a" ]
--
-    id: "331"
-    old_id: "5.31"
-    maker: [ "Dennis Johnson (American, 1938–2018)" ]
-    title: "Untitled score"
-    date: "March 1959"
-    date_start: 1959-03-01
-    date_end: 1959-03-31
-    medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 189, folder 5"
-    extended_caption: "A colleague of La Monte Young’s at UCLA, Johnson composed for a brief period of time in a Webern-inspired proto-minimalist style. He later left music and became a mathematician."
-    credit: ""
-    featured: 
-    type: [ score ]
-    figure: [ id: "fig-331-a", id: "fig-331-b", id: "fig-331-c", id: "fig-331-d", id: "fig-331-e", id: "fig-331-f", id: "fig-331-g", id: "fig-331-h", id: "fig-331-i", id: "fig-331-j", id: "fig-331-k" ]
+# REMOVED
+# -
+#     id: "331"
+#     old_id: "5.31"
+#     maker: [ "Dennis Johnson (American, 1938–2018)" ]
+#     title: "Untitled score"
+#     date: "March 1959"
+#     date_start: 1959-03-01
+#     date_end: 1959-03-31
+#     medium: ""
+#     location: "Getty Research Institute, David Tudor Papers, 980039, box 189, folder 5"
+#     extended_caption: "A colleague of La Monte Young’s at UCLA, Johnson composed for a brief period of time in a Webern-inspired proto-minimalist style. He later left music and became a mathematician."
+#     credit: ""
+#     featured: 
+#     type: [ score ]
+#     figure: [ id: "fig-331-a", id: "fig-331-b", id: "fig-331-c", id: "fig-331-d", id: "fig-331-e", id: "fig-331-f", id: "fig-331-g", id: "fig-331-h", id: "fig-331-i", id: "fig-331-j", id: "fig-331-k" ]
 -
     id: "332"
     old_id: "5.32"
@@ -5530,71 +5537,72 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-    extended_caption: "This extraordinary letter from George Maciunas to George Brecht, sent in early 1963, provides a highly detailed record of the artists’ collaborative design process and their ongoing deliberations over the intellectual significance of Brecht’s events and their transcription as event scores. ¶ In the first part of the letter, Maciunas draws a diagram that imagines the relation between optical and acoustical elements in a work of art, possibly in response to Brecht’s remark in another letter that, “a minimum condition for my work . . . is a lack of distinction between ‘optical,’ ‘acoustical’ and other such categories” (Brecht to Maciunas, early 1963, Hanns Sohm Archive, Staatsgalerie Stuttgart). To this, Maciunas adds the dimension of artificial versus concrete (or “reality”). With reference to scores by Brecht that had been performed during the European Fluxus concert tour—namely *Piano Piece* (1962; “a vase of flowers on(to) a piano”) and *Word Event* (1961; “EXIT”)—Maciunas considers the fine line between art and non-art, between deliberately formed and readymade gestures, and between conceptual and perceptual experience that the scores traverse, ultimately comparing their operation to Zen Buddhist philosophy."
+    extended_caption: "This extraordinary letter from George Maciunas to George Brecht, sent in early 1963, provides a highly detailed record of the artists’ collaborative design process and their ongoing deliberations over the intellectual significance of Brecht’s events and their transcription as event scores. ¶ In the <a class='ref' data-figure-id='fig-369-a' data-annotation-ids=''>first part</a> of the letter, Maciunas draws a diagram that imagines the relation between optical and acoustical elements in a work of art, possibly in response to Brecht’s remark in another letter that, “a minimum condition for my work . . . is a lack of distinction between ‘optical,’ ‘acoustical’ and other such categories” (Brecht to Maciunas, early 1963, Hanns Sohm Archive, Staatsgalerie Stuttgart). To this, Maciunas adds the dimension of artificial versus concrete (or “reality”). With reference to scores by Brecht that had been performed during the European Fluxus concert tour—namely *Piano Piece* (1962; “a vase of flowers on(to) a piano”) and *Word Event* (1961; “EXIT”)—Maciunas considers the fine line between art and non-art, between deliberately formed and readymade gestures, and between conceptual and perceptual experience that the scores traverse, ultimately comparing their operation to Zen Buddhist philosophy. ¶ In <a class='ref' data-figure-id='fig-369-b' data-annotation-ids=''>section two</a>) of this letter, Maciunas discusses the disposition of [*Water Yam*](/image-index/348/) (1963) in terms of future editions and copyright and introduces the idea of a renewable subscription model or “perpetual” box. He mentions Fluxus newsletter no. 5, which he wrote and distributed to the Fluxus network in January 1963, as “a draft for a written agreement.” In that controversial newsletter, Maciunas proposed that affiliate artists assign to Fluxus the copyright and exclusive publication rights for their works in order to present a “common front” for Fluxus activities and to achieve financial security (with individual artists retaining 80 percent of profits from the sale of their work). In section three, Maciunas reports on his research into international locations amenable to his dream of developing a self-sustaining, permanent Fluxus commune. ¶ In the <a class='ref' data-figure-id='fig-369-c' data-annotation-ids=''>fourth section</a> of this letter, Maciunas attaches samples of paper for the printing of the *Water Yam* event score cards for Brecht to choose from. An added note in Brecht’s handwriting shows his first choice of white for all cards. ¶ In two <a class='ref' data-figure-id='fig-369-e' data-annotation-ids=''>pages appended</a> to this letter, Maciunas returns to the topic of the design for *Water Yam*, addressing card size and sketching out playful box and label design ideas for Brecht’s consideration."
     credit: ""
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-369" ]
--
-    id: "370"
-    old_id: "6.22b"
-    maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    title: "Letter from George Maciunas to George Brecht"
-    date: "ca. January 1963"
-    date_start: 
-    date_end: 
-    medium: ""
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-    extended_caption: "In section two of this letter, Maciunas discusses the disposition of [*Water Yam*](/image-index/348/) (1963) in terms of future editions and copyright and introduces the idea of a renewable subscription model or “perpetual” box. He mentions Fluxus newsletter no. 5, which he wrote and distributed to the Fluxus network in January 1963, as “a draft for a written agreement.” In that controversial newsletter, Maciunas proposed that affiliate artists assign to Fluxus the copyright and exclusive publication rights for their works in order to present a “common front” for Fluxus activities and to achieve financial security (with individual artists retaining 80 percent of profits from the sale of their work). In section three, Maciunas reports on his research into international locations amenable to his dream of developing a self-sustaining, permanent Fluxus commune."
-    credit: ""
-    featured: 
-    type: [ correspondence ]
-    figure: [ id: "fig-370" ]
--
-    id: "371"
-    old_id: "6.22c"
-    maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    title: "Letter from George Maciunas to George Brecht"
-    date: "ca. January 1963"
-    date_start: 
-    date_end: 
-    medium: ""
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-    extended_caption: "In the fourth section of this letter, Maciunas attaches samples of paper for the printing of the [*Water Yam*](/image-index/348/) (1963) event score cards for Brecht to choose from. An added note in Brecht’s handwriting shows his first choice of white for all cards."
-    credit: ""
-    featured: 
-    type: [ correspondence ]
-    figure: [ id: "fig-371" ]
--
-    id: "372"
-    old_id: "6.22d"
-    maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    title: "Letter from George Maciunas to George Brecht"
-    date: "ca. January 1963"
-    date_start: 
-    date_end: 
-    medium: ""
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-    extended_caption: ""
-    credit: ""
-    featured: 
-    type: [ correspondence ]
-    figure: [ id: "fig-372" ]
--
-    id: "373"
-    old_id: "6.23"
-    maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    title: "Letter from George Maciunas to George Brecht"
-    date: "ca. January 1963"
-    date_start: 
-    date_end: 
-    medium: ""
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-    extended_caption: "In two pages appended to this letter, Maciunas returns to the topic of the design for [*Water Yam*](/image-index/348/) (1963), addressing card size and sketching out playful box and label design ideas for Brecht’s consideration."
-    credit: ""
-    featured: true
-    type: [ correspondence ]
-    figure: [ id: "fig-373-a", id: "fig-373-b" ]
+    figure: [ id: "fig-369-a", id: "fig-369-b", id: "fig-369-c", id: "fig-369-d", id: "fig-369-e", id: "fig-369-f" ]
+# REMOVED (370–373 were combined into 369) 
+# -
+#     id: "370"
+#     old_id: "6.22b"
+#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
+#     title: "Letter from George Maciunas to George Brecht"
+#     date: "ca. January 1963"
+#     date_start: 
+#     date_end: 
+#     medium: ""
+#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
+#     extended_caption: "In section two of this letter, Maciunas discusses the disposition of [*Water Yam*](/image-index/348/) (1963) in terms of future editions and copyright and introduces the idea of a renewable subscription model or “perpetual” box. He mentions Fluxus newsletter no. 5, which he wrote and distributed to the Fluxus network in January 1963, as “a draft for a written agreement.” In that controversial newsletter, Maciunas proposed that affiliate artists assign to Fluxus the copyright and exclusive publication rights for their works in order to present a “common front” for Fluxus activities and to achieve financial security (with individual artists retaining 80 percent of profits from the sale of their work). In section three, Maciunas reports on his research into international locations amenable to his dream of developing a self-sustaining, permanent Fluxus commune."
+#     credit: ""
+#     featured: 
+#     type: [ correspondence ]
+#     figure: [ id: "fig-370" ]
+# -
+#     id: "371"
+#     old_id: "6.22c"
+#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
+#     title: "Letter from George Maciunas to George Brecht"
+#     date: "ca. January 1963"
+#     date_start: 
+#     date_end: 
+#     medium: ""
+#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
+#     extended_caption: "In the fourth section of this letter, Maciunas attaches samples of paper for the printing of the [*Water Yam*](/image-index/348/) (1963) event score cards for Brecht to choose from. An added note in Brecht’s handwriting shows his first choice of white for all cards."
+#     credit: ""
+#     featured: 
+#     type: [ correspondence ]
+#     figure: [ id: "fig-371" ]
+# -
+#     id: "372"
+#     old_id: "6.22d"
+#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
+#     title: "Letter from George Maciunas to George Brecht"
+#     date: "ca. January 1963"
+#     date_start: 
+#     date_end: 
+#     medium: ""
+#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
+#     extended_caption: ""
+#     credit: ""
+#     featured: 
+#     type: [ correspondence ]
+#     figure: [ id: "fig-372" ]
+# -
+#     id: "373"
+#     old_id: "6.23"
+#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
+#     title: "Letter from George Maciunas to George Brecht"
+#     date: "ca. January 1963"
+#     date_start: 
+#     date_end: 
+#     medium: ""
+#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
+#     extended_caption: "In two pages appended to this letter, Maciunas returns to the topic of the design for [*Water Yam*](/image-index/348/) (1963), addressing card size and sketching out playful box and label design ideas for Brecht’s consideration."
+#     credit: ""
+#     featured: true
+#     type: [ correspondence ]
+#     figure: [ id: "fig-373-a", id: "fig-373-b" ]
 -
     id: "374"
     old_id: "6.24"
@@ -6029,7 +6037,7 @@ object_list:
     credit: ""
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-402-a", id: "fig-402-b", id: "fig-402-c" ]
+    figure: [ id: "fig-402-b", id: "fig-402-a", id: "fig-402-c" ]
 -
     id: "403"
     old_id: "6.53"
@@ -6060,21 +6068,22 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-404" ]
--
-    id: "405"
-    old_id: "7.04"
-    maker: [ "Designer unknown" ]
-    title: "Collage of newspaper clippings documenting Jackson Mac Low’s arrest—along with Dorothy Day of the *Catholic Worker*, Bayard Rustin of the War Resisters League, and others—for refusing to participate in a nationwide mandatory air-raid drill"
-    date: "ca. June 1955"
-    date_start: 
-    date_end: 30 ca. June 1955
-    medium: ""
-    location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180, box 32, folder 4"
-    extended_caption: "Jackson Mac Low’s papers at UC San Diego contain this collage of newspaper clippings about a protest action that Mac Low participated in on 15 June 1955. The state of New York had ordered a mandatory air-raid drill in which the public was instructed to practice what to do in the event of a hypothetical five-megaton hydrogen bomb attack. The pacifist protesters gathered outside in a Manhattan park near New York City Hall, arguing that such preparatory drills only served the purpose of normalizing and accepting as inevitable the idea of thermonuclear conflict. They further argued that the drill coerced the public into acting as though a conflict involving such destructive weapons would be survivable, and they called for an end to nuclear weapons testing and other activities intended to prepare for, rather than prevent, war. Approximately thirty protesters were arrested for refusing to take shelter during the exercise, including well-known activists Dorothy Day, Ammon Hennacy, and Bayard Rustin. Mac Low’s individualist anarchist politics are evident in the article by Malcolm Logan for the New York World-Telegram and The Sun: “The demonstrators were members of The Catholic Workers, the War Resisters League, and the Fellowship of Reconciliation, plus one man, Jackson MacLow, 32, who said he was not a member of any of these groups.” Mac Low’s commitment to pacifist anarchism dates back at least to the early 1940s, when he published a series of interviews with conscientious objectors who were imprisoned for refusing to serve in the U.S. armed forces during World War II."
-    credit: ""
-    featured: 
-    type: [ press clipping ]
-    figure: [ id: "fig-405" ]
+# REMOVED
+# -
+#     id: "405"
+#     old_id: "7.04"
+#     maker: [ "Designer unknown" ]
+#     title: "Collage of newspaper clippings documenting Jackson Mac Low’s arrest—along with Dorothy Day of the *Catholic Worker*, Bayard Rustin of the War Resisters League, and others—for refusing to participate in a nationwide mandatory air-raid drill"
+#     date: "ca. June 1955"
+#     date_start: 
+#     date_end: 30 ca. June 1955
+#     medium: ""
+#     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180, box 32, folder 4"
+#     extended_caption: "Jackson Mac Low’s papers at UC San Diego contain this collage of newspaper clippings about a protest action that Mac Low participated in on 15 June 1955. The state of New York had ordered a mandatory air-raid drill in which the public was instructed to practice what to do in the event of a hypothetical five-megaton hydrogen bomb attack. The pacifist protesters gathered outside in a Manhattan park near New York City Hall, arguing that such preparatory drills only served the purpose of normalizing and accepting as inevitable the idea of thermonuclear conflict. They further argued that the drill coerced the public into acting as though a conflict involving such destructive weapons would be survivable, and they called for an end to nuclear weapons testing and other activities intended to prepare for, rather than prevent, war. Approximately thirty protesters were arrested for refusing to take shelter during the exercise, including well-known activists Dorothy Day, Ammon Hennacy, and Bayard Rustin. Mac Low’s individualist anarchist politics are evident in the article by Malcolm Logan for the New York World-Telegram and The Sun: “The demonstrators were members of The Catholic Workers, the War Resisters League, and the Fellowship of Reconciliation, plus one man, Jackson MacLow, 32, who said he was not a member of any of these groups.” Mac Low’s commitment to pacifist anarchism dates back at least to the early 1940s, when he published a series of interviews with conscientious objectors who were imprisoned for refusing to serve in the U.S. armed forces during World War II."
+#     credit: ""
+#     featured: 
+#     type: [ press clipping ]
+#     figure: [ id: "fig-405" ]
 -
     id: "406"
     old_id: "7.05"
@@ -7230,21 +7239,22 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-482" ]
--
-    id: "483"
-    old_id: "9.07c"
-    maker: 
-    title: "%%%Possible Video of Commissioned Performance TK%%%"
-    date: ""
-    date_start: 
-    date_end: 
-    medium: ""
-    location: ""
-    extended_caption: ""
-    credit: ""
-    featured: 
-    type: [  ]
-    figure: [ id: "fig-483" ]
+# REMOVED
+# -
+#     id: "483"
+#     old_id: "9.07c"
+#     maker: 
+#     title: "%%%Possible Video of Commissioned Performance TK%%%"
+#     date: ""
+#     date_start: 
+#     date_end: 
+#     medium: ""
+#     location: ""
+#     extended_caption: ""
+#     credit: ""
+#     featured: 
+#     type: [  ]
+#     figure: [ id: "fig-483" ]
 -
     id: "484"
     old_id: "9.08"

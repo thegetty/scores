@@ -100,7 +100,7 @@ figure_list:
 -
     id: "fig-0-5"
     old_id: "0.05"
-    src: placeholder.jpg
+    src: figures/r2016489_890164_b1_f52_001.jpg
     note: 
     zoom: true
     poster: 
@@ -800,7 +800,8 @@ figure_list:
 -
     id: "fig-7-4"
     old_id: "7.04"
-    src: figures/07_Mac_Low_ILLS_for_review_before_archive_picks_dragged.jpg
+    # src: figures/07_Mac_Low_ILLS_for_review_before_archive_picks_dragged.jpg
+    src: placeholder.jpg
     note: 
     zoom: true
     poster: 
@@ -1431,7 +1432,7 @@ figure_list:
     alt: "Four multicolor rectangles marked with esoteric annotations including brackets and musical symbols. The leftmost three rectangles are connected by a sweeping gold band."
 -
     id: "fig-005"
-    src: placeholder.jpg
+    src: figures/r2016489_890164_b1_f52_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -2069,14 +2070,50 @@ figure_list:
     label: ""
     alt: "Horizontal cream paper with orange printed grid. Three black horizontal marks evenly divide the top third of the page into three sections, with a larger fourth section on bottom. Each section is sparsely populated with squares and rectangles made from outlining one or more of the printed grid boxes. Key at bottom left reads: diamond shape, “Lowest Harmonic”; P, “Lowest pizz (played pizz)”; A, “Lowest Open sound (Played Arco)”; and outlined pen square, “= one beat.” Lines from top to bottom correspond to the O, P, and A key."
 -
-    id: "fig-046"
-    src: placeholder.jpg
+    id: "fig-046-a"
+    src: figures/Projection1.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Thin rectangular white page titled “Projection 1” at top center and signed “Morton Feldman” at top right. A score comprised of squares and rectangles made from solid horizontal and dashed vertical lines spans the width of the page. Horizontal lines appear only at three specific latitudes and are marked at left, from top to bottom, with a diamond, a P, and an A. Smaller, thickly lined squares and boxes sit inside the larger boxes. "
+    alt: "Thin rectangular white page titled “Projection 1” at top center and signed “Morton Feldman” at top right. A score comprised of squares and rectangles made from solid horizontal and dashed vertical lines spans the width of the page. Horizontal lines appear only at three specific latitudes and are marked at left, from top to bottom, with a diamond, a P, and an A. Smaller, thickly lined squares and boxes sit inside the larger boxes."
+-
+    id: "fig-046-b"
+    src: figures/Projection2.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-046-c"
+    src: figures/Projection3.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-046-d"
+    src: figures/Projection4.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-046-e"
+    src: figures/Projection5.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
 -
     id: "fig-047"
     src: figures/r2015418_980039_b9_f25_001.jpg
@@ -2241,7 +2278,7 @@ figure_list:
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped by twos into a grand staff, with treble on top and bass on bottom, followed by an empty stave, all of this repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, yet the page is balanced with a roughly equal disruption of notations throughout. Heavy use of beamed sixteenth and thirty-second notes. Vertical bar lines appear throughout, some creating measures filled only with a single letter “F” or “S” (at least one instance for every grand staff). Double bar line on bottom grand staff. "
 -
     id: "fig-051-f"
-    src: placeholder.jpg
+    src: figures/r2016812_980039_b9_f25_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -2250,7 +2287,7 @@ figure_list:
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped by twos into a grand staff, with treble on top and bass on bottom, followed by an empty stave, all of this repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, yet the page is balanced with a roughly equal disruption of notations throughout. Heavy use of beamed sixteenth and thirty-second notes. Vertical bar lines appear throughout, some creating completely empty measures. "
 -
     id: "fig-051-g"
-    src: placeholder.jpg
+    src: figures/r2016812_980039_b9_f25_002.jpg
     zoom: true
     poster: 
     media_type: 
@@ -2285,14 +2322,104 @@ figure_list:
     label: ""
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped by twos into a grand staff, with treble on top and bass on bottom, followed by an empty stave, all of this repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves. Heavy use of beamed sixteenth and thirty-second notes. Vertical bar lines appear throughout, some creating completely empty measures."
 -
-    id: "fig-053"
-    src: placeholder.jpg
+    id: "fig-053-a"
+    src: figures/Intersection01.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Black-and-white photocopy of a hand-drawn score with printed text in English. Page divided into two sections at center, both titled “Intersection 2.” Each section contains three horizontal staves made from three vertically stacked printed squares repeated more than forty times. Throughout the staves, boxes are outlined and contain handwritten numbers, with some boxes joined horizontally to make larger rectangles. At the top of each stave, intervals of ten are indicated with a printed number. "
+    alt: "Black-and-white photocopy of a hand-drawn score with printed text in English. Page contains three horizontal staves made from three vertically stacked printed squares repeated more than forty times. Throughout the staves, boxes are outlined and contain handwritten numbers, with some boxes joined horizontally to make larger rectangles. At the top of each stave, intervals of ten are indicated with a printed number."
+-
+    id: "fig-053-b"
+    src: figures/Intersection02.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-053-c"
+    src: figures/Intersection03.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-053-d"
+    src: figures/Intersection04.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-053-e"
+    src: figures/Intersection05.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-053-f"
+    src: figures/Intersection06.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-053-g"
+    src: figures/Intersection07.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-053-h"
+    src: figures/Intersection08.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-053-i"
+    src: figures/Intersection09.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-053-j"
+    src: figures/Intersection10.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-053-k"
+    src: figures/Intersection11.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
 -
     id: "fig-054-a"
     src: figures/r2015418_980039_b9_f26_022.jpg
@@ -3213,148 +3340,256 @@ figure_list:
     alt: "White page with typewritten text in English. Two left-aligned columns are filled with numbers representing time measured in minutes or seconds. Columns span one quarter of the length of the page. Handwritten blue pen note at center of page reads “Thank you in advance. I’ll call you soon,” followed by an illegible signature."
 -
     id: "fig-062-a"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_bassoon_002.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "White page with black print text in English. Blank except for title, just below center of page, which reads “Solo for Bassoon and Baryton Saxophone Pages 145–156 of the orchestral parts of /Concert/ for Piano and Orchestra (1957–58),” and copyright information at the bottom of the page. "
+    alt: "White page with black print text in English. Blank except for title, just below center of page, which reads “Solo for Bassoon and Baryton Saxophone Pages 145–156 of the orchestral parts of Concert for Piano and Orchestra (1957–58),” and copyright information at the bottom of the page. "
 -
     id: "fig-062-b"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_bassoon_003.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Left page contains English-language text formatted into paragraphs that cover three-quarters of the length of the page. Right page contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. "
+    alt: "Sheet of white paper with English-language text formatted into paragraphs that cover three-quarters of the length of the page."
 -
     id: "fig-062-c"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_bassoon_004.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are empty save the clef at the left. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
 -
     id: "fig-062-d"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_bassoon_005.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are empty save the clef at the left. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
 -
     id: "fig-062-e"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_bassoon_006.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are empty save the clef at the left. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
 -
     id: "fig-062-f"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_bassoon_007.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are empty save the clef at the left. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
 -
     id: "fig-062-g"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_bassoon_008.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are empty save the clef at the left. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
 -
     id: "fig-062-h"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_bassoon_009.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Left page contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Right page blank. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
+-
+    id: "fig-062-i"
+    src: figures/scores_loan_johncage_bassoon_010.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
+-
+    id: "fig-062-j"
+    src: figures/scores_loan_johncage_bassoon_011.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
+-
+    id: "fig-062-k"
+    src: figures/scores_loan_johncage_bassoon_012.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
+-
+    id: "fig-062-l"
+    src: figures/scores_loan_johncage_bassoon_013.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
+-
+    id: "fig-062-m"
+    src: figures/scores_loan_johncage_bassoon_014.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
+-
+    id: "fig-062-n"
+    src: figures/scores_loan_johncage_bassoon_015.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, each marked with one clef at left and other musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Some staves are densely populated with notations and handwritten notes, while others are not."
 -
     id: "fig-063-a"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_trumpets_002.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "White page with black printed text in English. Blank except for title just below center of page, which reads “Solo for Trumpets in E Flat, F, D, C and B Flat Pages 81–92 of the orchestral parts of /Concert/ for Piano and Orchestra (1957–58),” and copyright information at the bottom of the page. "
+    alt: "White page with black printed text in English. Blank except for title just below center of page, which reads “Solo for Trumpets in E Flat, F, D, C and B Flat Pages 81–92 of the orchestral parts of Concert for Piano and Orchestra (1957–58),” and copyright information at the bottom of the page. "
 -
     id: "fig-063-b"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_trumpets_003.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Left page contains English-language text formatted into paragraphs that cover three-quarters of the length of the page. Right page contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. "
+    alt: "Sheet of white paper with English-language text formatted into paragraphs that cover three-quarters of the length of the page."
 -
     id: "fig-063-c"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_trumpets_004.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
 -
     id: "fig-063-d"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_trumpets_005.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
 -
     id: "fig-063-e"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_trumpets_006.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
 -
     id: "fig-063-f"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_trumpets_007.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
 -
     id: "fig-063-g"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_trumpets_008.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Both pages contain five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. "
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
 -
     id: "fig-063-h"
-    src: placeholder.jpg
+    src: figures/scores_loan_johncage_trumpets_009.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Two-page spread of white paper in bound book. Left page contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing. Right page blank."
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
+-
+    id: "fig-063-i"
+    src: figures/scores_loan_johncage_trumpets_010.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
+-
+    id: "fig-063-j"
+    src: figures/scores_loan_johncage_trumpets_011.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
+-
+    id: "fig-063-k"
+    src: figures/scores_loan_johncage_trumpets_012.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
+-
+    id: "fig-063-l"
+    src: figures/scores_loan_johncage_trumpets_013.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
+-
+    id: "fig-063-m"
+    src: figures/scores_loan_johncage_trumpets_014.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
+-
+    id: "fig-063-n"
+    src: figures/scores_loan_johncage_trumpets_015.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Sheet of white paper that contains five horizontal printed staves, some of which are marked at irregular intervals with a bar line preceded by either E flat, F, D, C, or B flat. Each staff is marked with musical notation symbols. Several notations are accompanied by handwritten notes above or below the staff and identifying techniques to be employed while playing."
 -
     id: "fig-064-a"
     src: figures/gri_980039_29_b6_f13_000_355536ds.jpg
@@ -5580,7 +5815,7 @@ figure_list:
     alt: "Verso of white page program, with black text in German. Title at top left in large bold font reads “musik derzeit.” Majority of page bisected vertically at center, with composers on left and composition titles on right. Time, date, and location of performance at top of text on the right side of the page."
 -
     id: "fig-088-b"
-    src: placeholder.jpg
+    src: figures/r2016244_980039_b71_f9_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -9909,7 +10144,7 @@ figure_list:
     alt: "Horizontal rectangular newspaper clipping containing four columns of text in English roughly the size of one third page. Titled “Recital Is Given by David Tudor” and “Whacks and Scrapes Piano in Avant-Garde Works of Bussoth and Others” above first column of text."
 -
     id: "fig-191"
-    src: placeholder.jpg
+    src: figures/r2016696_980039_b63_f2_025.jpg
     zoom: true
     poster: 
     media_type: 
@@ -10467,7 +10702,7 @@ figure_list:
     alt: "White page with seven rows of horizontal staff segments. Each segment contains at least a one clef, one dynamic symbol, one musical note and one number, but most contain several notes. Wide margins; staves concentrated at center of page."
 -
     id: "fig-214"
-    src: figures/r29591_890164_b39_011.jpg
+    src: figures/r29591_890164_b39_012.jpg
     zoom: true
     poster: 
     media_type: 
@@ -10593,7 +10828,7 @@ figure_list:
     alt: "Horizontal white page with black printed six by six grid at center. Beginning at top left quadrant and moving clockwise, each three consecutive box sections are labeled with ascending numbers 1 through 8 and a range of ten digits. Each row and column is labeled with single letter Q, A, or E."
 -
     id: "fig-217"
-    src: figures/r29591_890164_b39_012.jpg
+    src: figures/r29591_890164_b39_011.jpg
     zoom: true
     poster: 
     media_type: 
@@ -11961,7 +12196,7 @@ figure_list:
     alt: "White page with black typewritten text in English. “Some contributing artists to the Judson Dance Theater are:” at top left below margin followed by two lists, titled “Music” and “Sets, lighting, costumes,” each with around ten names. One list below with two names titled “films have been contributed by.” Bottom two thirds of page blank.  "
 -
     id: "fig-262"
-    src: placeholder.jpg
+    src: figures/r33512_2003_m_46_b12_f2_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12114,7 +12349,7 @@ figure_list:
     alt: ""
 -
     id: "fig-267-e"
-    src: figures/r2014557_890164_b31_f41_089.jpg
+    src: figures/r2016467_890164_b31_f41_106.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12123,7 +12358,7 @@ figure_list:
     alt: ""
 -
     id: "fig-267-f"
-    src: placeholder.jpg
+    src: figures/r2016467_890164_b31_f41_107.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12321,7 +12556,7 @@ figure_list:
     alt: ""
 -
     id: "fig-267-ab"
-    src: placeholder.jpg
+    src: figures/r2016467_890164_b31_f41_108.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12411,7 +12646,7 @@ figure_list:
     alt: "White page with black typewritten correspondence in English. “The Something Else Press, Inc” blue letterhead in top margin. Paginated “2” at top right below margin followed by four paragraphs of text that run the length of the page. Red statue of liberty graphic at bottom left.  Signed at bottom followed by post-script that reads: “I’m sending this letter to all Fluxists, and present, in order to pick up the pieces.” Handwritten text at bottom margin. "
 -
     id: "fig-271-a"
-    src: placeholder.jpg
+    src: figures/r2016467_890164_b31_f5_109.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12420,7 +12655,7 @@ figure_list:
     alt: "Photocopy of lined notebook paper with black handwritten text in English. Lines of text cover entire page with no margins, and are closely aligned. Top half of page is titled “First Concert” at top left, followed by list of thirteen performers at left and notes on their performance pieces at right. Bottom half of page is titled “Second Concert” and features list of performers at left and notes on their performance pieces at right. Several annotations throughout. Text densely packed at bottom of page. "
 -
     id: "fig-271-b"
-    src: placeholder.jpg
+    src: figures/r2016467_890164_b31_f5_110.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12429,7 +12664,7 @@ figure_list:
     alt: "Photocopy of lined notebook paper with black handwritten text in English. Lines of text cover entire page with no margins and are closely aligned. “Continued” at top left and “3rd page” at top right."
 -
     id: "fig-271-c"
-    src: placeholder.jpg
+    src: figures/r2016467_890164_b31_f5_111.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12438,7 +12673,16 @@ figure_list:
     alt: "Photocopy of lined notebook paper with black handwritten text in English. Lines of text cover entire page with no margins and are closely aligned. “4th page” at top right."
 -
     id: "fig-271-d"
-    src: placeholder.jpg
+    src: figures/r2016467_890164_b31_f5_112.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Photocopy of lined notebook paper with black handwritten text in English. Lines of text cover entire page with no margins and are closely aligned."
+-
+    id: "fig-271-e"
+    src: figures/r2016467_890164_b31_f5_113.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12446,8 +12690,8 @@ figure_list:
     label: ""
     alt: "Photocopy of horizontal rectangular lined notebook paper fragment with black handwritten text in English. Lines of text cover entire page with no margins and are closely aligned. “Page 7” at top right."
 -
-    id: "fig-271-e"
-    src: placeholder.jpg
+    id: "fig-271-f"
+    src: figures/r2016467_890164_b31_f5_114.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12455,8 +12699,8 @@ figure_list:
     label: ""
     alt: "Photocopy of vertical rectangular note page with handwritten text in English. Text covers entire note page. Font size greatly varies from line to line. Largest text reads: “Big News” and “So Send Plenty of Bulk Solids.” "
 -
-    id: "fig-271-f"
-    src: placeholder.jpg
+    id: "fig-271-g"
+    src: figures/r2016467_890164_b31_f5_115.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12464,8 +12708,8 @@ figure_list:
     label: ""
     alt: "Photocopy of vertical rectangular note page with handwritten text in English. Text covers entire note page. Some text upside-down. "
 -
-    id: "fig-271-g"
-    src: placeholder.jpg
+    id: "fig-271-h"
+    src: figures/r2016467_890164_b31_f5_116.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12473,8 +12717,8 @@ figure_list:
     label: ""
     alt: "Photocopy of vertical rectangular note page with handwritten text in English. Text covers entire note page. Font size greatly varies from line to line. Largest text reads: “Start collecting bulk for the big box.” "
 -
-    id: "fig-271-h"
-    src: placeholder.jpg
+    id: "fig-271-i"
+    src: figures/r2016467_890164_b31_f5_117.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12482,7 +12726,7 @@ figure_list:
     label: ""
     alt: "Photocopy of vertical rectangular note page with handwritten text in English. Text covers entire note page. Some text upside-down. Doodle at center titled “George.” Text above reads “Enclosed also very nice picture of man who could not flux.” "
 -
-    id: "fig-271-i"
+    id: "fig-271-j"
     src: figures/r2014557_890164_b31_f5_097.jpg
     zoom: true
     poster: 
@@ -12491,7 +12735,16 @@ figure_list:
     label: ""
     alt: "Photocopy of envelope addressed to Dick Higgins at center, return address to “P. Grieco,” and four US sticker stamps at right. "
 -
-    id: "fig-271-j"
+    id: "fig-271-k"
+    src: figures/r2016467_890164_b31_f5_118.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Photocopy of vertical rectangular page with black handwritten correspondence. Lines of text cover entire page. No margins."
+-
+    id: "fig-271-l"
     src: figures/r2014557_890164_b31_f5_098.jpg
     zoom: true
     poster: 
@@ -13482,8 +13735,8 @@ figure_list:
     alt: "Horizontal white page with black hand drawn graphic notation. Page contains nine equally spaced horizontal lines that span the width of the page. Each line contains at least one dot (most with five or more) with one number above and dynamics below. Center lines sparsest.  "
 -
     id: "fig-309"
-    src: placeholder.jpg
-    zoom: true
+    src: figures/r2016696_980039_b10_f8_001.jpg
+    # zoom: true
     poster: 
     media_type: 
     media_id: 
@@ -13894,69 +14147,71 @@ figure_list:
     media_id: 
     label: ""
     alt: "Verso of blank page with British Book Centre letterhead at top. "
--
-    id: "fig-323-a"
-    src: figures/r2012558_980039_b10_f9_039.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White page with ten printed horizontal staves, each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. Titled “Piano Piece” at center of top margin. "
--
-    id: "fig-323-b"
-    src: figures/r2012558_980039_b10_f9_040.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White two-page spread in bound book. Each page with ten printed horizontal staves, each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. 2 at top right of left page and 3 at top right of right page."
--
-    id: "fig-323-c"
-    src: figures/r2012558_980039_b10_f9_041.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White two-page spread in bound book. Left page with ten printed horizontal staves, each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. 4 at top left of page. Right page contains seven lines of text titled “Directions.” "
--
-    id: "fig-323-d"
-    src: figures/r2012558_980039_b10_f9_042.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White page with ten printed horizontal staves, top eight each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. Bottom quarter of page contains six lines of handwritten text. Titled “Song” at center of top margin. “Piano part” at top right. "
--
-    id: "fig-323-e"
-    src: figures/r2012558_980039_b10_f9_043.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
--
-    id: "fig-323-f"
-    src: figures/r2016448_980039_b10_f9_001.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
--
-    id: "fig-324"
-    src: figures/r2012558_980039_b10_f9_044.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White page titled “Piano Piece” at top center. “Terry Jennings” at top right. Four horizontal staves with handwritten musical notation on top half of page. Bottom quarter contains twelve lines of handwritten text."
+# REMOVED
+# -
+#     id: "fig-323-a"
+#     src: figures/r2012558_980039_b10_f9_039.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White page with ten printed horizontal staves, each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. Titled “Piano Piece” at center of top margin. "
+# -
+#     id: "fig-323-b"
+#     src: figures/r2012558_980039_b10_f9_040.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White two-page spread in bound book. Each page with ten printed horizontal staves, each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. 2 at top right of left page and 3 at top right of right page."
+# -
+#     id: "fig-323-c"
+#     src: figures/r2012558_980039_b10_f9_041.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White two-page spread in bound book. Left page with ten printed horizontal staves, each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. 4 at top left of page. Right page contains seven lines of text titled “Directions.” "
+# -
+#     id: "fig-323-d"
+#     src: figures/r2012558_980039_b10_f9_042.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White page with ten printed horizontal staves, top eight each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. Bottom quarter of page contains six lines of handwritten text. Titled “Song” at center of top margin. “Piano part” at top right. "
+# -
+#     id: "fig-323-e"
+#     src: figures/r2012558_980039_b10_f9_043.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: ""
+# -
+#     id: "fig-323-f"
+#     src: figures/r2016448_980039_b10_f9_001.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: ""
+# REMOVED
+# -
+#     id: "fig-324"
+#     src: figures/r2012558_980039_b10_f9_044.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White page titled “Piano Piece” at top center. “Terry Jennings” at top right. Four horizontal staves with handwritten musical notation on top half of page. Bottom quarter contains twelve lines of handwritten text."
 -
     id: "fig-325-a"
     src: figures/r2012558_980039_b10_f9_045.jpg
@@ -14002,33 +14257,35 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
--
-    id: "fig-326"
-    src: figures/r2012558_980039_b10_f9_038.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White notepaper with black handwritten text in English. “David” at top left followed by one sentence and signed “Terry J.” at right, below sentence. "
--
-    id: "fig-327-a"
-    src: figures/r2012558_980039_b10_f9_050.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White two-page spread with twelve horizontal printed staves divided into two sections for six instruments. Staves divided into sections by black handwritten bar lines crossing through all six staves, each labeled with time in seconds above first staff. Most measures contain one notation, either a whole note or rest. “Pieces for Strings” at center of top margin of left page. Dynamics and small notes throughout. "
--
-    id: "fig-327-b"
-    src: figures/r2012558_980039_b10_f9_051.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
+# REMOVED
+# -
+#     id: "fig-326"
+#     src: figures/r2012558_980039_b10_f9_038.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White notepaper with black handwritten text in English. “David” at top left followed by one sentence and signed “Terry J.” at right, below sentence. "
+# REMOVED
+# -
+#     id: "fig-327-a"
+#     src: figures/r2012558_980039_b10_f9_050.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White two-page spread with twelve horizontal printed staves divided into two sections for six instruments. Staves divided into sections by black handwritten bar lines crossing through all six staves, each labeled with time in seconds above first staff. Most measures contain one notation, either a whole note or rest. “Pieces for Strings” at center of top margin of left page. Dynamics and small notes throughout. "
+# -
+#     id: "fig-327-b"
+#     src: figures/r2012558_980039_b10_f9_051.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: ""
 -
     id: "fig-328"
     src: figures/r2015226_980039_b189_f4a_002.jpg
@@ -14038,15 +14295,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "White page with twelve horizontal printed staves containing black handwritten musical notation for two instruments. “Piano piece” at center of top margin. Shift to faster tempo marked halfway through piece. “Terry Jennings December 1958” and “the piece may be played slower than written...” at the right corner of twelfth staff. "
--
-    id: "fig-329"
-    src: figures/r2015226_980039_b189_f4a_001.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White page with black handwritten text in English. “30 March” at top left followed by “David” at left and one sentence of text. Bottom half of page blank. "
+# REMOVED
+# -
+#     id: "fig-329"
+#     src: figures/r2015226_980039_b189_f4a_001.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White page with black handwritten text in English. “30 March” at top left followed by “David” at left and one sentence of text. Bottom half of page blank. "
 -
     id: "fig-330-a"
     src: figures/r2014014_980039_b11_f22_010.jpg
@@ -14056,114 +14314,116 @@ figure_list:
     media_id: 
     label: ""
     alt: "White page with five lines of black typewritten correspondence at top below margin. Otherwise, blank. "
--
-    id: "fig-330-b"
-    src: figures/r2014014_980039_b11_f22_011.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White page with twelve printed horizontal staves each containing traditional handwritten musical notation symbols: notes, rests, dynamics, etc. Each measure is divided with repeat signs. Staves contain at least two measures, most with four or more."
--
-    id: "fig-331-a"
-    src: figures/r2015226_980039_b189_f5_003.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Left of cream two-page spread containing four-point numbered list of instructions at center of page, covering one half of the page. Each number contains 1-2 sentences. "
--
-    id: "fig-331-b"
-    src: figures/r2015226_980039_b189_f5_004.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “I” at center of top margin. “1” at bottom right. "
--
-    id: "fig-331-c"
-    src: figures/r2015226_980039_b189_f5_005.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “2” at bottom left."
--
-    id: "fig-331-d"
-    src: figures/r2015226_980039_b189_f5_006.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “3” at bottom right."
--
-    id: "fig-331-e"
-    src: figures/r2015226_980039_b189_f5_007.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “4” at bottom left."
--
-    id: "fig-331-f"
-    src: figures/r2015226_980039_b189_f5_008.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “5” at bottom right."
--
-    id: "fig-331-g"
-    src: figures/r2015226_980039_b189_f5_009.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “II” at center of top margin. “6” at bottom left."
--
-    id: "fig-331-h"
-    src: figures/r2015226_980039_b189_f5_010.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “7” at bottom right."
--
-    id: "fig-331-i"
-    src: figures/r2015226_980039_b189_f5_011.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “8” at bottom left."
--
-    id: "fig-331-j"
-    src: figures/r2015226_980039_b189_f5_012.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “9” at bottom right."
--
-    id: "fig-331-k"
-    src: figures/r2015226_980039_b189_f5_013.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “10” at bottom left."
+# REMOVED
+# -
+#     id: "fig-330-b"
+#     src: figures/r2014014_980039_b11_f22_011.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White page with twelve printed horizontal staves each containing traditional handwritten musical notation symbols: notes, rests, dynamics, etc. Each measure is divided with repeat signs. Staves contain at least two measures, most with four or more."
+# REMOVED
+# -
+#     id: "fig-331-a"
+#     src: figures/r2015226_980039_b189_f5_003.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Left of cream two-page spread containing four-point numbered list of instructions at center of page, covering one half of the page. Each number contains 1-2 sentences. "
+# -
+#     id: "fig-331-b"
+#     src: figures/r2015226_980039_b189_f5_004.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “I” at center of top margin. “1” at bottom right. "
+# -
+#     id: "fig-331-c"
+#     src: figures/r2015226_980039_b189_f5_005.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “2” at bottom left."
+# -
+#     id: "fig-331-d"
+#     src: figures/r2015226_980039_b189_f5_006.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “3” at bottom right."
+# -
+#     id: "fig-331-e"
+#     src: figures/r2015226_980039_b189_f5_007.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “4” at bottom left."
+# -
+#     id: "fig-331-f"
+#     src: figures/r2015226_980039_b189_f5_008.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “5” at bottom right."
+# -
+#     id: "fig-331-g"
+#     src: figures/r2015226_980039_b189_f5_009.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “II” at center of top margin. “6” at bottom left."
+# -
+#     id: "fig-331-h"
+#     src: figures/r2015226_980039_b189_f5_010.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “7” at bottom right."
+# -
+#     id: "fig-331-i"
+#     src: figures/r2015226_980039_b189_f5_011.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “8” at bottom left."
+# -
+#     id: "fig-331-j"
+#     src: figures/r2015226_980039_b189_f5_012.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “9” at bottom right."
+# -
+#     id: "fig-331-k"
+#     src: figures/r2015226_980039_b189_f5_013.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “10” at bottom left."
 -
     id: "fig-332"
     src: figures/r2014133_980039_b60_f3_001.jpg
@@ -14561,7 +14821,7 @@ figure_list:
     label: ""
     alt: "Black and white collage of newspaper articles in English, German, Italian, and Danish featuring text columns, documentary photographs, article headlines, and newspaper titles on two leaves printed on both sides."
 -
-    id: "fig-369"
+    id: "fig-369-a"
     src: figures/r2011929_890164_b30_f31_001.jpg
     zoom: true
     poster: 
@@ -14570,7 +14830,7 @@ figure_list:
     label: ""
     alt: "Two paragraphs of handwritten correspondence on a blank page that utilizes thin margins. A cylindrical diagram and corresponding circular diagram are embedded in the text at the top of the page."
 -
-    id: "fig-370"
+    id: "fig-369-b"
     src: figures/r2011929_890164_b30_f31_002.jpg
     zoom: true
     poster: 
@@ -14579,7 +14839,7 @@ figure_list:
     label: ""
     alt: "Handwritten correspondence containing a bulleted list and two numbered paragraphs on blank page. Page utilizes thin margins."
 -
-    id: "fig-371"
+    id: "fig-369-c"
     src: figures/r2011929_890164_b30_f31_003.jpg
     zoom: true
     poster: 
@@ -14588,7 +14848,7 @@ figure_list:
     label: ""
     alt: "Handwritten correspondence containing part of a numbered list and four paragraphs on blank page. Page utilizes thin margins."
 -
-    id: "fig-372"
+    id: "fig-369-d"
     src: figures/r2011929_890164_b30_f31_004.jpg
     zoom: true
     poster: 
@@ -14597,7 +14857,7 @@ figure_list:
     label: ""
     alt: "Handwritten correspondence containing three numbered paragraphs, a concluding signature and a short postscript paragraph. Page utilizes thin margins."
 -
-    id: "fig-373-a"
+    id: "fig-369-e"
     src: figures/r2011929_890164_b30_f31_005.jpg
     zoom: true
     poster: 
@@ -14606,7 +14866,7 @@ figure_list:
     label: ""
     alt: "Handwritten correspondence interspersed with diagrams. At center, a diagonally bisected box with hinges is shown closed, open, and filled with cardstock. At bottom text is interspersed with smaller diagrams of accordion fold and single fold cards. "
 -
-    id: "fig-373-b"
+    id: "fig-369-f"
     src: figures/r2011929_890164_b30_f31_006.jpg
     zoom: true
     poster: 
@@ -15012,7 +15272,7 @@ figure_list:
     alt: "White page performance flyer with printed black text. Words “DAVID TUDOR” at top center in large font followed, at the midpoint of the page, by smaller text that lists performers and, at the bottom, the time, date, and location of the performance."
 -
     id: "fig-399-a"
-    src: placeholder.jpg
+    src: figures/r2015408_92_b17341_v7_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -15021,7 +15281,7 @@ figure_list:
     alt: "Photocopy of letter printed in a spiral-bound notebook. Body of letter handwritten in neat, generously spaced cursive. Dated “July 2, 1961” at top left and paginated “1” at top center. "
 -
     id: "fig-399-b"
-    src: placeholder.jpg
+    src: figures/r2015408_92_b17341_v7_002.jpg
     zoom: true
     poster: 
     media_type: 
@@ -15109,15 +15369,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Customized Google map with pins dropped on various locations, mostly in the New York area and Western Europe, showing where Mac Low created and sent his postcard scores."
--
-    id: "fig-405"
-    src: figures/07_Mac_Low_ILLS_for_review_before_archive_picks_dragged.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Collage of black-and-white news clippings covering one entire page. Top features New York World Telegram masthead followed by title “30 Arrests Mar H-Drill” followed by four articles in English across five columns of text at the center of the page. Three documentary photos of protestors with signs being arrested by police officers at bottom of page."
+# REMOVED
+# -
+#     id: "fig-405"
+#     src: figures/07_Mac_Low_ILLS_for_review_before_archive_picks_dragged.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Collage of black-and-white news clippings covering one entire page. Top features New York World Telegram masthead followed by title “30 Arrests Mar H-Drill” followed by four articles in English across five columns of text at the center of the page. Three documentary photos of protestors with signs being arrested by police officers at bottom of page."
 -
     id: "fig-406-a"
     src: figures/r32814_890164_b39_004.jpg
@@ -17280,7 +17541,7 @@ figure_list:
     alt: "In introduction"
 -
     id: "fig-475"
-    src: placeholder.jpg
+    src: figures/r2015409_94_b22032_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -17377,15 +17638,16 @@ figure_list:
     media_id: 935591760/ed1b8d32e5
     label: ""
     alt: "Color video of woman sat in indoor office speaking to camera interspersed with images of cafe interiors and exteriors and materials associated with *Identical Lunch*. "
--
-    id: "fig-483"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
+# REMOVED
+# -
+#     id: "fig-483"
+#     src: placeholder.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: ""
 -
     id: "fig-484"
     src: figures/r32814_890164_b264_002.jpg
@@ -17874,7 +18136,7 @@ figure_list:
     alt: "White page with black print in English. Top half contains information for “Meet The Woman Composer” series followed by program for 5 November. Bottom half contains three paragraphs: performance information, artist statement, and biography. "
 -
     id: "fig-499"
-    src: placeholder.jpg
+    src: figures/r2016245_890164_b28_f39_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -19989,7 +20251,7 @@ figure_list:
     alt: "Photocopy of white paper with black handwritten text in English and German containing a four-point bulleted list of short sentences, some partially underlined. Paginated 2 at top right."
 -
     id: "fig-537-c"
-    src: placeholder.jpg
+    src: figures/r2016467_890164_b31_f30_119.jpg
     zoom: true
     poster: 
     media_type: 
@@ -20277,7 +20539,7 @@ figure_list:
     alt: "Color video showing sequential, individual episodes of three different women holding and regarding their face in a rectangular piece of mirror as they walk backwards on a beach, into the water. In some moments, the woman’s mirror reveals the cameraman recording her. The women appear to be performing this action on different beaches across the Californian coast. We also see a man, formerly the cameraman recording the women, performing the task while videoing himself with a smartphone enclosed in a plastic bag."
 -
     id: "fig-556"
-    src: placeholder.jpg
+    src: figures/r2015674_89_b17402_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -20286,7 +20548,7 @@ figure_list:
     alt: "Black and white photograph of eight men in a classroom, each sat at a chair desk. Photograph shot at eye level of sitting figures."
 -
     id: "fig-557"
-    src: placeholder.jpg
+    src: figures/r2016750_89_b17402_002.jpg
     zoom: true
     poster: 
     media_type: 
@@ -20295,7 +20557,7 @@ figure_list:
     alt: "Landscape-oriented black and white photograph of three men, two sitting at desks on left, and one standing at right, all conversing indoors."
 -
     id: "fig-558"
-    src: placeholder.jpg
+    src: figures/r2016750_89_b17402_003.jpg
     zoom: true
     poster: 
     media_type: 
@@ -20304,7 +20566,7 @@ figure_list:
     alt: "Portrait-oriented black and white photograph of one man shot from the left sitting at a desk while holding a plastic tube. Another man behind sitting, smoking a pipe, and holding a toy ship. "
 -
     id: "fig-559"
-    src: placeholder.jpg
+    src: figures/r2016750_89_b17402_004.jpg
     zoom: true
     poster: 
     media_type: 
@@ -20313,7 +20575,7 @@ figure_list:
     alt: "Square black and white photograph of a man shot from the front left sitting at a desk while hitting a handheld drum. Two men behind sitting at desks. One blurry man and desk in foreground framing the scene."
 -
     id: "fig-560"
-    src: placeholder.jpg
+    src: figures/r2016750_89_b17402_005.jpg
     zoom: true
     poster: 
     media_type: 

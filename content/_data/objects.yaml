@@ -26,10 +26,10 @@ object_list:
     medium: ""
     location: ""
     extended_caption: ""
-    credit: ""
+    credit: "*Off Minor* by Thelonious Monk © 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured All Rights Reserved, Reprinted by permission of Hal Leonard LLC (c); Courtesy of Jonathan K. Riggs (d). "
     featured: true
     type: [ score ]
-    figure: [ id: "fig-001-a", id: "fig-001-b", id: "fig-001-c", id: "fig-001-d" ]
+    figure: [ id: "fig-001" ]
 -
     id: "002"
     old_id: "0.02"
@@ -39,7 +39,7 @@ object_list:
     date_start: 1914-01-01
     date_end: 1914-12-31
     medium: ""
-    location: "Getty Research Institute, Jean Brown Papers c.2: v.2, no.4 (1914)"
+    location: "Getty Research Institute, Jean Brown Papers, c.2: v.2, no. 4 (1914)"
     extended_caption: "Luigi Russolo composed *Risveglio di una Cittá* (Awakening of a City) in 1913, to be performed on *intonarumori* (noise machines). The score was published the following year in *Lacerba* (1 March 1914): 72–73."
     credit: ""
     featured: 
@@ -49,7 +49,7 @@ object_list:
     id: "003"
     old_id: "0.03a"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    title: "Prefatory notes for *December 1952* published in *Folio and 4 Systems*"
+    title: "Prefatory notes for *December 1952*, published in *Folio and 4 Systems*"
     date: "1961"
     date_start: 1961-01-01
     date_end: 1961-12-31
@@ -94,7 +94,7 @@ object_list:
     id: "006"
     old_id: "0.06"
     maker: [ "Kurt Schwitters (German, 1887–1948)" ]
-    title: "*Ursonate*, in *Merz* 24 (Hannover, 1932)"
+    title: "*Ursonate*, in *Merz* 24 (Hanover, 1932)"
     date: "1922–32"
     date_start: 
     date_end: 
@@ -114,9 +114,9 @@ object_list:
     date_start: 1959-07-01
     date_end: 1959-07-31
     medium: ""
-    location: "George Brecht Notebooks, Vol. 3, April–August 1959. Ed. Dieter Daniels with collaboration of Hermann Braun (Cologne: W. König, 1991)."
+    location: "*George Brecht Notebooks*, vol. 3, *April–August 1959*, ed. Dieter Daniels with collaboration of Hermann Braun (Cologne: Walther König, 1991)."
     extended_caption: ""
-    credit: ""
+    credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-007" ]
@@ -124,14 +124,14 @@ object_list:
     id: "008"
     old_id: "0.08"
     maker: [ "Nam June Paik (Korean, 1932–2006)" ]
-    title: "“Expanded Education for the Paperless Society” (1968), reproduced in *Radical Software* 1, no. 1 (1970): 7–8"
+    title: "“Expanded Education for the Paperless Society,” 1968, reproduced in *Radical Software* 1, no. 1 (1970): 7–8"
     date: "1968"
     date_start: 1968-01-01
     date_end: 1968-12-31
     medium: ""
     location: ""
     extended_caption: ""
-    credit: ""
+    credit: "© Nam June Paik Estate."
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-008-a", id: "fig-008-b" ]
@@ -146,7 +146,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: "These passages contain rhythmic analyses of stress patterns in lines from Shakespeare’s *The Tempest* by way of Western musical notation."
-    credit: ""
+    credit: "Internet Archive/Trent University Library Donation."
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-009-a", id: "fig-009-b" ]
@@ -161,7 +161,7 @@ object_list:
     medium: "Screen print"
     location: "From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991)."
     extended_caption: "English translation: “drink coca cola / drool glue / drink coca [cocaine] / drool glue shard / shard / glue / cesspool.”"
-    credit: ""
+    credit: "Estate of Décio Pignatari."
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-010" ]
@@ -176,7 +176,7 @@ object_list:
     medium: "Sandblasted glass in wooden base"
     location: ""
     extended_caption: ""
-    credit: ""
+    credit: "By courtesy of the Estate of Ian Hamilton Finlay."
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-011" ]
@@ -184,7 +184,7 @@ object_list:
     id: "012"
     old_id: "1.01"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    title: "*Intersection 3* with a dedication for David Tudor"
+    title: "*Intersection 3* with a dedication to David Tudor"
     date: "1953"
     date_start: 1953-01-01
     date_end: 1953-12-31
@@ -326,7 +326,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 53, folder 7"
     extended_caption: "Feldman’s emotional intimacy with Tudor reveals both the closeness of their relationship at the time and the extraordinary power Tudor had over composers in simply performing their works and platforming them for the public. The letter also reveals the mutual sympathy the two had for an Artaudian aesthetic of violence in the postwar period."
-    credit: ""
+    credit: "Courtesy of the Morton Feldman Estate."
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-021-c", id: "fig-021-b", id: "fig-021-a" ]
@@ -1984,7 +1984,7 @@ object_list:
     id: "132"
     old_id: "2.19d"
     maker: [ "Manfred Leve (German, 1936–2012)" ]
-    title: "Photograph of David Tudor performing at Galerie 22 in Düsseldorf, Germany"
+    title: "David Tudor performing at Galerie 22 in Düsseldorf, Germany"
     date: "14 October 1958"
     date_start: 1958-10-14
     date_end: 1958-10-14
@@ -2006,7 +2006,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 160"
     extended_caption: ""
-    credit: "Photographer: © Matsuzaki Kunitoshi. Provided courtesy of the John Cage Trust."
+    credit: "Photographer: © Matsuzaki Kunitoshi. Courtesy of the John Cage Trust."
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-133" ]
@@ -2014,7 +2014,7 @@ object_list:
     id: "134"
     old_id: "2.20"
     maker: 
-    title: "Photograph of Merce Cunningham conducting John Cage’s *Concert for Piano and Orchestra* at Town Hall"
+    title: "Merce Cunningham conducting John Cage’s *Concert for Piano and Orchestra* at Town Hall"
     date: "15 May 1958"
     date_start: 1958-05-15
     date_end: 1958-05-15
@@ -3259,7 +3259,7 @@ object_list:
     id: "217"
     old_id: "4.13f"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    title: "*Variations for Double Bass*"
+    title: "*Variations for Double-Bass*"
     date: "1961, rev. 1962"
     date_start: 
     date_end: 
@@ -3385,7 +3385,7 @@ object_list:
     date_end: 1963-01-31
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 29"
-    extended_caption: "In this letter from Maciunas, he describes a performance of *Paper Piece* and tells Patterson that he has purchased a double bass (along with its associated auxiliary percussion and objects), with the intention of performing *Variations for Double Bass* (1961, rev. 1962)."
+    extended_caption: "In this letter from Maciunas, he describes a performance of *Paper Piece* and tells Patterson that he has purchased a double bass (along with its associated auxiliary percussion and objects), with the intention of performing *Variations for Double-Bass* (1961, rev. 1962)."
     credit: ""
     featured: 
     type: [ correspondence ]
@@ -3484,7 +3484,7 @@ object_list:
     id: "232"
     old_id: "4.24b"
     maker: [ "possibly Rolf Jährling" ]
-    title: "Benjamin Patterson performing *Variations for Double Bass* at *Kleinen Sommerfest: Après John Cage*, Galerie Parnass, Wuppertal, West Germany"
+    title: "Benjamin Patterson performing *Variations for Double-Bass* at *Kleinen Sommerfest: Après John Cage*, Galerie Parnass, Wuppertal, West Germany"
     date: "9 June 1962"
     date_start: 1962-06-09
     date_end: 1962-06-09

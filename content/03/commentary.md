@@ -39,9 +39,9 @@ Of the three indeterminate scores in *Five Piano Pieces*, the most complex and c
 
 {% fig 'fig-3-5' %}
 
-Tudor dutifully realized Bussotti’s instructions for Staff 3 through a list of calculations in a way that parallels the kinds of tables he made for scores by Cage and used this list to create a **[[realization for *No. 4*]]**. The penciled annotations on Tudor’s copy of the score (see [fig. 3.5](#fig-3-5)) show two vertical lines drawn at the vertices of the “sequenza” line from Staff 3, as well as a series of check marks written over black dots, evidence of Tudor “slashing off” various attacks as he recorded their distance from each of the lines in Staff 3. After producing a seven-sheet-long set of values for attacks corresponding to these black dots, Tudor then recorded them on seven sheets of his customary short staff paper, producing a playable realization ([fig. 3.5](#fig-3-5)).
+Tudor dutifully realized Bussotti’s instructions for Staff 3 through a list of calculations in a way that parallels the kinds of tables he made for scores by Cage and used this list to create a **[[realization for *No. 4*]]**. The penciled annotations on Tudor’s copy of the score (see [fig. 3.5](#fig-3-5)) show two vertical lines drawn at the vertices of the “sequenza” line from Staff 3, as well as a series of check marks written over black dots, evidence of Tudor “slashing off” various attacks as he recorded their distance from each of the lines in Staff 3. After producing a seven-sheet-long set of values for attacks corresponding to these black dots, Tudor then recorded them on seven sheets of his customary short staff paper, producing a playable realization ([fig. 3.6](#fig-3-6)).
 
-{% fig 'fig-3-5' %}
+{% fig 'fig-3-6' %}
 
 Completing this realization at one of the busiest times of his career, Tudor seemed to have not had time to finish learning it for performance.[^14] In the live recording included here, likely made in 1960 at the Living Theatre in New York, Tudor is relatively loose in its timings, and seems to have performed only the first four of the seven sheets he realized for *No. 4*. According to Stockhausen, Bussotti had approved the possibility of a partial performance of *No. 4* the year prior in Darmstadt.[^15]
 

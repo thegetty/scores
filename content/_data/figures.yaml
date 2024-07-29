@@ -1,5 +1,19 @@
 figure_list:
 -
+    id: "fig-0-1"
+    old_id: ""
+    src: figures/fig-0-1.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/001/
+    label: "Fig. 0.1a–d"
+    caption: "Four “Indeterminate” Notation Systems."
+    credit: "*Off Minor* by Thelonious Monk © 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured All Rights Reserved, Reprinted by permission of Hal Leonard LLC (c); Courtesy of Jonathan K. Riggs (d)."
+    alt: ""
+-
     id: "fig-0-1a"
     old_id: "0.01-a"
     src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg
@@ -66,7 +80,7 @@ figure_list:
     media_id: 
     link: /image-index/002/
     label: "Fig. 0.2"
-    caption: "Luigi Russolo (Italian, 1855–1947), *Risveglio di una Cittá* (Awakening of a City), 1914, Getty Research Institute, Jean Brown Papers c.2: v.2, no.4 (1914)."
+    caption: "Luigi Russolo (Italian, 1855–1947), *Risveglio di una Cittá* (Awakening of a City), 1914, Getty Research Institute, Jean Brown Papers, c.2: v.2, no. 4 (1914)."
     credit: ""
     alt: "Two-page spread of dark black lines gradually rising and falling over treble and bass staves."
 -
@@ -80,8 +94,8 @@ figure_list:
     media_id: 
     link: /image-index/003/
     label: "Fig. 0.3"
-    caption: "Earle Brown (American, 1926–2002), Prefatory notes for *December 1952* published in *Folio and 4 Systems*, 1961. "
-    credit: "Earle Brown Estate"
+    caption: "Earle Brown (American, 1926–2002), Prefatory notes for *December 1952*, published in *Folio and 4 Systems*, 1961."
+    credit: "Earle Brown Estate."
     alt: "Diagram of a rectangular prism containing multiple arrows, with explanatory text above and to the right."
 -
     id: "fig-0-4"
@@ -94,8 +108,8 @@ figure_list:
     media_id: 
     link: /image-index/004/
     label: "Fig. 0.4"
-    caption: "Wadada Leo Smith (American, b. 1941), *Kosmic Music*, 2008. "
-    credit: ""
+    caption: "Wadada Leo Smith (American, b. 1941), *The Dream*, a panel from *Kosmic Music* (The Ankhrasmation Symbolic Language Art-Score), 12 × 18 in, acrylic and ink on paper, 2008."
+    credit: "Wadada Leo Smith, www.wadadaleosmith.com."
     alt: "Four multicolor rectangles marked with esoteric annotations including brackets and musical symbols. The leftmost three rectangles are connected by a sweeping gold band."
 -
     id: "fig-0-5"
@@ -108,7 +122,7 @@ figure_list:
     media_id: 
     link: /image-index/005/
     label: "Fig. 0.5"
-    caption: "Hugo Ball (German, 1886–1927), Hugo Ball performing *Karawane* at the Cabaret Voltaire, Zürich, 1916. "
+    caption: "Hugo Ball performing *Karawane* at the Cabaret Voltaire, Zürich, 1916. "
     credit: ""
     alt: "Black-and-white photo of a man in a rigid cape and a tall hat standing between two music stands in a low-ceilinged room."
 -
@@ -122,7 +136,7 @@ figure_list:
     media_id: 
     link: /image-index/006/
     label: "Fig. 0.6"
-    caption: "Kurt Schwitters (German, 1887–1948), *Ursonate*, in *Merz* 24 (Hannover, 1932), 1922–32. "
+    caption: "Kurt Schwitters (German, 1887–1948), *Ursonate*, in *Merz* 24 (Hanover, 1932), 1922–32. "
     credit: ""
     alt: "Two pages of typed repeated nonsense words, some featuring repeated letters or syllables, with instructive titles in German."
 -
@@ -136,8 +150,8 @@ figure_list:
     media_id: 
     link: /image-index/007/
     label: "Fig. 0.7"
-    caption: "George Brecht (American, 1926–2008), Page of notes from  John Cage’s course in experimental composition, July 1959. George Brecht Notebooks, Vol. 3, April–August 1959. Ed. Dieter Daniels with collaboration of Hermann Braun (Köln: W. König, 1991)."
-    credit: ""
+    caption: "George Brecht (American, 1926–2008), Page of notes from  John Cage’s course in experimental composition, July 1959. *George Brecht Notebooks*, vol. 3, *April–August 1959*, ed. Dieter Daniels with collaboration of Hermann Braun (Cologne: Walther König, 1991)."
+    credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     alt: "Notebook page with writing at top (some crossed out) and a star-shaped diagram at bottom with nodes labeled “Composer,” “Notation,” “Performer,” “Sound,” and “Listener,” when read clockwise beginning at the top center."
 -
     id: "fig-0-8"
@@ -150,8 +164,8 @@ figure_list:
     media_id: 
     link: /image-index/008/
     label: "Fig. 0.8"
-    caption: "Nam June Paik (Korean, 1932–2006), “Expanded Education for the Paperless Society” (1968), reproduced in *Radical Software* 1, no. 1 (1970): 7–8, 1968. "
-    credit: ""
+    caption: "Nam June Paik (Korean, 1932–2006), “Expanded Education for the Paperless Society,” 1968, reproduced in *Radical Software* 1, no. 1 (1970): 7–8."
+    credit: "© Nam June Paik Estate."
     alt: "Long rectangular page with a curving flowchart of text boxes surrounded by short text columns titled “Music,” “Great Thinkers,” “Philosophy,” “Instant Global University,” “Reading Aids,” and “Singing Lessons.”"
 -
     id: "fig-0-9"
@@ -165,7 +179,7 @@ figure_list:
     link: /image-index/009/
     label: "Fig. 0.9"
     caption: "Sidney Lanier (American, 1842–81), *Science of English Verse*, 1880. "
-    credit: ""
+    credit: "Internet Archive/Trent University Library Donation."
     alt: "Two-page spread of text interspersed with lines of unpitched musical notes paired with English syllables."
 -
     id: "fig-0-10"
@@ -178,8 +192,8 @@ figure_list:
     media_id: 
     link: /image-index/010/
     label: "Fig. 0.10"
-    caption: "Décio Pignatari (Brazilian, 1927–2012), *Beba Coca Cola*, 1957, Screen print. From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991).."
-    credit: ""
+    caption: "Décio Pignatari (Brazilian, 1927–2012), *Beba Coca Cola*, 1957, Screen print. From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991)."
+    credit: "Estate of Décio Pignatari."
     alt: "Red square at center of a white page containing all-lowercase, center-justified text."
 -
     id: "fig-0-11"
@@ -193,7 +207,7 @@ figure_list:
     link: /image-index/011/
     label: "Fig. 0.11"
     caption: "Ian Hamilton Finlay (Scottish, 1925–2006), *Star/Steer*, 1965, Sandblasted glass in wooden base. "
-    credit: ""
+    credit: "By courtesy of the Estate of Ian Hamilton Finlay."
     alt: "Upright sandblasted glass rectangle with the word “star” repeated several times in blue to create a zig-zag shape at center that terminates with the word “steer” printed once."
 -
     id: "fig-1-1"
@@ -206,8 +220,8 @@ figure_list:
     media_id: 
     link: /image-index/012/
     label: "Fig. 1.1"
-    caption: "Morton Feldman (American, 1926–87), *Intersection No. 3* with a dedication for David Tudor, 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
-    credit: ""
+    caption: "Morton Feldman (American, 1926–87), *Intersection 3* with a dedication to David Tudor, 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
+    credit: "*Intersection 3* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     alt: "Horizontal eleven-inch-wide graph paper with seven horizontal staves outlined in pencil, each one three grid boxes tall. Within the staves, seemingly random boxes are outlined and filled with handwritten numbers from 1 to 11 in black ink. Some grid boxes are outlined horizontally to create rectangles. Top margin handwritten text reads: outlined box “= MM 176” at left, “Intersection #3 for Tudor” at center, and “M Feldman [unreadable word] 1953” at right."
 -
     id: "fig-1-2"
@@ -220,8 +234,8 @@ figure_list:
     media_id: 
     link: /image-index/045/
     label: "Fig. 1.2"
-    caption: "Morton Feldman (American, 1926–87), Embryonic graph score, likely for Morton Feldman, *Projection No. 1*, Early 1950s. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 30."
-    credit: ""
+    caption: "Morton Feldman (American, 1926–87), Embryonic graph score, likely for Feldman’s, *Projection 1*, early 1950s. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 30."
+    credit: "*Projection 1* by Morton Feldman © 1961 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     alt: "Horizontal cream paper with orange printed grid. Three black horizontal marks evenly divide the top third of the page into three sections, with a larger fourth section on bottom. Each section is sparsely populated with squares and rectangles made from outlining one or more of the printed grid boxes. Key at bottom left reads: diamond shape, “Lowest Harmonic”; P, “Lowest pizz (played pizz)”; A, “Lowest Open sound (Played Arco)”; and outlined pen square, “= one beat.” Lines from top to bottom correspond to the O, P, and A key."
 -
     id: "fig-1-3"
@@ -234,13 +248,13 @@ figure_list:
     media_id: 
     link: /image-index/014/
     label: "Fig. 1.3"
-    caption: "David Tudor (American, 1926–96), David Tudor’s realization of Feldman’s *Intersection 3*, 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
-    credit: ""
+    caption: "David Tudor (American, 1926–96), Realization of Feldman’s *Intersection 3*, 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
+    credit: "*Intersection 3* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, all of this repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, yet the page is balanced with a roughly equal disruption of notations throughout."
 -
     id: "fig-1-4"
     old_id: "1.08-a"
-    src: figures/r2013491_980039_b53_f7_002.jpg
+    src: figures/tudor33.jpg
     note: 
     zoom: true
     poster: 
@@ -248,8 +262,8 @@ figure_list:
     media_id: 
     link: /image-index/021/
     label: "Fig. 1.4"
-    caption: "Morton Feldman (American, 1926–87), Letter from Morton Feldman to David Tudor, 15 June 1953. Getty Research Institute, David Tudor Papers, 980039, box 53, folder 7."
-    credit: ""
+    caption: "Letter from Morton Feldman to David Tudor, 15 June 1953. Getty Research Institute, David Tudor Papers, 980039, box 53, folder 7."
+    credit: "Courtesy of the Morton Feldman Estate."
     alt: "Verso of sealed rectangular white envelope with alternating red, white, and blue border. Address at top center stricken through with a line of typewritten Xs. Top edge appears ripped open by knife or letter opener."
 -
     id: "fig-2-1"
@@ -262,8 +276,8 @@ figure_list:
     media_id: 
     link: /image-index/133/
     label: "Fig. 2.1"
-    caption: "Photograph of John Cage and David Tudor in Japan, 1962. Getty Research Institute, David Tudor Papers, 980039, box 160."
-    credit: "Photographer: © Matsuzaki Kunitoshi. Provided courtesy of the John Cage Trust"
+    caption: "John Cage and David Tudor in the Tôkei-ji Temple Garden (Kanazawa, Japan), 1962. Getty Research Institute, David Tudor Papers, 980039, box 160."
+    credit: "Photographer: © Matsuzaki Kunitoshi. Courtesy of the John Cage Trust."
     alt: "Portrait-oriented black-and-white photograph of two men under a pavilion. The man at right stands with his head inside a large bell, and the man at left moves to hit the bell with a mounted wood hammer."
 -
     id: "fig-2-2"
@@ -276,8 +290,8 @@ figure_list:
     media_id: 
     link: /image-index/124/
     label: "Fig. 2.2"
-    caption: "John Cage (American, 1912–92), Letter from John Cage to David Tudor, 1951. Getty Research Institute, David Tudor Papers, 980039, box 7, folder 7."
-    credit: "Courtesy of the John Cage Trust"
+    caption: "Letter from John Cage to David Tudor, 1951. Getty Research Institute, David Tudor Papers, 980039, box 7, folder 7."
+    credit: "Courtesy of the John Cage Trust."
     alt: "White page with handwritten English-language correspondence in pencil. Double-spaced lines of text cover three-quarters of the page. Bottom quarter of page contains generously spaced notes containing musical notation. Page has thin margins."
 -
     id: "fig-2-3"
@@ -290,8 +304,8 @@ figure_list:
     media_id: 
     link: /image-index/060/#fig-060-an
     label: "Fig. 2.3"
-    caption: "John Cage (American, 1912–92), David Tudor’s copy of John Cage’s *Solo for Piano*, from *Concert for Piano and Orchestra*, 1957–58. Getty Research Institute, David Tudor Papers, 980039, box 176, folders 1–2."
-    credit: "Edition Peters"
+    caption: "David Tudor’s copy of John Cage’s *Solo for Piano*, from *Concert for Piano and Orchestra* that features Graphs D and Z, 1957–58. Getty Research Institute, David Tudor Papers, 980039, box 176, folders 1, 2."
+    credit: "Edition Peters."
     alt: "Thirty horizontal rectangular cream pages, each with black hand-drawn graphic notations made up of horizontal staff segments and circular musical notes. Notes are often connected by curving or straight lines to create shapes atop the staff. Graphics contain other musical notation symbols, numbers, and letters. Most pages contain at least three discreet graphics placed sparsely throughout the page. Most pages are less than 50 percent covered. Two pages are filled with four columns of handwritten text in English and one page filled with typewritten paragraphs in English."
 -
     id: "fig-2-4"
@@ -304,7 +318,7 @@ figure_list:
     media_id: 
     link: /image-index/134/
     label: "Fig. 2.4"
-    caption: "Photograph of Merce Cunningham conducting John Cage’s *Concert for Piano and Orchestra* at Town Hall, 15 May 1958. "
+    caption: "Merce Cunningham conducting John Cage’s *Concert for Piano and Orchestra* at Town Hall, 15 May 1958. "
     credit: ""
     alt: "Square-shaped black-and-white photograph of a man on a stage turned away from the camera and conducting an orchestra. The photo was shot from the audience."
 -
@@ -318,7 +332,7 @@ figure_list:
     media_id: 
     link: /image-index/131/
     label: "Fig. 2.5"
-    caption: "Photographs of David Tudor preparing his second realization of John Cage’s *Solo for Piano*, 1958. Getty Research Institute, David Tudor Papers, 980039, box 158."
+    caption: "Tudor preparing his second realization of John Cage’s *Solo for Piano*, 1958. Getty Research Institute, David Tudor Papers, 980039, box 158."
     credit: ""
     alt: "Landscape-oriented black-and-white photograph of a man, at center, with his face visible to the camera while he sits behind a table covered with staff sheets. The man’s hands are on table, one holding a pen, the other flipping through the sheets."
 -
@@ -332,13 +346,13 @@ figure_list:
     media_id: 
     link: /image-index/154/#fig-154-k
     label: "Fig. 3.1"
-    caption: "Sylvano Bussotti (Italian, 1931–2021), David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    caption: "David Tudor’s personal copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
-    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive. "
+    alt: ""
 -
     id: "fig-3-2"
     old_id: "3.01-e"
-    src: figures/gri_980039_b174_f02_005_mm.jpg
+    src: figures/gri_980039_b174_f02_005_mm_crop.jpg
     note: needs to be cropped to No. 1
     zoom: true
     poster: 
@@ -346,13 +360,13 @@ figure_list:
     media_id: 
     link: /image-index/154/#fig-154-e
     label: "Fig. 3.2"
-    caption: "Sylvano Bussotti (Italian, 1931–2021), David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    caption: "David Tudor’s personal copy of *No. 1* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
-    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive. "
+    alt: ""
 -
     id: "fig-3-3"
     old_id: "3.01-i"
-    src: figures/gri_980039_b174_f02_009_mm.jpg
+    src: figures/gri_980039_b174_f02_009_mm_crop.jpg
     note: needs to be cropped to No. 3
     zoom: true
     poster: 
@@ -360,7 +374,7 @@ figure_list:
     media_id: 
     link: /image-index/154/#fig-154-i
     label: "Fig. 3.3"
-    caption: "Sylvano Bussotti (Italian, 1931–2021), David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    caption: "David Tudor’s personal copy of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
     alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive. "
 -
@@ -422,7 +436,7 @@ figure_list:
 -
     id: "fig-4-1"
     old_id: "4.13f"
-    src: figures/r29591_890164_b39_012.jpg
+    src: figures/r29591_890164_b39_011.jpg
     note: 
     zoom: true
     poster: 
@@ -430,8 +444,8 @@ figure_list:
     media_id: 
     link: /image-index/217/
     label: "Fig. 4.1"
-    caption: "Benjamin Patterson (American, 1934–2016), *Variations for Double Bass*, 1961, rev. 1962. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33."
-    credit: "© The Estate of Benjamin Patterson"
+    caption: "Benjamin Patterson (American, 1934–2016), *Variations for Double-Bass*, 1961, rev. 1962. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33."
+    credit: "© The Estate of Benjamin Patterson."
     alt: "White page with black typewritten text in English. Two columns run the length of the page and bisect it vertically. Title “Variations for Double-Bass” at top of first column followed by seventeen-point list of instructive sentences that continues into the second column. “cologne, 1961. revised Pittsburgh, 1962” at bottom of second column. "
 -
     id: "fig-4-2"
@@ -458,8 +472,8 @@ figure_list:
     media_id: 
     link: /image-index/215/#fig-215-f
     label: "Fig. 4.3"
-    caption: "Benjamin Patterson (American, 1934–2016), *Duo*, 1961. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32."
-    credit: "© The Estate of Benjamin Patterson"
+    caption: "Benjamin Patterson (American, 1934–2016), *Duo for Voice and a String Instrument*, 1961. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32."
+    credit: "© The Estate of Benjamin Patterson."
     alt: "White page with black hand drawn symbols and handwritten text in English. Titled “Duo 1961” at top center below upper margin, followed by Patterson’s signature and one paragraph of text that covers one half of the page. Bottom half of page contains list of symbols and corresponding labels, some single words and others short phrases."
 -
     id: "fig-4-4"
@@ -1358,6 +1372,15 @@ figure_list:
     caption: "Allan Kaprow (American, 1927–2006), *7 Kinds of Sympathy*. Produced by Peter Kirby and Anna Canepa Video Distribution, with performers Julie Steiny and Bryan Jones., 1976, U-matic videocassette, sd., color, 3/4-inch tape. Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V37."
     credit: ""
     alt: "Color film opening with male voiceover and blank white screen followed by title card “7 Kinds of Sympathy” in white on blue background. Film cycles through 1) a male voiceover accompanied by blank white background, 2) a color video of one or two people, either together or separate, performing actions from the voiceover, and 3) a title card with “later...” in white on blue background. Shots are stable and either close-ups focusing on hands or faces or wide shots of chest-up/full-body figures. Close-ups often capture movement or speech. Figures or hands are typically at the center of the frame, with no other points of visual interest. Background of scenes is either solid orange or solid red. Both figures wear maroon plain clothes. Four by three aspect ratio."
+-
+    id: "fig-001"
+    src: figures/fig-0-1.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
 -
     id: "fig-001-a"
     src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg

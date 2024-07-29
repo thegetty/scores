@@ -48,17 +48,7 @@ But standardization, discursive power, and geographic diffusion over time does n
 
 In fact, what appeared so radically “indeterminate” for avant-garde composers during the 1950s was in many ways commonplace for a significant number of musicians outside the world of classical music. Much modern musical notation is often quite skeletal, either giving performers considerable freedoms or simply relying on their well-developed tacit knowledge and idiomatic performance practices. This characterization includes the use of lead sheets in jazz, chord charts in popular music, and certain forms of tablature ([fig. 0.1](#fig-0-1)). Depending on varying priorities for performance, each system indicates different elements, whether chord names, numbers that outline the harmonic voicing, notation of key rhythmic patterns, or, in the case of tablature, the physical position of the fingers.
 
-<div class="scores-figure-grid--2">
-
-{% fig 'fig-0-1a' %}
-
-{% fig 'fig-0-1b' %}
-
-{% fig 'fig-0-1c' %}
-
-{% fig 'fig-0-1d' %}
-
-</div>
+{% fig 'fig-0-1' %}
 
 Note as well that whereas chord charts and lead sheets are notation systems that have the weight of publishing industries behind them, the Nashville Number System (see [fig. 0.1](#fig-0-1)) is one example of the ways musicians themselves, including those from a multitude of cultural traditions, make all manner of informal notations for their own use. Musicians in any number of traditions worldwide jot down basic chord charts, lyric sheets, and production notes; they number frets, develop homemade tablatures, and fill notebooks and smartphones with annotations about settings for buttons, knobs, and sliders on electronic instruments. In all instances, written aids, social conventions, memory, and oral tradition play a role in the production of the musical result.
 

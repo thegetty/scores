@@ -50,7 +50,7 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 </div>
 <div class="pub-info">
 
-Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions or in the illustration credits at the back of this book. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings. 
+Every effort has been made to contact the owners and photographers of illustrations reproduced here whose names do not appear in the captions. Photographs and videos of items in the holdings of the Getty Research Institute are courtesy the Research Institute. Anyone having further information concerning copyright holders is asked to contact Getty Publications so this information can be included in future printings. 
 
 This publication was peer reviewed through a single-masked process in which the reviewers remained anonymous.
 

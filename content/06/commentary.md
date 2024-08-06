@@ -1,6 +1,6 @@
 ---
-title: "6"
-subtitle: "George Brecht: *Drip Music (Drip Event)* (1959–62), from *Water Yam* (1963)"
+label: "6"
+title: "George Brecht: *Drip Music (Drip Event)* (1959–62), from *Water Yam* (1963)"
 order: 61
 layout: essay
 toc: false

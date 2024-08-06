@@ -1,6 +1,6 @@
 ---
-title: "8"
-subtitle: "Yvonne Rainer: *We Shall Run* (1963)"
+label: "8"
+title: "Yvonne Rainer: *We Shall Run* (1963)"
 order: 81
 layout: essay
 toc: false

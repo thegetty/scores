@@ -1,6 +1,6 @@
 ---
-title: "4"
-subtitle: "Benjamin Patterson: *Paper Piece* (1960)"
+label: "4"
+title: "Benjamin Patterson: *Paper Piece* (1960)"
 order: 41
 layout: essay
 toc: false

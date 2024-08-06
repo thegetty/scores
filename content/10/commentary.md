@@ -1,6 +1,6 @@
 ---
-title: "10"
-subtitle: "Mieko Shiomi: *Spatial Poem* (1965–75)"
+label: "10"
+title: "Mieko Shiomi: *Spatial Poem* (1965–75)"
 order: 101
 layout: essay
 toc: false

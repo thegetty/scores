@@ -1,6 +1,6 @@
 ---
-title: "2"
-subtitle: "John Cage: *Concert for Piano and Orchestra* (1958)"
+label: "2"
+title: "John Cage: *Concert for Piano and Orchestra* (1958)"
 order: 21
 layout: essay
 toc: false

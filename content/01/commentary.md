@@ -1,6 +1,6 @@
 ---
-title: "1"
-subtitle: "Morton Feldman: *Intersection 3* (1953)"
+label: "1"
+title: "Morton Feldman: *Intersection 3* (1953)"
 order: 11
 layout: essay
 toc: false

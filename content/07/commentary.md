@@ -79,7 +79,11 @@ Viewed as a group, the six postcards Mac Low mailed to Patterson in April 1963 e
 
 ## Notes {.notes-heading}
 
+{% backmatter %}
+
 The author wishes to thank to Benjamin Bishop, Alexis Briley, Aaron Hodges, and Sarah Senk for their feedback on earlier versions of this essay.
+
+{% endbackmatter %}
 
 [^1]: For an image of Ammons’s manuscript for this work, see Archie Ammons Papers, #14-12-2665, Division of Rare and Manuscript Collections, Cornell University Library, https://digital.library.cornell.edu/catalog/ss:23093081.
 

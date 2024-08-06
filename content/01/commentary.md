@@ -1,5 +1,5 @@
 ---
-title: "1."
+title: "1"
 subtitle: "Morton Feldman: *Intersection 3* (1953)"
 order: 11
 layout: essay

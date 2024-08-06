@@ -1,5 +1,5 @@
 ---
-title: "8."
+title: "8"
 subtitle: "Yvonne Rainer: *We Shall Run* (1963)"
 order: 81
 layout: essay

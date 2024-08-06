@@ -1,7 +1,7 @@
 ---
 label: 1
 title: Morton Feldman
-subtitle: Intersection 3 (1953)
+subtitle: "*Intersection 3* (1953)"
 order: 10
 outputs: 
   - html

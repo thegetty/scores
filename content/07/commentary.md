@@ -1,5 +1,5 @@
 ---
-title: "7."
+title: "7"
 subtitle: "Jackson Mac Low: *Three Social Projects* (1963)"
 order: 71
 layout: essay

@@ -1,5 +1,5 @@
 ---
-title: "10."
+title: "10"
 subtitle: "Mieko Shiomi: *Spatial Poem* (1965–75)"
 order: 101
 layout: essay

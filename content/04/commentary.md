@@ -1,5 +1,5 @@
 ---
-title: "4."
+title: "4"
 subtitle: "Benjamin Patterson: *Paper Piece* (1960)"
 order: 41
 layout: essay

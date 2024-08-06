@@ -1,7 +1,7 @@
 ---
 label: 8
 title: Yvonne Rainer
-subtitle: We Shall Run (1963)
+subtitle: "*We Shall Run* (1963)"
 order: 80
 outputs: 
   - html

@@ -1,5 +1,5 @@
 ---
-title: "3."
+title: "3"
 subtitle: "Sylvano Bussotti: *Five Piano Pieces for David Tudor* (1959)"
 order: 31
 layout: essay

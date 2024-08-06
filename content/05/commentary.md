@@ -1,5 +1,5 @@
 ---
-title: "5."
+title: "5"
 subtitle: "La Monte Young, Jackson Mac Low, and George Maciunas: *An Anthology of Chance Operations* (1962–63)"
 order: 51
 layout: essay

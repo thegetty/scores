@@ -1,7 +1,7 @@
 ---
 label: 10
 title: Mieko Shiomi
-subtitle: Spatial Poem (1965–75)
+subtitle: "*Spatial Poem* (1965–75)"
 order: 100
 outputs: 
   - html

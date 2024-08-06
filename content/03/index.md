@@ -1,7 +1,7 @@
 ---
 label: 3
 title: Sylvano Bussotti
-subtitle: Five Piano Pieces for David Tudor (1959)
+subtitle: "*Five Piano Pieces for David Tudor* (1959)"
 order: 30
 outputs: 
   - html

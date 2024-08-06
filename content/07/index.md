@@ -1,7 +1,7 @@
 ---
 label: 7
 title: Jackson Mac Low
-subtitle: Three Social Projects (1963)
+subtitle: "*Three Social Projects* (1963)"
 order: 70
 outputs: 
   - html

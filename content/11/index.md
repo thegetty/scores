@@ -1,7 +1,7 @@
 ---
 label: 11
 title: Allan Kaprow
-subtitle: Routine (1973–75)
+subtitle: "*Routine* (1973–75)"
 order: 110
 outputs: 
   - html

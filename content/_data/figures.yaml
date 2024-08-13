@@ -11089,7 +11089,7 @@ figure_list:
     alt: "Two-page white lined paper spread covered in black circles of varying sizes either outlined, half black or completely black. Circles concentrated at center crease of spread, with all four edges of page sparsely populated. "
 -
     id: "fig-227-d"
-    src: placeholder.jpg
+    src: figures/r29591_980039_b195_f3_015.jpg
     zoom: true
     poster: 
     media_type: 
@@ -16343,14 +16343,59 @@ figure_list:
     label: ""
     alt: "Horizontal black and white photograph of eight spot-lit people running barefoot in an otherwise empty room."
 -
-    id: "fig-447"
-    src: placeholder.jpg
+    id: "fig-447-a"
+    src: figures/r34248_2006_m_24_b134_002.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Six photographic contact sheets, each with six lines of black and white photographs featuring spot lit groups of people in an otherwise empty room, most of whom appear in motion.  "
+    alt: "Photographic contact sheet with six lines of black and white photographs featuring spot lit groups of people in an otherwise empty room, most of whom appear in motion."
+-
+    id: "fig-447-b"
+    src: figures/r34248_2006_m_24_b134_003.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Photographic contact sheet with six lines of black and white photographs featuring spot lit groups of people in an otherwise empty room, most of whom appear in motion."
+-
+    id: "fig-447-c"
+    src: figures/r34248_2006_m_24_b134_004.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Photographic contact sheet with six lines of black and white photographs featuring spot lit groups of people in an otherwise empty room, most of whom appear in motion."
+-
+    id: "fig-447-d"
+    src: figures/r34248_2006_m_24_b134_005.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Photographic contact sheet with six lines of black and white photographs featuring spot lit groups of people in an otherwise empty room, most of whom appear in motion."
+-
+    id: "fig-447-e"
+    src: figures/r34248_2006_m_24_b134_006.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Photographic contact sheet with six lines of black and white photographs featuring spot lit groups of people in an otherwise empty room, most of whom appear in motion."
+-
+    id: "fig-447-f"
+    src: figures/r34248_2006_m_24_b134_007.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Photographic contact sheet with six lines of black and white photographs featuring spot lit groups of people in an otherwise empty room, most of whom appear in motion."
 -
     id: "fig-448"
     src: figures/gri_2006_m_24_241_1_b1_f2_349357ds.jpg
@@ -18253,7 +18298,7 @@ figure_list:
     alt: ""
 -
     id: "fig-506"
-    src: placeholder.jpg
+    src: figures/r581784_870613_b18_f54_001.jpg
     zoom: true
     poster: 
     media_type: 

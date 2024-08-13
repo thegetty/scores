@@ -6713,7 +6713,7 @@ object_list:
     credit: ""
     featured: 
     type: [ photograph ]
-    figure: [ id: "fig-447" ]
+    figure: [ id: "fig-447-a", id: "fig-447-b", id: "fig-447-c", id: "fig-447-d", id: "fig-447-e", id: "fig-447-f" ]
 -
     id: "448"
     old_id: "8.14"

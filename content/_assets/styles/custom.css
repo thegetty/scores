@@ -407,6 +407,27 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .score-section--archive .content .global-accordion-controls button:last-child {
   margin-left: 0;
 }
+/* Related Accordions */
+.score-section--related {
+  color: white;
+  margin: 0 2rem;
+}
+.score-section--related  .accordion-section__controls::after {
+  align-items: baseline;
+}
+.score-section--related .score-section__objects {
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 100%;
+  margin-left: 0;
+  margin-bottom: 2rem;
+}
+.score-section.score-section--related .score-section__objects .object-link__image figcaption {
+  color: white;
+  font-size: var(--small-font-size);
+  line-height: var(--small-font-line-height);
+  margin-top: 0;
+  padding: 0;
+}
 
 /* INTRO & COMMENTARY PAGES
 ============================================================================= */

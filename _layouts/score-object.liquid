@@ -93,13 +93,25 @@ Entry content, including entry image and tombstone data
       <div class="container">
         <div class="content">
           {{ content }}
-          {% bibliography citations %}
         </div>
       </div>
     </section>
 
     <section class="section quire-page__content">
       <div class="container">
+        {%- if related_objects -%}
+        <div class="score-section score-section--related">
+        {%- accordion 'Related' -%}
+        <div class="score-section__objects">
+        {%- for thisObj in related_objects -%}
+          <a href="/image-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+          {%- obj thisObj.id -%}
+          </a>
+        {%- endfor -%}
+        </div>
+        {%- endaccordion -%}
+        </div>
+        {%- endif -%}
         {% pageButtons pagination=pagination %}
       </div>
     </section>

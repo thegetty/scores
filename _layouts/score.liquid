@@ -108,7 +108,10 @@ description: A custom layout for the primary score landing pages
   {%- capture groupHeading -%}
   ### {{ group.heading }} ({{ group.objects.size }} item{% if group.objects.size > 1 %}s{% endif %})
   {%- endcapture -%}
-  {%- accordion groupHeading -%}
+  {%- capture groupId -%}
+  {{ group.heading | downcase | replace: " ", "-" }}
+  {%- endcapture -%}
+  {%- accordion groupHeading groupId -%}
     <div class="score-section__objects">
       {%- for thisObj in group.objects -%}
         <a href="/image-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">

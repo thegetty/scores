@@ -5653,11 +5653,11 @@ figure_list:
     alt: ""
 -
     id: "fig-081"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: audio-poster.jpg
+    media_type: audio
+    media_id: figures/audio/081_gri_980039_c060_a.mp3
     label: ""
     alt: ""
 -
@@ -12088,11 +12088,12 @@ figure_list:
     alt: "Audio recording of male and female voices reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. Two original voices have been duplicated and layered electronically so that it sounds as if eight performers are speaking simultaneously, making it difficult to focus attention on any one voice for long. At times the voices are lowered in pitch. The final moments of the recording become quiet and feature only the original, single male and female voices, heard clearly."
 -
     id: "fig-254"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-254-poster-image.jpg
+    media_type: vimeo
+    media_id: 998877747/d951408282
+    aspect_ratio: standard
     label: ""
     alt: "Color video recording taken inside a warehouse-like museum space. The first performance involves ten performers, including Simone Forti, grouped together in the middle of a large circle of spectators who are sitting on folding stools. The performers, who are barefoot and wearing comfortable street clothes, form a tight circle with their bodies, crouching down and holding their arms around one another’s shoulders. One performer at a time slowly and carefully climbs up and over the cluster of bodies. At one point Forti can be heard saying, “Take your time, take your time”; otherwise the event is largely silent. It concludes when the performers stand upright and break apart. The second performance, which takes place at one end of the space, involves four of the performers who now wear tennis shoes. They interact with a large, ramp-like board mounted at a 45-degree angle and with five evenly spaced, knotted ropes attached to the top of the incline. The performers hang onto the ropes as they climb up, down, and across the board, focused on their individual actions. The performance is largely silent except for the sounds of shoes and ropes making contact with the board.   "
 -
@@ -16254,83 +16255,91 @@ figure_list:
     alt: "White page with handwritten English text in pencil. Left column contains names, right column contains two or three words, all clothing related. Bottom third of page blank.  "
 -
     id: "fig-437"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: audio-poster.jpg
+    media_type: audio
+    media_id: figures/audio/gri_2006_m_24_r26.mp3
     label: ""
     alt: "Audio recording of woman giving movement instructions to a group of people."
 -
     id: "fig-438"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-438-poster-image.jpg
+    media_type: vimeo
+    media_id: 998878127/
+    aspect_ratio: standard
     label: ""
     alt: "Black-and-white video of view from above stage left showing an empty stage and dancers moving across it intermittently."
 -
     id: "fig-439"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-439-poster-image.jpg
+    media_type: vimeo
+    media_id: 998878507/8b362416a2
+    aspect_ratio: standard
     label: ""
     alt: "Color video featuring a male interviewer holding a microphone and a woman (Yvonne Rainer) answering questions, set in a large performance hall with dancers behind them. The video cuts to Rainer dancing alone in the hall, wearing a purple t-shirt, loose-fitting slacks, and sneakers.  "
 -
     id: "fig-440"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-440-poster-image.jpg
+    media_type: vimeo
+    media_id: 998878787/e54ab58238
+    aspect_ratio: standard
     label: ""
     alt: "Silent black-and-white video of a woman (Yvonne Rainer) dancing alone in a studio, wearing all black. Occasionally the camera zooms in on a segment of her body or on a particular body part, such as the feet.  "
 -
     id: "fig-441"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-441-poster-image.jpg
+    media_type: vimeo
+    media_id: 998879161/75ea16b724
+    aspect_ratio: standard
     label: ""
     alt: "Color video. Interview set in a crowded, somewhat messy sitting room full of books on bookshelves. After close views of a black-and-white cat, the camera focuses on a man (Charles Atlas), who wears a black sweater and shaded glasses, with partially dyed yellow-blonde hair. In part b, Atlas reviews pieces of paper and smokes a cigarette. The video ends with close-ups of the cat, and shelves with small drawings, vases, and other personal curios."
 -
     id: "fig-442"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-442-poster-image.jpg
+    media_type: vimeo
+    media_id: 998879441/e6bce95f90
+    aspect_ratio: standard
     label: ""
     alt: "Color video. Rehearsal set in a studio with wooden floors, a blue curtain in the back, and white columns throughout the space. A woman (Yvonne Rainer) wears a long-sleeve shirt and black pants; Charles Atlas wears a floor-length black dress and an embroidered silk top, with hair arranged as a stark, large bun, and dramatic facial make-up. Late in the first part, Atlas wears a shiny, purple dress with a black mid-section and red and gold accents. Most of the second part features a close view of Rainer and Atlas, now in a black bra, laying on the ground, head-to-head, having a conversation."
 -
     id: "fig-443"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-443-poster-image.jpg
+    media_type: vimeo
+    media_id: 998879677/b728fd1d06
+    aspect_ratio: standard
     label: ""
     alt: "Color video of an interview set in the same living room as in other segments of Charles Atlas’s *Rainer Variations*, with camera focused entirely on a woman (Kathleen Chalfant) who wears a tight bun and blue shirt under another loose, unbuttoned collared shirt."
 -
     id: "fig-444"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-444-poster-image.jpg
+    media_type: vimeo
+    media_id: 998879844/11d96c534c
+    aspect_ratio: standard
     label: ""
     alt: "Color video of Rainer observing and instructing two female dancers in a studio space. The barefooted dancers wear dark-colored turtlenecks and loose blue pants. Rainer wears a loose long-sleeve shirt and black pants with dark-colored socks."
 -
     id: "fig-445"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-445-poster-image.jpg
+    media_type: vimeo
+    media_id: 998879844/11d96c534c
+    aspect_ratio: standard
     label: ""
     alt: "Black-and-white video of the interior of a large hall crowded with people, and with artworks adorning the walls that variously satirize or manipulate the U.S. flag. People mingle amongst themselves until video cuts to performance of Yvonne Rainer’s dance *Trio A with Flags*. Then, individuals including a man wearing a leather jacket (gallerist Stephen Radich), deliver short remarks into a standing microphone.  "
 -
@@ -20719,11 +20728,12 @@ figure_list:
     alt: "Black screen with “‘Routine’ by Allan Kaprow” in bold all-capitalized white text with male voiceover."
 -
     id: "fig-570"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/fig-570-poster-image.jpg
+    media_type: vimeo
+    media_id: 998453851/6c7d5b4a7d
+    aspect_ratio: standard
     label: ""
     alt: ""
 -

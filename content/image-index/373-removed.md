@@ -4,6 +4,6 @@ layout: page
 # toc: false
 menu: false
 outputs: [ none ]
-featured: true
+featured:
 order: 13730
 ---

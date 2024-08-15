@@ -23,9 +23,7 @@ For her breakthrough solo *Three Satie Spoons* (1961), Rainer worked off of both
 
 {% fig 'fig-8-3' %}
 
-{% fig 'fig-8-4' %}
-
-{% fig 'fig-8-5' %}
+{% figuregroup '2' 'fig-8-4, fig-8-5' '<span class="scores-figure__label">Figs. 8.4, 8.5</span> <span class="scores-figure__caption">Yvonne Rainer (American, b. 1934), Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10.</span> <span class="scores-figure__credit">Used with Permission. © Yvonne Rainer.</span>' %}
 
 This recruitment of found motion did not mean, however, that Rainer was not concerned with subtle details and controlled execution; in fact, it was quite the contrary. “Emphasis [is] on precision of movement and following of rules rather than humor,” she wrote in her notes and draft instructions from 1962.[^6] These examples demonstrate how Rainer understood the score as a formal container that could strip dance of its overly expressive and narrative qualities. Indeed, dance scores in the 1960s were understood to have both practical and political implications. As Deborah Jowitt has commented: “Those with no access to studio space could bring in a dance in the form of instructions to be interpreted on the spot. But, more important, scores could undermine habit, artifice, premeditation and present both choreographers and performers in the role of problem-solvers. A score could push art-by-inspiration out of the picture and still foster an individual approach.”[^7] Eliminating the demand for virtuosity was viewed as a way to allow for different kinds of movement enacted by many types of bodies.
 

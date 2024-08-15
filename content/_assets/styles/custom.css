@@ -475,10 +475,22 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   font-size: .8rem;
   line-height: 1.2;
 }
-.scores-figure-grid--2 {
+.scores-figure-group {
   display: grid;
+  grid-gap: 1rem;
+}
+.scores-figure-group .scores-figure {
+  margin: 0 !important;
+}
+.scores-figure-group > figcaption {
+  grid-column: 1/-1;
+  margin-top: -1rem;
+}
+.scores-figure-group-grid--2 {
   grid-template-columns: 1fr 1fr;
-  gap: 1rem;
+}
+.scores-figure-group-grid--3 {
+  grid-template-columns: 1fr 1fr;
 }
 
 /* COPYRIGHT & ABOUT PAGE
@@ -979,9 +991,6 @@ body.iframe-version .quire .quire__primary main {
   .content figure.scores-figure img {
     filter: grayscale(100%);
     width: 60%;
-  }
-  .scores-figure-grid--2 {
-    display: block;
   }
   /* Blockquotes */
   .quire-essay .quire-page__content .container .content blockquote {

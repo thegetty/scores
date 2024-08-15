@@ -39,13 +39,7 @@ Kaprow’s commitment to framing his activities pedagogically posed certain chal
 
 Where most artists in Kaprow’s milieu used photography to document performances, Kaprow used the medium to inspire new ones. To this end, he developed a diagrammatic approach that began by sketching out the basic photographic compositions in advance. More than a mere guide, these sketches yielded photographs that retain a strong graphic quality: individual faces are deliberately obscured in favor of clear postures and spatial relationships. For example, on the first page of the activity booklet, the man’s shadow is a stick figure come to life or, rather, a living person made into a stick figure ([figs. 11.6](#fig-11-6), [11.7](#fig-11-7)). Sometimes Kaprow took the photographs for his activity booklets, but more often he directed an art student to do it; in this case it was Alvin Comiter, a student at the California Institute of the Arts. Nevertheless, Kaprow dictated the style as well as the mise-en-scène, in the manner of a film director guiding a cinematographer.
 
-<div class="scores-figure-grid--2">
-
-{% fig 'fig-11-6' %}
-
-{% fig 'fig-11-7' %}
-
-</div>
+{% figuregroup '2' 'fig-11-6, fig-11-7' %}
 
 The PCVA gave Kaprow a modest budget for documentation. But instead of filming the Saturday realizations as one might expect, the artist kept those private. He had determined that the presence of a camera altered the experience of performance in profound ways that had to be carefully accounted for.[^13] He used the funds to produce an instructional film, complete with copious voiceovers, intertitles, and semi-rehearsed performances ([fig. 11.8](#fig-11-8)). Like the sort of industrial film it mimics rhetorically, the activity film *Routine* was made cheaply and quickly, and to carry out his vision Kaprow engaged the technical expertise of young people, including the aspiring documentary filmmaker Michael Sullivan ([fig. 11.9](#fig-11-9)).[^14]
 
@@ -59,17 +53,7 @@ The activity film for *Routine* follows the pattern of the genre of the activity
 
 Kaprow’s films and videos of the 1970s were experiments ([figs. 11.11](#fig-11-11), [11.12](#fig-11-12), [11.13](#fig-11-13), and [11.14](#fig-11-14)). He was clear about their intended function: to serve as animated versions of indeterminate scores rather than as documentations of performances. Indeed, he stated this intention directly through his opening voiceovers. But Kaprow was not entirely sure that any film could function as an indeterminate score, since participants might be tempted to simply mimic what they saw on screen, thus foreclosing the creative aspect of realization in the Cagean tradition. Thus, in characteristic fashion, Kaprow devised a further experiment in 1976. He directed a group of friends, along with his then wife, Vaughan Rachel, to try out one of his instructional videotapes as an experimental score for an activity. After the group performed the activity, Kaprow convened a review session at which he asked them about their experiences using the instructional videotape. Kaprow recorded this review session on audiotape, and as it unspools we hear his friends criticize his videotape score, describing it as idealized, didactic, or otherwise misleading. While many artists might find this reaction deflating, Kaprow sounds energized. For him, the score form was at least in part a tool for generating meaningful debate and self-critique. The process of realization would ideally generate further new forms, which is precisely what we hear later on the audiotaped review when one of his friends proposes that Kaprow make an almost absurdly recursive instructional videotape explaining how to use his instructional videotapes. Such glimmers of self-reflection were perennially Kaprow’s aim as he brought both participants and pedagogical techniques into the center of his artworks.
 
-<div class="scores-figure-grid--2">
-
-{% fig 'fig-11-11' %}
-
-{% fig 'fig-11-12' %}
-
-{% fig 'fig-11-13' %}
-
-{% fig 'fig-11-14' %}
-
-</div>
+{% figuregroup '2' 'fig-11-11, fig-11-12, fig-11-13, fig-11-14' %}
 
 ## Notes {.notes-heading}
 

@@ -366,7 +366,7 @@ figure_list:
 -
     id: "fig-3-4a"
     old_id: "3.01-i"
-    src: figures/gri_980039_b174_f02_009_mm.jpg
+    src: figures/gri_980039_b174_f03_065_mm.jpg
     note: needs to be cropped to detail
     zoom: true
     poster: 
@@ -852,7 +852,7 @@ figure_list:
     link: /image-index/470/#fig-470-e
     label: "Fig. 8.3"
     caption: "Yvonne Rainer (American, b. 1934), Notebook sketches for *Three Satie Spoons* and *Satie for Two*, 1961–62. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 4."
-    credit: ""
+    credit: "Used with Permission. © Yvonne Rainer."
     alt: "Nineteen pages in bound notebook, shown in two-page spreads. First is the leading shown with back of notebook cover, followed by eight two-page spreads. Pages contain handwritten notes formatted in paragraphs, small figure drawings, numerical notation, and multicolor line diagrams. "
 -
     id: "fig-8-4"
@@ -864,9 +864,9 @@ figure_list:
     media_type: 
     media_id: 
     link: /image-index/466/
-    label: "Fig. 8.4"
-    caption: "Yvonne Rainer (American, b. 1934), Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
-    credit: ""
+    # label: "Fig. 8.4"
+    # caption: "Yvonne Rainer (American, b. 1934), Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
+    # credit: "Used with Permission. © Yvonne Rainer."
     alt: "White page with black handwritten text in English and one diagram annotated with red pencil just above center of page. Top center titled “Instructions for Ruth” followed by short paragraph, radial diagram on faint at center, and more text spanning the length of the page."
 -
     id: "fig-8-5"
@@ -878,9 +878,9 @@ figure_list:
     media_type: 
     media_id: 
     link: /image-index/466/#fig-466-b
-    label: "Fig. 8.5"
-    caption: "Yvonne Rainer (American, b. 1934), Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
-    credit: ""
+    # label: "Fig. 8.5"
+    # caption: "Yvonne Rainer (American, b. 1934), Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
+    # credit: "Used with Permission. © Yvonne Rainer."
     alt: "White page with black handwritten text in English and one diagram annotated with red pencil just above center of page. Top center titled “Instructions for Ruth” followed by short paragraph, radial diagram on faint at center, and more text spanning the length of the page."
 -
     id: "fig-8-6"
@@ -950,7 +950,7 @@ figure_list:
     link: /image-index/454/
     label: "Fig. 8.10"
     caption: "Yvonne Rainer (American, b. 1934), Graphic scores related to *Trio B*, from *The Mind is a Muscle* (1966–68), ca. 1966–68. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 3."
-    credit: ""
+    credit: "Used with Permission. © Yvonne Rainer."
     alt: "White graph paper divided into nine equally sized boxes, each containing diagrams comprised of diagonal and curving lines, each annotated in pencil with numbers, circles, and verbs. All diagrams in blue pen, all handwritten text in pencil. Top margin unlined, labeled “Steve 3” at top right."
 -
     id: "fig-9-1"

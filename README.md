@@ -120,6 +120,9 @@ A custom layout based on `quire-entry` that adds figure thumbnails for lightbox 
 **_plugins/shortcodes/contributors.js**
 Parse contributor info passed in as JSON string, for `score.liquid` layout
 
+**_plugins/shortcodes/figureGroup.js**
+Added caption and class parameters that can be fed in from shortcode, and simplified HTML markup to remove rows
+
 **_plugins/shortcodes/obj.js**
 **_plugins/shortcodes/objFigure.js**
 **_plugins/shortcodes/index.js**

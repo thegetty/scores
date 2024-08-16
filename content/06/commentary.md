@@ -19,9 +19,7 @@ Among the dozens of event scores Brecht composed between 1959 and 1963, his *Dri
 
 {% fig 'fig-6-2' %}
 
-{% fig 'fig-6-3' %}
-
-{% fig 'fig-6-4' %}
+{% figuregroup '2' 'fig-6-3, fig-6-4' %}
 
 Yet there have been many other versions too, including several offered by Brecht, which suggests that the artist wanted to keep the work perpetually open for rethinking. At Rutgers University in spring 1963, Brecht himself stood at floor level and performed his drip in a modest, undramatic way ([fig. 6.5](#fig-6-5)), and in the 1970s he created a dripping faucet sculpture for the garden of the German collector and multiples publisher Wolfgang Feelisch. In contrast with Cage, who preferred his scores to be performed by approved collaborators such as David Tudor and who notoriously clashed with uncooperative performers, Brecht said of his scores, “It’s implicit in the scores that any realisation is feasible . . . . Any and every. I wouldn’t refuse any realisations.”[^2] Brecht’s own interpretations of *Drip Music* are not to be taken as master examples to copy, and they do not exhaust the score’s possibilities for interpretation. Rather, the primary text that is *Drip Music* instigates the endless deferral of the work’s meaning, in an aesthetic gesture that anticipates postmodern critiques of the author and of the metaphysics of presence articulated by cultural theorists including Michel Foucault, Roland Barthes, and Umberto Eco. Individual performances of an event score participate in an ongoing revelation of the score’s proposed form—actions and objects joined in a certain spatiotemporal arrangement—that remains always partially latent or potential.
 

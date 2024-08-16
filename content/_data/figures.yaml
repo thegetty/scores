@@ -1,60 +1,71 @@
 figure_list:
 -
-    id: "fig-0-1a"
-    old_id: "0.01-a"
-    src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg
-    note: 
+    id: "fig-0-1"
+    src: figures/fig-0-1.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     link: /image-index/001/
-    label: "Fig. 0.1a"
-    caption: "Four “Indeterminate” Notation Systems. "
-    credit: ""
-    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
--
-    id: "fig-0-1b"
-    old_id: "0.01-b"
-    src: figures/Purcell_diatonic_chromaticism.jpg
-    note: 
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    link: /image-index/001/#fig-001-b
-    label: "Fig. 0.1b"
-    caption: "Four “Indeterminate” Notation Systems. "
-    credit: ""
-    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
--
-    id: "fig-0-1c"
-    old_id: "0.01-c"
-    src: figures/Thelonious-Monk-Jazz-Masters.jpg
-    note: 
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    link: /image-index/001/#fig-001-c
-    label: "Fig. 0.1c"
-    caption: "Four “Indeterminate” Notation Systems. "
-    credit: ""
-    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
--
-    id: "fig-0-1d"
-    old_id: "0.01-d"
-    src: figures/Come_Thou_Fountain_Numbers.jpg
-    note: 
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    link: /image-index/001/#fig-001-d
-    label: "Fig. 0.1d"
-    caption: "Four “Indeterminate” Notation Systems. "
-    credit: ""
-    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
+    label: "Fig. 0.1"
+    caption: "Four “Indeterminate” Notation Systems."
+    credit: "*Off Minor* by Thelonious Monk © 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured All Rights Reserved, Reprinted by permission of Hal Leonard LLC (c); Courtesy of Jonathan K. Riggs (d)."
+# -
+#     id: "fig-0-1a"
+#     old_id: "0.01-a"
+#     src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg
+#     note: 
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     link: /image-index/001/
+#     label: "Fig. 0.1a"
+#     caption: "Four “Indeterminate” Notation Systems. "
+#     credit: ""
+#     alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
+# -
+#     id: "fig-0-1b"
+#     old_id: "0.01-b"
+#     src: figures/Purcell_diatonic_chromaticism.jpg
+#     note: 
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     link: /image-index/001/#fig-001-b
+#     label: "Fig. 0.1b"
+#     caption: "Four “Indeterminate” Notation Systems. "
+#     credit: ""
+#     alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
+# -
+#     id: "fig-0-1c"
+#     old_id: "0.01-c"
+#     src: figures/Thelonious-Monk-Jazz-Masters.jpg
+#     note: 
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     link: /image-index/001/#fig-001-c
+#     label: "Fig. 0.1c"
+#     caption: "Four “Indeterminate” Notation Systems. "
+#     credit: ""
+#     alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
+# -
+#     id: "fig-0-1d"
+#     old_id: "0.01-d"
+#     src: figures/Come_Thou_Fountain_Numbers.jpg
+#     note: 
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     link: /image-index/001/#fig-001-d
+#     label: "Fig. 0.1d"
+#     caption: "Four “Indeterminate” Notation Systems. "
+#     credit: ""
+#     alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
 -
     id: "fig-0-2"
     old_id: "0.02-a"
@@ -100,7 +111,7 @@ figure_list:
 -
     id: "fig-0-5"
     old_id: "0.05"
-    src: placeholder.jpg
+    src: figures/r2016489_890164_b1_f52_001.jpg
     note: 
     zoom: true
     poster: 
@@ -240,7 +251,7 @@ figure_list:
 -
     id: "fig-1-4"
     old_id: "1.08-a"
-    src: figures/r2013491_980039_b53_f7_002.jpg
+    src: figures/tudor33.jpg
     note: 
     zoom: true
     poster: 
@@ -338,7 +349,7 @@ figure_list:
 -
     id: "fig-3-2"
     old_id: "3.01-e"
-    src: figures/gri_980039_b174_f02_005_mm.jpg
+    src: figures/gri_980039_b174_f02_005_mm_crop.jpg
     note: needs to be cropped to No. 1
     zoom: true
     poster: 
@@ -352,33 +363,20 @@ figure_list:
 -
     id: "fig-3-3"
     old_id: "3.01-i"
-    src: figures/gri_980039_b174_f02_009_mm.jpg
+    # src: figures/gri_980039_b174_f02_009_mm_crop.jpg
+    src: figures/gri_980039_b174_f03_065_mm.jpg
     note: needs to be cropped to No. 3
     zoom: true
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/154/#fig-154-i
+    link: /image-index/159/#fig-159-aw
     label: "Fig. 3.3"
-    caption: "Sylvano Bussotti (Italian, 1931–2021), David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    caption: "Sylvano Bussotti (Italian, 1931–2021), Loose score sheets for Sylvano Bussotti’s *Pièces de chair II* with pencil annotations by David Tudor, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
     alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive. "
 -
-    id: "fig-3-4a"
-    old_id: "3.01-i"
-    src: figures/gri_980039_b174_f03_065_mm.jpg
-    note: needs to be cropped to detail
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    link: /image-index/154/#fig-154-i
-    label: "Fig. 3.4a"
-    caption: "Sylvano Bussotti (Italian, 1931–2021), David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
-    credit: ""
-    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive. "
--
-    id: "fig-3-4b"
+    id: "fig-3-4"
     old_id: "3.04-r"
     src: figures/gri_980039_b174_f02_052_mm.jpg
     note: needs to be cropped to detail
@@ -402,7 +400,7 @@ figure_list:
     media_id: 
     link: /image-index/159/#fig-159-am
     label: "Fig. 3.5"
-    caption: "Sylvano Bussotti (Italian, 1931–2021), Loose score sheets for Sylvano Bussotti’s *Pièces de chair II*, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
+    caption: "Sylvano Bussotti (Italian, 1931–2021), Loose score sheets for Sylvano Bussotti’s *Pièces de chair II* with pencil annotations by David Tudor, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
     alt: "Cream page with rectangular field of horizontal black lines interrupted by line breaks, sweeping abstract line segments, stippled groupings of dots, and small polygons. Top margin contains title of piece at left, otherwise, blank."
 -
@@ -642,17 +640,17 @@ figure_list:
     label: "Fig. 5.12"
     caption: "Henry Flynt (American, b. 1940); George Maciunas (Lithuanian American, 1931–78), *Communists Must Give Revolutionary Leadership in Culture*, 1965, double-sided offset print. Getty Research Institute, Jean Brown Papers, 890164, box 263, folder 1."
     credit: "Courtesy of Billie Maciunas."
-    alt: "Square-shaped newspaper-like sheet with four columns of black print in English covering entire page. “Communists Must Give Revolutionary Leadership in Culture 44444444444444444444444” in top left corner across leftmost two columns. “By Henry Flynt” to right of graphic in smaller text. Three lines made from consecutive numbers 1, 2, or 3 near top rightmost two columns."
+    alt: "Square-shaped newspaper-like sheet with four columns of black print in English covering entire page. “Communists Must Give Revolutionary Leadership in Culture” in top left corner across leftmost two columns. “By Henry Flynt” to right of graphic in smaller text. Three lines made from consecutive numbers 1, 2, or 3 near top rightmost two columns."
 -
     id: "fig-6-1"
     old_id: "6.01a"
-    src: placeholder.jpg
+    src: figures/r2015674_89_b17402_001.jpg
     note: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/344/
+    link: /image-index/556/
     label: "Fig. 6.1"
     caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958."
     credit: ""
@@ -955,13 +953,13 @@ figure_list:
 -
     id: "fig-9-1"
     old_id: "9.01"
-    src: placeholder.jpg
+    src: figures/r2016750_89_b17402_003.jpg
     note: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/474/
+    link: /image-index/558/
     label: "Fig. 9.1"
     caption: "Dick Higgins and Jackson Mac Low participating in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958, photograph. external."
     credit: "Photo: Harvey Y. Gross. Harvey Y. Gross/John Cage Trust."
@@ -969,7 +967,7 @@ figure_list:
 -
     id: "fig-9-2"
     old_id: "9.02"
-    src: placeholder.jpg
+    src: figures/r2015409_94_b22032_001.jpg
     note: 
     zoom: true
     poster: 
@@ -1165,7 +1163,7 @@ figure_list:
 -
     id: "fig-11-1"
     old_id: "11.01b"
-    src: placeholder.jpg
+    src: figures/r2016750_89_b17402_002.jpg
     note: 
     zoom: true
     poster: 
@@ -14596,15 +14594,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Portrait-oriented black and white photograph of four people and open grand piano on stage shot from above. Three men behind piano and one woman laying on top."
--
-    id: "fig-344"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Black-and-white photograph of eight men in a classroom, each sat at a chair desk. Photograph shot at eye level of sitting figures."
+# REMOVED DUPLICATE
+# -
+#     id: "fig-344"
+#     src: figures/r2015674_89_b17402_001.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Black-and-white photograph of eight men in a classroom, each sat at a chair desk. Photograph shot at eye level of sitting figures."
 -
     id: "fig-345"
     src: figures/r1115683_890164_b3_f34_001.jpg
@@ -17593,15 +17592,16 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
--
-    id: "fig-474"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "In introduction"
+# REMOVED DUPLICATE
+# -
+#     id: "fig-474"
+#     src: placeholder.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "In introduction"
 -
     id: "fig-475"
     src: figures/r2015409_94_b22032_001.jpg

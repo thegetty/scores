@@ -13,8 +13,8 @@ toc: false
 <section class="scores-title-block">
 
 {%- if publication.title -%}
-  <h1 class="scores-title">{{ publication.title | markdownify }}{% if publication.subtitle %}: {{ publication.subtitle | markdownify }}{% endif %}
-  {% if publication.reading_line %}<br /><br />{{ publication.reading_line | markdownify }}{% endif %}</h1>
+  <h1 class="scores-title">{{ publication.title | markdownify }}
+  {% if publication.pdf_epub_subtitle %}<span class="scores-subtitle">{{ publication.pdf_epub_subtitle | markdownify }}</span>{% endif %}
 {%- endif -%}
 
 {%- if publication.contributor_as_it_appears -%}

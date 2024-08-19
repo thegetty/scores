@@ -450,7 +450,8 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin: 1rem 0 1rem 1.5rem;
   font-style: normal;
 }
-.quire-essay .quire-page__content .container .content blockquote p::before {
+.quire-essay .quire-page__content .container .content blockquote p::before,
+.quire-entry .quire-page__content .container .content blockquote p::before {
   content: "";
 }
 .quire-page__content .content blockquote em {

@@ -2733,14 +2733,14 @@ object_list:
 -
     id: "182"
     old_id: "3.12"
-    maker: [ "Sylvano Bussotti (Italian, 1931–2021)", "and others" ]
+    maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
     title: "Postcard from Sylvano Bussotti and other avant-garde composers to David Tudor"
     date: "1959"
     date_start: 1959-01-01
     date_end: 1959-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 61, folder 3"
-    extended_caption: "Bussotti’s signature includes a score fragment from his tablature notation of *No. 1* from *Piano Pieces for David Tudor.*"
+    extended_caption: "Bussotti’s signature, which appears alongside those of a number of other composers, includes a score fragment from his tablature notation of *No. 1* from *Piano Pieces for David Tudor.*"
     credit: "Courtesy of the Sylvano Bussotti Estate."
     featured: 
     type: [ correspondence ]
@@ -3250,7 +3250,7 @@ object_list:
     date_end: 1962-12-31
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32"
-    extended_caption: "A performance of *Pond* that involves a grid written on the ground and the aleatoric actions of wind-up toys was coordinated in 2013 at NYU and is documented here: https://www.youtube.com/watch?v=DoDfaRQH8mk."
+    extended_caption: "A performance of *Pond* that involves a grid written on the ground and the aleatoric actions of wind-up toys was coordinated in 2013 at NYU and is documented in a [video on the Studio Museum's YouTube channel](https://www.youtube.com/watch?v=DoDfaRQH8mk)."
     credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ score ]
@@ -3580,7 +3580,7 @@ object_list:
     date_end: 1962-12-31
     medium: "offset printed"
     location: "Getty Research Institute, 94-B19099"
-    extended_caption: "This preliminary edition of *An Anthology of Chance Operations* is a unique handbound example that predates the standard 1963 edition. It may have been assembled by George Maciunas, the book’s designer, as a bound proof. In this rare 1962 edition, the named copublishers are Maciunas and Mac Low, whereas the 1963 edition names Jackson Mac Low and La Monte Young. Also unlike the 1963 edition, this preliminary version contains text pieces by Robert Morris that Morris later removed while the collated yet unbound pages of *An Anthology* were being stored at his New York loft. Copies of the 1963 edition still include a Robert Morris title page but none of his texts, since the recto of that leaf is the last page of a Richard Maxfield essay and could not be removed. The copy of *An Anthology* reproduced here, therefore, is the most complete representation of this publication that exists, while also being distinct from all others in circulation.   "
+    extended_caption: "This preliminary edition of *An Anthology of Chance Operations* is a unique handbound example that predates the standard 1963 edition. It may have been assembled by George Maciunas, the book’s designer, as a bound proof. In this rare 1962 edition, the named copublishers are Maciunas and Mac Low, whereas the 1963 edition names Jackson Mac Low and La Monte Young. Also unlike the 1963 edition, this preliminary version contains text pieces by Robert Morris that Morris later removed while the collated yet unbound pages of *An Anthology* were being stored at his New York loft. Copies of the 1963 edition still include a Robert Morris title page but none of his texts, since the recto of that leaf is the last page of a Richard Maxfield essay and could not be removed. The copy of *An Anthology* reproduced here, therefore, is the most complete representation of this publication that exists, while also being distinct from all others in circulation."
     credit: "© Estate of Jackon Mac Low."
     featured: true
     type: [ score ]
@@ -3625,7 +3625,7 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: ""
+    extended_caption: "[*Ear Piece* can be found in *An Anthology of Chance Operations*](/image-index/238/?region=3600,200,1450,1140#fig-238-bi) (1962), by Jackson Mac Low and George Maciunas."
     credit: ""
     featured: 
     type: [ video ]
@@ -3640,7 +3640,7 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: "From his earliest days as a college student, John Cage was known as a charismatic speaker. After turning to chance procedures and indeterminate notations in the 1950s, Cage’s music could sound austere and inaccessible; in this context, spoken lectures helped audiences connect with the philosophical complexity and playfulness of his compositional process—without, however, fully explaining that process. With [*45′ for a Speaker*](/image-index/238/#fig-238-s) (1954), Cage first realized his ideal lecture practice, which would, in his words, “permit the audience to experience what I had to say rather than just hear about it.” Cage used chance procedures to determine many of its elements, from the subject matter discussed and quotations selected, to how fast or loud to read, and even when to cough or “lean on elbow.” The result is a peculiarly intense amalgamation of philosophical propositions, program note–like discussions of avant-garde techniques, ordinary gestures, and—of course—silences."
+    extended_caption: "From his earliest days as a college student, John Cage was known as a charismatic speaker. After turning to chance procedures and indeterminate notations in the 1950s, Cage’s music could sound austere and inaccessible; in this context, spoken lectures helped audiences connect with the philosophical complexity and playfulness of his compositional process—without, however, fully explaining that process. With [*45′ for a Speaker*](/image-index/238/#fig-238-s) (1954), Cage first realized his ideal lecture practice, which would, in his words, “permit the audience to experience what I had to say rather than just hear about it.” Cage used chance procedures to determine many of its elements, from the subject matter discussed and quotations selected, to how fast or loud to read, and even when to cough or “lean on elbow.” The result is a peculiarly intense amalgamation of philosophical propositions, program note–like discussions of avant-garde techniques, ordinary gestures, and—of course—silences. ¶ [*45′ for a Speaker* can be found in *An Anthology of Chance Operations*](/image-index/238/?region=400,200,2000,2000#fig-238-s) (1962), by Jackson Mac Low and George Maciunas."
     credit: "*45′ for a Speaker* by John Cage © 1954 by John Cage. Permission by C.F. Peters Corporation. All rights reserved."
     featured: 
     type: [ video ]
@@ -3655,8 +3655,11 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: "*up pairs* ¶ *all pairs in rope story* ¶ Sarah Cooper writes: “The experimental poet Jackson Mac Low originally published the above poem *Asymmetry 222* in 1980, building on a continuous writing practice begun in 1960 of generating poetry from words, punctuation, typography, and spacing of words on the page that have been determined by certain kinds of chance operations, often using text taken from his current reading as source material. Based on this poem fragment, Simone Forti created a dance work, which she performed in a duet with fellow dance innovator Steve Paxton in 1982. It was staged at a celebration for Jackson Mac Low’s sixtieth birthday, held in New York’s Washington Square church. Here, dancers/choreographers Phoebe Berglund and Andros Zins-Browne perform a new interpretation of these words and movements.”"
-    credit: "© Simone Forti."
+    extended_caption: |
+      > up pairs
+      > all pairs in rope story
+      
+      Sarah Cooper writes: “The experimental poet Jackson Mac Low originally published the above poem *Asymmetry 222* in 1980, building on a continuous writing practice begun in 1960 of generating poetry from words, punctuation, typography, and spacing of words on the page that have been determined by certain kinds of chance operations, often using text taken from his current reading as source material. Based on this poem fragment, Simone Forti created a dance work, which she performed in a duet with fellow dance innovator Steve Paxton in 1982. It was staged at a celebration for Jackson Mac Low’s sixtieth birthday, held in New York’s Washington Square church. Here, dancers/choreographers Phoebe Berglund and Andros Zins-Browne perform a new interpretation of these words and movements.”
     featured: 
     type: [ video ]
     figure: [ id: "fig-243" ]
@@ -3685,7 +3688,7 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: "The [score for Earle Brown’s *December 1952*](/image-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. [It stands among the more pictorial contributions to *An Anthology of Chance Operations*.](/image-index/238/#fig-238-m)"
+    extended_caption: "The [score for Earle Brown’s *December 1952*](/image-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. It stands among the more pictorial contributions to *An Anthology of Chance Operations*. ¶ [*December 1952* can be found in *An Anthology of Chance Operations*](/image-index/238/?region=3500,200,2600,2600#fig-238-m) (1962), by Jackson Mac Low and George Maciunas."
     credit: "Used by permission of the Earle Brown Estate."
     featured: 
     type: [ video ]
@@ -3700,7 +3703,7 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: "The [score for Earle Brown’s *December 1952*](/image-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. [It stands among the more pictorial contributions to *An Anthology of Chance Operations*.](/image-index/238/#fig-238-m)"
+    extended_caption: "The [score for Earle Brown’s *December 1952*](/image-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. It stands among the more pictorial contributions to *An Anthology of Chance Operations*. ¶ [*December 1952* can be found in *An Anthology of Chance Operations*](/image-index/238/?region=3500,200,2600,2600#fig-238-m) (1962), by Jackson Mac Low and George Maciunas."
     credit: "Used by permission of the Earle Brown Estate."
     featured: 
     type: [ video ]
@@ -3715,7 +3718,7 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: "Celia Hollander writes: “Following the length, width, and height of the score’s rectangles, this realization uses three sonic characters: dopplers, rhythmic clicks, and an arpeggiated bass. The clicks act like a net (infinitely expandable or contractible, and flexible to any topography), the dopplers are the direction and acceleration, and the bass sequences are buoys, constellating the resulting, continuously changing mass. In the same way this score can be infinitely scaled up or down (whether on a piece of paper or in the Getty’s courtyard), this ‘mass’ travels between the extremes of spectrums: left to right, tonal to atonal, high to low frequencies, density to silence, fast to slow, rhythmic to random. By spending so much time in the extremes, this piece intends to join the poles into a circle, resisting linearity. (For example, 20 BPM and 999 BPM have more in common than with most tempos between them: the rhythm is indecipherable, and there are more durations of uniformity, whether of silence or density.) In this way, I hope to honor Earle Brown’s intention to ‘have elements exist in space . . . space as an infinitude of directions from an infinitude of points in space . . . [and] to work (compositionally and in performance) to right, left, back, forward, up, down, and all points between . . . [with] the score [being] a picture of this space at one instant, which must always be considered as unreal and/or transitory . . . [A] performer must set this all in motion (time), which is to say, realize that it is in motion and step into it . . . either sit and let it move or move through it at all speeds.” (Earle Brown, “Prefatory Note” [1961] to *Folio and 4 Systems*)."
+    extended_caption: "Celia Hollander writes: “Following the length, width, and height of the score’s rectangles, this realization uses three sonic characters: dopplers, rhythmic clicks, and an arpeggiated bass. The clicks act like a net (infinitely expandable or contractible, and flexible to any topography), the dopplers are the direction and acceleration, and the bass sequences are buoys, constellating the resulting, continuously changing mass. In the same way this score can be infinitely scaled up or down (whether on a piece of paper or in the Getty’s courtyard), this ‘mass’ travels between the extremes of spectrums: left to right, tonal to atonal, high to low frequencies, density to silence, fast to slow, rhythmic to random. By spending so much time in the extremes, this piece intends to join the poles into a circle, resisting linearity. (For example, 20 BPM and 999 BPM have more in common than with most tempos between them: the rhythm is indecipherable, and there are more durations of uniformity, whether of silence or density.) In this way, I hope to honor Earle Brown’s intention to ‘have elements exist in space . . . space as an infinitude of directions from an infinitude of points in space . . . [and] to work (compositionally and in performance) to right, left, back, forward, up, down, and all points between . . . [with] the score [being] a picture of this space at one instant, which must always be considered as unreal and/or transitory . . . [A] performer must set this all in motion (time), which is to say, realize that it is in motion and step into it . . . either sit and let it move or move through it at all speeds.” (Earle Brown, “Prefatory Note” [1961] to *Folio and 4 Systems*). ¶ [*December 1952* can be found in *An Anthology of Chance Operations*](/image-index/238/?region=3500,200,2600,2600#fig-238-m) (1962), by Jackson Mac Low and George Maciunas."
     credit: "Used by permission of the Earle Brown Estate."
     featured: 
     type: [ video ]
@@ -3730,7 +3733,7 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: "Working by day as a research chemist, George Brecht became involved in Fluxus by way of [John Cage’s experimental composition course](/image-index/556/) at the New School for Social Research and was one of the earliest innovators of the text-based performance instructions known as “event scores.” His [*Motor Vehicle Sundown (Event)*](/image-index/379/) was the first to include “event” in its title, signaling the artist’s scientific observation of everyday phenomena. [This score was among Brecht's contributions to *An Anthology of Chance Operations*.](/image-index/238/#fig-238-f) Brecht recounts: “In the Spring of 1960, standing in the woods in East Brunswick, New Jersey, where I lived at the time, waiting for my wife to come from the house, standing behind my English Ford station wagon, the motor running and the left-turn signal blinking, it occurred to me that a wholly ‘event’ piece could be drawn from the situation.” Brecht seized a moment from the flow of quotidian experience and recomposed it as a set of actions for anyone to perform, the sequence of which is randomized via a shuffled deck of instruction cards."
+    extended_caption: "Working by day as a research chemist, George Brecht became involved in Fluxus by way of [John Cage’s experimental composition course](/image-index/556/) at the New School for Social Research and was one of the earliest innovators of the text-based performance instructions known as “event scores.” His [*Motor Vehicle Sundown (Event)*](/image-index/379/) was the first to include “event” in its title, signaling the artist’s scientific observation of everyday phenomena. [This score was among Brecht's contributions to *An Anthology of Chance Operations*.](/image-index/238/#fig-238-f) Brecht recounts: “In the Spring of 1960, standing in the woods in East Brunswick, New Jersey, where I lived at the time, waiting for my wife to come from the house, standing behind my English Ford station wagon, the motor running and the left-turn signal blinking, it occurred to me that a wholly ‘event’ piece could be drawn from the situation.” Brecht seized a moment from the flow of quotidian experience and recomposed it as a set of actions for anyone to perform, the sequence of which is randomized via a shuffled deck of instruction cards. ¶ [*Motor Vehicle Sundown (Event)* can be found in *An Anthology of Chance Operations*](/image-index/238/#fig-238-f) (1962), by Jackson Mac Low and George Maciunas."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: true
     type: [ video ]
@@ -3745,7 +3748,7 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: "Art historian and dance scholar Megan Metcalf writes: “An origin for Simone Forti’s *Onion Walk* can be located in a performance at Merce Cunningham Dance Studio in spring 1961: Forti read aloud what she called a ‘dance report’ about an onion sprouting and falling from [its perch on the mouth of] a bottle. Shortly thereafter, [the text was included in the influential scores compilation *An Anthology of Chance Operations*](/image-index/238/#fig-238-bg), along with four other brief texts about movement observed and/or performed. The sculptural assembly has only recently been formalized as an object-based artwork through Forti’s participation in museum exhibitions. Not quite an action and not quite an object, the onion’s movement will be witnessed by few (if any) visitors. In this form, its quiet simplicity comments on the interactivity of systems, the virtue of patience, and the tiny shifts that generate change and hope. It also points out how other artworks might really be onions—growing and changing—even if this is not immediately apparent to viewers.”"
+    extended_caption: "Art historian and dance scholar Megan Metcalf writes: “An origin for Simone Forti’s *Onion Walk* can be located in a performance at Merce Cunningham Dance Studio in spring 1961: Forti read aloud what she called a ‘dance report’ about an onion sprouting and falling from [its perch on the mouth of] a bottle. Shortly thereafter, [the text was included in the influential scores compilation *An Anthology of Chance Operations*](/image-index/238/#fig-238-bg), along with four other brief texts about movement observed and/or performed. The sculptural assembly has only recently been formalized as an object-based artwork through Forti’s participation in museum exhibitions. Not quite an action and not quite an object, the onion’s movement will be witnessed by few (if any) visitors. In this form, its quiet simplicity comments on the interactivity of systems, the virtue of patience, and the tiny shifts that generate change and hope. It also points out how other artworks might really be onions—growing and changing—even if this is not immediately apparent to viewers.” ¶ Forti’s ‘dance report’ for [*Onion Walk* can be found in *An Anthology of Chance Operations*](/image-index/238/?region=4100,300,1500,400#fig-238-bg) (1962), by Jackson Mac Low and George Maciunas."
     credit: "© Simone Forti."
     featured: 
     type: [ video ]
@@ -3760,7 +3763,7 @@ object_list:
     date_end: 2021-12-31
     medium: "video"
     location: ""
-    extended_caption: "Sarah Cooper writes: “Originally published in *An Anthology of Chance Operations*, [*Beach Crawl*](/image-index/238/#fig-238-u) is an early work by Walter De Maria, who would gain renown as a minimalist sculptor and pioneer of monumental earthworks. Presaging those terrestrial experiments, this score instructs [performers] to crawl on their hands and knees while moving three rocks in a circular pattern down a sandy stretch of beach. In the hands of choreographer Phoebe Berglund, these instructions are transformed into a new work of dance. Her dancers’ crawl is punctuated with moments of meditation and tender contact, unfolding in concert with the natural elements and the ethereal sonic atmosphere performed by composer Joseph Allan Johnson.”"
+    extended_caption: "Sarah Cooper writes: “Originally published in *An Anthology of Chance Operations*, [*Beach Crawl*](/image-index/238/#fig-238-u) is an early work by Walter De Maria, who would gain renown as a minimalist sculptor and pioneer of monumental earthworks. Presaging those terrestrial experiments, this score instructs [performers] to crawl on their hands and knees while moving three rocks in a circular pattern down a sandy stretch of beach. In the hands of choreographer Phoebe Berglund, these instructions are transformed into a new work of dance. Her dancers’ crawl is punctuated with moments of meditation and tender contact, unfolding in concert with the natural elements and the ethereal sonic atmosphere performed by composer Joseph Allan Johnson.” ¶ [*Beach Crawl* can be found in *An Anthology of Chance Operations*](/image-index/238/?region=500,200,1550,1950#fig-238-m) (1962), by Jackson Mac Low and George Maciunas."
     credit: ""
     featured: 
     type: [ video ]
@@ -3805,7 +3808,7 @@ object_list:
     date_end: 
     medium: ""
     location: ""
-    extended_caption: "Directed by Simone Forti, and produced by Julie Martin and Pooh Kaye."
+    extended_caption: "Directed by Simone Forti, and produced by Julie Martin and Pooh Kaye. ¶ Forti’s ‘dance contructions’ for [*Huddle* and *Slant Board* can be found in *An Anthology of Chance Operations*](/image-index/238/?region=4100,1100,1600,1100#fig-238-bg) (1962), by Jackson Mac Low and George Maciunas."
     credit: ""
     featured: 
     type: [ video ]
@@ -5178,7 +5181,14 @@ object_list:
     date_end: 1965-08-31
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 3, folder 34"
-    extended_caption: "After George Brecht’s intensive period of composing event scores had ceased, he wrote this piece, titled *Event Score*, in August of 1965. As a reflection on the meaning and function of the intermedial format he had developed and honed, it considers the event score’s relationship to conscious and unconscious perception. Around the same time,  one finds the following reflection in his notebook: “These notices are thoughts that came from zero. Very few of the hundred or so that were written down came directly from a specific experience. Though they are simply what they are (appropriately poems for some), they are connected in my mind with musical scores; they have so far seemed to me scores for events. (Why only listen?) They are thoughts that can float around in your head, and then sometime perhaps ¶ *There is a woman with a yellow hat sitting on a white chair.* ¶ *There is steam on top of my ice water.*  *A phone rings rooms away.*” ¶ (George Brecht, Notebook no. 13, 1964–Summer 1965, Gilbert and Lila Silverman Fluxus Collection Archives, Museum of Modern Art, New York)"
+    extended_caption: |
+      After George Brecht’s intensive period of composing event scores had ceased, he wrote this piece, titled *Event Score*, in August of 1965. As a reflection on the meaning and function of the intermedial format he had developed and honed, it considers the event score’s relationship to conscious and unconscious perception. Around the same time, one finds the following reflection in his notebook: “These notices are thoughts that came from zero. Very few of the hundred or so that were written down came directly from a specific experience. Though they are simply what they are (appropriately poems for some), they are connected in my mind with musical scores; they have so far seemed to me scores for events. (Why only listen?) They are thoughts that can float around in your head, and then sometime perhaps 
+
+      > There is a woman with a yellow hat sitting on a white chair.
+      > There is steam on top of my ice water.
+      > A phone rings rooms away.”
+        
+      (George Brecht, Notebook no. 13, 1964–Summer 1965, Gilbert and Lila Silverman Fluxus Collection Archives, Museum of Modern Art, New York)
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ score ]
@@ -5358,7 +5368,7 @@ object_list:
     date_end: 
     medium: ""
     location: ""
-    extended_caption: "New performances of George Brecht’s [*Drip Music (Drip Event)*](/image-index/346/) (1959–62) are appearing all the time, adding to the historical record of how the piece is understood time. Clicking this link will take you to a Google.com video search of the terms “George Brecht” and “Drip Music” where you can observe the latest turns in how the score is interpreted."
+    extended_caption: "New performances of George Brecht’s [*Drip Music (Drip Event)*](/image-index/346/) (1959–62) are appearing all the time, adding to the historical record of how the piece is understood over time. Clicking this link will take you to a Google.com video search of the terms “George Brecht” and “Drip Music” where you can observe the latest turns in how the score is interpreted."
     credit: ""
     featured: 
     type: [ video ]
@@ -5614,7 +5624,7 @@ object_list:
     date_end: 1963-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 5, folder 23"
-    extended_caption: "The early examples of Brecht’s scores included in chapter 6, including this series of handwritten compositions sent to David Tudor, show significant diversity in terms of their scale, layout, and typography in the years before their aesthetic became more standardized through George Maciunas’s design oversight."
+    extended_caption: "The early examples of Brecht’s scores included in [chapter 6](/06/), including this series of handwritten compositions sent to David Tudor, show significant diversity in terms of their scale, layout, and typography in the years before their aesthetic became more standardized through George Maciunas’s design oversight."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ score ]
@@ -5809,7 +5819,7 @@ object_list:
     date_end: 1959-04-28
     medium: ""
     location: "Getty Research Institute Special Collections, item 92-B17341, vol. 3"
-    extended_caption: "In April 1959, George Brecht made several sketches for a kinetic sculpture titled *Burette Music*, a precursor to his event score [*Drip Music (Drip Event)*](/image-index/346/) (1959–62) and its realization in the form of both performances and objects. According to these drawings, crumpled foil and paper would have been used to indeterminately alter the regular dripping of water from a burette positioned above."
+    extended_caption: "In April 1959, George Brecht made several sketches for a kinetic sculpture titled [*Burette Music*](/image-index/387/), a precursor to his event score [*Drip Music (Drip Event)*](/image-index/346/) (1959–62) and its realization in the form of both performances and objects. According to these drawings, crumpled foil and paper would have been used to indeterminately alter the regular dripping of water from a burette positioned above."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ sketches and materials ]
@@ -5854,7 +5864,15 @@ object_list:
     date_end: 31 ca. late July 1959
     medium: ""
     location: "Getty Research Institute Special Collections, item 92-B17341, vol. 3"
-    extended_caption: "Brecht’s notes read: “For the composer and performer, Art is behaving— ¶ for the listener, Art is experiencing— ¶ in a special way, surely, ¶ but the way (once arrive at) is not-special (wu-shih). ¶ The performer behaves in a situation partly determined by the composer, partly by himself, partly by ambient conditions. There is an elegant consistency to the viewpoint which allows each of these elements to manifest its own nature, without imbalance, without imposition. Ambient sound penetrates the intended, is ‘included’ in the music. It is relevant to the situation in which the music arises/relevant to the music, which is ever situational.”"
+    extended_caption: |
+      Brecht’s notes read: 
+      
+      > “For the composer and performer, Art is behaving—
+      > for the listener, Art is experiencing—
+      > in a special way, surely,
+      > but the way (once arrive at) is not-special (wu-shih).
+      
+      The performer behaves in a situation partly determined by the composer, partly by himself, partly by ambient conditions. There is an elegant consistency to the viewpoint which allows each of these elements to manifest its own nature, without imbalance, without imposition. Ambient sound penetrates the intended, is ‘included’ in the music. It is relevant to the situation in which the music arises/relevant to the music, which is ever situational.”
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ sketches and materials ]
@@ -5929,7 +5947,7 @@ object_list:
     date_end: 1960-05-03
     medium: ""
     location: "Getty Research Institute Special Collections, item 92-B17341, vol. 5"
-    extended_caption: "This review of the May 1960 concert at Pratt Institute, which George Brecht saved in his notebook, testifies that the performance culture in which Brecht participated was seen as radically multidisciplinary and chaotic, even anarchic, and highlights Allan Kaprow and Al Hansen as the movement’s main apologists. Notably, this event took place in a time before the differences between “happenings” and the more focused minimalism of Brecht’s events had been parsed. The reviewer, Diane de Bonneval, appropriately credits John Cage as an instrumental figure, although she misdates the origin of happenings; historians now agree that the first happening took place under Cage’s direction at Black Mountain College in August 1952."
+    extended_caption: "This review of the May 1960 concert at Pratt Institute, which George Brecht saved in his notebook, testifies that the performance culture in which Brecht participated was seen as radically multidisciplinary and chaotic, even anarchic, and highlights Allan Kaprow and Al Hansen as the movement’s main apologists. Notably, this event took place in a time before the differences between “happenings” and the more focused minimalism of Brecht’s events had been parsed. The reviewer, Diane de Bonneval, appropriately credits John Cage as an instrumental figure, although she misdates the origin of happenings; historians now agree that [the first happening took place under Cage’s direction at Black Mountain College in August 1952](/intro/#first-score)."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -6755,7 +6773,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 10"
-    extended_caption: "These ephemera are related to Rainer’s multipart work [*The Mind Is a Muscle*](/image-index/456/), of which *Trio A* is a part. They show the extent to which, of all the notation styles Rainer experimented with, straightforward linguistic description remained one of her favored methods."
+    extended_caption: "These ephemera are related to Rainer’s multipart work [*The Mind Is a Muscle*](/image-index/456/), of which [*Trio A*](/image-index/440/) is a part. They show the extent to which, of all the notation styles Rainer experimented with, straightforward linguistic description remained one of her favored methods."
     credit: "Used with Permission. © Yvonne Rainer."
     featured: 
     type: [ sketches and materials ]
@@ -6845,7 +6863,7 @@ object_list:
     date_end: 
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "This program for a complete, evening-length presentation of *The Mind Is a Muscle* (1966–68) includes an important statement from Rainer that addresses the seemingly disconnected relationship between her uninflected dance aesthetic and contemporary politics, in particular the traumatic spectacle of the Vietnam War. “This statement is not an apology,” she writes. “It is a reflection of a state of mind that reacts with horror and disbelief upon seeing a Vietnamese shot dead on TV—not solely at the sight of death, however, but at the fact that the TV can be shut off afterwards as after a bad Western. My body remains the enduring reality.”"
+    extended_caption: "This program for a complete, evening-length presentation of [*The Mind Is a Muscle*](/image-index/456/) (1966–68) includes an important statement from Rainer that addresses the seemingly disconnected relationship between her uninflected dance aesthetic and contemporary politics, in particular the traumatic spectacle of the Vietnam War. “This statement is not an apology,” she writes. “It is a reflection of a state of mind that reacts with horror and disbelief upon seeing a Vietnamese shot dead on TV—not solely at the sight of death, however, but at the fact that the TV can be shut off afterwards as after a bad Western. My body remains the enduring reality.”"
     credit: "Used with Permission. © Yvonne Rainer."
     featured: 
     type: [ programs and flyers ]
@@ -6890,7 +6908,7 @@ object_list:
     date_end: 1968-04-18
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "Jill Johnston, a dedicated and sympathetic critic of the New York avant-garde, provides one of the first published accounts of the complete version of Yvonne Rainer’s multipart dance, *The Mind Is a Muscle* (1966–68) (in particular the section titled *Trio A*). Johnston already seems aware that it will be regarded as a canonical work of postmodern dance. The article is not only a review of a specific evening of the performance but it is also a historically informed effort to take stock of Rainer’s trajectory and to spell out the implications of her work on the fields of dance and performance broadly speaking. Johnston notes that *Trio A*’s “innumerable discrete parts” are “assimilated by a smooth unaccented continuity” that departs from the hierarchical and “plot-like” structure of conventional dance phrasing seen in ballet and modern dance. She notes Rainer’s hybridization of dance and everyday movement; the neutrality and matter-of-factness of the performers; and their disengagement from the audience in a kind of “tactical withdrawal.” Personal, melodramatic, and comedic materials are presented in a deadpan way, and there are provocative juxtapositions of contradictory movements and sounds. Johnston calls Rainer’s work “the first magnitude (…since Cunningham’s radical alterations) in advancing the medium within a context of movement still understood as ‘dance.’” While the review is celebratory overall, Johnston does seem to agree with other critics that the multitude of props and set pieces amounts to a distraction. Dance critic [Deborah Jowitt’s take on *The Mind Is a Muscle*](/image-index/460/), also reproduced in *The Scores Project*, appeared in the same issue of *The Village Voice* as Johnston’s review."
+    extended_caption: "Jill Johnston, a dedicated and sympathetic critic of the New York avant-garde, provides one of the first published accounts of the complete version of Yvonne Rainer’s multipart dance, [*The Mind Is a Muscle*](/image-index/456/) (1966–68) (in particular the section titled *Trio A*). Johnston already seems aware that it will be regarded as a canonical work of postmodern dance. The article is not only a review of a specific evening of the performance but it is also a historically informed effort to take stock of Rainer’s trajectory and to spell out the implications of her work on the fields of dance and performance broadly speaking. Johnston notes that *Trio A*’s “innumerable discrete parts” are “assimilated by a smooth unaccented continuity” that departs from the hierarchical and “plot-like” structure of conventional dance phrasing seen in ballet and modern dance. She notes Rainer’s hybridization of dance and everyday movement; the neutrality and matter-of-factness of the performers; and their disengagement from the audience in a kind of “tactical withdrawal.” Personal, melodramatic, and comedic materials are presented in a deadpan way, and there are provocative juxtapositions of contradictory movements and sounds. Johnston calls Rainer’s work “the first magnitude (…since Cunningham’s radical alterations) in advancing the medium within a context of movement still understood as ‘dance.’” While the review is celebratory overall, Johnston does seem to agree with other critics that the multitude of props and set pieces amounts to a distraction. Dance critic [Deborah Jowitt’s take on *The Mind Is a Muscle*](/image-index/460/), also reproduced in *The Scores Project*, appeared in the same issue of *The Village Voice* as Johnston’s review."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -6905,7 +6923,7 @@ object_list:
     date_end: 1968-04-18
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "Dance critic Deborah Jowitt’s review of Yvonne Rainer’s *The Mind Is a Muscle* (1966–68) attends to the quality of the dancers’ movements even as they perform non-dancerly gestures, such as walking up and down a set of stairs or kicking their sneakered feet. She notes their rather unselfconscious focus on their activities, likening their behavior to that of athletes in training who are immersed in mastering a physical skill and unconcerned with being watched. In that sense, for Jowitt, the appearance of juggler Harry De Dio in the subsection *Act* becomes emblematic for the work as a whole. She distills Rainer’s project as consisting of movement exercises whose success emerges directly from their satisfactory execution, with little investment in theatrical expressionism. Of note, cultural critic [Jill Johnston’s take on *The Mind Is a Muscle*](/image-index/459/), also reproduced in *The Scores Project*, appeared in the same issue of *The Village Voice* as Jowitt’s review."
+    extended_caption: "Dance critic Deborah Jowitt’s review of Yvonne Rainer’s [*The Mind Is a Muscle*](/image-index/456/) (1966–68) attends to the quality of the dancers’ movements even as they perform non-dancerly gestures, such as walking up and down a set of stairs or kicking their sneakered feet. She notes their rather unselfconscious focus on their activities, likening their behavior to that of athletes in training who are immersed in mastering a physical skill and unconcerned with being watched. In that sense, for Jowitt, the appearance of juggler Harry De Dio in the subsection *Act* becomes emblematic for the work as a whole. She distills Rainer’s project as consisting of movement exercises whose success emerges directly from their satisfactory execution, with little investment in theatrical expressionism. Of note, cultural critic [Jill Johnston’s take on *The Mind Is a Muscle*](/image-index/459/), also reproduced in *The Scores Project*, appeared in the same issue of *The Village Voice* as Jowitt’s review."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -6935,7 +6953,7 @@ object_list:
     date_end: 1968-01-16
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "This hostile review by dance critic Joan B. Cass contrasts with the generous, attentive takes of [Jill Johnston](/image-index/459/) and [Deborah Jowitt](/image-index/460/) also included in chapter 8. Unable to perceive and appreciate the dedication, concentration, and skill required to execute Rainer’s choreography, Cass describes it as vapid, tedious non-dance, while revealing her own rigid expectation and standard of “attenuated, proudly presented bodies,” which she did not see in evidence despite the real talents of Rainer’s collaborators. Cass’s review is emblematic of a reactionary modernist response to emerging postmodern dance currents of the time."
+    extended_caption: "This hostile review by dance critic Joan B. Cass contrasts with the generous, attentive takes of [Jill Johnston](/image-index/459/) and [Deborah Jowitt](/image-index/460/) also included in [chapter 8](/08/). Unable to perceive and appreciate the dedication, concentration, and skill required to execute Rainer’s choreography, Cass describes it as vapid, tedious non-dance, while revealing her own rigid expectation and standard of “attenuated, proudly presented bodies,” which she did not see in evidence despite the real talents of Rainer’s collaborators. Cass’s review is emblematic of a reactionary modernist response to emerging postmodern dance currents of the time."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -7957,7 +7975,7 @@ object_list:
     date_end: 
     medium: "artist’s book"
     location: "Getty Research Institute Special Collections, item 91-B36111"
-    extended_caption: "This book, self-published in 1976 by Shiomi in Japan and “dedicated to the people of the 30th century,” collects all the reports received for [*Spatial Poem No. 1* through *Spatial Poem No. 9*](/image-index/530/#fig-530-g). Most of the reports are arrayed around map-like representations of the Earth. The layouts for *No. 1* and *No 2* in particular recall and yet also modify George Maciunas’s original designs for the related object editions that had been previously published. This publication marked the end of Shiomi’s groundbreaking, decade-long, globally networked endeavor. In more recent years, she has revived the *Spatial Poem* series by inviting later generations of participants to interpret her instructions anew."
+    extended_caption: "This book, self-published in 1976 by Shiomi in Japan and “dedicated to the people of the 30th century,” collects all the reports received for *Spatial Poem No. 1* through *Spatial Poem No. 9*. Most of the reports are arrayed around map-like representations of the Earth. The layouts for <a class='ref' data-figure-id='fig-530-h' data-region='' data-annotation-ids=''>*No. 1*</a> and <a class='ref' data-figure-id='fig-530-p' data-region='' data-annotation-ids=''>*No. 2*</a> in particular recall and yet also modify George Maciunas’s original designs for the related object editions that had been previously published. This publication marked the end of Shiomi’s groundbreaking, decade-long, globally networked endeavor. In more recent years, she has revived the *Spatial Poem* series by inviting later generations of participants to interpret her instructions anew."
     credit: "Used by permission of Mieko Shiomi."
     featured: true
     type: [ artwork ]
@@ -8332,7 +8350,14 @@ object_list:
     date_end: 2021-12-31
     medium: "digital video, 18:17"
     location: ""
-    extended_caption: "The original instructions for *Mirror Piece* (1963) by Mieko Shiomi read: ¶ Stand on the sandy beach with your back to the sea. ¶ Hold a mirror before your face and look in it. ¶ Then step back to the sea and enter into the water. ¶ Here the piece is performed by Tatiana Luboviski-Acosta, Taylor Doran, Yvonne Tam, and Dicky Bahto at various locations along the Pacific coast."
+    extended_caption: |
+      The original instructions for *Mirror Piece* (1963) by Mieko Shiomi read:
+      
+      > Stand on the sandy beach with your back to the sea.
+      > Hold a mirror before your face and look in it.
+      > Then step back to the sea and enter into the water.
+      
+      Here the piece is performed by Tatiana Luboviski-Acosta, Taylor Doran, Yvonne Tam, and Dicky Bahto at various locations along the Pacific coast.
     credit: "Used by permission of Dicky Bahto & Mieko Shiomi."
     featured: 
     type: [ video ]

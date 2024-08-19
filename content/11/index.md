@@ -73,7 +73,6 @@ archive:
     - heading: "Score"
       objects:
         - id: "561"
-        - id: "562"
         - id: "563"
         - id: "564"
         - id: "565"

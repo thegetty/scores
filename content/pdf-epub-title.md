@@ -14,7 +14,7 @@ toc: false
 
 {%- if publication.title -%}
   <h1 class="scores-title">{{ publication.title | markdownify }}
-  {% if publication.pdf_epub_subtitle %}<span class="scores-subtitle">{{ publication.pdf_epub_subtitle | markdownify }}</span>{% endif %}
+  {% if publication.pdf_epub_subtitle %}<span class="scores-subtitle">{{ publication.pdf_epub_subtitle | markdownify }}</span>{% endif %}</h1>
 {%- endif -%}
 
 {%- if publication.contributor_as_it_appears -%}

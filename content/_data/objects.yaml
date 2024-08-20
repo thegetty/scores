@@ -1015,7 +1015,7 @@ object_list:
     date_end: 1958-12-31
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 6, folder 12"
-    extended_caption: "This is a reproduction of Tudor’s second realization of the *Solo for Piano*, used in the 1959 *Indeterminacy* recording. Cage, who had already made a practice of giving lectures that helped make his work accessible to audiences, recalled, in September 1958, that Tudor had suggested that Cage give a lecture consisting entirely of stories. Cage delivered the first version—thirty stories—at the Brussels Fair that month, with no musical accompaniment. In March of 1959, Cage was then asked to deliver a ninety-minute lecture at Columbia University's Teachers College. For the event, Cage added sixty stories and asked Tudor to provide a ninety-minute accompaniment. For the occasion, Tudor prepared a second, far sparser realization of the *Solo for Piano*. He culled all the sheets from his first realization that consisted of “single ictus” attacks (fifty-three out of his existing sixty-three) and “superimposed” them. By superimposing, Tudor means this: Imagine putting these sheets into a single stack, converting the papers into transparencies, and then enlarging a single image of all attacks into a ninety-minute landscape. Tudor achieved this by measuring the horizontal distances of individual attacks within each graph. Then, by way of meticulous calculations, he expanded these distances into a single ninety-minute backdrop in which the attacks of each graph are interwoven with every other. In the resultant performance score, each horizontal line is roughly thirty seconds, with a page equaling roughly one minute, and individual events are notated proportionally. Readers interested in the nuts and bolts of Tudor’s calculations will find a complete digitization of Tudor’s materials for the second realization at [supplementary website here]."
+    extended_caption: "This is a reproduction of Tudor’s second realization of the *Solo for Piano*, used in the 1959 *Indeterminacy* recording. Cage, who had already made a practice of giving lectures that helped make his work accessible to audiences, recalled, in September 1958, that Tudor had suggested that Cage give a lecture consisting entirely of stories. Cage delivered the first version—thirty stories—at the Brussels Fair that month, with no musical accompaniment. In March of 1959, Cage was then asked to deliver a ninety-minute lecture at Columbia University’s Teachers College. For the event, Cage added sixty stories and asked Tudor to provide a ninety-minute accompaniment. For the occasion, Tudor prepared a second, far sparser realization of the *Solo for Piano*. He culled all the sheets from his first realization that consisted of “single ictus” attacks (fifty-three out of his existing sixty-three) and “superimposed” them. By superimposing, Tudor means this: Imagine putting these sheets into a single stack, converting the papers into transparencies, and then enlarging a single image of all attacks into a ninety-minute landscape. Tudor achieved this by measuring the horizontal distances of individual attacks within each graph. Then, by way of meticulous calculations, he expanded these distances into a single ninety-minute backdrop in which the attacks of each graph are interwoven with every other. In the resultant performance score, each horizontal line is roughly thirty seconds, with a page equaling roughly one minute, and individual events are notated proportionally. Readers interested in the nuts and bolts of Tudor’s calculations will find a complete digitization of Tudor’s materials for the second realization at [supplementary website here]."
     credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
     featured: true
     type: [ score ]
@@ -1413,7 +1413,7 @@ object_list:
 -
     id: "094"
     old_id: "2.15a"
-    maker: [ "H.G." ]
+    maker: [ "H. G." ]
     title: "“Mäßiger Auftakt in Köln: Drei Premieren, darunter eine mit Wäscheklammern,” *Neue Rhein Zeitung*"
     date: "25 September 1958"
     date_start: 1958-09-25
@@ -1533,7 +1533,7 @@ object_list:
 -
     id: "102"
     old_id: "2.15i"
-    maker: [ "H.R." ]
+    maker: [ "H. R." ]
     title: "“In der Werkstatt der direktiven Freiheit,” *Kölnische Rundschau*"
     date: "21 September 1958"
     date_start: 1958-09-21
@@ -1548,7 +1548,7 @@ object_list:
 -
     id: "103"
     old_id: "2.15j"
-    maker: [ "M.F." ]
+    maker: [ "M. F." ]
     title: "“Ein Ding mit Pfiff: Avantgardisten im ersten Abend ‘Musik der Zeit,’” *Neue Rhein Zeitung*"
     date: "22 September 1958"
     date_start: 1958-09-22
@@ -1653,7 +1653,7 @@ object_list:
 -
     id: "110"
     old_id: "2.15q"
-    maker: [ "H.H. Stuckenschmidt" ]
+    maker: [ "H. H. Stuckenschmidt" ]
     title: "“Sessions on Modern Music Held Near Darmstadt,” *Musical America*, pp. 18–19, 34"
     date: "October 1958"
     date_start: 1958-10-01
@@ -2043,7 +2043,7 @@ object_list:
 -
     id: "136"
     old_id: "2.22a"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Dynamics table for graph A for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -2058,7 +2058,7 @@ object_list:
 -
     id: "137"
     old_id: "2.22b"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Auxiliary sound inventory for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -2073,7 +2073,7 @@ object_list:
 -
     id: "138"
     old_id: "2.22c"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Graph sequence for the Antic Meet performance of John Cage’s *Solo for Piano* at the American Dance Festival"
     date: "August 1958"
     date_start: 1958-08-01
@@ -2088,7 +2088,7 @@ object_list:
 -
     id: "139"
     old_id: "2.22d"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Graph sequence for the Antic Meet performance of John Cage’s *Concert for Piano and Orchestra* at the Phoenix Theatre, New York"
     date: "16 February 1960"
     date_start: 1960-02-16
@@ -2103,7 +2103,7 @@ object_list:
 -
     id: "140"
     old_id: "2.22e"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Graph sequence for the Cologne performance of John Cage’s *Solo for Piano*"
     date: "September 1958"
     date_start: 1958-09-01
@@ -2118,7 +2118,7 @@ object_list:
 -
     id: "141"
     old_id: "2.22f"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Graph sequence for the Town Hall rehearsal and premiere of John Cage’s *Solo for Piano*"
     date: "15 May 1958"
     date_start: 1958-05-15
@@ -2133,7 +2133,7 @@ object_list:
 -
     id: "142"
     old_id: "2.22g"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Graph sequence for the Vienna performance of John Cage’s *Solo for Piano*"
     date: "19 November 1959"
     date_start: 1959-11-19
@@ -2148,7 +2148,7 @@ object_list:
 -
     id: "143"
     old_id: "2.22h"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Graph sequence for the Village Vanguard performance of John Cage’s *Solo for Piano*"
     date: "25 May 1958"
     date_start: 1958-05-25
@@ -2163,7 +2163,7 @@ object_list:
 -
     id: "144"
     old_id: "2.22i"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Grids and templates for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -2178,7 +2178,7 @@ object_list:
 -
     id: "145"
     old_id: "2.22j"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Index of graphs and pages from John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -2193,7 +2193,7 @@ object_list:
 -
     id: "146"
     old_id: "2.22k"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Map of graphs for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -2208,7 +2208,7 @@ object_list:
 -
     id: "147"
     old_id: "2.22l"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Notes for tape A for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -2223,7 +2223,7 @@ object_list:
 -
     id: "148"
     old_id: "2.22m"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Notes for tape B for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -2238,7 +2238,7 @@ object_list:
 -
     id: "149"
     old_id: "2.22n"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Realization fragment for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -2253,7 +2253,7 @@ object_list:
 -
     id: "150"
     old_id: "2.22o"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Reverse sequence of John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -2268,7 +2268,7 @@ object_list:
 -
     id: "151"
     old_id: "2.22p"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Sketch of the graph sequence for the Cologne performance of John Cage’s *Solo for Piano*"
     date: "September 1958"
     date_start: 1958-09-01
@@ -2283,7 +2283,7 @@ object_list:
 -
     id: "152"
     old_id: "2.22q"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Unidentified sequence sketch for the first realization of John Cage’s *Solo for Piano*"
     date: "1958"
     date_start: 1958-01-01
@@ -2298,7 +2298,7 @@ object_list:
 -
     id: "153"
     old_id: "2.22r"
-    maker: [ "David Tudor (American, 1929–96)" ]
+    maker: [ "David Tudor (American, 1926–96)" ]
     title: "Unidentified sketches for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
     date_start: 1958-05-01
@@ -3250,7 +3250,7 @@ object_list:
     date_end: 1962-12-31
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32"
-    extended_caption: "A performance of *Pond* that involves a grid written on the ground and the aleatoric actions of wind-up toys was coordinated in 2013 at NYU and is documented in a [video on the Studio Museum's YouTube channel](https://www.youtube.com/watch?v=DoDfaRQH8mk)."
+    extended_caption: "A performance of *Pond* that involves a grid written on the ground and the aleatoric actions of wind-up toys was coordinated in 2013 at NYU and is documented in a [video on the Studio Museum’s YouTube channel](https://www.youtube.com/watch?v=DoDfaRQH8mk)."
     credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ score ]
@@ -3733,7 +3733,7 @@ object_list:
     date_end: 2021-12-04
     medium: "video"
     location: "Getty Center, Los Angeles"
-    extended_caption: "Working by day as a research chemist, George Brecht became involved in Fluxus by way of [John Cage’s experimental composition course](/image-index/556/) at the New School for Social Research and was one of the earliest innovators of the text-based performance instructions known as “event scores.” His [*Motor Vehicle Sundown (Event)*](/image-index/379/) was the first to include “event” in its title, signaling the artist’s scientific observation of everyday phenomena. [This score was among Brecht's contributions to *An Anthology of Chance Operations*.](/image-index/238/#fig-238-f) Brecht recounts: “In the Spring of 1960, standing in the woods in East Brunswick, New Jersey, where I lived at the time, waiting for my wife to come from the house, standing behind my English Ford station wagon, the motor running and the left-turn signal blinking, it occurred to me that a wholly ‘event’ piece could be drawn from the situation.” Brecht seized a moment from the flow of quotidian experience and recomposed it as a set of actions for anyone to perform, the sequence of which is randomized via a shuffled deck of instruction cards. ¶ [*Motor Vehicle Sundown (Event)* can be found in *An Anthology of Chance Operations*](/image-index/238/#fig-238-f) (1962), by Jackson Mac Low and George Maciunas."
+    extended_caption: "Working by day as a research chemist, George Brecht became involved in Fluxus by way of [John Cage’s experimental composition course](/image-index/556/) at the New School for Social Research and was one of the earliest innovators of the text-based performance instructions known as “event scores.” His [*Motor Vehicle Sundown (Event)*](/image-index/379/) was the first to include “event” in its title, signaling the artist’s scientific observation of everyday phenomena. [This score was among Brecht’s contributions to *An Anthology of Chance Operations*.](/image-index/238/#fig-238-f) Brecht recounts: “In the Spring of 1960, standing in the woods in East Brunswick, New Jersey, where I lived at the time, waiting for my wife to come from the house, standing behind my English Ford station wagon, the motor running and the left-turn signal blinking, it occurred to me that a wholly ‘event’ piece could be drawn from the situation.” Brecht seized a moment from the flow of quotidian experience and recomposed it as a set of actions for anyone to perform, the sequence of which is randomized via a shuffled deck of instruction cards. ¶ [*Motor Vehicle Sundown (Event)* can be found in *An Anthology of Chance Operations*](/image-index/238/#fig-238-f) (1962), by Jackson Mac Low and George Maciunas."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: true
     type: [ video ]
@@ -5203,7 +5203,7 @@ object_list:
     date_end: 
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127 (contained within the compendium *Water Yam*)"
-    extended_caption: "Among Brecht’s most well-known compositions, *Drip Music (Drip Event)* (1959–62) bears many characteristics that typify the artist’s event scores, and the way it is dated suggests Brecht honed the text gradually and carefully over the course of his most intensive years of score writing. In 1960, Brecht began to call his works “events” as opposed to “music,” though this score retains both titles. Its first line immediately opens the possibility of the work’s performance to a multiplicity of realizations, by either a solo performer or a group, and even by non human actors. (All possibilities would be experimented with by Fluxus artists, as [chapter 6’s Archive section](/06/#archive) shows.) Notably, the language avoids both an imperative tone as well as outwardly naming the agent of the action. Instead, it describes in a rather passive way the existence of the phenomenon of water dripping, leaving the words “source” and “vessel” open to interpretation. The even more ambiguous “second version” included in the score’s text might be written for more advanced readers familiar with Brecht’s work, such as the virtuoso listener for whom, as the artist described in his 1959 notebook, “all sound may be music” (George Brecht, notebook page ca. late July 1959, from Cage's course in Experimental Composition, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 [Cologne: Walther König, 1991], p. 123). At this time Brecht also wrote the similar yet slightly more elaborate score *Comb Music (Comb Event)* (1959–62)."
+    extended_caption: "Among Brecht’s most well-known compositions, *Drip Music (Drip Event)* (1959–62) bears many characteristics that typify the artist’s event scores, and the way it is dated suggests Brecht honed the text gradually and carefully over the course of his most intensive years of score writing. In 1960, Brecht began to call his works “events” as opposed to “music,” though this score retains both titles. Its first line immediately opens the possibility of the work’s performance to a multiplicity of realizations, by either a solo performer or a group, and even by non human actors. (All possibilities would be experimented with by Fluxus artists, as [chapter 6’s Archive section](/06/#archive) shows.) Notably, the language avoids both an imperative tone as well as outwardly naming the agent of the action. Instead, it describes in a rather passive way the existence of the phenomenon of water dripping, leaving the words “source” and “vessel” open to interpretation. The even more ambiguous “second version” included in the score’s text might be written for more advanced readers familiar with Brecht’s work, such as the virtuoso listener for whom, as the artist described in his 1959 notebook, “all sound may be music” (George Brecht, notebook page ca. late July 1959, from Cage’s course in Experimental Composition, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 [Cologne: Walther König, 1991], p. 123). At this time Brecht also wrote the similar yet slightly more elaborate score *Comb Music (Comb Event)* (1959–62)."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: true
     type: [ score ]
@@ -5383,7 +5383,7 @@ object_list:
     date_end: 1979-03-24
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 38"
-    extended_caption: "This press release, which announces [a concert](/image-index/353/) of “classic ’60’s performances” of Fluxus scores organized by Ken Friedman and Larry Miller, is of interest as an early example of the historicization of Fluxus activities. Held at The Kitchen in New York on 24 March 1979, the concert came less than year after Fluxus founder George Maciunas’s untimely death (due to pancreatic cancer) and in spite of the fact that most of its major participants were still alive and making new work. “Historical Fluxus pieces” were carefully “reconstructed” for the evening, and the text describes well their dynamic range: “The rapid succession of quick pieces makes for a lively presentation, with constant shifts of focus and scale. Some of the pieces are explosive, with a punchline, while others draw our attention to intimate small-scale events.” Also of note is the capsule definition of Fluxus given in the first paragraph of the second page, which remarks on the group's interest in “social transformation” and claims for Fluxus an instrumental role in “the formation of performance art as we know it.”"
+    extended_caption: "This press release, which announces [a concert](/image-index/353/) of “classic ’60’s performances” of Fluxus scores organized by Ken Friedman and Larry Miller, is of interest as an early example of the historicization of Fluxus activities. Held at The Kitchen in New York on 24 March 1979, the concert came less than year after Fluxus founder George Maciunas’s untimely death (due to pancreatic cancer) and in spite of the fact that most of its major participants were still alive and making new work. “Historical Fluxus pieces” were carefully “reconstructed” for the evening, and the text describes well their dynamic range: “The rapid succession of quick pieces makes for a lively presentation, with constant shifts of focus and scale. Some of the pieces are explosive, with a punchline, while others draw our attention to intimate small-scale events.” Also of note is the capsule definition of Fluxus given in the first paragraph of the second page, which remarks on the group’s interest in “social transformation” and claims for Fluxus an instrumental role in “the formation of performance art as we know it.”"
     credit: "© Ken Friedman."
     featured: 
     type: [ programs and flyers ]
@@ -5902,7 +5902,7 @@ object_list:
     date_end: 1960-02-09
     medium: ""
     location: "Getty Research Institute Special Collections, item 92-B17341, vol. 4"
-    extended_caption: "In Brecht’s notebook of 3 August 1959, he asked himself, “Shouldn’t scores be simply published in the newspaper, or available on printed cards or sheets of paper, to be sent to anyone?” This letter from February 1960 to *The Village Voice*’s editor Daniel Wolf, Brecht implores Wolf to publish new music scores in the newspaper in order to democratize and broaden the field of experimental music. Brecht invited Wolf to test the idea with some of his own scores, which he enclosed. Indeed, experimental scores were on occasion published in newspapers in the years around 1960 to draw audiences' attention to the visual elements of scores that would otherwise be invisible in performances."
+    extended_caption: "In Brecht’s notebook of 3 August 1959, he asked himself, “Shouldn’t scores be simply published in the newspaper, or available on printed cards or sheets of paper, to be sent to anyone?” This letter from February 1960 to *The Village Voice*’s editor Daniel Wolf, Brecht implores Wolf to publish new music scores in the newspaper in order to democratize and broaden the field of experimental music. Brecht invited Wolf to test the idea with some of his own scores, which he enclosed. Indeed, experimental scores were on occasion published in newspapers in the years around 1960 to draw audiences’ attention to the visual elements of scores that would otherwise be invisible in performances."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ sketches and materials ]
@@ -6893,7 +6893,7 @@ object_list:
     date_end: 1966-06-02
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "In this sympathetic review of Rainer's [*The Mind is a Muscle*](/image-index/456/) (1966–68), Johnston insightfully captures one of the hallmarks of Rainer’s choreography: “Like certain objects, there is no ‘presentational’ concession to the audience. The dance has no eye, doesn’t look at anybody. I got this idea from noticing that the innumerable focal changes are always, with maybe one or two exceptions, up, down, side, diagonal or back, never directly at the audience, as though consciously designed to withdraw that contact which is the performer’s traditional trade-tool of seductive involvement. It is suggested the audience find the eye in the dance, not on the faces of performers.”"
+    extended_caption: "In this sympathetic review of Rainer’s [*The Mind is a Muscle*](/image-index/456/) (1966–68), Johnston insightfully captures one of the hallmarks of Rainer’s choreography: “Like certain objects, there is no ‘presentational’ concession to the audience. The dance has no eye, doesn’t look at anybody. I got this idea from noticing that the innumerable focal changes are always, with maybe one or two exceptions, up, down, side, diagonal or back, never directly at the audience, as though consciously designed to withdraw that contact which is the performer’s traditional trade-tool of seductive involvement. It is suggested the audience find the eye in the dance, not on the faces of performers.”"
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -7489,7 +7489,7 @@ object_list:
     id: "498"
     old_id: "9.24"
     maker: 
-    title: "Program for Alison Knowles’s *Bean Garden* in “Meet the Woman Composer” at the New School for Social Research, New York, NY."
+    title: "Program for Alison Knowles’s *The Bean Garden* in “Meet the Woman Composer” at the New School for Social Research, New York, NY."
     date: "1976"
     date_start: 1976-01-01
     date_end: 1976-12-31
@@ -7504,7 +7504,7 @@ object_list:
     id: "499"
     old_id: "9.25"
     maker: 
-    title: "Program for Alison Knowles’s *Bean Garden* in “Meet the Woman Composer” at the New School for Social Research, New York, NY"
+    title: "Review of Knowles’s *The Bean Garden*, at the New School, in *Soho Weekly News*."
     date: "1976"
     date_start: 1976-01-01
     date_end: 1976-12-31
@@ -7513,7 +7513,7 @@ object_list:
     extended_caption: ""
     credit: ""
     featured: 
-    type: [ programs and flyers ]
+    type: [ press clipping ]
     figure: [ id: "fig-499" ]
 -
     id: "500"

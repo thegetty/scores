@@ -9,7 +9,7 @@ figure_list:
     link: /image-index/001/
     label: "Fig. 0.1"
     caption: "Four “Indeterminate” Notation Systems."
-    credit: "*Off Minor* by Thelonious Monk © 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured All Rights Reserved, Reprinted by permission of Hal Leonard LLC (c); Courtesy of Jonathan K. Riggs (d)."
+    credit: "*Off Minor* by Thelonious Monk © 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured All Rights Reserved, Reprinted by permission of Hal Leonard LLC (c); Courtesy of Jonathan K. Riggs."
 # -
 #     id: "fig-0-1a"
 #     old_id: "0.01-a"
@@ -77,7 +77,7 @@ figure_list:
     media_id: 
     link: /image-index/002/
     label: "Fig. 0.2"
-    caption: "Luigi Russolo (Italian, 1855–1947), *Risveglio di una Cittá* (Awakening of a City), 1914, Getty Research Institute, Jean Brown Papers c.2: v.2, no.4 (1914)."
+    caption: "Luigi Russolo (Italian, 1855–1947), *Risveglio di una Cittá* (Awakening of a City), 1914. From *Lacerba* 2, no. 5 (1914): 72. Getty Research Institute, Jean Brown Collection, item 86-S1483."
     credit: ""
     alt: "Two-page spread of dark black lines gradually rising and falling over treble and bass staves."
 -
@@ -91,8 +91,8 @@ figure_list:
     media_id: 
     link: /image-index/003/
     label: "Fig. 0.3"
-    caption: "Earle Brown (American, 1926–2002), Prefatory notes for *December 1952* published in *Folio and 4 Systems*, 1961. "
-    credit: "Earle Brown Estate"
+    caption: "Earle Brown (American, 1926–2002), Prefatory notes for *December 1952*, published in *Folio and 4 Systems*, 1961. Getty Research Institute, David Tudor Papers, 980039, box 170, folder 1."
+    credit: "Earle Brown Estate."
     alt: "Diagram of a rectangular prism containing multiple arrows, with explanatory text above and to the right."
 -
     id: "fig-0-4"
@@ -105,8 +105,8 @@ figure_list:
     media_id: 
     link: /image-index/004/
     label: "Fig. 0.4"
-    caption: "Wadada Leo Smith (American, b. 1941), *Kosmic Music*, 2008. "
-    credit: ""
+    caption: "Wadada Leo Smith (American, b. 1941), *The Dream*, a panel from *Kosmic Music* (The Ankhrasmation Symbolic Language Art-Score), acrylic and ink on paper, 2008."
+    credit: "Wadada Leo Smith, www.wadadaleosmith.com."
     alt: "Four multicolor rectangles marked with esoteric annotations including brackets and musical symbols. The leftmost three rectangles are connected by a sweeping gold band."
 -
     id: "fig-0-5"
@@ -119,7 +119,7 @@ figure_list:
     media_id: 
     link: /image-index/005/
     label: "Fig. 0.5"
-    caption: "Hugo Ball (German, 1886–1927), Hugo Ball performing *Karawane* at the Cabaret Voltaire, Zürich, 1916. "
+    caption: "Hugo Ball performing *Karawane* at the Cabaret Voltaire, Zürich, 1916. Getty Research Institute, Jean Brown Papers, 890164, box 1, folder 52."
     credit: ""
     alt: "Black-and-white photo of a man in a rigid cape and a tall hat standing between two music stands in a low-ceilinged room."
 -
@@ -133,7 +133,7 @@ figure_list:
     media_id: 
     link: /image-index/006/
     label: "Fig. 0.6"
-    caption: "Kurt Schwitters (German, 1887–1948), *Ursonate*, in *Merz* 24 (Hannover, 1932), 1922–32. "
+    caption: "Kurt Schwitters (German, 1887–1948), *Ursonate*, 1922–32. From *Merz*, no. 24 (1932): 156–86. Getty Research Institute, item 85-S179."
     credit: ""
     alt: "Two pages of typed repeated nonsense words, some featuring repeated letters or syllables, with instructive titles in German."
 -
@@ -147,8 +147,8 @@ figure_list:
     media_id: 
     link: /image-index/007/
     label: "Fig. 0.7"
-    caption: "George Brecht (American, 1926–2008), Page of notes from  John Cage’s course in experimental composition, July 1959. George Brecht Notebooks, Vol. 3, April–August 1959. Ed. Dieter Daniels with collaboration of Hermann Braun (Köln: W. König, 1991)."
-    credit: ""
+    caption: "George Brecht (American, 1926–2008), Page of notes from John Cage’s course in experimental composition, July 1959. From *George Brecht Notebooks*, vol. 3, *April–August 1959*, ed. Dieter Daniels with collaboration of Hermann Braun (Cologne: Walther König, 1991), 127. Getty Research Institute, item 92-B17341."
+    credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     alt: "Notebook page with writing at top (some crossed out) and a star-shaped diagram at bottom with nodes labeled “Composer,” “Notation,” “Performer,” “Sound,” and “Listener,” when read clockwise beginning at the top center."
 -
     id: "fig-0-8"
@@ -161,8 +161,8 @@ figure_list:
     media_id: 
     link: /image-index/008/
     label: "Fig. 0.8"
-    caption: "Nam June Paik (Korean, 1932–2006), “Expanded Education for the Paperless Society” (1968), reproduced in *Radical Software* 1, no. 1 (1970): 7–8, 1968. "
-    credit: ""
+    caption: "Nam June Paik (Korean, 1932–2006), “Expanded Education for the Paperless Society,” 1968. Reproduced in *Radical Software* 1, no. 1 (1970): 7–8."
+    credit: "© Nam June Paik Estate."
     alt: "Long rectangular page with a curving flowchart of text boxes surrounded by short text columns titled “Music,” “Great Thinkers,” “Philosophy,” “Instant Global University,” “Reading Aids,” and “Singing Lessons.”"
 -
     id: "fig-0-9"
@@ -175,8 +175,8 @@ figure_list:
     media_id: 
     link: /image-index/009/
     label: "Fig. 0.9"
-    caption: "Sidney Lanier (American, 1842–81), *Science of English Verse*, 1880. "
-    credit: ""
+    caption: "Sidney Lanier (American, 1842–81), pages from *Science of English* Verse (New York: Scribner’s, 1880), 216–17."
+    credit: "Internet Archive/Trent University Library Donation."
     alt: "Two-page spread of text interspersed with lines of unpitched musical notes paired with English syllables."
 -
     id: "fig-0-10"
@@ -189,8 +189,8 @@ figure_list:
     media_id: 
     link: /image-index/010/
     label: "Fig. 0.10"
-    caption: "Décio Pignatari (Brazilian, 1927–2012), *Beba Coca Cola*, 1957, Screen print. From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991).."
-    credit: ""
+    caption: "Décio Pignatari (Brazilian, 1927–2012), *Beba Coca Cola*, 1957, screen print. From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991). Getty Research Institute, item 45-13."
+    credit: "Estate of Décio Pignatari."
     alt: "Red square at center of a white page containing all-lowercase, center-justified text."
 -
     id: "fig-0-11"
@@ -203,8 +203,8 @@ figure_list:
     media_id: 
     link: /image-index/011/
     label: "Fig. 0.11"
-    caption: "Ian Hamilton Finlay (Scottish, 1925–2006), *Star/Steer*, 1965, Sandblasted glass in wooden base. "
-    credit: ""
+    caption: "Ian Hamilton Finlay (Scottish, 1925–2006), *Star/Steer*, 1965, sandblasted glass in wooden base."
+    credit: "By courtesy of the Estate of Ian Hamilton Finlay."
     alt: "Upright sandblasted glass rectangle with the word “star” repeated several times in blue to create a zig-zag shape at center that terminates with the word “steer” printed once."
 -
     id: "fig-1-1"

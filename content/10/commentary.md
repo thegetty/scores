@@ -55,9 +55,9 @@ Concluding in 1975, *Spatial Poem* may be understood as an emblematic final book
 
 [^1]: Mieko Shiomi, “Mieko Shiomi,” *Art and Artists* 8, no. 7 (1973): 42.
 
-[^2]: Mieko Shiomi, quoted in Kakinuma Toshie and Takeuchi Nao, “Oral History Interview with Shiomi Mieko,” 1 December 2014, trans. Reiko Tomi, Archival Research Center, Kyoto University of Arts, http://www.kcua.ac.jp/arc/ar/shiomi_eg_1/.
+[^2]: Mieko Shiomi, quoted in Kakinuma Toshie and Takeuchi Nao, “Oral History Interview with Shiomi Mieko,” 1 December 2014, trans. Reiko Tomi, Archival Research Center, Kyoto University of Arts, [https://www.kcua.ac.jp/arc/ar/shiomi_eg_1/](https://www.kcua.ac.jp/arc/ar/shiomi_eg_1/).
 
-[^3]: Mieko Shiomi, quoted in Michelle Elligott, “Interview with artist Mieko Shiomi: Chapter 3,” 27 October 2011, Post: Notes on Modern & Contemporary Art around the Globe, website of the Contemporary and Modern Art Perspectives (C-MAP) program at the Museum of Modern Art, New York, http://post.at.moma.org/content_items/22-interview-with-shiomi-mieko.
+[^3]: Mieko Shiomi, quoted in Michelle Elligott, “Interview with artist Mieko Shiomi: Chapter 3,” 27 October 2011, Post: Notes on Modern & Contemporary Art around the Globe, website of the Contemporary and Modern Art Perspectives (C-MAP) program at the Museum of Modern Art, New York, [https://post.at.moma.org/content_items/22-interview-with-shiomi-mieko](https://post.at.moma.org/content_items/22-interview-with-shiomi-mieko).
 
 [^4]: Mieko Shiomi, quoted in Sally Kawamura, “Appreciating the Incidental: Mieko Shiomi’s ‘Events,’” *Women & Performance: A Journal of Feminist Theory* 19, no. 3 (November 2009): 313.
 
@@ -67,7 +67,7 @@ Concluding in 1975, *Spatial Poem* may be understood as an emblematic final book
 
 [^7]: Shiomi, “Mieko Shiomi,” *Art and Artists*, 44.
 
-[^8]: Mieko Shiomi, “Intermedia/Transmedia,” transcript of a lecture given at the Museum of Contemporary Art, Tokyo, 29 April 2012, trans. Midori Yoshimoto, Post: Notes on Art in a Global Context, website of the C-MAP program (see note 3 above), https://post.moma.org/intermedia-transmedia/.
+[^8]: Mieko Shiomi, “Intermedia/Transmedia,” transcript of a lecture given at the Museum of Contemporary Art, Tokyo, 29 April 2012, trans. Midori Yoshimoto, Post: Notes on Art in a Global Context, website of the C-MAP program (see note 3 above), [https://post.moma.org/intermedia-transmedia/](https://post.moma.org/intermedia-transmedia/).
 
 [^9]: Mieko Shiomi, quoted in Alison Knowles et al., “An Evening with Fluxus Women: A Roundtable Discussion,” *Women & Performance: A Journal of Feminist Theory* 19, no. 3 (November 2009): 370.
 

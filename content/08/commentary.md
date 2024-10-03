@@ -71,7 +71,7 @@ Rainer’s scores—be they patterns, lists, drawings, or maps—make apparent t
 
 [^11]: Banes, *Democracy’s Body*, 87.
 
-[^12]: Interview with Yvonne Rainer in *In Terms of Performance*, ed. Shannon Jackson and Paula Marincola (Philadelphia: Pew Center for Arts & Heritage, 2016), http://intermsofperformance.site/interviews/yvonne-rainer.
+[^12]: Interview with Yvonne Rainer in *In Terms of Performance*, ed. Shannon Jackson and Paula Marincola (Philadelphia: Pew Center for Arts & Heritage, 2016), [http://intermsofperformance.site/interviews/yvonne-rainer](http://intermsofperformance.site/interviews/yvonne-rainer).
 
 [^13]: Mark Franko, “Writing for the Body: Notation, Reconstruction, and Reinvention in Dance,” *Common Knowledge* 17, no. 2 (2011): 321–34.
 

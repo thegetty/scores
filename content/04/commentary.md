@@ -115,11 +115,11 @@ Thus, as the saxophonist and composer Eric Dolphy remarked in the concluding son
 
 [^1]: Valerie Cassel Oliver, ed., *Radical Presence: Black Performance in Contemporary Art* (Houston: Contemporary Arts Museum Houston, 2013), 121.
 
-[^2]: Benjamin Patterson, “Lecture at Columbia University,” video recording, 20 March 2011. Private collection of George E. Lewis. For a similar account from Patterson about the origins of *Paper Piece*, see Kathy Goncharov and Benjamin Patterson, "Oral History Interview with Benjamin Patterson, 2009 May 22," Smithsonian Archives of American Art, https://www.aaa.si.edu/collections/interviews/oral-history-interview-benjamin-patterson-15685, accessed May 21, 2024.
+[^2]: Benjamin Patterson, “Lecture at Columbia University,” video recording, 20 March 2011. Private collection of George E. Lewis. For a similar account from Patterson about the origins of *Paper Piece*, see Kathy Goncharov and Benjamin Patterson, "Oral History Interview with Benjamin Patterson, 2009 May 22," Smithsonian Archives of American Art, [https://www.aaa.si.edu/collections/interviews/oral-history-interview-benjamin-patterson-15685](https://www.aaa.si.edu/collections/interviews/oral-history-interview-benjamin-patterson-15685), accessed May 21, 2024.
 
 [^3]: Benjamin Patterson, *Methods and Processes* (Paris: self-published, 1962). For a historical and analytical account of the emergence and poetics of event scores, see Liz Kotz, “Post-Cagean Aesthetics and the ‘Event’ Score,” *October* 95 (Winter 2001): 55–89.
 
-[^4]: Dick Higgins, “Statement on Intermedia” (1966), in *Dé-coll/age* 6, ed. Wolf Vostell (Frankfurt: Typos Verlag; New York: Something Else Press, 1967). Available online at http://www.artpool.hu/Fluxus/Higgins/intermedia2.html. In 1964 Dick Higgins remembered that even before meeting Patterson, he suspected that he was Black: "Actually Patterson’s way of using periodic repeats and the blues feeling that this produced being so ingrained and natural struck me so much that when he first sent me a copy of methods and processes I wrote to him and guessed he was a negro." Quoted in Sally Banes, *Greenwich Village, 1963: Avant-Garde Performance and the Effervescent Body* (Durham, NC: Duke University Press, 1993), 206. Along related lines, Patterson's emphasis on diversity of timbres and techniques recalls composer Olly Wilson's 1992 theorization of the “heterogeneous sound ideal” in Black music: “The desirable musical sound texture is one that contains a combination of diverse timbres \[and a\] fundamental bias for contrast of color—heterogeneity of sound rather than similarity of color or homogeneity.” Olly Wilson, “The Heterogeneous Sound Ideal in Afrodiasporic Music,” in *Signifying, Sanctifyin’, and Slam Dunking: A Reader in African American Expressive Culture*, ed. Gena Dagel Caponi (Amherst: University of Massachusetts Press, 1999), 160.
+[^4]: Dick Higgins, “Statement on Intermedia” (1966), in *Dé-coll/age* 6, ed. Wolf Vostell (Frankfurt: Typos Verlag; New York: Something Else Press, 1967). Available online at [https://www.artpool.hu/Fluxus/Higgins/intermedia2.html](https://www.artpool.hu/Fluxus/Higgins/intermedia2.html). In 1964 Dick Higgins remembered that even before meeting Patterson, he suspected that he was Black: "Actually Patterson’s way of using periodic repeats and the blues feeling that this produced being so ingrained and natural struck me so much that when he first sent me a copy of methods and processes I wrote to him and guessed he was a negro." Quoted in Sally Banes, *Greenwich Village, 1963: Avant-Garde Performance and the Effervescent Body* (Durham, NC: Duke University Press, 1993), 206. Along related lines, Patterson's emphasis on diversity of timbres and techniques recalls composer Olly Wilson's 1992 theorization of the “heterogeneous sound ideal” in Black music: “The desirable musical sound texture is one that contains a combination of diverse timbres \[and a\] fundamental bias for contrast of color—heterogeneity of sound rather than similarity of color or homogeneity.” Olly Wilson, “The Heterogeneous Sound Ideal in Afrodiasporic Music,” in *Signifying, Sanctifyin’, and Slam Dunking: A Reader in African American Expressive Culture*, ed. Gena Dagel Caponi (Amherst: University of Massachusetts Press, 1999), 160.
 
 [^5]: Benjamin Patterson, *Paper Piece* (Cologne: self-published, 1959–60). The dynamic directions *ppp* and *fff* are abbreviations for *pianississimo* and *fortississimo*, which mean “very, very soft” and “very, very loud,” respectively. Jean Brown Papers, 890164, box 39, folder 33.
 
@@ -155,7 +155,7 @@ Thus, as the saxophonist and composer Eric Dolphy remarked in the concluding son
 
 [^21]: See Owen Smith, “Developing a Fluxable Forum: Early Performance and Publishing,” in *The Fluxus Reader*, ed. Ken Friedman (Chichester, West Sussex: Academy Editions, 1998), 3–21.
 
-[^22]: Quoted in Smith, “Developing a Fluxable Forum,” 3–4. An image of “The Fluxus Manifesto” (1963) is available on the Museum of Modern Art’s website: https://www.moma.org/collection/works/127947.
+[^22]: Quoted in Smith, “Developing a Fluxable Forum,” 3–4. An image of “The Fluxus Manifesto” (1963) is available on the Museum of Modern Art’s website: [https://www.moma.org/collection/works/127947](https://www.moma.org/collection/works/127947).
 
 [^23]: Smith, “Developing a Fluxable Forum,” 4.
 
@@ -163,7 +163,7 @@ Thus, as the saxophonist and composer Eric Dolphy remarked in the concluding son
 
 [^25]: Oliver, *Radical Presence*, 121.
 
-[^26]: Patterson, “Lecture at Columbia University.” Most accounts of the premiere of the work date it to 1960 in Cologne. See “Karlheinz Stockhausen: Biography” (Stockhausen-Verlag, 2013), http://www.karlheinzstockhausen.org/karlheinz_stockhausen_short_biography_english.htm.
+[^26]: Patterson, “Lecture at Columbia University.” Most accounts of the premiere of the work date it to 1960 in Cologne. See “Karlheinz Stockhausen: Biography” (Stockhausen-Verlag, 2013), [http://www.karlheinzstockhausen.org/karlheinz_stockhausen_short_biography_english.htm](http://www.karlheinzstockhausen.org/karlheinz_stockhausen_short_biography_english.htm).
 
 [^27]: Sheila O’Shea, personal communication with the author, 15 March 2018.
 

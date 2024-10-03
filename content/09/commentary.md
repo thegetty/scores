@@ -55,7 +55,7 @@ In tandem with Knowles’s rising status in the history of art, *The Identical L
 
 [^2]: Hannah B. Higgins, “Love’s Labor’s Lost and Found: A Meditation on Fluxus, Family, and Something Else,” *Art Journal* 69, nos. 1–2 (May 2010): 13. Knowles herself said, “For me the real world is the right place to start from, whether you are making art, a performance, music, or dinner.” Alison Knowles, interview by Linda M. Montano, in Linda M. Montano, *Performance Artists Talking in the Eighties: Sex, Food, Money/Fame, Ritual/Death* (Berkeley: University of California Press, 2000), 173.
 
-[^3]: Higgins, “Love’s Labor’s Lost and Found,” 12. Higgins does not say when Knowles studied with Albers, but it was likely during the summer of 1957, when Albers served as Visiting Instructor in Pictorial Design at Syracuse University’s School of Art. See the Josef and Anni Albers Foundation Chronology, https://www.albersfoundation.org/alberses/chronology/.
+[^3]: Higgins, “Love’s Labor’s Lost and Found,” 12. Higgins does not say when Knowles studied with Albers, but it was likely during the summer of 1957, when Albers served as Visiting Instructor in Pictorial Design at Syracuse University’s School of Art. See the Josef and Anni Albers Foundation Chronology, [https://www.albersfoundation.org/alberses/chronology/](https://www.albersfoundation.org/alberses/chronology/).
 
 [^4]: Eva Díaz, *The Experimenters: Chance and Design at Black Mountain College* (Chicago: University of Chicago Press, 2015); and Jeffrey Saletnik, *Josef Albers, Late Modernism, and Pedagogic Form* (Chicago: University of Chicago Press, 2022).
 
@@ -97,7 +97,7 @@ In tandem with Knowles’s rising status in the history of art, *The Identical L
 
 [^23]: Higgins, quoted in Knowles, *Journal of the Identical Lunch* (1971), 5.
 
-[^24]: See, for example, Allie Wist, “When a Tuna Fish Sandwich Becomes a Work of Art: An Interview with ‘The Identical Lunch’ artist Alison Knowles about Tuna Sandwiches, Performance Art, and How Our Daily Rituals Can Be Vehicles for Inspiration,” *Saveur*, 14 March 2018, https://www.saveur.com/interview-identical-lunch-alison-knowles.
+[^24]: See, for example, Allie Wist, “When a Tuna Fish Sandwich Becomes a Work of Art: An Interview with ‘The Identical Lunch’ artist Alison Knowles about Tuna Sandwiches, Performance Art, and How Our Daily Rituals Can Be Vehicles for Inspiration,” *Saveur*, 14 March 2018, [https://www.saveur.com/interview-identical-lunch-alison-knowles](https://www.saveur.com/interview-identical-lunch-alison-knowles).
 
 [^25]: Woods, “Taste Economies,” 159.
 
@@ -107,6 +107,6 @@ In tandem with Knowles’s rising status in the history of art, *The Identical L
 
 [^28]: Knowles recalled in 2008: “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever.” Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” (PhD diss., McGill University, 2010), 102.
 
-[^29]: “The Museum of Modern Art’s Performance Exhibition Series Continues in January 2011 with Eclectic Group of Performances,” press release, 20 December 2010, https://assets.moma.org/documents/moma_press-release_387221.pdf?_ga=2.261090056.42244860.1615745360-371763612.1611248449.
+[^29]: “The Museum of Modern Art’s Performance Exhibition Series Continues in January 2011 with Eclectic Group of Performances,” press release, 20 December 2010, [https://assets.moma.org/documents/moma_press-release_387221.pdf](https://assets.moma.org/documents/moma_press-release_387221.pdf).
 
 [^30]: Wist, “When a Tuna Fish Sandwich Becomes a Work of Art,” n.p.

@@ -83,7 +83,7 @@ The author wishes to thank to Benjamin Bishop, Alexis Briley, Aaron Hodges, and 
 
 {% endbackmatter %}
 
-[^1]: For an image of Ammons’s manuscript for this work, see Archie Ammons Papers, #14-12-2665, Division of Rare and Manuscript Collections, Cornell University Library, https://digital.library.cornell.edu/catalog/ss:23093081.
+[^1]: For an image of Ammons’s manuscript for this work, see Archie Ammons Papers, #14-12-2665, Division of Rare and Manuscript Collections, Cornell University Library, [https://digital.library.cornell.edu/catalog/ss:23093081](https://digital.library.cornell.edu/catalog/ss:23093081).
 
 [^2]: Patterson’s own self-published *Methods and Processes* (Paris, 1962) was an important early collection of such scores, along with George Brecht’s *Water Yam* (1963) and Yoko Ono’s *Grapefruit* (1964).
 

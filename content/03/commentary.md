@@ -57,7 +57,7 @@ Other responses were more playful and associative. The music critic Ed Wallace, 
 
 [^1]: Bussotti wrote in a prefatory note to his work *Due voci* (1958) that his approach to music represented a “dialectical rebellion of the humanistic attitude in the man who writes music, against the stiff aridity of systems.” Quoted in Erik Ullman, “The Music of Sylvano Bussotti,” *Perspectives of New Music* 34, no. 2 (1996): 186–201.
 
-[^2]: See Antonin Artaud, *The Theater and Its Double* (New York: Grove Press, 1958). Bussotti in fact set Artaud’s texts to music several times over the course of his career. See Piero Carreras, “*La Passion Selon Sade*, Opera d’Arte Totale,” *Scenari*, 16 June 2016, https://www.mimesis-scenari.it/2016/06/16/la-passion-selon-sade-opera-darte-totale/.
+[^2]: See Antonin Artaud, *The Theater and Its Double* (New York: Grove Press, 1958). Bussotti in fact set Artaud’s texts to music several times over the course of his career. See Piero Carreras, “*La Passion Selon Sade*, Opera d’Arte Totale,” *Scenari*, 16 June 2016, [https://www.mimesis-scenari.it/2016/06/16/la-passion-selon-sade-opera-darte-totale/](https://www.mimesis-scenari.it/2016/06/16/la-passion-selon-sade-opera-darte-totale/).
 
 [^3]: See Paul Attinello, “Bussotti, Sylvano,” in *The Queer Encyclopedia of Music, Dance, and Musical Theater*, ed. Claude J. Summers (Jersey City, NJ: Cleis Press, 2004), 37–38; and David Osmond-Smith and Paul Attinello, “Gay Darmstadt: Flamboyance and Rigour at the Summer Courses for New Music,” in *Other Darmstadts*, ed. Paul Attinello, Christopher Fox, and Martin Iddon (Abingdon, U.K.: Routledge, 2007), 105–14.
 

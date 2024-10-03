@@ -61,7 +61,7 @@ As a notational format positioned between music, poetry, performance, and visual
 
 [^5]: Nyman, “Interview with George Brecht,” 110.
 
-[^6]: George Brecht, “Chance-Imagery,” A Great Bear Pamphlet (New York: Something Else Press, 1966). Republished in 2004 on UbuWeb, https://www.ubu.com/historical/gb/brecht_chance.pdf.
+[^6]: George Brecht, “Chance-Imagery,” A Great Bear Pamphlet (New York: Something Else Press, 1966). Republished in 2004 on UbuWeb, [https://www.ubu.com/historical/gb/brecht_chance.pdf](https://www.ubu.com/historical/gb/brecht_chance.pdf).
 
 [^7]: George Brecht, *George Brecht—Notebooks*, vol. 3, April–August 1959, ed. Dieter Daniels and Hermann Braun (Cologne: Walther König, 1991), 123.
 

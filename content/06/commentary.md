@@ -53,7 +53,7 @@ As a notational format positioned between music, poetry, performance, and visual
 
 [^1]: George Brecht, notebook of late June 1958, reprinted as *George Brecht—Notebooks*, vol. 1, June–September 1958, ed. Dieter Daniels and Hermann Braun (Cologne: Walther König, 1991), 4.
 
-[^2]: Michael Nyman, “An Interview with George Brecht” (1976), in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire* (Milan: Multhipla Edizioni, 1978), 108. On a notable controversy regarding the performance of Cage’s work, see Benjamin Piekut, “When Orchestras Attack! John Cage Meets the New York Philharmonic,” in idem, *Experimentalism Otherwise: The New York Avant-Garde and Its Limits* (Berkeley: University of California Press, 2011), 20–64.
+[^2]: Michael Nyman, “An Interview with George Brecht” (1976), in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire* (Milan: Multhipla Edizioni, 1978), 108. On a notable controversy regarding the performance of Cage’s work, see Benjamin Piekut, “When Orchestras Attack! John Cage Meets the New York Philharmonic,” in *Experimentalism Otherwise: The New York Avant-Garde and Its Limits* (Berkeley: University of California Press, 2011), 20–64.
 
 [^3]: Nyman, “Interview with George Brecht,” 110.
 

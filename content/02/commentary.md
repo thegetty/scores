@@ -58,7 +58,7 @@ Beyond the newspaper reviews, we have included a variety of other materials pert
 
 ## Notes {.notes-heading}
 
-[^1]: John Cage, “Indeterminacy” (1958), in idem, *Silence: Lectures and Writings by John Cage* (Middletown, CT: Wesleyan University Press, 1961), 39.
+[^1]: John Cage, “Indeterminacy” (1958), in *Silence: Lectures and Writings by John Cage* (Middletown, CT: Wesleyan University Press, 1961), 39.
 
 [^2]: Cage, “Indeterminacy,” 38–39. For Pritchett’s account, see James Pritchett, *The Music of John Cage* (Cambridge: Cambridge University Press), 76–78.
 

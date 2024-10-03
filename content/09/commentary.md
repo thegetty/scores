@@ -51,7 +51,7 @@ In tandem with Knowles’s rising status in the history of art, *The Identical L
 
 ## Notes {.notes-heading}
 
-[^1]: Alison Knowles, “Curriculum Vitae,” in idem, *Indigo Island: Art Works by Alison Knowles* (Saarbrücken, Germany: Stadtgalerie Saarbrücken, 1994), 117.
+[^1]: Alison Knowles, “Curriculum Vitae,” in *Indigo Island: Art Works by Alison Knowles* (Saarbrücken, Germany: Stadtgalerie Saarbrücken, 1994), 117.
 
 [^2]: Hannah B. Higgins, “Love’s Labor’s Lost and Found: A Meditation on Fluxus, Family, and Something Else,” *Art Journal* 69, nos. 1–2 (May 2010): 13. Knowles herself said, “For me the real world is the right place to start from, whether you are making art, a performance, music, or dinner.” Alison Knowles, interview by Linda M. Montano, in Linda M. Montano, *Performance Artists Talking in the Eighties: Sex, Food, Money/Fame, Ritual/Death* (Berkeley: University of California Press, 2000), 173.
 
@@ -59,7 +59,7 @@ In tandem with Knowles’s rising status in the history of art, *The Identical L
 
 [^4]: Eva Díaz, *The Experimenters: Chance and Design at Black Mountain College* (Chicago: University of Chicago Press, 2015); and Jeffrey Saletnik, *Josef Albers, Late Modernism, and Pedagogic Form* (Chicago: University of Chicago Press, 2022).
 
-[^5]: Díaz, *Experimenters*, 13. Dick Higgins identifies Knowles as “a silk-screen cameraman by trade” in his “Publisher’s Foreword” to idem, *The Four Suits: Benjamin Patterson, Philip Corner, Alison Knowles, and Tomas Schmit* (New York: Something Else Press, 1965), xii. He continues, “and so it was natural that she should be about the first to do the kind of multiple overlay silk screen printing that was later associated with Rauschenberg, Warhol, etc” (xii).
+[^5]: Díaz, *Experimenters*, 13. Dick Higgins identifies Knowles as “a silk-screen cameraman by trade” in his “Publisher’s Foreword” to *The Four Suits: Benjamin Patterson, Philip Corner, Alison Knowles, and Tomas Schmit* (New York: Something Else Press, 1965), xii. He continues, “and so it was natural that she should be about the first to do the kind of multiple overlay silk screen printing that was later associated with Rauschenberg, Warhol, etc” (xii).
 
 [^6]: Knowles and Higgins’s daughter Hannah B. Higgins establishes that her parents met in 1960 in “Eleven Snapshots of Dick Higgins,” in *Intermedia, Fluxus and the Something Else Press: Selected Writings by Dick Higgins*, ed. Steve Clay and Ken Friedman (Catskill, NY: Siglio, 2018), 335. She also writes, “They married (1960), divorced (1970), became neighbors (1975), and remarried (1985) in an open manner, and lived a complex life ever after.” Higgins, “Love’s Labor’s Lost and Found,” 14.
 

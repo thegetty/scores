@@ -57,9 +57,9 @@ Kaprow’s films and videos of the 1970s were experiments ([figs. 11.11](#fig-11
 
 ## Notes {.notes-heading}
 
-[^1]: Allan Kaprow, “The Legacy of Jackson Pollock” (1958), in idem, *Essays on the Blurring of Art and Life*, ed. Jeff Kelley (Berkeley: University of California Press, 2003), 1–9; and Allan Kaprow, *Assemblages, Environments, and Happenings* (New York: Harry N. Abrams, 1966), 157–65.
+[^1]: Allan Kaprow, “The Legacy of Jackson Pollock” (1958), in *Essays on the Blurring of Art and Life*, ed. Jeff Kelley (Berkeley: University of California Press, 2003), 1–9; and Allan Kaprow, *Assemblages, Environments, and Happenings* (New York: Harry N. Abrams, 1966), 157–65.
 
-[^2]: Allan Kaprow, “Nontheatrical Performance” (1976), in idem, *Essays on the Blurring of Art and Life*, 173.
+[^2]: Allan Kaprow, “Nontheatrical Performance” (1976), in *Essays on the Blurring of Art and Life*, 173.
 
 [^3]: Kaprow explains: “My choice of the word ‘Happening’ was intended to neutralize art and to suggest the possibility of a consciousness and mode of action unencumbered by associations with either any art or other profession. Once I saw that it acquired stereotypical meanings which only got in the way of that consciousness, I adopted Michael Kirby’s word ‘Activity’ as an alternative.” Allan Kaprow, “Easy Activity,” in *Art Studies for an Editor: 25 Essays in Memory of Milton S. Fox* (New York: Harry N. Abrams, 1975), 177. Michael Kirby was a drama professor at New York University and editor of *Happenings: An Illustrated Anthology* (New York: E. P. Dutton, 1965).
 
@@ -71,9 +71,9 @@ Kaprow’s films and videos of the 1970s were experiments ([figs. 11.11](#fig-11
 
 [^7]: Cage recalled about his New School course: “One thing I insisted upon in the class, I said, ‘Don’t bring any work to the class that you can’t do. If you can’t do it here, don’t bring it here.’” John Cage, oral history interview, 2 May 1974, Archives of American Art, Smithsonian Institution, Washington, D.C., http://www.aaa.si.edu/collections/interviews/oral-history-interview-john-cage-12442. For the broad outlines of Cage’s class, see Joseph Jacobs, “Crashing New York à la John Cage,” in Marter, *Off Limits*, 65–99; and Bruce Altshuler, “The Cage Class,” in *FluxAttitudes*, ed. Cornelia Lauf and Susan Hapgood (Buffalo, NY: Hallwalls Contemporary Arts Center, 1991), 17–23.
 
-[^8]: Kaprow called his scores “programs” after 1968 in order to foster associations with computing and modern communications systems, rather than with fine art. See Allan Kaprow, interview by Richard Schechner, *The Drama Review* 12, no. 3 (1968): 153; and Allan Kaprow, “Education of the Un-Artist, Part I” (1971), in idem, *Essays on the Blurring of Art and Life*, 106.
+[^8]: Kaprow called his scores “programs” after 1968 in order to foster associations with computing and modern communications systems, rather than with fine art. See Allan Kaprow, interview by Richard Schechner, *The Drama Review* 12, no. 3 (1968): 153; and Allan Kaprow, “Education of the Un-Artist, Part I” (1971), in *Essays on the Blurring of Art and Life*, 106.
 
-[^9]: Kaprow collaborated with many Fluxus artists over the years, but he did not identify as a Fluxus artist himself. According to his account, this was because he could not get along with George Maciunas. Allan Kaprow, “Maestro Maciunas” (1996), in idem, *Essays on the Blurring of Art and Life*, 243–46.
+[^9]: Kaprow collaborated with many Fluxus artists over the years, but he did not identify as a Fluxus artist himself. According to his account, this was because he could not get along with George Maciunas. Allan Kaprow, “Maestro Maciunas” (1996), in *Essays on the Blurring of Art and Life*, 243–46.
 
 [^10]: Kaprow earned a master’s degree in art history from Columbia University in 1952 and held academic posts at the following institutions: Rutgers University, 1952–61; Stony Brook University, 1961–68; the California Institute of the Arts, 1969–74; and University of California at San Diego, 1974–92.
 

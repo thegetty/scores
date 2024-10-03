@@ -61,14 +61,14 @@ This confrontational reception was far from an accidental by-product of Feldman�
 
 [^3]: Feldman’s use of indeterminacy was a radical proposition when one recalls that Cage would not risk producing a thoroughly indeterminate score until his *Winter Music* (1957).
 
-[^4]: Morton Feldman, “Liner Notes” (1962), in idem, *Give My Regards to Eighth Street* (Cambridge, MA: Exact Change, 2000), 6.
+[^4]: Morton Feldman, “Liner Notes” (1962), in *Give My Regards to Eighth Street* (Cambridge, MA: Exact Change, 2000), 6.
 
 [^5]: Cage, quoted in Feldman, “Liner Notes,” 5.
 
-[^6]: Morton Feldman, “Crippled Symmetry” (1981), in idem, *Give My Regards to Eighth Street*, 147.
+[^6]: Morton Feldman, “Crippled Symmetry” (1981), in *Give My Regards to Eighth Street*, 147.
 
 [^7]: Earle Brown, interview by Peter Dickinson, 1 July 1987, Rye, New York, in *CageTalk: Dialogues with and about John Cage*, ed. Peter Dickinson (Rochester, NY: University of Rochester Press, 2006), 141.
 
-[^8]: John Cage, “Indeterminacy” (1958), in idem, *Silence: Lectures and Writings by John Cage* (Middletown, CT: Wesleyan University Press, 1961), 37.
+[^8]: John Cage, “Indeterminacy” (1958), in *Silence: Lectures and Writings by John Cage* (Middletown, CT: Wesleyan University Press, 1961), 37.
 
 [^9]: Paul Henry Lang, “What Is Offered by the Electronic Age?,” *New York Herald Tribune*, 10 April 1960.

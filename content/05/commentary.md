@@ -115,6 +115,6 @@ Young’s other word scores constitute a set of investigations into the limits a
 
 [^16]: Toshi Ichiyanagi premiered the work on 14 May 1961, at Carnegie Recital Hall; David Tudor subsequently performed it at the Darmstadt Summer Course later that year.
 
-[^17]: Cornelius Cardew, “On the Role of Instructions in the Performance of Indeterminate Music” (1965), in idem, *Treatise Handbook* (New York: Edition Peters, 1971).
+[^17]: Cornelius Cardew, “On the Role of Instructions in the Performance of Indeterminate Music” (1965), in *Treatise Handbook* (New York: Edition Peters, 1971).
 
 [^18]: For the final version of the score, see Simone Forti, *Handbook in Motion* (Halifax: Press of the Nova Scotia School of Design, 1974).

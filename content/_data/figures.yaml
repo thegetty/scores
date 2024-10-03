@@ -22698,3 +22698,61 @@ figure_list:
     media_id: 
     label: ""
     alt: "Yellow lined page with list of eight names at top, all with different hand in red pen. Notes to right of list assigning pairs. Same list of names at bottom in black pen. “Participants” above list. "
+-
+    id: "fig-348-sequence"
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Top view of wooden box dominated by a white label with large black letters that read “Water Yam.” Smaller text surrounding reads “FLUXUS C” and “ARRANGED BY GEORGE BRECHT.” Hinged wooden box open to reveal stacked cardstock. Top page is white cardstock printed with “Drip Music” event score."
+    sequences:
+      - id: "figures/sequences/348/"
+        behavior:
+          - continuous
+          - sequence
+        regex: /WaterYam_\d{3}\.jpg/
+-
+    id: "fig-525-sequence"
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+    sequences:
+      - id: "figures/sequences/525/"
+        behavior:
+          - continuous
+          - sequence
+        regex: /SpatialPoem_\d{3}\.jpg/
+-
+    id: "fig-527-sequence"
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+    sequences:
+      - id: "figures/sequences/527/"
+        behavior:
+          - continuous
+          - sequence
+        regex: /gri_890164_b223_\d{3}_mm\.jpg/
+        frame_distance: 100
+-
+    id: "fig-529-sequence"
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+    sequences:
+      - id: "figures/sequences/529/"
+        behavior:
+          - continuous
+          - sequence
+        regex: /r2014928_890164_b219_\d{3}\.jpg/
+        frame_distance: 100

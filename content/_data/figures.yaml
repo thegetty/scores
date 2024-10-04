@@ -69,7 +69,7 @@ figure_list:
 -
     id: "fig-0-2"
     old_id: "0.02-a"
-    src: figures/r34134_86_s1483_annoiii_n5_001.jpg
+    src: figures/r34134_86_s1483_annoiii_n5_001-002.jpg
     note: 
     zoom: true
     poster: 
@@ -83,17 +83,17 @@ figure_list:
 -
     id: "fig-0-3"
     old_id: "0.03a"
-    src: placeholder.jpg
+    src: figures/r2014200_980039_b170_f1_033.jpg
     note: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/003/
+    link: /image-index/301/
     label: "Fig. 0.3"
-    caption: "Earle Brown (American, 1926–2002), Prefatory notes for *December 1952*, published in *Folio and 4 Systems*, 1961. Getty Research Institute, David Tudor Papers, 980039, box 170, folder 1."
+    caption: "Earle Brown (American, 1926–2002). Score for *December 1952*, published in *Folio and 4 Systems*, 1952. Getty Research Institute, David Tudor Papers, 980039, box 170, folder 1."
     credit: "Earle Brown Estate."
-    alt: "Diagram of a rectangular prism containing multiple arrows, with explanatory text above and to the right."
+    alt: "White page with sparse field of hand drawn black line segments and rectangles of varying thicknesses. Lines and shapes oriented either vertically or horizontally. Majority concentrated around central two thirds of the page with top and bottom blank."
 -
     id: "fig-0-4"
     old_id: "0.04"
@@ -139,7 +139,7 @@ figure_list:
 -
     id: "fig-0-7"
     old_id: "0.07"
-    src: placeholder.jpg
+    src: figures/r2017427_92_b17341_v3_001.jpg
     note: 
     zoom: true
     poster: 
@@ -147,7 +147,7 @@ figure_list:
     media_id: 
     link: /image-index/007/
     label: "Fig. 0.7"
-    caption: "George Brecht (American, 1926–2008), Page of notes from John Cage’s course in experimental composition, July 1959. From *George Brecht Notebooks*, vol. 3, *April–August 1959*, ed. Dieter Daniels with collaboration of Hermann Braun (Cologne: Walther König, 1991), 127. Getty Research Institute, item 92-B17341."
+    caption: "George Brecht (American, 1926–2008). Page of notes from John Cage’s course in experimental composition, July 1959. From *George Brecht Notebooks*, vol. 3, *April–August 1959*, ed. Dieter Daniels with collaboration of Hermann Braun (Cologne: Walther König, 1991), 127. Getty Research Institute, item 92-B17341."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     alt: "Notebook page with writing at top (some crossed out) and a star-shaped diagram at bottom with nodes labeled “Composer,” “Notation,” “Performer,” “Sound,” and “Listener,” when read clockwise beginning at the top center."
 -
@@ -167,7 +167,7 @@ figure_list:
 -
     id: "fig-0-9"
     old_id: "0.09-a"
-    src: figures/scienceofenglish0000lani_0224.jpg
+    src: figures/scienceofenglish0000lani_0224-0225.jpg
     note: 
     zoom: true
     poster: 
@@ -385,7 +385,7 @@ figure_list:
     media_type: 
     media_id: 
     link: /image-index/158/#fig-158-r
-    label: "Fig. 3.4b"
+    label: "Fig. 3.4"
     caption: "David Tudor (American, 1926–96), David Tudor’s realization of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
     alt: "Blue front cover of bound book. “Composer’s Notebook” at top left in blue with short section of staff printed below."
@@ -742,8 +742,8 @@ figure_list:
 -
     id: "fig-6-8"
     old_id: "6.03a"
-    src: placeholder.jpg
-    note: Water Yam 360
+    src: figures/WaterYam_076.jpg
+    note: 
     zoom: true
     poster: 
     media_type: 
@@ -1120,7 +1120,7 @@ figure_list:
 -
     id: "fig-10-8"
     old_id: "10.21"
-    src: placeholder.jpg
+    src: figures/fig-528_AR832708.jpg
     note: 
     zoom: true
     poster: 
@@ -1319,9 +1319,9 @@ figure_list:
     src: 
     note: 
     zoom: 
-    poster: placeholder.jpg
+    poster: figures/fig-570-poster-image.jpg
     media_type: vimeo
-    media_id: 
+    media_id: 998453851/6c7d5b4a7d
     link: /image-index/570/
     label: "Fig. 11.12"
     caption: "Allan Kaprow (American, 1927–2006), Opening shot of *Warm-ups*, 1975, 1 film reel: 16mm, SD, color. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F47."

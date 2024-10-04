@@ -45,7 +45,7 @@ object_list:
     credit: ""
     featured: 
     type: [ score ]
-    figure: [ id: "fig-002-a", id: "fig-002-b" ]
+    figure: [ id: "fig-002" ]
 -
     id: "003"
     old_id: "0.03a"
@@ -150,7 +150,7 @@ object_list:
     credit: "Internet Archive/Trent University Library Donation."
     featured: 
     type: [ archival materials ]
-    figure: [ id: "fig-009-a", id: "fig-009-b" ]
+    figure: [ id: "fig-009" ]
 -
     id: "010"
     old_id: "0.10"

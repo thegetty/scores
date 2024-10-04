@@ -12,7 +12,7 @@ outputs:
 - [2. John Cage: *Concert for Piano and Orchestra* (1958), Michael Gallope and Nancy Perloff](#02-commentary)
 - [3. Sylvano Bussotti: *Five Piano Pieces for David Tudor* (1959), Michael Gallope](#03-commentary)
 - [4. Benjamin Patterson: *Paper Piece* (1960), George E. Lewis](#04-commentary)
-- [5. La Monte Young, Jackson Mac Low, and George Maciunas: *An Anthology of Chance Operations* (1962–63), Ben Piekut](#05-commentary)
+- [5. La Monte Young, Jackson Mac Low, and George Maciunas: *An Anthology of Chance Operations* (1962–63), Benjamin Piekut](#05-commentary)
 - [6. George Brecht: *Drip Music (Drip Event)* (1959–62), from *Water Yam* (1963), Natilee Harren](#06-commentary)
 - [7. Jackson Mac Low: *Three Social Projects* (1963), John Hicks](#07-commentary)
 - [8. Yvonne Rainer: *We Shall Run* (1963), Julia Bryan-Wilson](#08-commentary)

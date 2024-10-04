@@ -5567,15 +5567,16 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
--
-    id: "fig-074"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
+# REMOVED
+# -
+#     id: "fig-074"
+#     src: placeholder.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: ""
 -
     id: "fig-075"
     src: 

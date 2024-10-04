@@ -372,7 +372,7 @@ figure_list:
     media_id: 
     link: /image-index/159/#fig-159-aw
     label: "Fig. 3.3"
-    caption: "David Tudor’s personal copy of  No. 3 from Sylvano Bussotti’s Five Piano Pieces for David Tudor, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    caption: "David Tudor’s personal copy of No. 3 from Sylvano Bussotti’s Five Piano Pieces for David Tudor, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
     alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive. "
 -
@@ -652,7 +652,7 @@ figure_list:
     media_id: 
     link: /image-index/556/
     label: "Fig. 6.1"
-    caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958."
+    caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958. From *Al Hansen, A Primer of Happenings & Time-Space Art* (New York: Something Else Press, 1965), TK."
     credit: ""
     alt: "Black-and-white photograph of eight men in a classroom, each sat at a chair desk. Photograph shot at eye level of sitting figures."
 -
@@ -680,8 +680,8 @@ figure_list:
     media_id: 
     link: /image-index/359/
     label: "Fig. 6.3"
-    caption: "Dick Higgins performing George Brecht's *Drip Music (Drip Event)* at Fluxus–Musik og Anti Musik det Instrumentale Teater, Nikolai Kirke, Copenhagen, 25 November 1962, gelatin silver print. Photographed by Poul Hansen for Dagbladat AKTUELT newspaper."
-    credit: "The Gilbert and Lila Silverman Fluxus Collection Gift, 2008. © 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany. Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY."
+    caption: "Dick Higgins performing George Brecht's *Drip Music (Drip Event)* at Fluxus–Musik og Anti Musik det Instrumentale Teater, Nikolai Kirke, Copenhagen, 25 November 1962, gelatin silver print. Getty Research Institute, The Kitchen Videos and Records, item K2001845."
+    credit: "Photographed by Poul Hansen for Dagbladat AKTUELT newspaper. The Gilbert and Lila Silverman Fluxus Collection Gift, 2008. © 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany. Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY."
     alt: "Black and white photograph of a man in suit and tie holding a tea kettle while standing on a wooden ladder. At the base of the ladder sits a metal tub. Behind the ladder sits a large sign with painted words in Danish. "
 -
     id: "fig-6-4"
@@ -792,24 +792,23 @@ figure_list:
     media_id: 
     link: /image-index/275/
     label: "Fig. 7.3"
-    caption: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by Yoko Ono and La Monte Young at  Ono’s studio, 112 Chambers Street, New York, NY, 8–9 April 1961. Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6."
+    caption: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY, 8–9 April 1961. Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6."
     credit: ""
     alt: "White page with blue typewritten text in English. Title at top center reads “Poetry, Music & Theatre Works Jackson Mac Low,” followed by time, date, and location of performances. Middle two quarters of page contains numerical list of the titles of works to be performed in succession, their performers, and their original date of composition. Bottom quarter of page contains paragraph of information on other performances. All text single spaced with thin margins."
-# REMOVED
-# -
-#     id: "fig-7-4"
-#     old_id: "7.04"
-#     src: figures/07_Mac_Low_ILLS_for_review_before_archive_picks_dragged.jpg
-#     note: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     link: /image-index/405/
-#     label: "Fig. 7.4"
-#     caption: "Designer unknown, Collage of newspaper clippings documenting Jackson Mac Low’s arrest—along with Dorothy Day of the *Catholic Worker*, Bayard Rustin of the War Resisters League, and others—for refusing to participate in a nationwide mandatory air-raid drill, ca. June 1955. UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180, box 32, folder 4."
-#     credit: ""
-#     alt: "Collage of black-and-white news clippings covering one entire page. Top features New York World Telegram masthead followed by title “30 Arrests Mar H-Drill” followed by four articles in English across five columns of text at the center of the page. Three documentary photos of protestors with signs being arrested by police officers at bottom of page."
+-
+    id: "fig-7-4"
+    # old_id: "7.04"
+    src: figures/r33521_890164_b31_f14_001.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /image-index/419/
+    label: "Fig. 7.4"
+    caption: "Open letter from Jackson Mac Low to George Maciunas in response to Fluxus News—Policy Letter, no. 6, 25 April 1963. Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 14."
+    credit: "© Estate of Jackon Mac Low."
+    alt: "White page with black typewritten text in English. Top margin blank except for recipient address at left and sender address at right. “Dear George” on first line at top left followed by one column of all-capitalized text that uses thin margins and runs the length of the page. Several words underlined in black pen throughout."
 -
     id: "fig-8-1"
     old_id: "8.14"
@@ -827,13 +826,13 @@ figure_list:
 -
     id: "fig-8-2"
     old_id: "8.29-b"
-    src: figures/r2013910_2006_m_24_b1_f4_004.jpg
+    src: figures/r2013910_2006_m_24_b1_f4_006.jpg
     note: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/470/#fig-470-b
+    link: /image-index/470/#fig-470-d
     label: "Fig. 8.2"
     caption: "Yvonne Rainer (American, b. 1934), Notebook sketches for *Three Satie Spoons*, 1961. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 4."
     credit: "Used with Permission. © Yvonne Rainer."
@@ -849,7 +848,7 @@ figure_list:
     media_id: 
     link: /image-index/470/#fig-470-e
     label: "Fig. 8.3"
-    caption: "Yvonne Rainer (American, b. 1934), Notebook sketches for *Three Satie Spoons* and *Satie for Two*, 1961–62. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 4."
+    caption: "Yvonne Rainer (American, b. 1934), Notebook sketch for *The Bells*, 1961. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 4."
     credit: "Used with Permission. © Yvonne Rainer."
     alt: "Nineteen pages in bound notebook, shown in two-page spreads. First is the leading shown with back of notebook cover, followed by eight two-page spreads. Pages contain handwritten notes formatted in paragraphs, small figure drawings, numerical notation, and multicolor line diagrams. "
 -

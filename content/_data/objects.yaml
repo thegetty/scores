@@ -1882,12 +1882,12 @@ object_list:
     id: "125"
     old_id: "2.16c"
     maker: 
-    title: "David Tudor’s press kit"
+    title: "David Tudor’s press materials"
     date: "1959?"
     date_sort: ""
     year_filter: ""
     medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 52, folder 3"
+    location: "Getty Research Institute, David Tudor Papers, 980039, box 52, folder 7; and box 81, folder 14"
     extended_caption: ""
     credit: ""
     featured: 
@@ -3027,26 +3027,26 @@ object_list:
     date_sort: "1960-01-01"
     year_filter: [ "1960" ]
     medium: ""
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33"
+    location: ""
     extended_caption: ""
     credit: "© The Estate of Benjamin Patterson."
     featured: true
     type: [ score ]
-    figure: [ id: "fig-201" ]
+    figure: [ id: "fig-201-a", id: "fig-201-b" ]
 -
     id: "202"
     old_id: "4.06"
-    maker: [ "Ed Wallace" ]
-    title: "“War on the Keys: Above Ground Test Deactivates Piano,” *New York World-Telegram and Sun* "
-    date: "5 April 1960"
-    date_sort: "1960-04-05"
+    maker: [ "Benjamin Patterson (American, 1934–2016)" ]
+    title: "Typed score of *Paper Piece* in English"
+    date: "1960"
+    date_sort: "1960-01-01"
     year_filter: [ "1960" ]
     medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 1"
-    extended_caption: "Wallace had the benefit of having already read outraged reviews of David Tudor’s first recital at the Living Theatre, and here he aspires to make Tudor’s work better understood by his readers. Notably, he reproduces Sylvano Bussotti’s notation in the newspaper, a gesture that would give the piece’s visual artistry vastly farther reach than it would see in the hands of a publisher or Tudor himself."
+    location: ""
+    extended_caption: ""
     credit: "© The Estate of Benjamin Patterson."
     featured: 
-    type: [ press clipping ]
+    type: [ score ]
     figure: [ id: "fig-202" ]
 -
     id: "203"
@@ -3287,7 +3287,7 @@ object_list:
     credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ archival materials ]
-    figure: [ id: "fig-218" ]
+    figure: [ id: "fig-218-a", id: "fig-218-b" ]
 -
     id: "219"
     old_id: "4.15"
@@ -5549,7 +5549,7 @@ object_list:
     credit: "Courtesy of Billie Maciunas."
     featured: true
     type: [ press clipping ]
-    figure: [ id: "fig-368" ]
+    figure: [ id: "fig-368-a", id: "fig-368-b", id: "fig-368-c", id: "fig-368-d" ]
 -
     id: "369"
     old_id: "6.22a"

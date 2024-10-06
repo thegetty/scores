@@ -1411,7 +1411,7 @@ figure_list:
     alt: "Two-page spread of dark black lines gradually rising and falling over treble and bass staves."
 -
     id: "fig-003"
-    src: placeholder.jpg
+    src: figures/BrownEarle_December-1952_Prefatory-Note.jpg
     zoom: true
     poster: 
     media_type: 
@@ -6551,22 +6551,22 @@ figure_list:
     alt: ""
 -
     id: "fig-125-a"
-    src: placeholder.jpg
+    src: figures/r2017583_980039_b52_f7_001.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "White page with black typewritten text in English. One paragraph at top of page surrounded by wide margins. “Some 30-Minute Programs” appears at center followed by a double-spaced list of composition titles and corresponding composers, covering the bottom half of the page. "
+    alt: "White page with typewritten text in English. Title “Biographical Data – David Tudor” at center below top margin is followed by three paragraphs of text. Bottom quarter of page blank."
 -
     id: "fig-125-b"
-    src: placeholder.jpg
+    src: figures/r2017583_980039_b81_f14_001.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "White page with blue typewritten text in English. Title “Biographical Data – David Tudor” at center below top margin is followed by three paragraphs of text. Bottom quarter of page blank.  "
+    alt: "White page with black typewritten text in English. One paragraph at top of page surrounded by wide margins. “Some 30-Minute Programs” appears at center followed by a double-spaced list of composition titles and corresponding composers, covering the bottom half of the page."
 -
     id: "fig-126"
     src: figures/r2013669_980039_b55_f4_001.jpg
@@ -10465,8 +10465,8 @@ figure_list:
     label: ""
     alt: "White page with six vertical black printed staves and handwritten English language text in blue pen. Top quarter of page contains list of materials, each on their own line. Bottom three quarters of page contains three sections, each with heading (“Duration,” “Procedure,” and “Dynamics”) on left side of page followed by indented instructions. Procedure section covers over half of the page. “Köln August 1960” at bottom right."
 -
-    id: "fig-201"
-    src: placeholder.jpg
+    id: "fig-201-a"
+    src: figures/fig-201-a_AR832709.jpg
     zoom: true
     poster: 
     media_type: 
@@ -10474,8 +10474,17 @@ figure_list:
     label: ""
     alt: "White page with black handwritten text in English titled “‘Paper Piece’ for 1 to 5 performers” at top center. Page contains three sections with left-aligned headers “Instruments,” “Duration,” and “Procedure,” each followed by indented text list of instructions, some full sentences, others single words. Text runs the length of the page with procedure section covering more than two thirds of the page."
 -
+    id: "fig-201-b"
+    src: figures/fig-201-b_AR832710.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "White page with black handwritten text in English titled “(Paper Piece) -2-” at top center. Loose text runs the length of the page. The artist’s signature and a date are at the bottom."
+-
     id: "fig-202"
-    src: placeholder.jpg
+    src: figures/fig-202_AR832711.jpg
     zoom: true
     poster: 
     media_type: 
@@ -10825,17 +10834,26 @@ figure_list:
     label: ""
     alt: "White page with black typewritten text in English. Two columns run the length of the page and bisect it vertically. Title “Variations for Double-Bass” at top of first column followed by seventeen-point list of instructive sentences that continues into the second column. “cologne, 1961. revised Pittsburgh, 1962” at bottom of second column.  "
 -
-    id: "fig-218"
+    id: "fig-218-a"
     src: placeholder.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
-    alt: "Yellow legal pad page with typewritten text in English. Top fifth contains title and section titled procedure. Bottom four fifths contain two single spaced paragraphs that run the length of the page. Four sets of three numbers on left margin spaced at irregular intervals.  "
+    alt: "Yellow legal pad page with typewritten text in English. Top fifth contains title and section titled procedure. Bottom four fifths contain two single spaced paragraphs that run the length of the page. Four sets of three numbers on left margin spaced at irregular intervals."
+-
+    id: "fig-218-b"
+    src: figures/r2012829_890164_b41_f1_001.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Yellow legal pad page with typewritten text in English covering the top eighth of the page. The rest of the page is blank."
 -
     id: "fig-219"
-    src: placeholder.jpg
+    src: figures/r2012829_890164_b41_f1_002.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12195,7 +12213,7 @@ figure_list:
     alt: "White page flyer with black printed text in English. Title of performance, date, location, and time all at left in bold, all-lowercase font, spaced to cover length of page and interspersed with horizontal lines that span the width of the page, each marked with printed number at far right. Top right reads “seconds: 0.0.” Horizontal crease at center "
 -
     id: "fig-263-a"
-    src: placeholder.jpg
+    src: figures/r2014037_2006_m_27_b58_f20_003.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12204,7 +12222,7 @@ figure_list:
     alt: "White page with black typewritten text in English. “The Theater of Eternal Music” at center just below top quarter of page. Center of page contains four names loosely arranged in a square. Read clockwise: La Monte Young, John Cale, Marian Zazeela, and Tony Conrad, each with instruments used in the performance next to their name. Horizontal crease at center."
 -
     id: "fig-263-b"
-    src: placeholder.jpg
+    src: figures/r2014037_2006_m_27_b58_f20_004.jpg
     zoom: true
     poster: 
     media_type: 
@@ -12213,7 +12231,7 @@ figure_list:
     alt: "White page with black typewritten text in English. Page contains four left-aligned single-spaced paragraphs that run the length of the page. Horizontal crease at center."
 -
     id: "fig-263-c"
-    src: placeholder.jpg
+    src: figures/r2014037_2006_m_27_b58_f20_005.jpg
     zoom: true
     poster: 
     media_type: 
@@ -14768,7 +14786,7 @@ figure_list:
     alt: "Documentary photo of Drip Music assembled sculpture. At bottom right, a wet rag is draped over the handle of a watering can. At center left a painted sign of looping handwritten cursive reads “Goerge Brecht drip Music.” At top right a small light illuminates the scene, with the watering can gleaming underneath."
 -
     id: "fig-364"
-    src: placeholder.jpg
+    src: figures/r2017427_92_b17341_v4_002.jpg
     zoom: true
     poster: 
     media_type: 
@@ -14777,7 +14795,7 @@ figure_list:
     alt: "Typed page. First three lines list the date, time, and location of a performance at the Living Theatre. The next eleven double-spaced lines list the artists and pieces to be performed."
 -
     id: "fig-365"
-    src: placeholder.jpg
+    src: figures/r2017427_92_b17341_v4_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -14803,14 +14821,41 @@ figure_list:
     label: ""
     alt: "Notebook page with writing at top (some crossed out) and a star-shaped diagram at bottom with nodes “Composer,” “Notation,” “Performer,” “Sound,” “Listener,” when read clockwise beginning at the top center."
 -
-    id: "fig-368"
-    src: placeholder.jpg
+    id: "fig-368-a"
+    src: figures/r2015673_z232.h93_a1_1992_003.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: "Black and white collage of newspaper articles in English, German, Italian, and Danish featuring text columns, documentary photographs, article headlines, and newspaper titles on two leaves printed on both sides."
+-
+    id: "fig-368-b"
+    src: figures/r2015673_z232.h93_a1_1992_004.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Black and white collage of newspaper articles in English, German, Italian, and Danish featuring text columns, documentary photographs, article headlines, and newspaper titles."
+-
+    id: "fig-368-c"
+    src: figures/r2015673_z232.h93_a1_1992_001.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Black and white collage of newspaper articles in English, German, Italian, and Danish featuring text columns, documentary photographs, article headlines, and newspaper titles."
+-
+    id: "fig-368-d"
+    src: figures/r2015673_z232.h93_a1_1992_002.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: "Black and white collage of newspaper articles in English, German, Italian, and Danish featuring text columns, documentary photographs, article headlines, and newspaper titles."
 -
     id: "fig-369-a"
     src: figures/r2011929_890164_b30_f31_001.jpg
@@ -17045,7 +17090,7 @@ figure_list:
     alt: "White page in spiral bound notepad with blue handwritten text in English. Divided down center, top left titled “LEGS,” top right titled “FEET.” Lists of verbs and short sentences below each."
 -
     id: "fig-469"
-    src: placeholder.jpg
+    src: figures/r768971_2006_m_24_b31b_f20_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -19405,7 +19450,7 @@ figure_list:
     alt: ""
 -
     id: "fig-528"
-    src: placeholder.jpg
+    src: figures/fig-528_AR832708.jpg
     zoom: true
     poster: 
     media_type: 
@@ -21377,7 +21422,7 @@ figure_list:
     alt: "White page with black print in English. Paragraphs of text cover top half of page. Bottom half of page contains signatures of Carl A. Viggiani and Allan Kaprow. "
 -
     id: "fig-596-a"
-    src: placeholder.jpg
+    src: figures/r2016487_980063_b14_f1_005.jpg
     zoom: true
     poster: 
     media_type: 

@@ -97,8 +97,8 @@ object_list:
     maker: [ "Kurt Schwitters (German, 1887–1948)" ]
     title: "*Ursonate*, in *Merz* 24 (Hanover, 1932)"
     date: "1922–32"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1922-01-01"
+    year_filter: [ "1922", "1923", "1924", "1925", "1926", "1927", "1928", "1929", "1930", "1931", "1932" ]
     medium: ""
     location: ""
     extended_caption: "Kurt Schwitters’s *Ursonate* is a forty-minute phonetic poem and is representative of Dadaism. It was first published in the magazine *Merz* in 1932. Schwitters coined the term *Merz* based on an advertisement he saw in *Kommerzbank*. The concept is present in all of Schwitters’s artistic works. "
@@ -352,8 +352,8 @@ object_list:
     maker: [ "Morton Feldman (American, 1926–87)" ]
     title: "Transparency sheet with graph guidelines"
     date: "early 1950s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1950-01-01"
+    year_filter: [ "1950", "1951", "1952", "1953", "1954" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 26B"
     extended_caption: "This was likely an aid to making an early graph score, such as Morton Feldman’s [*Projection 1*](/image-index/046/)."
@@ -472,8 +472,8 @@ object_list:
     maker: 
     title: "“Merce Cunningham of New York”"
     date: "August 1953?"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1953-08-01"
+    year_filter: [ "1953" ]
     date_end: 31 August 1953?
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
@@ -683,8 +683,8 @@ object_list:
     maker: [ "Morton Feldman (American, 1926–87)" ]
     title: "Embryonic graph score, likely for *Projection 1*"
     date: "early 1950s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1950-01-01"
+    year_filter: [ "1950", "1951", "1952", "1953", "1954" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 30"
     extended_caption: "This early graph score by Morton Feldman was likely an early sketch for his first completed graph score, [*Projection 1*](/image-index/046/)."
@@ -728,8 +728,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "Realization of Morton Feldman’s *Intersection +* (Sketches of Numbered Boxes)"
     date: "ca. 1953"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1953-01-01"
+    year_filter: [ "1953" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 25"
     extended_caption: ""
@@ -743,8 +743,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "Realization of Morton Feldman’s *Intersection +* (Sketches of Clusters)"
     date: "ca. 1953"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1953-01-01"
+    year_filter: [ "1953" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 25"
     extended_caption: ""
@@ -758,8 +758,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "Realization of Morton Feldman’s *Intersection +* (Quarter-note Realization)"
     date: "ca. 1953"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1953-01-01"
+    year_filter: [ "1953" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 25"
     extended_caption: ""
@@ -803,8 +803,8 @@ object_list:
     maker: [ "Morton Feldman (American, 1926–87)" ]
     title: "*Intersection 2*"
     date: "ca. 1951–52"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1951-01-01"
+    year_filter: [ "1951", "1952" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 26"
     extended_caption: "This is an early graph score by Morton Feldman similar in style to *Intersection 3*, although with more silence, a slower tempo, and fewer notes."
@@ -818,8 +818,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "Realization of Morton Feldman’s *Intersection 2*"
     date: "early 1950s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1950-01-01"
+    year_filter: [ "1950", "1951", "1952", "1953", "1954" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 26"
     extended_caption: "This is likely David Tudor’s first attempt at a realization of any indeterminate score. It was notated in a bound book of staff paper. For his realization of John Cage’s scores in the mid- to late 1950s, Tudor would eventually come to use short, loose staff paper sheets on relatively thicker cardstock. These realizations on cardstock could be reshuffled and bound in various orders."
@@ -848,8 +848,8 @@ object_list:
     maker: 
     title: "David Tudor performing in Spain"
     date: "1950s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1950-01-01"
+    year_filter: [ "1950", "1951", "1952", "1953", "1954", "1955", "1956", "1957", "1958", "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 158"
     extended_caption: ""
@@ -863,8 +863,8 @@ object_list:
     maker: 
     title: "David Tudor as a young man at the piano"
     date: "1950s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1950-01-01"
+    year_filter: [ "1950", "1951", "1952", "1953", "1954", "1955", "1956", "1957", "1958", "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 158"
     extended_caption: ""
@@ -878,8 +878,8 @@ object_list:
     maker: 
     title: "David Tudor as young man at the piano"
     date: "1950s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1950-01-01"
+    year_filter: [ "1950", "1951", "1952", "1953", "1954", "1955", "1956", "1957", "1958", "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 158"
     extended_caption: ""
@@ -893,8 +893,8 @@ object_list:
     maker: 
     title: "Christian Wolff, Earle Brown, John Cage, David Tudor, and Morton Feldman at the Capitol Records building in New York"
     date: "ca. 1953"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1953-01-01"
+    year_filter: [ "1953" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 166"
     extended_caption: "An iconic photograph of David Tudor with the New York School of composers."
@@ -908,8 +908,8 @@ object_list:
     maker: [ "John Cage (American, 1912–92)" ]
     title: "David Tudor’s copy of John Cage’s *Solo for Piano*, from *Concert for Piano and Orchestra*"
     date: "1957–58"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1957-01-01"
+    year_filter: [ "1957", "1958" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 176, folders 1–2"
     extended_caption: "This is David Tudor’s copy of John Cage’s *Solo for Piano*, copied out in Cage’s trademark penmanship, which features capital letters with exaggerated serifs. Marveling at the score can be an overwhelming experience; the notation asks us to puzzle over an exceedingly complicated set of rules and procedures. Following the title page, Cage’s score includes two introductory pages of lettered directions that serve as a key for deciphering the lettered graphs that follow. Each graph, paired with its corresponding instructions, thus functions as its own self-contained mini score. Globally, there is a playful sense of inventiveness and creativity to the visual language of Cage’s graphs. In fact, spurred by the encouragement of Jasper Johns and Robert Rauschenberg, the score for *Concert for Piano and Orchestra* was exhibited at a midtown gallery in New York just prior to the Town Hall premiere, and it was thus Cage’s first score to be [publicly appreciated as visual art](/image-index/095/). Though many of the *Concert*’s graphs are quite indeterminate, leaving many of the compositional process up to the performer, Tudor’s performances turned out a certain consistent impression; reviewers attested that the *Solo for Piano* sounded “mixed-up,” and that it evoked “anarchy,” a sense of psychosis, or even a “jungle.”"
@@ -923,8 +923,8 @@ object_list:
     maker: [ "John Cage (American, 1912–92)" ]
     title: "David Tudor’s copy of the conductor’s part for *Concert for Piano and Orchestra*"
     date: "1957–58"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1957-01-01"
+    year_filter: [ "1957", "1958" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7, folder 2"
     extended_caption: ""
@@ -938,8 +938,8 @@ object_list:
     maker: [ "John Cage (American, 1912–92)" ]
     title: "Bassoon and baritone saxophone parts from *Concert for Piano and Orchestra*"
     date: "1957–58"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1957-01-01"
+    year_filter: [ "1957", "1958" ]
     medium: ""
     location: ""
     extended_caption: "The thirteen orchestral parts for the *Concert* are essentially solo instrument parts with single attacks and a wide range of extended techniques. Many of them were created in conversation with individual performers who introduced John Cage to various nontraditional possibilities of each instrument. The performances of these parts displeased Cage. As the recordings featured here attest, these performers often played loudly and frequently competed with David Tudor. Some players strayed from the score with what Cage later described as “unprofessional” and “foolish” playing. Some responsibility for the difficulties seemed to lie with Cage; indeed, he was unaccustomed to writing for an orchestra, and the piece’s lack of traditional orchestration was inevitably going to lead to the different sounds stepping on one another’s toes. We might speculate: Did Cage realize he needed a stronger (dare we say “intentional” or “expressive”) hand in sculpting the result? Whatever the case, the difficulties exemplify a recurring problem Cage had when he was not working with trusted collaborators like Tudor. For his book *Experimentalism Otherwise* (2011) Benjamin Piekut interviewed the original performers from the New York Philharmonic who participated in the slightly later, and even more controversial, premiere of *Atlas Eclipticalis* (1964) under the direction of Leonard Bernstein."
@@ -953,8 +953,8 @@ object_list:
     maker: [ "John Cage (American, 1912–92)" ]
     title: "Trumpet part from *Concert for Piano and Orchestra*"
     date: "1957–58"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1957-01-01"
+    year_filter: [ "1957", "1958" ]
     medium: ""
     location: ""
     extended_caption: ""
@@ -1405,8 +1405,8 @@ object_list:
     maker: [ "John Cage (American, 1912–92)", "Richard Kostelanetz (b. 1940)" ]
     title: "Liner notes for *Indeterminacy* recording"
     date: "1959; reissued 1992"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: ""
     extended_caption: ""

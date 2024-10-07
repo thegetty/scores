@@ -1654,11 +1654,11 @@ figure_list:
     alt: ""
 -
     id: "fig-019"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/feldman--intersection-3.jpg
+    media_type: vimeo
+    media_id: 1017139771/6dffe81ef4
     label: ""
     alt: ""
 -
@@ -5515,47 +5515,47 @@ figure_list:
     alt: ""
 -
     id: "fig-068"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/cage--j--1958.jpg
+    media_type: vimeo
+    media_id: 1016762190/eeb352929c
     label: ""
     alt: ""
 -
     id: "fig-069"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/cage--k.jpg
+    media_type: vimeo
+    media_id: 1016762452/24aa0554b7
     label: ""
     alt: ""
 -
     id: "fig-070"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/cage--t.jpg
+    media_type: vimeo
+    media_id: 1016762480/2631b82368
     label: ""
     alt: ""
 -
     id: "fig-071"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/cage--ay.jpg
+    media_type: vimeo
+    media_id: 1016762098/16c60848ec
     label: ""
     alt: ""
 -
     id: "fig-072"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/cage--ce.jpg
+    media_type: vimeo
+    media_id: 1016762136/3ef9e85886
     label: ""
     alt: ""
 -
@@ -5567,16 +5567,16 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
-# REMOVED
-# -
-#     id: "fig-074"
-#     src: placeholder.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: ""
+# Original fig. 074 was replaced with this one
+-
+    id: "fig-074"
+    src: 
+    zoom: 
+    poster: figures/cage--j--1964.jpg
+    media_type: vimeo
+    media_id: 1016762239/15591e8104
+    label: ""
+    alt: ""
 -
     id: "fig-075"
     src: 
@@ -9539,11 +9539,11 @@ figure_list:
     alt: ""
 -
     id: "fig-162"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/bussotti--no-3.jpg
+    media_type: vimeo
+    media_id: 1016761837/823884e752
     label: ""
     alt: ""
 -
@@ -14811,15 +14811,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Black and white photograph of outdoor faucet set up in front of a wall. A small metal basin rests on the grass under a spigot mounted high above, attached to the top of a remarkably tall length of pipe that is mounted to an equally tall slab of wood."
--
-    id: "fig-367"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Notebook page with writing at top (some crossed out) and a star-shaped diagram at bottom with nodes “Composer,” “Notation,” “Performer,” “Sound,” “Listener,” when read clockwise beginning at the top center."
+# REMOVED
+# -
+#     id: "fig-367"
+#     src: placeholder.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Notebook page with writing at top (some crossed out) and a star-shaped diagram at bottom with nodes “Composer,” “Notation,” “Performer,” “Sound,” “Listener,” when read clockwise beginning at the top center."
 -
     id: "fig-368-a"
     src: figures/r2015673_z232.h93_a1_1992_003.jpg
@@ -17701,15 +17702,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "White page in magazine with one justified paragraph of black print in English on top third of page. “Emmet Williams” at left center followed by poem beginning with four words running the length of the page, slowly tapering to one letter on last line. “184” at bottom left."
--
-    id: "fig-480"
-    src: figures/grl_91-b35085-cover.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Black and white print book cover with portrait-oriented photograph of a man facing away from camera toward an indoor deli counter. Handwritten text bubble above his head reads “A tunafish sand on wheat toast, lettuce and butter, no mayo. A cuppa zoup.” “Journal of the Identical Lunch by Alison Knowles” on bottom quarter in white print on black background. "
+# REMOVED (Cover of 511)
+# -
+#     id: "fig-480"
+#     src: figures/grl_91-b35085-cover.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Black and white print book cover with portrait-oriented photograph of a man facing away from camera toward an indoor deli counter. Handwritten text bubble above his head reads “A tunafish sand on wheat toast, lettuce and butter, no mayo. A cuppa zoup.” “Journal of the Identical Lunch by Alison Knowles” on bottom quarter in white print on black background. "
 -
     id: "fig-481"
     src: 
@@ -20620,11 +20622,11 @@ figure_list:
     alt: "Grey, white-flecked page with black handwritten text in English addressed “Dear George” at top left followed by text column that fills the length of the page. Signed “All my love, Mieko” below text, aligned right. "
 -
     id: "fig-555"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/Bahto_Mirror_Piece_final.jpg
+    media_type: vimeo
+    media_id: 1016759692/758838a07
     label: ""
     alt: "Color video showing sequential, individual episodes of three different women holding and regarding their face in a rectangular piece of mirror as they walk backwards on a beach, into the water. In some moments, the woman’s mirror reveals the cameraman recording her. The women appear to be performing this action on different beaches across the Californian coast. We also see a man, formerly the cameraman recording the women, performing the task while videoing himself with a smartphone enclosed in a plastic bag."
 -
@@ -20726,15 +20728,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Landscape-oriented black and white photograph of woman sat behind table at left and man with film camera turned to film woman at left. Audio equipment at center on table. Back of head wearing headphones out of focus in central foreground. "
--
-    id: "fig-567"
-    src: figures/gri_980063_b24_f09_054_mm.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Landscape-oriented black and white photograph of six people arranged in a clump and smiling to camera. Shot from chest up. "
+# REMOVED (Dupe of 607)
+# -
+#     id: "fig-567"
+#     src: figures/gri_980063_b24_f09_054_mm.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Landscape-oriented black and white photograph of six people arranged in a clump and smiling to camera. Shot from chest up. "
 -
     id: "fig-568"
     src: figures/still-kaprow-routine.jpg

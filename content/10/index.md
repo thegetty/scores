@@ -28,6 +28,7 @@ playback:
     - id: "528"
     - id: "529"
     - id: "530"
+    - id: "555"
 archive: 
   contributor:
   groups:
@@ -75,7 +76,7 @@ archive:
     # - heading: "Sketches and materials"
     #   objects:
     #     - id: ""
-    - heading: "Video"
-      objects:
-        - id: "555"
+    # - heading: "Video"
+    #   objects:
+    #     - id: ""
 ---

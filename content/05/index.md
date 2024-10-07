@@ -32,6 +32,7 @@ playback:
     - id: "252"
     - id: "253"
     - id: "254"
+    - id: "356"
 archive: 
   contributor:
     - id: mgallope
@@ -39,6 +40,7 @@ archive:
   groups:
     - heading: "Programs and flyers"
       objects:
+        - id: "229"
         - id: "255"
         - id: "256"
         - id: "257"

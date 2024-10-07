@@ -20,6 +20,7 @@ score:
     - id: "200"
     - id: "201"
     - id: "202"
+    - id: "228"
 playback:
   objects:
     - id: "203"
@@ -35,9 +36,7 @@ archive:
   groups:
     - heading: "Programs and flyers"
       objects:
-        - id: "211"
         - id: "223"
-        - id: "229"
         - id: "236"
     - heading: "Photographs"
       objects:
@@ -71,7 +70,6 @@ archive:
         - id: "217"
         - id: "226"
         - id: "227"
-        - id: "228"
     # - heading: "Sketches and materials"
     #   objects:
     #     - id: ""

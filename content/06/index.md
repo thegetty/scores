@@ -27,7 +27,6 @@ playback:
     - id: "353"
     - id: "354"
     - id: "355"
-    - id: "356"
     - id: "357"
 archive: 
   contributor:
@@ -85,7 +84,7 @@ archive:
         - id: "401"
     - heading: "Sketches and materials"
       objects:
-        - id: "367"
+        - id: "007"
         - id: "384"
         - id: "385"
         - id: "386"

@@ -110,13 +110,13 @@ object_list:
     id: "007"
     old_id: "0.07"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    title: "Page of notes from  John Cage’s course in experimental composition"
-    date: "July 1959"
+    title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 127"
+    date: "ca. late July 1959"
     date_sort: "1959-07-01"
     year_filter: [ "1959" ]
     medium: ""
-    location: "*George Brecht Notebooks*, vol. 3, *April–August 1959*, ed. Dieter Daniels with collaboration of Hermann Braun (Cologne: Walther König, 1991)"
-    extended_caption: ""
+    location: "Getty Research Institute, item 92-B17341, vol. 3"
+    extended_caption: "George Brecht’s notes on this page read: “We seldom find it practical to think in uni-dimensional terms, because of this situationality, this awareness of many dimensions, but analysis never seems very interesting until it becomes so complex that it flows out into experience. We take the experience, and let it go at that. So many relationships.”"
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ archival materials ]
@@ -1112,6 +1112,22 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-073" ]
+# Original fig. 074 was replaced with this one:
+-
+    id: "074"
+    old_id: ""
+    maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
+    title: "Animation of David Tudor’s realization of graph J of the *Solo for Piano*"
+    date: "1964"
+    date_sort: "1964-01-01"
+    year_filter: [ "1964" ]
+    medium: ""
+    location: ""
+    extended_caption: ""
+    credit: ""
+    featured: 
+    type: [ digital feature ]
+    figure: [ id: "fig-074" ]
 # REMOVED
 # -
 #     id: "074"
@@ -3168,21 +3184,22 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-210-d", id: "fig-210-e", id: "fig-210-f", id: "fig-210-g", id: "fig-210-b", id: "fig-210-c", id: "fig-210-h", id: "fig-210-a" ]
--
-    id: "211"
-    old_id: "4.12"
-    maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    title: "Program and flyer for a performance of *Paper Piece* and *Décollages* at the Haro Lauhus gallery in Cologne"
-    date: "May 1961"
-    date_sort: "1961-05-01"
-    year_filter: [ "1961" ]
-    medium: ""
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 41, folder 4"
-    extended_caption: ""
-    credit: ""
-    featured: 
-    type: [ programs and flyers ]
-    figure: [ id: "fig-211" ]
+# REMOVED
+# -
+#     id: "211"
+#     old_id: "4.12"
+#     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
+#     title: "Program and flyer for a performance of *Paper Piece* and *Décollages* at the Haro Lauhus gallery in Cologne"
+#     date: "May 1961"
+#     date_sort: "1961-05-01"
+#     year_filter: [ "1961" ]
+#     medium: ""
+#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 41, folder 4"
+#     extended_caption: ""
+#     credit: ""
+#     featured: 
+#     type: [ programs and flyers ]
+#     figure: [ id: "fig-211" ]
 -
     id: "212"
     old_id: "4.13a"
@@ -5519,22 +5536,23 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-366" ]
--
-    id: "367"
-    old_id: "6.20"
-    maker: [ "George Brecht (American, 1926–2008)" ]
-    title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 127"
-    date: "ca. late July 1959"
-    date_sort: ""
-    year_filter: ""
-    date_end: 31 ca. late July 1959
-    medium: ""
-    location: "Getty Research Institute, item 92-B17341, vol. 3"
-    extended_caption: "George Brecht’s notes on this page read: “We seldom find it practical to think in uni-dimensional terms, because of this situationality, this awareness of many dimensions, but analysis never seems very interesting until it becomes so complex that it flows out into experience. We take the experience, and let it go at that. So many relationships.”"
-    credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
-    featured: 
-    type: [ sketches and materials ]
-    figure: [ id: "fig-367" ]
+# REMOVED (Dupe of 007)
+# -
+#     id: "367"
+#     old_id: "6.20"
+#     maker: [ "George Brecht (American, 1926–2008)" ]
+#     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 127"
+#     date: "ca. late July 1959"
+#     date_sort: ""
+#     year_filter: ""
+#     date_end: 31 ca. late July 1959
+#     medium: ""
+#     location: "Getty Research Institute, item 92-B17341, vol. 3"
+#     extended_caption: "George Brecht’s notes on this page read: “We seldom find it practical to think in uni-dimensional terms, because of this situationality, this awareness of many dimensions, but analysis never seems very interesting until it becomes so complex that it flows out into experience. We take the experience, and let it go at that. So many relationships.”"
+#     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
+#     featured: 
+#     type: [ sketches and materials ]
+#     figure: [ id: "fig-367" ]
 -
     id: "368"
     old_id: "6.21"
@@ -7244,21 +7262,22 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-479-a", id: "fig-479-b", id: "fig-479-c" ]
--
-    id: "480"
-    old_id: "9.06"
-    maker: [ "Alison Knowles (American, b. 1933)" ]
-    title: "Cover of *Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971)"
-    date: "1971"
-    date_sort: "1971-01-01"
-    year_filter: [ "1971" ]
-    medium: ""
-    location: ""
-    extended_caption: ""
-    credit: "Nova Broadcast Press. © Alison Knowles."
-    featured: 
-    type: [ score ]
-    figure: [ id: "fig-480" ]
+# REMOVED (Cover of 511)
+# -
+#     id: "480"
+#     old_id: "9.06"
+#     maker: [ "Alison Knowles (American, b. 1933)" ]
+#     title: "Cover of *Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971)"
+#     date: "1971"
+#     date_sort: "1971-01-01"
+#     year_filter: [ "1971" ]
+#     medium: ""
+#     location: ""
+#     extended_caption: ""
+#     credit: "Nova Broadcast Press. © Alison Knowles."
+#     featured: 
+#     type: [ score ]
+#     figure: [ id: "fig-480" ]
 -
     id: "481"
     old_id: "9.07a"
@@ -8384,9 +8403,9 @@ object_list:
     extended_caption: |
       The original instructions for *Mirror Piece* (1963) by Mieko Shiomi read:
       
-      > Stand on the sandy beach with your back to the sea.
-      > Hold a mirror before your face and look in it.
-      > Then step back to the sea and enter into the water.
+      > - Stand on the sandy beach with your back to the sea.
+      > - Hold a mirror before your face and look in it.
+      > - Then step back to the sea and enter into the water.
       
       Here the piece is performed by Tatiana Luboviski-Acosta, Taylor Doran, Yvonne Tam, and Dicky Bahto at various locations along the Pacific Coast.
     credit: "Used by permission of Dicky Bahto & Mieko Shiomi."
@@ -8558,21 +8577,22 @@ object_list:
     featured: true
     type: [ photograph ]
     figure: [ id: "fig-566" ]
--
-    id: "567"
-    old_id: "11.09"
-    maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    title: "The crew of the film *Routine* (1973) at the Portland Center for the Visual Arts"
-    date: "1973"
-    date_sort: "1973-01-01"
-    year_filter: [ "1973" ]
-    medium: ""
-    location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-    extended_caption: ""
-    credit: ""
-    featured: 
-    type: [ photograph ]
-    figure: [ id: "fig-567" ]
+# REMOVED (Dupe of 607)
+# -
+#     id: "567"
+#     old_id: "11.09"
+#     maker: [ "Allan Kaprow (American, 1927–2006)" ]
+#     title: "The crew of the film *Routine* (1973) at the Portland Center for the Visual Arts"
+#     date: "1973"
+#     date_sort: "1973-01-01"
+#     year_filter: [ "1973" ]
+#     medium: ""
+#     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
+#     extended_caption: ""
+#     credit: ""
+#     featured: 
+#     type: [ photograph ]
+#     figure: [ id: "fig-567" ]
 -
     id: "568"
     old_id: "11.10"

@@ -27,6 +27,7 @@ score:
 playback:
   objects:
     - id: "068"
+    - id: "074"
     - id: "069"
     - id: "070"
     - id: "071"

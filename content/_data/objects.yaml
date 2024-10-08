@@ -7012,8 +7012,8 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     title: "“Materials for Performance,” notes for a workshop in Yvonne  Rainer’s studio"
     date: "ca. 1969"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1969-01-01"
+    year_filter: [ "1969" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 6"
     extended_caption: ""
@@ -7057,8 +7057,8 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     title: "Notes on arms, hands, legs, and feet, from Yvonne Rainer’s dance scripts notebook"
     date: "ca. 1962"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1962-01-01"
+    year_filter: [ "1962" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10"
     extended_caption: "These notebook pages show Yvonne Rainer using language as a tool to both deconstruct and rediscover the body’s possibilities for movement, much like the American sculptor Richard Serra would do in 1967 with his text piece *Verb List*, which spells out the available terms of his sculptural process. Rainer’s notes evoke the intertwined conversations between dance, object-making, poetry, and music in this time period and point to the underacknowledged influence of dance in particular on the minimal and postminimal art forms that would appear later in the decade."
@@ -7072,8 +7072,8 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     title: "Notes related to *Three Satie Spoons*, *The Bells*, and *Ordinary Dance*"
     date: "1961–62"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961", "1962" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 1"
     extended_caption: ""
@@ -7117,8 +7117,8 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     title: "Notebook sketches for *Three Satie Spoons* and *Satie for Two*"
     date: "1961–62"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961", "1962" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 4"
     extended_caption: "These notebook sketches show Yvonne Rainer combining multiple forms of scoring and description in order to articulate the dances *Three Satie Spoons* (1961), *The Bells* (1961), and [*Satie for Two*](/image-index/452/) (1962). There are aerial views of a hypothetical performance space marked by lines showing the trajectories of individual dancers. Color-coded tables list out the count lengths of certain movement sequences. Figure studies and stick figures show how a body should pose at specific moments. And there are elaborate textual descriptions that read as if Rainer were speaking them aloud as she was teaching or watching the dance."
@@ -7147,8 +7147,8 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     title: "Notes related to *The Mind Is a Muscle*, including *Trio A* and *Trio B*"
     date: "1965–66"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1965-01-01"
+    year_filter: [ "1965", "1966" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 9"
     extended_caption: "These notebook pages contain some of Yvonne Rainer’s earliest narrative descriptions of the choreography for [*Trio A*](/image-index/440/) (1966) and [*Trio B*](/image-index/454/) (1968), as well as ideas for how to engage with objects, sound, and light, which all come into play in her evolving multimedia work [*The Mind Is a Muscle*](/image-index/456/) (1966–68)."
@@ -7162,8 +7162,8 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)", "Melanie Clark and Joukje Kolff (notators)" ]
     title: "Labanotation score for Yvonne Rainer’s *Trio A* (1966), as performed at London International Summer School"
     date: "2003–5"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "2003-01-01"
+    year_filter: [ "2003", "2004", "2005" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 8"
     extended_caption: "This score for [*Trio A*](/image-index/440/) was created by notators trained in Labanotation, a form of dance notation first developed by the Austro-Hungarian dance theorist Rudolf von Laban in the 1920s. Labanotation remains the most widely used standardized form of dance notation that exists, although it has not been adopted to the extent that staff notation has in the discipline of music. In the main, dance practitioners rely on rehearsal, muscle memory, and body-to-body transmission alongside moving-image documentation and personal note-taking systems. Yvonne Rainer has written: “If the thought of having *Trio A* Laban notated had ever crossed my mind, it was only with the conviction that such a venture would be quite impossible. The subtleties and dynamics of this dance, performed without the structuring support of a musical score, seemed outside the domain of any graphic notation system. But when the opportunity arose in conjunction with teaching *Trio A* at the Greenwich Dance Agency in the summer of 2003, I did not object; in fact, I was curious. The notators were Joukje Kolff and Melanie Clarke. Their intense devotion to and completion of the task have given rise to some ruminations about conservation and immortality” (Rainer, “*Trio A*: Genealogy, Documentation, Notation,” *Dance Research Journal* 41, no. 2 [Winter 2009]: 16). "
@@ -7253,8 +7253,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "“Journal of the Identical Lunch,” *The Outsider* 2, no. 4/5 (Winter 1968/69): 182–84"
     date: "1968–69"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1968-01-01"
+    year_filter: [ "1968", "1969" ]
     medium: ""
     location: ""
     extended_caption: "Alison Knowles first published the score for *The Identical Lunch* in the last issue of *The Outsider*, a primarily Beat literary magazine published in small batches by Gypsy Lou and Jon Edgar Webb of the Loujon Press in New Orleans. Knowles’s text is joined by the work of colleagues Allan Kaprow, Dick Higgins, Jackson Mac Low, and Emmett Williams, but the more numerous texts by Beat writers in the issue strike an instructive counterpoint to Knowles’s quasi-objective and seemingly systematic reporting. While the Beat writers similarly dwell on everyday life in artist enclaves and working-class neighborhoods, they do so in a lyrical and markedly subjective way."
@@ -7330,8 +7330,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "*George Maciunas Performs The Identical Lunch*"
     date: "1969, realized 1973"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1969-01-01"
+    year_filter: [ "1969", "1973" ]
     medium: "screenprint with hand additions"
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/image-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
@@ -7345,8 +7345,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "*Unidentified Woman Performs The Identical Lunch*"
     date: "1969, realized 1973"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1969-01-01"
+    year_filter: [ "1969", "1973" ]
     medium: "screenprint with hand additions"
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/image-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
@@ -7360,8 +7360,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "*Shigeko Kubota Performs The Identical Lunch*"
     date: "1969, realized 1973"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1969-01-01"
+    year_filter: [ "1969", "1973" ]
     medium: "screenprint with hand additions"
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/image-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
@@ -7375,8 +7375,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "*Anne Brazeau Performs The Identical Lunch*"
     date: "1969, realized 1973"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1969-01-01"
+    year_filter: [ "1969", "1973" ]
     medium: "screenprint with hand additions"
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/image-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
@@ -7390,8 +7390,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "Letter from Alison Knowles to Jean Brown"
     date: "5 August ca. 1970s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1970-08-05"
+    year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
     date_end: 31 5 August ca. 1970s
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 36"
@@ -7421,8 +7421,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)", "Pauline Oliveros (American, 1932–2016)" ]
     title: "*Postcard Theatre*"
     date: "ca. 1970s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1970-01-01"
+    year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
     medium: "offset"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 36"
     extended_caption: "In the 1970s, Alison Knowles collaborated with the important experimental composer and self-identified lesbian Pauline Oliveros on the feminist *Postcard Theatre.* In the examples here, the most famous composers of Western concert music—all male—are boldly dismissed as lowly, laboring women (“a two-penny harlot,” “a Black Irish washerwoman,” “a mother,” “dishpan hands”). Photographs of Pauline Oliveros as a swaggering girl with a dagger and Knowles as a surly baby, as well as of Knowles’s young daughters absorbed in their own playing, ironically assert the existence (past and future) of women composers despite systemic gender discrimination."
@@ -7466,8 +7466,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "*Bean Sequences* booklet"
     date: "ca. 1981"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1981-01-01"
+    year_filter: [ "1981" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 37"
     extended_caption: ""
@@ -7616,8 +7616,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
     date: "April ca. 1963"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1963-04-01"
+    year_filter: [ "1963" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 55, folder 14"
     extended_caption: ""
@@ -7631,8 +7631,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
     date: "n.d. (ca. 1963)"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1963-01-01"
+    year_filter: [ "1963" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 55, folder 14"
     extended_caption: "In this letter to Emmett Williams, Alison Knowles describes an early work, [*BLINK*](/image-index/505/) (1963), that demonstrates the force and impossibility of “the identical,” for which she, George Brecht, and Robert Watts created “10 perfectly identical paintings. . . . Each of us is doing a strip 6” wide, on an 18” square. The idea of this is something like an anti-gallery thing, anti-painting too. . . . These paintings could be easily duplicated for anyone at 10 or 15 bucks apiece. Since they are scrupulously identical, all the gallery has, Ferus or 3rd rail or Kornblee or what have you, is one of a few examples. It sort of undermines the whole gallery prestige thing entirely.” Here Knowles indicates that her exploration of “the identical” is at the same time a critique of the commodification of art. In this letter Knowles also offers a vivid description of the performances she saw at the YAM Festival. Her tepid appraisal of Allan Kaprow’s *Tree* (1963), “one of his large scale vaguely allegorical things,” hints at a future divide between those artists who identified with Fluxus and those who identified with “happenings.”"
@@ -7646,8 +7646,8 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
     date: "n.d. [“Saturday night,” ca. 1963]"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1963-01-01"
+    year_filter: [ "1963" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 55, folder 14"
     extended_caption: "In this letter to Emmett Williams, Alison Knowles describes her experience of performing a series of Fluxus scores, as well as her observations of the audience’s responses, from “unruly and tittering” to quiet and calm. She also describes an early project, called the *Scissor Bros. Warehouse Sale* (1963), that demonstrates the force and impossibility of “the identical,” for which she, George Brecht, and Robert Watts created “fifty identical paintings all baring, bearing? [*sic*] the same print in a variety of colors and sizes.”"
@@ -7676,8 +7676,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "Recipe for Rum Coconut"
     date: "ca. 1960s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: "typed index card"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 99, folder 2"
     extended_caption: "At a time when mainstream restaurants serving international foods were relatively uncommon, David Tudor shared an enthusiasm for cooking international cuisines with John Cage. In a 1987 interview with Peter Dickinson, Tudor compared cooking Indian food to the transformations of mentality required by Cage’s chance-derived scores. During the 1960s, when short, typewritten event scores became a salient mode of experimentation, Tudor’s recipes appear remarkably score-like, in a way that echoes [Knowles’s focus on everyday food preparation](/image-index/479/) as material for performances."
@@ -7691,8 +7691,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "Recipe for Milk au Diable"
     date: "ca. 1960s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: "typed index card"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 99, folder 2"
     extended_caption: "At a time when mainstream restaurants serving international foods were relatively uncommon, David Tudor shared an enthusiasm for cooking international cuisines with John Cage. In a 1987 interview with Peter Dickinson, Tudor compared cooking Indian food to the transformations of mentality required by Cage’s chance-derived scores. During the 1960s, when short, typewritten event scores became a salient mode of experimentation, Tudor’s archive of recipes appear remarkably score-like, in a way that echoes [Knowles’s focus on everyday food preparation](/image-index/479/) as material for performances."
@@ -7796,8 +7796,8 @@ object_list:
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     title: "List of participants in *Spatial Poem (Nos. 1–4)*"
     date: "ca. 1972"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1972-01-01"
+    year_filter: [ "1972" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
     extended_caption: "This flyer was mailed to [*Spatial Poem*](/image-index/530/#fig-530-g) (1965–75) participants after the completion of the fourth event, probably sometime in 1972. It shows that Mieko Shiomi was at the time based in Osaka and that George Maciunas had committed to designing “special issues” of each event’s collected reports. One hundred sixty-seven visual artists, musicians, composers, dancers, poets, filmmakers, gallerists, and other interlocutors are named. By listing out the names of all Shiomi’s collaborators up to that point, the document served to reflect the artist’s expansive international network back to itself."
@@ -7841,8 +7841,8 @@ object_list:
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     title: "Promotional postcard for *Complete Works: Spatial Poem*"
     date: "ca. 1976"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1976-01-01"
+    year_filter: [ "1976" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
     extended_caption: ""
@@ -8051,8 +8051,8 @@ object_list:
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     title: "Untitled"
     date: "ca. 1975"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1975-01-01"
+    year_filter: [ "1975" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
     extended_caption: ""
@@ -8066,8 +8066,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1963"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1963-01-01"
+    year_filter: [ "1963" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: "This letter, probably from late 1963 or early 1964, is among the first letters exchanged between Mieko Shiomi and leading Fluxus organizer George Maciunas. Shiomi’s letter indicates that she initially experienced difficulties organizing a visit to New York, although she ultimately departed Japan in summer 1964 to make a yearlong trip. The letter attests to perceived differences between Fluxus circles in the United States and Japan, as Shiomi offers that Maciunas may “find in Japan FLUXUS people less individualism an[d] ego.”"
@@ -8081,8 +8081,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "fall 1965"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1965-09-01"
+    year_filter: [ "1965" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: "Mieko Shiomi wrote this letter to George Maciunas after returning to Japan after her year in New York. She reports on a Fluxus week of exhibitions and performances organized in September 1965 in Tokyo. Shiomi also weighs in on Maciunas’s growing conflict with Takahisa Kosugi, Nam June Paik, and Charlotte Moorman over their independent event organizing, particularly Moorman’s Avant-Garde Festival series, which Maciunas felt to be in competition with his Fluxus efforts. Shiomi advocates a nonhierarchical and expansive notion of collective avant-garde membership, since, as she explains, “our pieces contain almost endless possibilityies [*sic*] of performance.”"
@@ -8096,8 +8096,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1965"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1965-01-01"
+    year_filter: [ "1965" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8111,8 +8111,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1965"
-    date_sort: ""
-    year_filter: ""
+    date_sort: 1965-01-01""
+    year_filter: [ "1965" ]
     medium: "photocopy of typewritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: "This letter, written to George Maciunas sometime in late 1965 after Mieko Shiomi had returned to Japan, shows that Shiomi was already busy crafting the object edition for [*Spatial Poem No. 1 (Word Event)*](/image-index/525/) (1965), a corkboard map dotted with paper flags printed with the text of participants’ reports. In Japan, Shiomi could not find the same supplies with which she had begun the project in New York. Shiomi’s mention of Maciunas’s performance of [*Spatial Poem No. 2 (Direction Event)*](/image-index/519/) (1965) was reported as follows: “George Maciunas was spinning himself on a office chair very rapidly in the elevator which was going up, thus facing all directions and moving upward in New York.” This letter, like many others in the [Archive section of chapter 10](/10/#archive), also chronicles Shiomi’s efforts to help Maciunas get an antique samurai sword from his personal collection repaired in Japan."
@@ -8141,8 +8141,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1966-01-01"
+    year_filter: [ "1966" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: "In this letter, Mieko Shiomi responds to George Maciunas’s proposed design for the object edition of [*Spatial Poem No. 2 (Direction Event)*](/image-index/519/) (1965). She expresses misgivings about his expressive design choices, writing, “I’d like to show the people’s direction as transparently and exactly as possible. I’m afraid that too strong power of design’s image can weaken the contents.”"
@@ -8156,8 +8156,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas, with annotations by Maciunas"
     date: "ca. 1966"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1966-01-01"
+    year_filter: [ "1966" ]
     medium: "photocopy of handwritten and typewritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: "This letter indicates that Mieko Shiomi invited George Maciunas’s editorial assistance in finalizing the language of some of her [scores for *Spatial Poem*](/image-index/530/#fig-530-g) (1965–75). The annotations on her typewritten text are his."
@@ -8186,8 +8186,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1966-01-01"
+    year_filter: [ "1966" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8201,8 +8201,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1966-01-01"
+    year_filter: [ "1966" ]
     medium: "photocopy of typewritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8216,8 +8216,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1966-01-01"
+    year_filter: [ "1966" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: "This letter critically responds to George Maciunas’s 1965 historical diagram and manifesto-like statement, *Fluxus (Its Historical Development and Relationship to Avant-Garde Movements)*. It stands as Mieko Shiomi’s most explicit rebuke to Maciunas about his delimited vision and “rough and autocratic” manner in organizing Fluxus publications and events, which she warns may lead to “social suicide.” Citing the historical example of André Breton’s role in the demise of French Surrealism, she advocates a vision of Fluxus success in which “many artists have to be spontaneously co-operative having the same aim and desire”—a model that in many ways corresponds to the structure of her [*Spatial Poem* series](/image-index/530/)  (1965–75)."
@@ -8231,8 +8231,8 @@ object_list:
     maker: 
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1968"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1968-01-01"
+    year_filter: [ "1968" ]
     medium: "handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: "Following the completion of [*Spatial Poem No. 3 (Falling Event)*](/image-index/527/), Mieko Shiomi sent George Maciunas a list of additional contributors who had been incorporated into the project by the time [*Spatial Poem No. 4 (Shadow Event)*](/image-index/530/#fig-530-g) launched. The letter also includes mention of the Massachusetts-based collector of Dada and Surrealist ephemera Jean Brown, who recognized the importance of Fluxus among other contemporaneous neo-avant-garde tendencies and was beginning to collect works directly from artists. "
@@ -8246,8 +8246,8 @@ object_list:
     maker: 
     title: "Postcard from Mieko Shiomi to George Maciunas"
     date: "ca. 1968"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1968-01-01"
+    year_filter: [ "1968" ]
     medium: "handwritten text on a postcard"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8261,8 +8261,8 @@ object_list:
     maker: 
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1968"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1968-01-01"
+    year_filter: [ "1968" ]
     medium: "photocopy of typewritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8276,8 +8276,8 @@ object_list:
     maker: 
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1971"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1971-01-01"
+    year_filter: [ "1971" ]
     medium: "handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8306,8 +8306,8 @@ object_list:
     maker: 
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1972-01-01"
+    year_filter: [ "1972" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8321,8 +8321,8 @@ object_list:
     maker: 
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1972-01-01"
+    year_filter: [ "1972" ]
     medium: "handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: "This letter is one of [many that detail Mieko Shiomi’s efforts to help George Maciunas have a katana samurai sword repaired in Japan](/image-index/549/). Interestingly, Shiomi’s account of the difficulty of this task reveals details about geopolitical relationships between the United States and Japan, as well as Shiomi’s newfound limitations since becoming a wife and mother. She reports that it is forbidden to send money from Japan to the United States, while lamenting that “my situation is like a prisoner in house.” Developing artistic collaborations that could be realized by mail established a lifeline that sustained her artistic practice during this difficult period in her life."
@@ -8336,8 +8336,8 @@ object_list:
     maker: 
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1972-01-01"
+    year_filter: [ "1972" ]
     medium: "handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8351,8 +8351,8 @@ object_list:
     maker: 
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1972-01-01"
+    year_filter: [ "1972" ]
     medium: "handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8381,8 +8381,8 @@ object_list:
     maker: 
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1974"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1974-01-01"
+    year_filter: [ "1974" ]
     medium: "handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
     extended_caption: ""
@@ -8418,8 +8418,8 @@ object_list:
     maker: 
     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY"
     date: "summer 1958"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1958-06-01"
+    year_filter: [ "1958" ]
     medium: ""
     location: ""
     extended_caption: "John Cage taught experimental composition at the New School for Social Research [multiple times between 1956 and 1959](/image-index/556/). This photograph shows the catalytic Summer 1958 cohort, which included Jackson Mac Low (fourth from left), Allan Kaprow (in the back row, second from right), George Brecht (in the back row, right, elbow visible), Al Hansen (center, with tie), and Dick Higgins. Each week, Cage asked the students to compose a score in response to a prompt, which might specify readymade “instruments” (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, students realize an Al Hansen assignment using a portable collection of noisy toys—whirler tube, cat-meow, and bicycle bell, among others. Kaprow took Cage’s course more often than anyone else and affirmed several times that he created what he considered to be his first happenings (avant la lettre) as assignments for Cage’s class."
@@ -8433,8 +8433,8 @@ object_list:
     maker: 
     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, New York"
     date: "summer 1958"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1958-06-01"
+    year_filter: [ "1958" ]
     medium: ""
     location: ""
     extended_caption: "John Cage taught experimental composition at the New School for Social Research [multiple times between 1956 and 1959](/image-index/556/). This photograph shows the catalytic Summer 1958 cohort, which included Allan Kaprow (seated, right), George Brecht (seated, left), Al Hansen (standing), Jackson Mac Low, and Dick Higgins. Each week Cage asked the students to compose a score in response to a prompt, which might specify readymade “instruments” (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, Kaprow and Brecht talk to Hansen about realizing his score for a portable collection of noisy toys—whirler tube, cat-meow, and bicycle bell, among others. Kaprow took Cage’s course more often than anyone else and affirmed several times that he created what he considered to be his first happenings (avant la lettre) as assignments for this class."
@@ -8448,8 +8448,8 @@ object_list:
     maker: 
     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, New York"
     date: "summer 1958"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1958-06-01"
+    year_filter: [ "1958" ]
     medium: ""
     location: ""
     extended_caption: "John Cage taught experimental composition at the New School for Social Research [multiple times between 1956 and 1959](/image-index/556/). This photograph shows Jackson Mac Low (right) and Dick Higgins (left), two students in the catalytic Summer 1958 cohort, which also included Allan Kaprow, George Brecht, and Al Hansen. Each week, Cage asked the students to compose a score in response to a prompt, which might specify readymade “instruments” (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, Higgins and Mac Low play a toy battleship and whirler tube, respectively, in a realization of an Al Hansen composition created in response to one of Cage’s assignments."
@@ -8463,8 +8463,8 @@ object_list:
     maker: 
     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, New York"
     date: "summer 1958"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1958-06-01"
+    year_filter: [ "1958" ]
     medium: ""
     location: ""
     extended_caption: "John Cage taught experimental composition at the New School for Social Research [multiple times between 1956 and 1959](/image-index/556/). This course was famously “open to those with or without musical training” (as stated in the course catalog). Indeed, some of the key students enrolled in the Summer 1958 session were known primarily as visual artists and had limited musical training (e.g., Allan Kaprow, and especially Al Hansen). But it is also true that other regular members of the class—including Carol Galente (left) and Stephen Addiss (right)—came to the course with classical musical training and more conventional musical taste. In this photograph, Mac Low (center) plays a drum that was part of a large collection of traditional, albeit non-Western, percussion instruments kept in a closet in Cage’s classroom. The tensions and disagreements that arose from the students’ differing disciplinary backgrounds and philosophies helped to create a charged atmosphere conducive to risk-taking. There could be a measure of difference among the teachers’ perspectives, too: When Cage was on tour, Morton Feldman, Earle Brown, and Richard Maxfield would substitute for him, bringing their distinctive ideas about composition to the students."
@@ -8478,8 +8478,8 @@ object_list:
     maker: 
     title: "John Cage leading his experimental composition class, New School for Social Research, New York, New York"
     date: "summer 1958"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1958-06-01"
+    year_filter: [ "1958" ]
     medium: ""
     location: ""
     extended_caption: "John Cage taught experimental composition at the New School for Social Research [multiple times between 1956 and 1959](/image-index/556/). While the course was very much hands-on, it also included much philosophical discussion, and some lectures by Cage, as the course description promised “a full exposition of the contemporary music scene in the light of the work of Anton Webern, and present developments in music for magnetic tape.” Many former students recall the transformative effect of Cage’s charismatic presence, and especially his rare combination of rigor and playfulness—seen here in Cage’s delighted smile. George Brecht was hardly alone when he explained in 1967 that Cage’s outsize influence on his students “came as much from Cage the person as from his works or ideas.”"

@@ -1406,7 +1406,7 @@ object_list:
     title: "Liner notes for *Indeterminacy* recording"
     date: "1959; reissued 1992"
     date_sort: "1959-01-01"
-    year_filter: [ "1959" ]
+    year_filter: [ "1959", "1992" ]
     medium: ""
     location: ""
     extended_caption: ""
@@ -1900,8 +1900,8 @@ object_list:
     maker: 
     title: "David Tudor’s press materials"
     date: "1959?"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 52, folder 7; and box 81, folder 14"
     extended_caption: ""
@@ -1960,8 +1960,8 @@ object_list:
     maker: 
     title: "David Tudor performing John Cage’s *Water Music* at Darmstadt"
     date: "1958, or possibly 1956"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1956-01-01"
+    year_filter: [ "1956", "1958" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 158"
     extended_caption: ""
@@ -2410,8 +2410,8 @@ object_list:
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
     title: "Loose score sheets for Sylvano Bussotti’s *Pièces de chair II*"
     date: "1958–60"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1958-01-01"
+    year_filter: [ "1958", "1959", "1960" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3"
     extended_caption: "David Tudor’s copy of Sylvano Bussotti’s score contains spare but important pencil annotations that reveal key choices of his in developing realizations of the score."
@@ -2500,8 +2500,8 @@ object_list:
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
     title: "Performance notes for Sylvano Bussotti’s *Pièces de chair II*"
     date: "1958–59"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1958-01-01"
+    year_filter: [ "1958", "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3"
     extended_caption: "These are the broader performance notes for the entirety of *Pièces de chair II*. Page one shows the way the larger work contains *Piano Pieces for David Tudor* nested inside the larger cycle. They are distributed throughout the cycle, placed out of order, while also being prominently featured: *No. 5* opens the cycle, and *No. 4* serves as the finale."
@@ -2650,8 +2650,8 @@ object_list:
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
     title: "Miscellaneous scores by Sylvano Bussotti sent to David Tudor"
     date: "1959(?)"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -2950,8 +2950,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "Lecture notes on David Tudor’s performance practice as a pianist during the late 1950s and early ’60s"
     date: "early 1960s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 107, folder 10"
     extended_caption: "This is a set of lecture notes David Tudor wrote for a lecture in Darmstadt, likely in 1961. They demonstrate his trajectory as a pianist toward the use of realizations during the 1950s. In addition to describing a great number of specific scores and their demands on the performer, Tudor describes a philosophy that abjures “muscular rhythm” in favor of the possibility of “irregular rhythm” that is based in the “bloodstream” and “body feeling” that can be elicited in sight-reading techniques and customized notations “when visual and aural impressions overlap.” In his lecture, Tudor notes that this latter idea is indebted to Morton Feldman’s approach to composition."
@@ -2965,8 +2965,8 @@ object_list:
     maker: [ "Manfred Leve (German, 1936–2012)" ]
     title: "David Tudor performing with gloves"
     date: "ca. 1959"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 159"
     extended_caption: ""
@@ -3236,8 +3236,8 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     title: "Assorted text scores"
     date: "1961–62"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961", "1962" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33"
     extended_caption: "These text scores are closer to the emerging genre of event scores insofar as they minimize specifications of time and residues of musical notation."
@@ -3281,8 +3281,8 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     title: "*Variations for Double-Bass*"
     date: "1961, rev. 1962"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961", "1962" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33"
     extended_caption: "First performed by Benjamin Patterson himself, these variations take the performer and their bass as the “theme”; the “variations” are a series of event scores. The number of sounds and the duration of each variation are left up to the bassist."
@@ -3311,8 +3311,8 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     title: "Notes on art"
     date: "1960s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 41, folder 2"
     extended_caption: "This is a notebook of Benjamin Patterson’s notes on art recorded during the 1960s. His reflections, though often fragmentary, are deeply philosophical and speculative, ranging on topics from communication and social cybernetics, to process philosophy, musical form, freedom vs. determinacy, internal vs. external, time and temporality, politics, the role of the artist in society, and ideas about audience reception. The notebook also includes sketches of event scores, poetic experiments, drawings, and addresses."
@@ -3326,8 +3326,8 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     title: "Poems"
     date: "1960s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33"
     extended_caption: ""
@@ -3824,8 +3824,8 @@ object_list:
     maker: [ "Simone Forti (American, b. 1935)" ]
     title: "Performances of Simone Forti’s *Huddle* and *Slant Board*, from the event *An Evening of Dance Constructions,* Museum of Contemporary Art, Los Angeles, CA"
     date: "1961; performed 2004; film released 2009"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "2004-01-01"
+    year_filter: [ "1961", "2004", "2009" ]
     medium: ""
     location: ""
     extended_caption: "This performance was directed by Simone Forti, and produced by Julie Martin and Pooh Kaye. ¶ Forti's [“dance constructions” for *Huddle* and *Slant Board*](/image-index/238/?region=4100,1100,1600,1100#fig-238-bg) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young."
@@ -3869,8 +3869,8 @@ object_list:
     maker: 
     title: "Flyer for “Three Evenings of Picnic and Electronic Music by Richard Maxfield,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "28–30 April 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-04-28"
+    year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 38, folder 16"
     extended_caption: "From December 1960 to June 1961, La Monte Young and Yoko Ono hosted an experimental concert series in Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/image-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
@@ -3884,8 +3884,8 @@ object_list:
     maker: 
     title: "Flyer for “Compositions by La Monte Young,” part of the concert series organized by Yoko Ono and Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "19–20 May 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-05-19"
+    year_filter: [ "1961" ]
     date_end: 31 19–20 May 1961
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 38, folder 16"
@@ -3900,8 +3900,8 @@ object_list:
     maker: 
     title: "Program for “Compositions by La Monte Young,” part of the concert series organized by Yoko Ono and Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "19–20 May 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-05-19"
+    year_filter: [ "1961" ]
     date_end: 31 19–20 May 1961
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 38, folder 16"
@@ -3931,8 +3931,8 @@ object_list:
     maker: 
     title: "List of the Judson Dance Theater’s dance concerts, 1961–66"
     date: "ca. 1966"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1966-01-01"
+    year_filter: [ "1966" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 79, folder 11"
     extended_caption: ""
@@ -3961,8 +3961,8 @@ object_list:
     maker: 
     title: "Program for a performance by the group Theatre of Eternal Music, with La Monte Young, John Cale, Marian Zazeela, and Tony Conrad"
     date: "ca.1965"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1965-01-01"
+    year_filter: [ "1965" ]
     medium: ""
     location: "Getty Research Institute, Robert Watts Papers, 2006.M.27, box 58, folder 20"
     extended_caption: ""
@@ -4021,8 +4021,8 @@ object_list:
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     title: "Artist index cards"
     date: "1961–64"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 41"
     extended_caption: "George Maciunas, lead organizer of Fluxus, was an obsessive administrator who used index cards to collect information about the artists with whom he worked—including biographies, transcriptions of performance scores, and notes about his correspondence with them."
@@ -4081,8 +4081,8 @@ object_list:
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     title: "Letters from George Maciunas to Dick Higgins"
     date: "18 January 1962 and February 1963"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1962-01-18"
+    year_filter: [ "1962", "1963" ]
     medium: "photocopy of original correspondence"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 5"
     extended_caption: "These letters show George Maciunas’s frantic attempts to orchestrate and control Fluxus events from afar during his time working as a graphic designer at a U.S. military base in Wiesbaden, West Germany. He discusses sending and receiving scores by mail, exploiting his access to inexpensive Army Post Office rates, and Dick Higgins’s efforts to organize a Fluxus festival in Stockholm in March 1963, which, against Maciunas’s wishes, ultimately did take place."
@@ -4096,8 +4096,8 @@ object_list:
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     title: "Plans for Fluxus publications and a new music festival"
     date: "ca. 1962"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1962-01-01"
+    year_filter: [ "1962" ]
     medium: "photocopy of original print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 5"
     extended_caption: ""
@@ -4111,8 +4111,8 @@ object_list:
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     title: "“Conditions for Performing Fluxus Published Compositions, Films & Tapes”"
     date: "ca. 1965"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1965-01-01"
+    year_filter: [ "1965" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32"
     extended_caption: "These conditions for Fluxus performance were written up by George Maciunas and distributed to his network following [the first European Fluxus concert tour](/image-index/356/) in 1963–64. The document proposes legislating how the “Fluxus” name can be used and how fees will be collected whenever affiliated artists’ works are performed. Maciunas’s intent was to support his artist peers while solidifying and protecting the collective aims of Fluxus, but his conditions were immediately controversial and provoked a harsh backlash. The proposal to centralize, trademark, and monetize Fluxus activities was seen as overly controlling and against the spirit of the movement. The conditions were never adopted."
@@ -4141,8 +4141,8 @@ object_list:
     maker: 
     title: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "8–9 April 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-04-08"
+    year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6"
     extended_caption: "Although Jackson Mac Low had academic training in Western musical composition, his artist self-image, at least initially, was that of a poet. He submitted poems relentlessly to mainstream U.S. poetry publications before and during the McCarthy Red Scare era, apparently without realizing that he was being blacklisted for his radical political views. This program for Yoko Ono and La Monte Young’s loft series celebrates Mac Low as a composer of performance works that, if not strictly musical in nature, are intended to be performed in a “concert” setting. While many of the other composers featured in this concert series became well-known members of the 1960s avant-garde, Mac Low’s contributions have been less frequently recognized, falling through the cracks that separate monodisciplinary narratives in art history, literary studies, and performance studies."
@@ -4171,8 +4171,8 @@ object_list:
     maker: [ "Remy Charlip (American, 1929–2012)" ]
     title: "Flyer for recitals by David Tudor at the Living Theatre, New York, NY"
     date: "March–April 1960"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-03-01"
+    year_filter: [ "1960" ]
     date_end: 31 March– April 1960
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
@@ -4247,8 +4247,8 @@ object_list:
     maker: 
     title: "Flyer for “Music by Toshi Ichiyanagi,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "7–8 January 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-07"
+    year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 73, folder 1"
     extended_caption: "From December 1960 to June 1961, La Monte Young and Yoko Ono hosted an experimental concert series in Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/image-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
@@ -4262,8 +4262,8 @@ object_list:
     maker: 
     title: "Program for “Music by Toshi Ichiyanagi,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "7–8 January 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-07"
+    year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 73, folder 1"
     extended_caption: "From December 1960 to June 1961, La Monte Young and Yoko Ono hosted an experimental concert series in Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/image-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
@@ -4307,8 +4307,8 @@ object_list:
     maker: [ "Ray Johnson (American, 1927–95)" ]
     title: "Collage created from a flyer designed by Remy Charlip for recitals by David Tudor at the Living Theatre, New York, NY, plus an envelope"
     date: "ca. 1960"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-01-01"
+    year_filter: [ "1960" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
     extended_caption: ""
@@ -4338,8 +4338,8 @@ object_list:
     maker: 
     title: "Miniature mock-up for *An Anthology of Chance Operations* with handwritten notes, probably by Jackson Mac Low, George Maciunas, and La Monte Young"
     date: "ca. 1962"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1962-01-01"
+    year_filter: [ "1962" ]
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
     extended_caption: "This miniature mock-up of [*An Anthology*](/image-index/238/) shows how Jackson Mac Low, La Monte Young, and George Maciunas approached the basic design of the publication, ordering page spreads and choosing different stocks of paper, samples of which are stapled to individual leaves throughout."
@@ -4458,8 +4458,8 @@ object_list:
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     title: "Chart of artistic movements and media including optic, acoustic, kinetic, and semantic/symbolic arts, mailed by George Maciunas to Jackson Mac Low"
     date: "ca. 1961–62"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961", "1962" ]
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
     extended_caption: "During the final stages of [*An Anthology*](/image-index/238/)’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, West Germany, where he worked as a graphic designer for the U.S. military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
@@ -4503,8 +4503,8 @@ object_list:
     maker: [ "La Monte Young (American, b. 1935)" ]
     title: "Letter from La Monte Young to David Tudor"
     date: "1960–61"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 61, folder 2; and box 14, folders 4 and 9"
     extended_caption: ""
@@ -4518,8 +4518,8 @@ object_list:
     maker: [ "La Monte Young (American, b. 1935)" ]
     title: "Letter from La Monte Young to David Tudor"
     date: "1960–61"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 61, folder 2; and box 14, folders 4 and 9"
     extended_caption: ""
@@ -4548,8 +4548,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "A Realization of Earle Brown’s *December 1952*"
     date: "1950s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1950-01-01"
+    year_filter: [ "1950", "1951", "1952", "1953", "1954", "1955", "1956", "1957", "1958", "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 170, folder 2"
     extended_caption: "David Tudor’s realization of [*December 1952*](/image-index/301/) is, as was typical for him, fairly straightforward and involved careful measurements. For his sound events, he chose a variety of tone clusters of varied sizes, dynamics, and durations. Though nothing in Earle Brown’s score precludes a dense or fast realization, many interpreters see and hear in it a relatively sparse and impersonal landscape of isolated sounds."
@@ -4623,8 +4623,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "Notes for a realization of Toshi Ichiyanagi’s *Music for Piano No. 4 (for David Tudor)*"
     date: "ca. late 1960"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-07-01"
+    year_filter: [ "1960" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 7"
     extended_caption: "David Tudor, as usual, takes his freedoms seriously. His realization involves a detailed plan that entails the use of a number of materials and auxiliary percussion."
@@ -4773,8 +4773,8 @@ object_list:
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
     title: "Letter from Toshi Ichiyanagi to David Tudor"
     date: "September, ca. 1962"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1962-09-01"
+    year_filter: [ "1962" ]
     date_end: 30 September, ca. 1962
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 54, folder 7"
@@ -5082,8 +5082,8 @@ object_list:
     maker: [ "Anthony Matejczyk" ]
     title: "“Music for Our Time: Gurgles and Growls,” review of a David Tudor and Alvin Lucier performance of works by Alvin Lucier, Toshi Ichiyanagi, and John Cage, *Boston Herald*"
     date: "ca. February 1966"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1966-02-01"
+    year_filter: [ "1966" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, boxes 63, folder 1"
     extended_caption: ""
@@ -5227,8 +5227,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "*Drip Music (Drip Event)*"
     date: "1959–62"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959", "1960", "1961" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127 (contained within the compendium *Water Yam*)"
     extended_caption: "Among George Brecht’s most well-known compositions, *Drip Music (Drip Event)* (1959–62) bears many characteristics that typify the artist’s event scores, and the way it is dated suggests Brecht honed the text gradually and carefully over the course of his most intensive years of score writing. In 1960, Brecht began to call his works “events” as opposed to “music,” though this score retains both titles. Its first line immediately opens the possibility of the work’s performance to a multiplicity of realizations, by either a solo performer or a group, and even by nonhuman actors. (All possibilities would be experimented with by Fluxus artists, as [chapter 6’s Archive section](/06/#archive) shows.) Notably, the language avoids both an imperative tone as well as outwardly naming the agent of the action. Instead, it describes in a rather passive way the existence of the phenomenon of water dripping, leaving the words “source” and “vessel” open to interpretation. The even more ambiguous “second version” included in the score’s text might be written for more advanced readers familiar with Brecht’s work, such as the virtuoso listener for whom, as the artist described in his 1959 notebook, “all sound may be music” (George Brecht, notebook page ca. late July 1959, from Cage’s course in Experimental Composition, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 [Cologne: Walther König, 1991], 123). At this time Brecht also wrote the similar yet slightly more elaborate score *Comb Music (Comb Event)* (1959–62)."
@@ -5242,8 +5242,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "Event score included in *Water Yam*"
     date: "1963"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1963-01-01"
+    year_filter: [ "1963" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
     extended_caption: ""
@@ -5302,8 +5302,8 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     title: "*Drip Music* (1959), from the album *George Brecht/Ben Patterson: Drip Music/370 Flies*, Alga Marghen (record label), Milan, Italy, 2002"
     date: "recorded 2002"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "2002-01-01"
+    year_filter: [ "2002" ]
     medium: "digital audio, 38:07"
     location: ""
     extended_caption: "This audio recording of Benjamin Patterson’s realization of George Brecht’s [*Drip Music (Drip Event)*](/image-index/346/) (1959–62) was made in Paris following a [public performance in June 2002 at La Ménagerie de Verre](/image-index/352/), and with the same setup. Without the photographic documentation, it would be hard to imagine the nature of the instrument used to create the hollow, almost wooden sounds captured here. Still, the pacing of the sonic attacks strongly evokes the irregular rhythms of dripping water, and as the drips slow down, the nature of the electronic manipulation of the sounds becomes more noticeable. Patterson’s version of *Drip Music* is more meditative and at times even more demanding for the audience to behold than other realizations included in chapter 6, which typically last only a few minutes. The [accompanying photographs documenting the recording session](/image-index/383/) show Patterson taking on the role of both director and audience for the piece, as he listens closely to the slow unfolding of drips over the course of almost forty minutes."
@@ -5527,8 +5527,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "*Drip Music*"
     date: "ca. 1970"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1970-01-01"
+    year_filter: [ "1970" ]
     medium: "photograph"
     location: ""
     extended_caption: "George Brecht often made sculptural realizations of his event scores, as in this iteration, an adjustable dripping faucet designed for the garden of German collectors Wolfgang and Ute Feelisch. Brecht once remarked, “Once in a while I would make an object first and then make a card later . . . . I don’t feel very much one way of the other since every object is an event anyway and every event has [an] object-like quality” (Michael Nyman, “An Interview with George Brecht” [1976], in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire* [Milan: Multhipla, 1978], 106)."
@@ -5559,8 +5559,8 @@ object_list:
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     title: "*Ekstra Bladet/Politiken*, 1992 reprint by Edition Hundertmark"
     date: "early 1963; reprinted in 1992"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1963-01-01"
+    year_filter: [ "1963", "1992" ]
     medium: "offset print of original newspaper collage"
     location: ""
     extended_caption: "In early 1963, George Maciunas made this two-sided broadsheet collage by gathering together reviews of the [first Fluxus concerts in Wiesbaden](/image-index/356/), [Düsseldorf](/image-index/361/), and [Copenhagen](/image-index/359/). The two sheets were designed to be glued together to make one long page that could be sent through the mail as a rolled-up scroll. Most of the clippings came from German and Danish newspapers, but some articles prove that news of the Fluxus events reached readers as far as Italy and Austria. (Mastheads from regional papers like the *Telegraph-Herald* in Dubuque, Iowa, may have been added by Maciunas for humorous effect.) The madcap layout, reminiscent of Dada and Surrealist publications of the early twentieth century, is characteristic of the Fluxus newspapers Maciunas would publish under varying iterations of the name *cc V TRE*.  ¶ The layout also amplifies and revels in the many bemused accounts of reviewers, which accord with the kind of language one finds in reviews of performances of John Cage’s radical music. To point to one example, the Associated Press piece penned by Richard O’Regan cheekily recounts of the Wiesbaden festival, “This wasn’t a barroom brawl. It wasn’t a political rally. It was a concert of ‘very new music and anti-music’ in Wiesbaden’s dignified art museum.” O’Regan’s account was published in the American military newspaper [*Stars and Stripes*](/image-index/230/), which had a Darmstadt office out of which Fluxus artist and participating performer Emmett Williams worked as features editor."
@@ -5574,8 +5574,8 @@ object_list:
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     title: "Letter from George Maciunas to George Brecht"
     date: "ca. January 1963"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1963-01-01"
+    year_filter: [ "1963" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
     extended_caption: "This extraordinary letter from George Maciunas to George Brecht, sent in early 1963, provides a highly detailed record of the artists’ collaborative design process and their ongoing deliberations over the intellectual significance of Brecht’s events and their transcription as event scores. ¶ In the <a class='ref' data-figure-id='fig-369-a' data-annotation-ids=''>first part</a> of the letter, Maciunas draws a diagram that imagines the relation between optical and acoustical elements in a work of art, possibly in response to Brecht’s remark in another letter that, “a minimum condition for my work . . . is a lack of distinction between ‘optical,’ ‘acoustical’ and other such categories” (Brecht to Maciunas, early 1963, Hanns Sohm Archive, Staatsgalerie Stuttgart). To this, Maciunas adds the dimension of artificial versus concrete (or “reality”). With reference to scores by Brecht that had been performed during the European Fluxus concert tour—namely *Piano Piece* (1962; “a vase of flowers on(to) a piano”) and *Word Event* (1961; “EXIT”)—Maciunas considers the fine line between art and non art, between deliberately formed and ready-made gestures, and between conceptual and perceptual experience that the scores traverse, ultimately comparing their operation to Zen Buddhist philosophy. ¶ In <a class='ref' data-figure-id='fig-369-b' data-annotation-ids=''>section two</a> of this letter, Maciunas discusses the disposition of [*Water Yam*](/image-index/348/) (1963) in terms of future editions and copyright and introduces the idea of a renewable subscription model or “perpetual” box. He mentions Fluxus newsletter no. 5, which he wrote and distributed to the Fluxus network in January 1963, as “a draft for a written agreement.” In that controversial newsletter, Maciunas proposed that affiliate artists assign to Fluxus the copyright and exclusive publication rights for their works in order to present a “common front” for Fluxus activities and to achieve financial security (with individual artists retaining 80 percent of profits from the sale of their work). In section three, Maciunas reports on his research into international locations amenable to his dream of developing a self-sustaining, permanent Fluxus commune. ¶ In the <a class='ref' data-figure-id='fig-369-c' data-annotation-ids=''>fourth section</a> of this letter, Maciunas attaches samples of paper for the printing of the *Water Yam* event score cards for Brecht to choose from. An added note in Brecht’s handwriting shows his first choice of white for all cards. ¶ In two <a class='ref' data-figure-id='fig-369-e' data-annotation-ids=''>pages appended</a> to this letter, Maciunas returns to the topic of the design for *Water Yam*, addressing card size and sketching out playful box and label design ideas for Brecht’s consideration."
@@ -5680,8 +5680,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "*Incidental Music*, event score sent to David Tudor"
     date: "summer 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-06-01"
+    year_filter: [ "1961" ]
     medium: "spirit duplicating"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 5, folder 23"
     extended_caption: "This copy of George Brecht’s event score *Incidental Music* (1961) reached the hands of David Tudor, who [performed the piece in September 1961 at the Internationale Ferienkurse für Neue Musik](/image-index/382/) in Darmstadt, Germany. A July 1961 letter from Brecht to Tudor makes apparent that the work was added to the program without Brecht’s knowledge, and that his scores had a more rapid and wide distribution than anticipated. Brecht wrote, “Two people now have told me that a piano piece of mine is on the Darmstadt program. Hence curiosity; I don’t know of any such score in circulation. Have you any information on this?” Once Brecht’s confusion had been cleared, he wrote to advise Tudor, “Children’s alphabet blocks are convenient for 2. Disposition of the photograph is an aspect of 3” (Letters from Brecht to Tudor, 11 July and 11 August 1961, Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8)."
@@ -5695,8 +5695,8 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     title: "Handwritten and typed transcriptions of George Brecht event scores"
     date: "ca. 1962–63"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1962-01-01"
+    year_filter: [ "1962", "1963" ]
     medium: "pen and typewriter ink on paper"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 5, folder 23"
     extended_caption: "These annotated transcriptions of George Brecht scores found in David Tudor’s archive indicate that Tudor was in the habit of writing out experimental notations in his own way even when not entirely necessary. Perhaps Tudor made these transcriptions in order to combine multiple event score cards into fewer pages, or to make copies of scores already in his possession. In any case, Tudor privileges the textual content of the pieces even as Brecht was very mindful of his scores’ graphic layout, particularly the amount of white space surrounding his text."
@@ -5725,8 +5725,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "*Motor Vehicle Sundown (Event)*, event score sent to David Tudor"
     date: "spring/summer 1960"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1960-03-01"
+    year_filter: [ "1960" ]
     medium: "offset print"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 5, folder 23"
     extended_caption: ""
@@ -5740,8 +5740,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "*Three Aqueous Events*, event score sent to David Tudor"
     date: "summer 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-06-01"
+    year_filter: [ "1961" ]
     medium: "offset print and ink on paper"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 5, folder 23"
     extended_caption: ""
@@ -5755,8 +5755,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "*Three Chair Events*, event score sent to David Tudor"
     date: "spring 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-03-01"
+    year_filter: [ "1961" ]
     medium: "offset print"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 5, folder 23"
     extended_caption: ""
@@ -5815,8 +5815,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 2 (Cologne: Walther König, 1991), 64–66"
     date: "ca. December 1958"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1958-12-01"
+    year_filter: [ "1958" ]
     date_end: 31 ca. December 1958
     medium: ""
     location: "Getty Research Institute, item 92-B17341, vol. 2"
@@ -5876,8 +5876,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 123"
     date: "ca. late July 1959"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-07-15"
+    year_filter: [ "1959" ]
     date_end: 31 ca. late July 1959
     medium: ""
     location: "Getty Research Institute, item 92-B17341, vol. 3"

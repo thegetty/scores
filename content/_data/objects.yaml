@@ -8508,8 +8508,8 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     title: "*Three Telephone Events*, from *Water Yam* (1963)"
     date: "spring 1961"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-03-01`"
+    year_filter: [ "1961" ]
     medium: "offset printed on card stock"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
     extended_caption: ""
@@ -8659,8 +8659,8 @@ object_list:
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     title: "Printed program for *Routine*, presented at the Portland Center for the Visual Arts, Portland, Oregon"
     date: "29 November– 2 December 1973"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1973-11-29"
+    year_filter: [ "1973" ]
     date_end: 31 29 November– 2 December 1973
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
@@ -8735,8 +8735,8 @@ object_list:
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     title: "Review of using *7 Kinds of Sympathy* videotape as score"
     date: "ca. 1976"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1976-01-01"
+    year_filter: [ "1976" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 74, C28"
     extended_caption: "Participants: Peter Kirby, Allan Kaprow, Nancy Buchanan, Sylvia and Jerry Simpson, and Vaughn Rachel at Video Transitions, Hollywood."
@@ -8780,8 +8780,8 @@ object_list:
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     title: "*Throat and Cough Piece*"
     date: "1957–58"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1957-01-01"
+    year_filter: [ "1957", "1958" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 4, folder 13"
     extended_caption: "Kaprow composed this score while he was attending John Cage’s experimental composition course at the New School for Social Research. By taxonomizing and then scoring behavior that is ordinarily involuntary (coughing, clearing one’s throat), Kaprow explores Cage’s ideal of non-intentionality in a comic mode. Cage himself could sometimes be a subtly comic performer, making use of puns and deadpan in some of his performance lectures."
@@ -8870,8 +8870,8 @@ object_list:
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     title: "Handwritten page of notes for *Soap*"
     date: "fall 1965"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1965-09-01"
+    year_filter: [ "1965" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 9, folder 6"
     extended_caption: "[*Soap*](/image-index/585/) was commissioned by Florida State University for the Eighteenth Annual Symposium at the Ringling Museum of Art, Sarasota, Florida, 1–4 February 1965. Kaprow lays out the form and meaning of the score for *Soap* in notes he may have used when introducing the happening to potential participants on 2 February."
@@ -8915,8 +8915,8 @@ object_list:
     maker: 
     title: "Letter from Robert Carter, a graduate student in painting at Florida State University, to Allan Kaprow"
     date: "ca. 1965"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1965-01-01"
+    year_filter: [ "1965" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 9, folder 6"
     extended_caption: "Allan Kaprow’s [*Soap*](/image-index/585/) was commissioned by Florida State University for the Eighteenth Annual Symposium at the Ringling Museum of Art, Sarasota, Florida, 1–4 February 1965. In this score, Kaprow sets up an equivalence between natural and social cycles. In the mid-1960s Kaprow engaged with structural anthropology and the study of ritual, and in his [notes for the *Soap* briefing](/image-index/586/), he even went so far as to call it an “archaic purification rite,” seemingly without irony. But in asking student participants to urinate and bury one another in sand while naked, Kaprow violated fundamental taboos. As a result, [the happening was canceled](/image-index/588/). Nevertheless, graduate student Robert Carter decided to realize the score, and wrote this letter to Kaprow about his experience. Carter describes his performance in psychedelic terms, as comparable to taking a strong dose of peyote."
@@ -8945,8 +8945,8 @@ object_list:
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     title: "Program for Florida State University’s Eighteenth Annual Symposium, which included Kaprow’s *Soap*"
     date: "1–4 February 1965"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1965-02-01"
+    year_filter: [ "1965" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 9, folder 6"
     extended_caption: "In this conference program, interested participants—but “no onlookers”—are invited to meet Kaprow in the Ringling Museum’s courtyard on 2 February (the second day of the symposium) at 2 p.m. [The happening itself](/image-index/585/) was scheduled for various slots on the third and fourth of that month."
@@ -9155,8 +9155,8 @@ object_list:
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     title: "Production still from Allan Kaprow’s 16mm film of *Routine*"
     date: "29 November–2 December 1973"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1973-11-29"
+    year_filter: [ "1973" ]
     date_end: 31 29 November–2 December 1973
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
@@ -9276,8 +9276,8 @@ object_list:
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     title: "“How to Use these videotapes and booklets”"
     date: "ca. 1970s"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1970-01-01"
+    year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 34, folder 10"
     extended_caption: "Allan Kaprow likely composed this text to accompany an exhibition of his videotapes and activity booklets. Here he explains how photographic media can be used to create something like “music scores,” or “notations which one or more persons can carry out” after looking at them. The “How to” of the title of this text is a nod to Kaprow’s irreverent idea that artists’ scores belong to the ordinary social world of educational films and product packaging."
@@ -9321,8 +9321,8 @@ object_list:
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     title: "Score for *Soap* in the form of a poster"
     date: "1964–65"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1964-01-01"
+    year_filter: [ "1964", "1965" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, series III, roll 2**"
     extended_caption: "Allan Kaprow painted this version of [the score for *Soap*](/image-index/585/) on brown butcher paper. He later used poster versions of scores as advertisements so they could be read at a distance."
@@ -9381,8 +9381,8 @@ object_list:
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     title: "Sketches for illustrations for the program for *Loss*"
     date: "ca. 1973"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1973-01-01"
+    year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 20, folder 13"
     extended_caption: ""
@@ -9396,8 +9396,8 @@ object_list:
     maker: 
     title: "Allan Kaprow’s clipping of instructions for applying Bluboro™ powder"
     date: "ca. 1973"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1973-01-01"
+    year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 20, folder 13"
     extended_caption: ""
@@ -9456,8 +9456,8 @@ object_list:
     maker: 
     title: "Contact sheet of photographs by Alvin Comiter, with Allan Kaprow’s notations"
     date: "ca. 1973"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1973-01-01"
+    year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 20, folder 13"
     extended_caption: "Alvin Comiter prepared this contact sheet in 1973 for Allan Kaprow to use later in [“Easy Activity”](/image-index/617/) (1975), a proto-activity booklet published in a book of art history essays. Comiter, who was trained in nuclear physics before he went to art school, graduated from the California Institute of the Arts in 1973, where Kaprow was a dean and professor (1969–74). Comiter also took the photographs that Kaprow would use in one of Kaprow's first official activity booklets, [*Routine*](/image-index/573/) (1975)."

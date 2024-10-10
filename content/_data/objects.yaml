@@ -292,7 +292,7 @@ object_list:
     id: "017"
     old_id: "1.06"
     maker: [ "Morton Feldman, composer (American, 1926–87)", "Steffen Schleiermacher, piano (German, b. 1960)" ]
-    people: ""
+    people: [ "Feldman, Morton", "Schleiermacher, Steffen" ]
     more_people: ""
     title: "Recording of Steffen Schleiermacher performing *Intersection 3*"
     date: "1994"
@@ -309,7 +309,7 @@ object_list:
     id: "018"
     old_id: "1.07"
     maker: [ "Morton Feldman, composer (American, 1926–87)", "Frank Denyer, piano (English, b. 1943)" ]
-    people: ""
+    people: [ "Feldman, Morton", "Denyer, Frank" ]
     more_people: ""
     title: "Recording of Frank Denyer performing *Intersection 3*"
     date: "2005"
@@ -1808,7 +1808,7 @@ object_list:
     id: "105"
     old_id: "2.15l"
     maker: [ "Diether de la Motte" ]
-    people: ""
+    people: [ "de la Motte, Diether" ]
     more_people: ""
     title: "“Musik der Zeit: Demonstration neuer Kompositionstechniken,” *Rheinische Post*"
     date: "23 September 1958"
@@ -4070,7 +4070,7 @@ object_list:
     id: "238"
     old_id: "5.01"
     maker: [ "La Monte Young (American, b. 1935)", "Jackson Mac Low (American, 1922–2004)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Young, La Monte", "Mac Low, Jackson", "Maciunas, George" ]
     more_people: ""
     title: "*AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*"
     date: "1962"
@@ -4155,7 +4155,7 @@ object_list:
     id: "243"
     old_id: "5.02e"
     maker: [ "Jackson Mac Low (American, 1922–2004)", "Simone Forti (American, b. 1935)" ]
-    people: ""
+    people: [ "Mac Low, Jackson ", "Forti, Simone" ]
     more_people: ""
     title: "Phoebe Berglund and Andros Zins-Browne performing Simone Forti’s dance realization of Jackson Mac Low’s *Asymmetry 222* (1980) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -8104,7 +8104,7 @@ object_list:
     id: "473"
     old_id: "8.32"
     maker: [ "Yvonne Rainer (American, b. 1934)", "Melanie Clark and Joukje Kolff (notators)" ]
-    people: ""
+    people: [ "Rainer, Yvonne", "Clark, Melanie" , "Kolff, Joukje" ]
     more_people: ""
     title: "Labanotation score for Yvonne Rainer’s *Trio A* (1966), as performed at London International Summer School"
     date: "2003–5"
@@ -8380,7 +8380,7 @@ object_list:
     id: "489"
     old_id: "9.13"
     maker: [ "Alison Knowles (American, b. 1933)", "Anna (Annea) Lockwood (New Zealand-born American, b. 1939)" ]
-    people: ""
+    people: [ "Knowles, Alison", "Lockwood, Anna (Annea)" ]
     more_people: ""
     title: "Letter from Alison Knowles to Jean Brown"
     date: "n.d."
@@ -8992,7 +8992,7 @@ object_list:
     id: "525"
     old_id: "10.18"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Object edition of *Spatial Poem No. 1 (Word Event)*"
     date: "1965"
@@ -9009,7 +9009,7 @@ object_list:
     id: "526"
     old_id: "10.19"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Object edition of *Spatial Poem No. 2 (Direction Event)*"
     date: "1966"
@@ -9026,7 +9026,7 @@ object_list:
     id: "527"
     old_id: "10.20"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Object edition of *Spatial Poem No. 3 (a fluxcalender)*"
     date: "1968"
@@ -9043,7 +9043,7 @@ object_list:
     id: "528"
     old_id: "10.21"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Object edition of *Spatial Poem No. 4 (a fluxmovie)*"
     date: "1973"
@@ -9060,7 +9060,7 @@ object_list:
     id: "529"
     old_id: "10.21a"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Object edition of *Spatial Poem No. 4 (a fluxmovie)*"
     date: "1973"
@@ -10889,7 +10889,7 @@ object_list:
     id: "525-sequence"
     old_id: "10.18"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Object edition of *Spatial Poem No. 1 (Word Event)*"
     date: "1965"
@@ -10906,7 +10906,7 @@ object_list:
     id: "527-sequence"
     old_id: "10.20"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Object edition of *Spatial Poem No. 3 (a fluxcalender)*"
     date: "1968"
@@ -10923,7 +10923,7 @@ object_list:
     id: "529-sequence"
     old_id: "10.21a"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Object edition of *Spatial Poem No. 4 (a fluxmovie)*, microfilm"
     date: "1973"

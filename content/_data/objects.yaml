@@ -37,7 +37,7 @@ object_list:
     id: "002"
     old_id: "0.02"
     maker: [ "Luigi Russolo (Italian, 1855–1947)" ]
-    people: ""
+    people: [ "Russolo, Luigi" ]
     more_people: ""
     title: "*Risveglio di una Cittá* (Awakening of a City)"
     date: "1914"
@@ -54,7 +54,7 @@ object_list:
     id: "003"
     old_id: "0.03a"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: ""
+    people: [ "Brown, Earle" ]
     more_people: ""
     title: "Prefatory notes for *December 1952*, published in *Folio and 4 Systems*"
     date: "1961"
@@ -71,7 +71,7 @@ object_list:
     id: "004"
     old_id: "0.04"
     maker: [ "Wadada Leo Smith (American, b. 1941)" ]
-    people: ""
+    people: [ "Smith, Wadada Leo" ]
     more_people: ""
     title: "*The Dream*, a panel from *Kosmic Music* (The Ankhrasmation Symbolic Language Art-Score)"
     date: "2008"
@@ -88,7 +88,7 @@ object_list:
     id: "005"
     old_id: "0.05"
     maker: [ "Hugo Ball (German, 1886–1927)" ]
-    people: ""
+    people: [ "Ball, Hugo" ]
     more_people: ""
     title: "Hugo Ball performing *Karawane* at the Cabaret Voltaire, Zürich"
     date: "1916"
@@ -105,7 +105,7 @@ object_list:
     id: "006"
     old_id: "0.06"
     maker: [ "Kurt Schwitters (German, 1887–1948)" ]
-    people: ""
+    people: [ "Schwitters, Kurt" ]
     more_people: ""
     title: "*Ursonate*, in *Merz* 24 (Hanover, 1932)"
     date: "1922–32"
@@ -122,7 +122,7 @@ object_list:
     id: "007"
     old_id: "0.07"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 127"
     date: "ca. late July 1959"
@@ -139,7 +139,7 @@ object_list:
     id: "008"
     old_id: "0.08"
     maker: [ "Nam June Paik (Korean, 1932–2006)" ]
-    people: ""
+    people: [ "Paik, Nam June" ]
     more_people: ""
     title: "“Expanded Education for the Paperless Society,” 1968, reproduced in *Radical Software* 1, no. 1 (1970): 7–8"
     date: "1968"
@@ -156,7 +156,7 @@ object_list:
     id: "009"
     old_id: "0.09"
     maker: [ "Sidney Lanier (American, 1842–81)" ]
-    people: ""
+    people: [ "Lanier, Sidney" ]
     more_people: ""
     title: "*Science of English Verse*"
     date: "1880"
@@ -173,7 +173,7 @@ object_list:
     id: "010"
     old_id: "0.10"
     maker: [ "Décio Pignatari (Brazilian, 1927–2012)" ]
-    people: ""
+    people: [ "Pignatari, Décio" ]
     more_people: ""
     title: "*Beba Coca Cola*"
     date: "1957"
@@ -190,7 +190,7 @@ object_list:
     id: "011"
     old_id: "0.11"
     maker: [ "Ian Hamilton Finlay (Scottish, 1925–2006)" ]
-    people: ""
+    people: [ "Finlay, Ian Hamilton" ]
     more_people: ""
     title: "*Star/Steer*"
     date: "1965"
@@ -207,7 +207,7 @@ object_list:
     id: "012"
     old_id: "1.01"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: ""
+    people: [ "Feldman, Morton" ]
     more_people: ""
     title: "*Intersection 3* with a dedication to David Tudor"
     date: "1953"
@@ -224,7 +224,7 @@ object_list:
     id: "013"
     old_id: "1.02"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: ""
+    people: [ "Feldman, Morton" ]
     more_people: ""
     title: "*Intersection 3*"
     date: "1953"
@@ -241,7 +241,7 @@ object_list:
     id: "014"
     old_id: "1.03"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection 3*"
     date: "1953"
@@ -258,7 +258,7 @@ object_list:
     id: "015"
     old_id: "1.04"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Rereleased recording of David Tudor performing *Intersection 3*"
     date: "2007"
@@ -275,7 +275,7 @@ object_list:
     id: "016"
     old_id: "1.05"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Undated recording of David Tudor performing *Intersection 3*"
     date: ""
@@ -360,7 +360,7 @@ object_list:
     id: "021"
     old_id: "1.08"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: ""
+    people: [ "Feldman, Morton" ]
     more_people: ""
     title: "Letter from Morton Feldman to David Tudor"
     date: "15 June 1953"
@@ -377,7 +377,7 @@ object_list:
     id: "022"
     old_id: "1.09"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: ""
+    people: [ "Feldman, Morton" ]
     more_people: ""
     title: "Envelope with notes written by Morton Feldman"
     date: "1953"
@@ -394,7 +394,7 @@ object_list:
     id: "023"
     old_id: "1.10"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: ""
+    people: [ "Feldman, Morton" ]
     more_people: ""
     title: "Transparency sheet with graph guidelines"
     date: "early 1950s"
@@ -513,7 +513,7 @@ object_list:
     id: "030"
     old_id: "1.12a"
     maker: [ "George W. Stowe" ]
-    people: ""
+    people: [ "Stowe, George W." ]
     more_people: ""
     title: "“David Tudor Program Opens Sunday Afternoon Series,” *Hartford Times*"
     date: "November 1953"
@@ -582,7 +582,7 @@ object_list:
     id: "034"
     old_id: "1.12e"
     maker: [ "Duffy Defibaugh" ]
-    people: ""
+    people: [ "Defibaugh, Duffy" ]
     more_people: ""
     title: "“‘Magnetic Music’ Not Ready,” *Daily Illini*"
     date: "March 1953"
@@ -616,7 +616,7 @@ object_list:
     id: "036"
     old_id: "1.12g"
     maker: [ "Peggy Glanville-Hicks" ]
-    people: ""
+    people: [ "Glanville-Hicks, Peggy" ]
     more_people: ""
     title: "“Tapesichord: The Music of Whistle and Bang,” *Vogue*, 78–81, 108"
     date: "July 1953"
@@ -701,7 +701,7 @@ object_list:
     id: "041"
     old_id: "1.12m"
     maker: [ "Jay S. Harrison" ]
-    people: ""
+    people: [ "Harrison, Jay S." ]
     more_people: ""
     title: "“New Music Concert Given at the Carl Fischer Hall,” *New York Herald Tribune*, 15"
     date: "31 May 1956"
@@ -769,7 +769,7 @@ object_list:
     id: "045"
     old_id: "1.13"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: ""
+    people: [ "Feldman, Morton" ]
     more_people: ""
     title: "Embryonic graph score, likely for *Projection 1*"
     date: "early 1950s"
@@ -786,7 +786,7 @@ object_list:
     id: "046"
     old_id: "1.14"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: ""
+    people: [ "Feldman, Morton" ]
     more_people: ""
     title: "Score for *Projection 1* for solo cello"
     date: "1950"
@@ -803,7 +803,7 @@ object_list:
     id: "047"
     old_id: "1.15a"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: ""
+    people: [ "Feldman, Morton" ]
     more_people: ""
     title: "*Intersection +*"
     date: "1953"
@@ -820,7 +820,7 @@ object_list:
     id: "048"
     old_id: "1.15b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Sketches of Numbered Boxes)"
     date: "ca. 1953"
@@ -837,7 +837,7 @@ object_list:
     id: "049"
     old_id: "1.15c"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Sketches of Clusters)"
     date: "ca. 1953"
@@ -854,7 +854,7 @@ object_list:
     id: "050"
     old_id: "1.15d"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Quarter-note Realization)"
     date: "ca. 1953"
@@ -871,7 +871,7 @@ object_list:
     id: "051"
     old_id: "1.15e"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (32nd-note Realization)"
     date: "n.d."
@@ -888,7 +888,7 @@ object_list:
     id: "052"
     old_id: "1.15f"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Alternative 32nd-note Realization)"
     date: "n.d."
@@ -905,7 +905,7 @@ object_list:
     id: "053"
     old_id: "1.16a"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: ""
+    people: [ "Feldman, Morton" ]
     more_people: ""
     title: "*Intersection 2*"
     date: "ca. 1951–52"
@@ -922,7 +922,7 @@ object_list:
     id: "054"
     old_id: "1.16b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection 2*"
     date: "early 1950s"
@@ -1024,7 +1024,7 @@ object_list:
     id: "060"
     old_id: "2.01a"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "David Tudor’s copy of John Cage’s *Solo for Piano*, from *Concert for Piano and Orchestra*"
     date: "1957–58"
@@ -1041,7 +1041,7 @@ object_list:
     id: "061"
     old_id: "2.01b"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "David Tudor’s copy of the conductor’s part for *Concert for Piano and Orchestra*"
     date: "1957–58"
@@ -1058,7 +1058,7 @@ object_list:
     id: "062"
     old_id: "2.01c"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "Bassoon and baritone saxophone parts from *Concert for Piano and Orchestra*"
     date: "1957–58"
@@ -1075,7 +1075,7 @@ object_list:
     id: "063"
     old_id: "2.01d"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "Trumpet part from *Concert for Piano and Orchestra*"
     date: "1957–58"
@@ -1092,7 +1092,7 @@ object_list:
     id: "064"
     old_id: "2.02"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "First realization of John Cage’s *Solo for Piano*"
     date: "1958"
@@ -1109,7 +1109,7 @@ object_list:
     id: "065"
     old_id: "2.03"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Supplementary score pages for the first realization of John Cage’s *Solo for Piano*"
     date: "1958"
@@ -1126,7 +1126,7 @@ object_list:
     id: "066"
     old_id: "2.05"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Pencil draft of the second realization of John Cage’s *Solo for Piano*"
     date: "1958"
@@ -1143,7 +1143,7 @@ object_list:
     id: "067"
     old_id: "2.06"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Final version of the second realization of John Cage’s *Solo for Piano* for the *Indeterminacy* recording (1959)"
     date: "1958"
@@ -1160,7 +1160,7 @@ object_list:
     id: "068"
     old_id: "2.06b"
     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Animation of David Tudor’s realization of graph J of the *Solo for Piano*"
     date: "1958"
@@ -1177,7 +1177,7 @@ object_list:
     id: "069"
     old_id: "2.06c"
     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Animation of David Tudor’s realization of graph K of the *Solo for Piano*"
     date: "1958"
@@ -1194,7 +1194,7 @@ object_list:
     id: "070"
     old_id: "2.06d"
     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Animation of David Tudor’s realization of graph T of the *Solo for Piano*"
     date: "1958"
@@ -1211,7 +1211,7 @@ object_list:
     id: "071"
     old_id: "2.06e"
     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Animation of David Tudor’s realization of graph AY of the *Solo for Piano*"
     date: "1958"
@@ -1228,7 +1228,7 @@ object_list:
     id: "072"
     old_id: "2.06f"
     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Animation of David Tudor’s realization of graph CE of the *Solo for Piano*"
     date: "1958"
@@ -1245,7 +1245,7 @@ object_list:
     id: "073"
     old_id: "2.06g"
     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Flipbook 1: David Tudor’s first realization of John Cage’s *Concert for Piano and Orchestra*"
     date: "1958"
@@ -1263,7 +1263,7 @@ object_list:
     id: "074"
     old_id: ""
     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Animation of David Tudor’s realization of graph J of the *Solo for Piano*"
     date: "1964"
@@ -1298,7 +1298,7 @@ object_list:
     id: "075"
     old_id: "2.07"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Live performance of the first realization of John Cage’s *Concert for Piano and Orchestra* at Town Hall"
     date: "1958"
@@ -1315,7 +1315,7 @@ object_list:
     id: "076"
     old_id: "2.08"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Studio recording of the second realization of John Cage’s *Solo for Piano* for with Cage’s *Indeterminacy* stories"
     date: "1959"
@@ -1332,7 +1332,7 @@ object_list:
     id: "077"
     old_id: "2.09"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Live performance of the first realization of John Cage’s *Concert for Piano and Orchestra* at Mills College"
     date: "1964"
@@ -1349,7 +1349,7 @@ object_list:
     id: "078"
     old_id: "2.10"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Studio recording of David Tudor performing *Concert for Piano and Orchestra*"
     date: "1993"
@@ -1366,7 +1366,7 @@ object_list:
     id: "079"
     old_id: "2.11"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Performance of the second realization of John Cage’s *Solo for Piano*"
     date: ""
@@ -1383,7 +1383,7 @@ object_list:
     id: "080"
     old_id: "2.12"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Live performance of the *Solo for Piano* at the Philadelphia Museum of Art"
     date: "11 September 1982"
@@ -1400,7 +1400,7 @@ object_list:
     id: "081"
     old_id: "2.13a"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Live performance of the *Solo for Piano* at the Almeida Theatre in London"
     date: "13 June 1986"
@@ -1417,7 +1417,7 @@ object_list:
     id: "082"
     old_id: "2.13b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "David Tudor’s Sonorities for John Cage’s *Solo for Piano*"
     date: ""
@@ -1587,7 +1587,7 @@ object_list:
     id: "092"
     old_id: "2.14j"
     maker: [ "John Cage (American, 1912–92)", "Richard Kostelanetz (b. 1940)" ]
-    people: ""
+    people: [ "Cage, John", "Kostelanetz, Richard" ]
     more_people: ""
     title: "Liner notes for *Indeterminacy* recording"
     date: "1959; reissued 1992"
@@ -1638,7 +1638,7 @@ object_list:
     id: "095"
     old_id: "2.15b"
     maker: [ "Dore Ashton" ]
-    people: ""
+    people: [ "Ashton, Dore" ]
     more_people: ""
     title: "“Cage, Composer, Shows Calligraphy of Note,” review of the Stable Gallery show, *New York Times*"
     date: "6 May 1958"
@@ -1672,7 +1672,7 @@ object_list:
     id: "097"
     old_id: "2.15d"
     maker: [ "Jay S. Harrison" ]
-    people: ""
+    people: [ "Harrison, Jay S." ]
     more_people: ""
     title: "“John Cage Retrospective Is Presented at Town Hall,” *New York Herald Tribune*, 12"
     date: "16 May 1958"
@@ -1689,7 +1689,7 @@ object_list:
     id: "098"
     old_id: "2.15e"
     maker: [ "Milew Kastendieck" ]
-    people: ""
+    people: [ "Kastendieck, Milew" ]
     more_people: ""
     title: "“Cage’s Music Still a Phenomenon,” *New York Journal-American*, 12"
     date: "16 May 1958"
@@ -1706,7 +1706,7 @@ object_list:
     id: "099"
     old_id: "2.15f"
     maker: [ "Ross Parmenter" ]
-    people: ""
+    people: [ "Parmenter, Ross" ]
     more_people: ""
     title: "“Music: Experimenter: Zounds! Sound by John Cage at Town Hall,” *New York Times*, 20"
     date: "16 May 1958"
@@ -1723,7 +1723,7 @@ object_list:
     id: "100"
     old_id: "2.15g"
     maker: [ "Louis Biancolli" ]
-    people: ""
+    people: [ "Biancolli, Louis" ]
     more_people: ""
     title: "“John Cage Gives Review of Work,” *New York World-Telegram and Sun*, 25"
     date: "16 May 1958"
@@ -1740,7 +1740,7 @@ object_list:
     id: "101"
     old_id: "2.15h"
     maker: [ "Margaret Lloyd" ]
-    people: ""
+    people: [ "Lloyd, Margaret" ]
     more_people: ""
     title: "“Modern American Dance in Connecticut: Contrasting Styles Seen in Eleventh Annual,” *Christian Science Monitor*"
     date: "23 August 1958"
@@ -1791,7 +1791,7 @@ object_list:
     id: "104"
     old_id: "2.15k"
     maker: [ "Herbert Schultz" ]
-    people: ""
+    people: [ "Schultz, Herbert" ]
     more_people: ""
     title: "“Nicht mehr der Ton macht die Musik,” *Der Mittag*"
     date: "23 September 1958"
@@ -1842,7 +1842,7 @@ object_list:
     id: "107"
     old_id: "2.15n"
     maker: [ "Friedrich Berger" ]
-    people: ""
+    people: [ "Berger, Friedrich" ]
     more_people: ""
     title: "“Alibi für die Gestrigen,” *Kölner Stadt-Anzeiger*"
     date: "24 September 1958"
@@ -1859,7 +1859,7 @@ object_list:
     id: "108"
     old_id: "2.15o"
     maker: [ "Heinrich Lindlar" ]
-    people: ""
+    people: [ "Lindlar, Heinrich" ]
     more_people: ""
     title: "“Was man hörte, war verwirrend: Fragwürdiges Funk-Konzert aus Köln mit ‘Musik der Zeit,’” *Die Welt*"
     date: "25 September 1958"
@@ -1876,7 +1876,7 @@ object_list:
     id: "109"
     old_id: "2.15p"
     maker: [ "Kurt Driesch" ]
-    people: ""
+    people: [ "Driesch, Kurt" ]
     more_people: ""
     title: "“‘Avantgardistische Musik’ am Abgrund: Europäische Erstauffühurng von John Cage’s ‘Klavierkonzert’ in Köln,” *Rhein Neckar-Azeitung*"
     date: "30 September 1958"
@@ -1893,7 +1893,7 @@ object_list:
     id: "110"
     old_id: "2.15q"
     maker: [ "H. H. Stuckenschmidt" ]
-    people: ""
+    people: [ "Stuckenschmidt, H. H." ]
     more_people: ""
     title: "“Sessions on Modern Music Held Near Darmstadt,” *Musical America*, 18–19, 34"
     date: "October 1958"
@@ -1927,7 +1927,7 @@ object_list:
     id: "112"
     old_id: "2.15s"
     maker: [ "Edward Cannel" ]
-    people: ""
+    people: [ "Cannel, Edward" ]
     more_people: ""
     title: "“Little Thing Like Mushroom Can Change Destiny,” *Oregon Journal*"
     date: "5 July 1959"
@@ -1944,7 +1944,7 @@ object_list:
     id: "113"
     old_id: "2.15t"
     maker: [ "Doris Hering" ]
-    people: ""
+    people: [ "Hering, Doris" ]
     more_people: ""
     title: "“The ‘Good Guys’ Versus the ‘Bad Guys’: Twelfth American Dance Festival,” *Dance Magazine*, 31–35, 82"
     date: "October 1959"
@@ -1995,7 +1995,7 @@ object_list:
     id: "116"
     old_id: "2.15w"
     maker: [ "Eric Salzman" ]
-    people: ""
+    people: [ "Salzman, Eric" ]
     more_people: ""
     title: "“John Cage in Story Hour for Some Friends,” *New York Times*"
     date: "26 January 1960"
@@ -2012,7 +2012,7 @@ object_list:
     id: "117"
     old_id: "2.15x"
     maker: [ "Fred Grunfeld" ]
-    people: ""
+    people: [ "Grunfeld, Fred" ]
     more_people: ""
     title: "“Cage Without Bars,” *The Reporter*, 35, 37"
     date: "4 February 1960"
@@ -2029,7 +2029,7 @@ object_list:
     id: "118"
     old_id: "2.15y"
     maker: [ "Walter Terry" ]
-    people: ""
+    people: [ "Terry, Walter" ]
     more_people: ""
     title: "“Cunningham Dance Group Gives Avant Garde Works,” *New York Herald Tribune*, 19"
     date: "17 February 1960"
@@ -2046,7 +2046,7 @@ object_list:
     id: "119"
     old_id: "2.15z"
     maker: [ "Paul Henry Lang" ]
-    people: ""
+    people: [ "Lang, Paul Henry" ]
     more_people: ""
     title: "“What Is Offered by Electronic Age?,” *New York Herald Tribune*, 6"
     date: "10 April 1960"
@@ -2063,7 +2063,7 @@ object_list:
     id: "120"
     old_id: "2.15ab"
     maker: [ "John K. Sherman" ]
-    people: ""
+    people: [ "Sherman, John K." ]
     more_people: ""
     title: "“Music to Hear—and Unhear,” *Minneapolis Star*"
     date: "1961"
@@ -2080,7 +2080,7 @@ object_list:
     id: "121"
     old_id: "2.15ac"
     maker: [ "Louis R. Guzzo" ]
-    people: ""
+    people: [ "Guzzo, Louis R." ]
     more_people: ""
     title: "“Cage’s Electronic Music Amazes and Amuses,” *Seattle Times*"
     date: "27 September 1962"
@@ -2114,7 +2114,7 @@ object_list:
     id: "123"
     old_id: "2.16a"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "Letter from John Cage to David Tudor"
     date: "29 January 1958"
@@ -2131,7 +2131,7 @@ object_list:
     id: "124"
     old_id: "2.16b"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "Letter from John Cage to David Tudor"
     date: "1951"
@@ -2165,7 +2165,7 @@ object_list:
     id: "126"
     old_id: "2.16d"
     maker: [ "James Klosty" ]
-    people: ""
+    people: [ "Klosty, James" ]
     more_people: ""
     title: "Letter from James Klosty to David Tudor"
     date: "1971"
@@ -2182,7 +2182,7 @@ object_list:
     id: "127"
     old_id: "2.17"
     maker: [ "Mary Caroline Richards (American, 1916–99)" ]
-    people: ""
+    people: [ "Richards, Mary Caroline" ]
     more_people: ""
     title: "Antonin Artaud lecture for the Living Theatre"
     date: "1959"
@@ -2199,7 +2199,7 @@ object_list:
     id: "128"
     old_id: "2.18"
     maker: [ "David Tudor (American, 1926–96)", "Antonin Artaud (French, 1896–1948)" ]
-    people: ""
+    people: [ "Tudor, David", "Artaud, Antonin" ]
     more_people: ""
     title: "David Tudor’s typescript of M. C. Richards’s English translation of Antonin Artaud’s “An Affective Athleticism”"
     date: ""
@@ -2267,7 +2267,7 @@ object_list:
     id: "132"
     old_id: "2.19d"
     maker: [ "Manfred Leve (German, 1936–2012)" ]
-    people: ""
+    people: [ "Leve, Manfred" ]
     more_people: ""
     title: "David Tudor performing at Galerie 22 in Düsseldorf, Germany"
     date: "14 October 1958"
@@ -2318,7 +2318,7 @@ object_list:
     id: "135"
     old_id: "2.21"
     maker: [ "Aram Avakian (American, 1926–87)" ]
-    people: ""
+    people: [ "Avakian, Aram" ]
     more_people: ""
     title: "John Cage, Merce Cunningham, and David Tudor at the Town Hall premiere of *Concert for Piano and Orchestra*"
     date: "May 1958"
@@ -2335,7 +2335,7 @@ object_list:
     id: "136"
     old_id: "2.22a"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Dynamics table for graph A for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2352,7 +2352,7 @@ object_list:
     id: "137"
     old_id: "2.22b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Auxiliary sound inventory for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2369,7 +2369,7 @@ object_list:
     id: "138"
     old_id: "2.22c"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Graph sequence for the *Antic Meet* performance of John Cage’s *Solo for Piano* at the American Dance Festival"
     date: "August 1958"
@@ -2386,7 +2386,7 @@ object_list:
     id: "139"
     old_id: "2.22d"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Graph sequence for the *Antic Meet* performance of John Cage’s *Concert for Piano and Orchestra* at the Phoenix Theatre, New York"
     date: "16 February 1960"
@@ -2403,7 +2403,7 @@ object_list:
     id: "140"
     old_id: "2.22e"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Graph sequence for the Cologne performance of John Cage’s *Solo for Piano*"
     date: "September 1958"
@@ -2420,7 +2420,7 @@ object_list:
     id: "141"
     old_id: "2.22f"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Graph sequence for the Town Hall rehearsal and premiere of John Cage’s *Solo for Piano*"
     date: "15 May 1958"
@@ -2437,7 +2437,7 @@ object_list:
     id: "142"
     old_id: "2.22g"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Graph sequence for the Vienna performance of John Cage’s *Solo for Piano*"
     date: "19 November 1959"
@@ -2454,7 +2454,7 @@ object_list:
     id: "143"
     old_id: "2.22h"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Graph sequence for the Village Vanguard performance of John Cage’s *Solo for Piano*"
     date: "25 May 1958"
@@ -2471,7 +2471,7 @@ object_list:
     id: "144"
     old_id: "2.22i"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Grids and templates for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2488,7 +2488,7 @@ object_list:
     id: "145"
     old_id: "2.22j"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Index of graphs and pages from John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2505,7 +2505,7 @@ object_list:
     id: "146"
     old_id: "2.22k"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Map of graphs for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2522,7 +2522,7 @@ object_list:
     id: "147"
     old_id: "2.22l"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Notes for tape A for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2539,7 +2539,7 @@ object_list:
     id: "148"
     old_id: "2.22m"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Notes for tape B for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2556,7 +2556,7 @@ object_list:
     id: "149"
     old_id: "2.22n"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Realization fragment for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2573,7 +2573,7 @@ object_list:
     id: "150"
     old_id: "2.22o"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Reverse sequence of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2590,7 +2590,7 @@ object_list:
     id: "151"
     old_id: "2.22p"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Sketch of the graph sequence for the Cologne performance of John Cage’s *Solo for Piano*"
     date: "September 1958"
@@ -2607,7 +2607,7 @@ object_list:
     id: "152"
     old_id: "2.22q"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Unidentified sequence sketch for the first realization of John Cage’s *Solo for Piano*"
     date: "1958"
@@ -2624,7 +2624,7 @@ object_list:
     id: "153"
     old_id: "2.22r"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Unidentified sketches for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2641,7 +2641,7 @@ object_list:
     id: "154"
     old_id: "3.01"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "David Tudor’s personal copy of Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
     date: "1959"
@@ -2658,7 +2658,7 @@ object_list:
     id: "155"
     old_id: "3.02"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Typed instructions (in Italian and German) for Sylvano Bussotti’s *Five Pieces for David Tudor*"
     date: "1959"
@@ -2675,7 +2675,7 @@ object_list:
     id: "156"
     old_id: "3.03a"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "David Tudor’s realization of *No. 1* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
     date: "1959"
@@ -2692,7 +2692,7 @@ object_list:
     id: "157"
     old_id: "3.03b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "David Tudor’s realization of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
     date: "1959"
@@ -2709,7 +2709,7 @@ object_list:
     id: "158"
     old_id: "3.04"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "David Tudor’s realization of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
     date: "1959"
@@ -2726,7 +2726,7 @@ object_list:
     id: "159"
     old_id: "3.05"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Loose score sheets for Sylvano Bussotti’s *Pièces de chair II*"
     date: "1958–60"
@@ -2743,7 +2743,7 @@ object_list:
     id: "160"
     old_id: "3.06"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "David Tudor performing *Nos. 3* (with Realization), *2*, and *5* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor* at the Internationale Ferienkurse für Neue Musik, Darmstadt"
     date: "1959"
@@ -2760,7 +2760,7 @@ object_list:
     id: "161"
     old_id: "3.07"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "David Tudor performing live Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
     date: "n.d."
@@ -2777,7 +2777,7 @@ object_list:
     id: "162"
     old_id: "3.07a"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)", "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "David Tudor performing *Nos. 1*, *3*, and *4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
     date: ""
@@ -2794,7 +2794,7 @@ object_list:
     id: "163"
     old_id: "3.08"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "David Tudor’s tables and sketches for his realizations of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
     date: "1959"
@@ -2811,7 +2811,7 @@ object_list:
     id: "164"
     old_id: "3.09"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Performance note for *No. 5* from *Piano Pieces for David Tudor*"
     date: "1959"
@@ -2828,7 +2828,7 @@ object_list:
     id: "165"
     old_id: "3.10"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Performance notes for Sylvano Bussotti’s *Pièces de chair II*"
     date: "1958–59"
@@ -2845,7 +2845,7 @@ object_list:
     id: "166"
     old_id: "3.11a"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Diagram of Sylvano Bussotti’s *Pièces de chair II*"
     date: "n.d."
@@ -2862,7 +2862,7 @@ object_list:
     id: "167"
     old_id: "3.11b"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Letter from Sylvano Bussotti to David Tudor"
     date: "25 August 1967"
@@ -2879,7 +2879,7 @@ object_list:
     id: "168"
     old_id: "3.11d"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Envelope from Sylvano Bussotti to David Tudor"
     date: "1959"
@@ -2896,7 +2896,7 @@ object_list:
     id: "169"
     old_id: "3.11e"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Ink drawing by Sylvano Bussotti to David Tudor"
     date: "n.d."
@@ -2913,7 +2913,7 @@ object_list:
     id: "170"
     old_id: "3.11f"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Signature on score fragment"
     date: "n.d"
@@ -2930,7 +2930,7 @@ object_list:
     id: "171"
     old_id: "3.11g"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Envelope from Sylvano Bussotti to David Tudor"
     date: "n.d."
@@ -2947,7 +2947,7 @@ object_list:
     id: "172"
     old_id: "3.11h"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Signature on score fragment to David Tudor"
     date: "1959"
@@ -2964,7 +2964,7 @@ object_list:
     id: "173"
     old_id: "3.11i"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Ink drawing by Sylvano Bussotti to David Tudor"
     date: "n.d."
@@ -2981,7 +2981,7 @@ object_list:
     id: "174"
     old_id: "3.11j"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Score fragment"
     date: "n.d."
@@ -2998,7 +2998,7 @@ object_list:
     id: "175"
     old_id: "3.11k"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Miscellaneous scores by Sylvano Bussotti sent to David Tudor"
     date: "1959(?)"
@@ -3015,7 +3015,7 @@ object_list:
     id: "176"
     old_id: "3.11l"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Postcard from Sylvano Bussotti to David Tudor"
     date: "6 January 1965"
@@ -3032,7 +3032,7 @@ object_list:
     id: "177"
     old_id: "3.11m"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Letter from Sylvano Bussotti to David Tudor"
     date: "25 April 1965"
@@ -3049,7 +3049,7 @@ object_list:
     id: "178"
     old_id: "3.11n"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Letter from Sylvano Bussotti to David Tudor"
     date: "2 November 1959"
@@ -3066,7 +3066,7 @@ object_list:
     id: "179"
     old_id: "3.11o"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Letter from Sylvano Bussotti to David Tudor"
     date: "24 May 1967"
@@ -3083,7 +3083,7 @@ object_list:
     id: "180"
     old_id: "3.11p"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Letter from Sylvano Bussotti to David Tudor"
     date: "n.d."
@@ -3100,7 +3100,7 @@ object_list:
     id: "181"
     old_id: "3.11q"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Letter from Sylvano Bussotti to David Tudor"
     date: "22 May 1959"
@@ -3117,7 +3117,7 @@ object_list:
     id: "182"
     old_id: "3.12"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: ""
+    people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Postcard from Sylvano Bussotti and other avant-garde composers to David Tudor"
     date: "1959"
@@ -3202,7 +3202,7 @@ object_list:
     id: "187"
     old_id: "3.14b"
     maker: [ "Lodovico Mamprin" ]
-    people: ""
+    people: [ "Mamprin, Lodovico" ]
     more_people: ""
     title: "“Tre concerti in Italia di musiche d’avanguardia,” *Giornale del Mattino*, 5"
     date: "15 November 1959"
@@ -3236,7 +3236,7 @@ object_list:
     id: "189"
     old_id: "3.14d"
     maker: [ "Paul Henry Lang" ]
-    people: ""
+    people: [ "Lang, Paul Henry" ]
     more_people: ""
     title: "“Long-Hair Critic Reviews a Glove-Wearing Pianist,” *New York Herald Tribune*"
     date: "29 March 1960"
@@ -3253,7 +3253,7 @@ object_list:
     id: "190"
     old_id: "3.14e"
     maker: [ "Eric Salzman" ]
-    people: ""
+    people: [ "Salzman, Eric" ]
     more_people: ""
     title: "“Recital Is Given by David Tudor,” *New York Times*"
     date: "29 March 1960"
@@ -3270,7 +3270,7 @@ object_list:
     id: "191"
     old_id: "3.14f"
     maker: [ "Ed Wallace" ]
-    people: ""
+    people: [ "Wallace, Ed" ]
     more_people: ""
     title: "“War on the Keys: Above Ground Test Deactivates Piano,” *New York World-Telegram and Sun*"
     date: "5 April 1960"
@@ -3287,7 +3287,7 @@ object_list:
     id: "192"
     old_id: "3.14g"
     maker: [ "Harold C. Schonberg" ]
-    people: ""
+    people: [ "Schonberg, Harold C." ]
     more_people: ""
     title: "“The Far-Out Pianist,” *Harper’s Magazine*, 49–54"
     date: "June 1960"
@@ -3304,7 +3304,7 @@ object_list:
     id: "193"
     old_id: "3.14h"
     maker: [ "Enrique Franco" ]
-    people: ""
+    people: [ "Franco, Enrique" ]
     more_people: ""
     title: "“David Tudor presenta un programa de musica experimental: Jean Martinon dirige La Nacional,” 21"
     date: "12 November 1960"
@@ -3338,7 +3338,7 @@ object_list:
     id: "195"
     old_id: "3.15"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Lecture notes on David Tudor’s performance practice as a pianist during the late 1950s and early ’60s"
     date: "early 1960s"
@@ -3355,7 +3355,7 @@ object_list:
     id: "196"
     old_id: "3.16"
     maker: [ "Manfred Leve (German, 1936–2012)" ]
-    people: ""
+    people: [ "Leve, Manfred" ]
     more_people: ""
     title: "David Tudor performing with gloves"
     date: "ca. 1959"
@@ -3372,7 +3372,7 @@ object_list:
     id: "197"
     old_id: "4.01"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Printed score of *Paper Piece* in English"
     date: "1960"
@@ -3389,7 +3389,7 @@ object_list:
     id: "198"
     old_id: "4.02"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Printed score of *Paper Piece* in German with a handwritten note"
     date: "1960"
@@ -3406,7 +3406,7 @@ object_list:
     id: "199"
     old_id: "4.03"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Printed score of *Paper Piece* in German"
     date: "1960"
@@ -3423,7 +3423,7 @@ object_list:
     id: "200"
     old_id: "4.04"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Handwritten score of *Paper Piece* in English on musical staff paper"
     date: "1960"
@@ -3440,7 +3440,7 @@ object_list:
     id: "201"
     old_id: "4.05"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Handwritten score of *Paper Piece* in English on paper"
     date: "1960"
@@ -3457,7 +3457,7 @@ object_list:
     id: "202"
     old_id: "4.06"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Typed score of *Paper Piece* in English"
     date: "1960"
@@ -3474,7 +3474,7 @@ object_list:
     id: "203"
     old_id: "4.07"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Paper Piece,* originally from the album *Early Works*, with Benjamin Patterson (director) and performers Davide Mosconi, Gabriele Bonomo, Philip Corner, Phoebe Neville, and Walter Marchetti (paper)"
     date: "1999"
@@ -3491,7 +3491,7 @@ object_list:
     id: "204"
     old_id: "4.08"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Paper Piece* performed by Ensemble for Experimental Music and Theater at Shinjuku Bunka Center"
     date: "31 October 2012"
@@ -3508,7 +3508,7 @@ object_list:
     id: "205"
     old_id: "4.09"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Excerpt of *Paper Piece* performed by Ben Patterson, Ben Vautier, Alison Knowles, Eric Andersen, Willem de Ritter, Bent af Klingenberg, Philip Corner, Dick Higgins, Emmett Williams, and Geoffrey Hendricks, in Malmö, Sweden"
     date: "1992"
@@ -3525,7 +3525,7 @@ object_list:
     id: "206"
     old_id: "4.10a"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Performance of *Paper Piece* in Nice, France"
     date: "1964"
@@ -3542,7 +3542,7 @@ object_list:
     id: "207"
     old_id: "4.10b"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Performance of *Paper Piece* in Nice, France"
     date: "1970"
@@ -3559,7 +3559,7 @@ object_list:
     id: "208"
     old_id: "4.10c"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Performance of *Paper Piece* at Staatsgalerie Stuttgart"
     date: "2012"
@@ -3593,7 +3593,7 @@ object_list:
     id: "210"
     old_id: "4.11"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Décollage Solo for Wolf Vostell*, with a letter from Wolf Vostell"
     date: "April 1960"
@@ -3628,7 +3628,7 @@ object_list:
     id: "212"
     old_id: "4.13a"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*“Situations” for 3 Pianos*"
     date: "1960"
@@ -3645,7 +3645,7 @@ object_list:
     id: "213"
     old_id: "4.13b"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*String Music*"
     date: "1960"
@@ -3662,7 +3662,7 @@ object_list:
     id: "214"
     old_id: "4.13c"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Assorted text scores"
     date: "1961–62"
@@ -3679,7 +3679,7 @@ object_list:
     id: "215"
     old_id: "4.13d"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Duo for Voice and a String Instrument*"
     date: "1961"
@@ -3696,7 +3696,7 @@ object_list:
     id: "216"
     old_id: "4.13e"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Pond*"
     date: "1962"
@@ -3713,7 +3713,7 @@ object_list:
     id: "217"
     old_id: "4.13f"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Variations for Double-Bass*"
     date: "1961, rev. 1962"
@@ -3730,7 +3730,7 @@ object_list:
     id: "218"
     old_id: "4.14"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Final Exam* for Alison Knowles"
     date: "1 June 1965"
@@ -3747,7 +3747,7 @@ object_list:
     id: "219"
     old_id: "4.15"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Notes on art"
     date: "1960s"
@@ -3764,7 +3764,7 @@ object_list:
     id: "220"
     old_id: "4.16"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Poems"
     date: "1960s"
@@ -3781,7 +3781,7 @@ object_list:
     id: "221"
     old_id: "4.17a"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Postcard from George Brecht to Benjamin Patterson"
     date: "22 April 1963"
@@ -3798,7 +3798,7 @@ object_list:
     id: "222"
     old_id: "4.17b"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Postcard from George Brecht to Benjamin Patterson"
     date: "21 January 1964"
@@ -3815,7 +3815,7 @@ object_list:
     id: "223"
     old_id: "4.17c"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Postcard from George Brecht to Benjamin Patterson"
     date: "7 April 1965"
@@ -3832,7 +3832,7 @@ object_list:
     id: "224"
     old_id: "4.18"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Letter from Benjamin Patterson to David Tudor"
     date: "14 December 1960"
@@ -3849,7 +3849,7 @@ object_list:
     id: "225"
     old_id: "4.19"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to Benjamin Patterson"
     date: "January 1963"
@@ -3866,7 +3866,7 @@ object_list:
     id: "226"
     old_id: "4.20a"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Methods and Processes*"
     date: "1962"
@@ -3883,7 +3883,7 @@ object_list:
     id: "227"
     old_id: "4.20b"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Ants*"
     date: "1960"
@@ -3900,7 +3900,7 @@ object_list:
     id: "228"
     old_id: "4.20c"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Alternate two-page score for *Paper Piece*"
     date: "1960"
@@ -3917,7 +3917,7 @@ object_list:
     id: "229"
     old_id: "4.21"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Flyer for Fluxus Internationale Festspiele Neuester Musik, Städtisches Museum, Wiesbaden, West Germany"
     date: "1–23 September 1962"
@@ -3934,7 +3934,7 @@ object_list:
     id: "230"
     old_id: "4.23"
     maker: [ "Benjamin Patterson (American, 1934–2016)", "Emmett Williams (American, 1925–2007)" ]
-    people: ""
+    people: [ "Patterson, Benjamin", "Williams, Emmett" ]
     more_people: ""
     title: "Interview with Benjamin Patterson in Emmett Williams’s “Way Way Way Out,” in *The Stars and Stripes*, 11"
     date: "30 August 1962"
@@ -3968,7 +3968,7 @@ object_list:
     id: "232"
     old_id: "4.24b"
     maker: [ "possibly Rolf Jährling" ]
-    people: ""
+    people: [ "Jährling, Rolf" ]
     more_people: ""
     title: "Benjamin Patterson performing *Variations for Double-Bass* at *Kleinen Sommerfest: Après John Cage*, Galerie Parnass, Wuppertal, West Germany"
     date: "9 June 1962"
@@ -4019,7 +4019,7 @@ object_list:
     id: "235"
     old_id: "4.25"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Portrait of Benjamin Patterson"
     date: ""
@@ -4053,7 +4053,7 @@ object_list:
     id: "237"
     old_id: "4.27"
     maker: [ "Manfred Leve (German, 1936–2012)" ]
-    people: ""
+    people: [ "Leve, Manfred" ]
     more_people: ""
     title: "Benjamin Patterson, Hans G. Helms, Ursula Kagel, Khris Helms, David Tudor, and others performing George Brecht’s *Card-Piece for Voice* (1959) as part of the “Contre-Festival,” organized during the IGNM-Weltmusikfestes, Atelier Mary Bauermeister, Cologne, Germany"
     date: "15 June 1960"
@@ -4087,7 +4087,7 @@ object_list:
     id: "239"
     old_id: "5.02a"
     maker: [ "Takehisa Kosugi (Japanese, 1938–2018)" ]
-    people: ""
+    people: [ "Kosugi, Takehisa" ]
     more_people: ""
     title: "Tashi Wada performing Kosugi’s *Micro 1* (1961) as part of the event *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4104,7 +4104,7 @@ object_list:
     id: "240"
     old_id: "5.02b"
     maker: [ "Simone Forti (American, b. 1935)" ]
-    people: ""
+    people: [ "Forti, Simone" ]
     more_people: ""
     title: "Simone Forti reading from her book *Handbook in Motion* (1974) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4121,7 +4121,7 @@ object_list:
     id: "241"
     old_id: "5.02c"
     maker: [ "Terry Riley (American, b. 1935)" ]
-    people: ""
+    people: [ "Riley, Terry" ]
     more_people: ""
     title: "Ezra Buchla performing Riley’s *Ear Piece* (ca. 1962) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4138,7 +4138,7 @@ object_list:
     id: "242"
     old_id: "5.02d"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "Julia Holter performing Cage’s *45′ for a Speaker* (1954) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4175,7 +4175,7 @@ object_list:
     id: "244"
     old_id: "5.02f"
     maker: [ "Takehisa Kosugi (Japanese, 1938–2018)" ]
-    people: ""
+    people: [ "Kosugi, Takehisa" ]
     more_people: ""
     title: "Ezra Buchla performing Kosugi’s *Micro 1* (1961) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4192,7 +4192,7 @@ object_list:
     id: "246"
     old_id: "5.02h"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: ""
+    people: [ "Brown, Earle" ]
     more_people: ""
     title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4209,7 +4209,7 @@ object_list:
     id: "247"
     old_id: "5.02i"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: ""
+    people: [ "Brown, Earle" ]
     more_people: ""
     title: "Corey Fogel and Luisa Muhr performing Brown’s *December 1952* (1952) on vibraphone as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4226,7 +4226,7 @@ object_list:
     id: "248"
     old_id: "5.02j"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: ""
+    people: [ "Brown, Earle" ]
     more_people: ""
     title: "Celia Hollander performing Brown’s *December 1952* (1952) with laptop and other electronics as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4243,7 +4243,7 @@ object_list:
     id: "249"
     old_id: "5.02k"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Corey Fogel, Celia Hollander, Julia Holter, and Tashi Wada performing George Brecht’s *Motor Vehicle Sundown (Event)* (1960) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4260,7 +4260,7 @@ object_list:
     id: "250"
     old_id: "5.02l"
     maker: [ "Simone Forti (American, b. 1935)" ]
-    people: ""
+    people: [ "Forti, Simone" ]
     more_people: ""
     title: "*Onion Walk* (1961) performed by Simone Forti and friends as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4277,7 +4277,7 @@ object_list:
     id: "251"
     old_id: "5.02m"
     maker: [ "Phoebe Berglund" ]
-    people: ""
+    people: [ "Berglund, Phoebe" ]
     more_people: ""
     title: "*SKY, STONE, SEA* (2021), after Walter De Maria’s *Beach Crawl* (1960), at Marsha P. Johnson State Park Beach, Brooklyn, NY, performed by Phoebe Berglund Dance Troupe"
     date: "2021"
@@ -4294,7 +4294,7 @@ object_list:
     id: "252"
     old_id: "5.02o"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "*The text on the opposite page may be used in any way as a score for solo or group readings, musical or dramatic performances, looking, smelling, anything else &/or nothing at all* (July 1961), performed by Jackson Mac Low and Jeanne Lee at Town Hall, New York, NY"
     date: "13 September 1966"
@@ -4311,7 +4311,7 @@ object_list:
     id: "253"
     old_id: "5.02p"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "*The text on the opposite page may be used in any way as a score for solo or group readings, musical or dramatic performances, looking, smelling, anything else &/or nothing at all* (July 1961), performed by Jackson Mac Low and Jeanne Lee (voices) with Max Neuhaus and James Tenney (electronics) at Town Hall, New York, NY"
     date: "13 September 1966"
@@ -4328,7 +4328,7 @@ object_list:
     id: "254"
     old_id: "5.02q"
     maker: [ "Simone Forti (American, b. 1935)" ]
-    people: ""
+    people: [ "Forti, Simone" ]
     more_people: ""
     title: "Performances of Simone Forti’s *Huddle* and *Slant Board*, from the event *An Evening of Dance Constructions,* Museum of Contemporary Art, Los Angeles, CA"
     date: "1961; performed 2004; film released 2009"
@@ -4432,7 +4432,7 @@ object_list:
     id: "260"
     old_id: "5.06"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Flyer advertising *An Anthology of Chance Operations*"
     date: "1962"
@@ -4500,7 +4500,7 @@ object_list:
     id: "264"
     old_id: "5.10"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Postcard from George Brecht to John Cage"
     date: "n.d."
@@ -4517,7 +4517,7 @@ object_list:
     id: "265"
     old_id: "5.11a"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "Letter from John Cage to George Maciunas"
     date: "3 February 1966"
@@ -4534,7 +4534,7 @@ object_list:
     id: "266"
     old_id: "5.11b"
     maker: [ "Nam June Paik (Korean, 1932–2006)" ]
-    people: ""
+    people: [ "Paik, Nam June" ]
     more_people: ""
     title: "Letter from Nam June Paik to George Maciunas"
     date: "14 November 1967"
@@ -4551,7 +4551,7 @@ object_list:
     id: "267"
     old_id: "5.11c"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Artist index cards"
     date: "1961–64"
@@ -4568,7 +4568,7 @@ object_list:
     id: "268"
     old_id: "5.11da"
     maker: [ "Dick Higgins (American, 1938–98)" ]
-    people: ""
+    people: [ "Higgins, Dick" ]
     more_people: ""
     title: "Letter from Dick Higgins to George Maciunas"
     date: "17 August 1966"
@@ -4585,7 +4585,7 @@ object_list:
     id: "269"
     old_id: "5.11db"
     maker: [ "Dick Higgins (American, 1938–98)" ]
-    people: ""
+    people: [ "Higgins, Dick" ]
     more_people: ""
     title: "Letter from Dick Higgins to George Maciunas"
     date: "22 August 1966"
@@ -4602,7 +4602,7 @@ object_list:
     id: "270"
     old_id: "5.11dc"
     maker: [ "Dick Higgins (American, 1938–98)" ]
-    people: ""
+    people: [ "Higgins, Dick" ]
     more_people: ""
     title: "Letter from Dick Higgins to George Maciunas"
     date: "23 August 1966"
@@ -4619,7 +4619,7 @@ object_list:
     id: "271"
     old_id: "5.11e"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letters from George Maciunas to Dick Higgins"
     date: "18 January 1962 and February 1963"
@@ -4636,7 +4636,7 @@ object_list:
     id: "272"
     old_id: "5.11f"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Plans for Fluxus publications and a new music festival"
     date: "ca. 1962"
@@ -4653,7 +4653,7 @@ object_list:
     id: "273"
     old_id: "5.11g"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "“Conditions for Performing Fluxus Published Compositions, Films & Tapes”"
     date: "ca. 1965"
@@ -4721,7 +4721,7 @@ object_list:
     id: "277"
     old_id: "5.13a"
     maker: [ "Remy Charlip (American, 1929–2012)" ]
-    people: ""
+    people: [ "Charlip, Remy" ]
     more_people: ""
     title: "Flyer for recitals by David Tudor at the Living Theatre, New York, NY"
     date: "March–April 1960"
@@ -4875,7 +4875,7 @@ object_list:
     id: "286"
     old_id: "5.13k"
     maker: [ "Ray Johnson (American, 1927–95)" ]
-    people: ""
+    people: [ "Johnson, Ray" ]
     more_people: ""
     title: "Collage created from a flyer designed by Remy Charlip for recitals by David Tudor at the Living Theatre, New York, NY, plus an envelope"
     date: "ca. 1960"
@@ -4927,7 +4927,7 @@ object_list:
     id: "289"
     old_id: "5.14b"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "1 December 1961"
@@ -4944,7 +4944,7 @@ object_list:
     id: "290"
     old_id: "5.14c"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "20 February 1962"
@@ -4961,7 +4961,7 @@ object_list:
     id: "291"
     old_id: "5.14d"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "13 May 1962"
@@ -4978,7 +4978,7 @@ object_list:
     id: "292"
     old_id: "5.14e"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "22 August 1962"
@@ -4995,7 +4995,7 @@ object_list:
     id: "293"
     old_id: "5.14f"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "August 1962"
@@ -5012,7 +5012,7 @@ object_list:
     id: "294"
     old_id: "5.14g"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "October 1962"
@@ -5029,7 +5029,7 @@ object_list:
     id: "295"
     old_id: "5.14h"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Materials list for *An Anthology of Chance Operations*"
     date: "1962"
@@ -5046,7 +5046,7 @@ object_list:
     id: "296"
     old_id: "5.14i"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Chart of artistic movements and media including optic, acoustic, kinetic, and semantic/symbolic arts, mailed by George Maciunas to Jackson Mac Low"
     date: "ca. 1961–62"
@@ -5063,7 +5063,7 @@ object_list:
     id: "297"
     old_id: "5.14j"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*, written on the back of *Fluxus News leter [sic] No. 5*"
     date: "January 1963"
@@ -5080,7 +5080,7 @@ object_list:
     id: "298"
     old_id: "5.14k"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to La Monte Young on *An Anthology of Chance Operations*"
     date: ""
@@ -5097,7 +5097,7 @@ object_list:
     id: "299"
     old_id: "5.16a"
     maker: [ "La Monte Young (American, b. 1935)" ]
-    people: ""
+    people: [ "Young, La Monte" ]
     more_people: ""
     title: "Letter from La Monte Young to David Tudor"
     date: "1960–61"
@@ -5114,7 +5114,7 @@ object_list:
     id: "300"
     old_id: "5.16b"
     maker: [ "La Monte Young (American, b. 1935)" ]
-    people: ""
+    people: [ "Young, La Monte" ]
     more_people: ""
     title: "Letter from La Monte Young to David Tudor"
     date: "1960–61"
@@ -5131,7 +5131,7 @@ object_list:
     id: "301"
     old_id: "5.17a"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: ""
+    people: [ "Brown, Earle" ]
     more_people: ""
     title: "Score for *December 1952* from *Folio and 4 Systems* inscribed “for David Tudor”"
     date: "1952"
@@ -5148,7 +5148,7 @@ object_list:
     id: "302"
     old_id: "5.17b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "A Realization of Earle Brown’s *December 1952*"
     date: "1950s"
@@ -5165,7 +5165,7 @@ object_list:
     id: "303"
     old_id: "5.18a"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "*Music for Piano No. 2*"
     date: "1959"
@@ -5182,7 +5182,7 @@ object_list:
     id: "304"
     old_id: "5.18b"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "*Music for Piano No. 3*"
     date: "March 1960"
@@ -5199,7 +5199,7 @@ object_list:
     id: "305"
     old_id: "5.18c"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "*Kaiki for Koto for John Cage*"
     date: "October 1960"
@@ -5216,7 +5216,7 @@ object_list:
     id: "306"
     old_id: "5.18d"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "*Music for Piano No. 4 (for David Tudor)*"
     date: "December 1960"
@@ -5233,7 +5233,7 @@ object_list:
     id: "307"
     old_id: "5.18e"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Notes for a realization of Toshi Ichiyanagi’s *Music for Piano No. 4 (for David Tudor)*"
     date: "ca. late 1960"
@@ -5250,7 +5250,7 @@ object_list:
     id: "308"
     old_id: "5.18f"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "*Music for Piano No. 5 (for David Tudor)*"
     date: "December 1960"
@@ -5267,7 +5267,7 @@ object_list:
     id: "309"
     old_id: "5.18g"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "*Music for Piano No. 6 (for Terry Riley)*"
     date: "January 1961"
@@ -5284,7 +5284,7 @@ object_list:
     id: "310"
     old_id: "5.18h"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Score plus related notes for *Duet for Piano and String Instrument*"
     date: "August 1961"
@@ -5301,7 +5301,7 @@ object_list:
     id: "311"
     old_id: "5.18i"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Electronic processing diagram for Toshi Ichiyanagi’s *Activities for Orchestra*, for Merce Cunningham’s dance *Scramble*"
     date: "1967"
@@ -5318,7 +5318,7 @@ object_list:
     id: "312"
     old_id: "5.18j"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Notes and correspondence related to *Distance*"
     date: "1967"
@@ -5335,7 +5335,7 @@ object_list:
     id: "313"
     old_id: "5.19"
     maker: [ "Christian Wolff (American, b. 1934)" ]
-    people: ""
+    people: [ "Wolff, Christian" ]
     more_people: ""
     title: "*Duet I*, with notes sent to John Cage and David Tudor"
     date: "1960"
@@ -5352,7 +5352,7 @@ object_list:
     id: "314"
     old_id: "5.27a"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to David Tudor"
     date: "25 September 1961"
@@ -5369,7 +5369,7 @@ object_list:
     id: "315"
     old_id: "5.27b"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to David Tudor"
     date: "10 March 1962"
@@ -5386,7 +5386,7 @@ object_list:
     id: "316"
     old_id: "5.27c"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to David Tudor"
     date: "17 April 1962"
@@ -5403,7 +5403,7 @@ object_list:
     id: "317"
     old_id: "5.27d"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to David Tudor"
     date: "September, ca. 1962"
@@ -5421,7 +5421,7 @@ object_list:
     id: "318"
     old_id: "5.27e"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to David Tudor"
     date: "20 November 1962"
@@ -5438,7 +5438,7 @@ object_list:
     id: "319"
     old_id: "5.27f"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to David Tudor"
     date: "15 February 1963"
@@ -5455,7 +5455,7 @@ object_list:
     id: "320"
     old_id: "5.27g"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to David Tudor"
     date: "19 December 1963"
@@ -5472,7 +5472,7 @@ object_list:
     id: "321"
     old_id: "5.27h"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to David Tudor"
     date: "4 February 1967"
@@ -5489,7 +5489,7 @@ object_list:
     id: "322"
     old_id: "5.28"
     maker: [ "La Monte Young (American, b. 1935)" ]
-    people: ""
+    people: [ "Young, La Monte" ]
     more_people: ""
     title: "*X for Henry Flynt*"
     date: "April 1960"
@@ -5543,7 +5543,7 @@ object_list:
     id: "325"
     old_id: "5.29c"
     maker: [ "Terry Jennings (American, 1940–81)" ]
-    people: ""
+    people: [ "Jennings, Terry" ]
     more_people: ""
     title: "*Piece for Violins, Violas, and Sopranino Saxophone*"
     date: "January 1963"
@@ -5596,7 +5596,7 @@ object_list:
     id: "328"
     old_id: "5.29f"
     maker: [ "Terry Jennings (American, 1940–81)" ]
-    people: ""
+    people: [ "Jennings, Terry" ]
     more_people: ""
     title: "*Piano Piece*"
     date: "December 1958"
@@ -5632,7 +5632,7 @@ object_list:
     id: "330"
     old_id: "5.30"
     maker: [ "Warner Jepson (1930–2011)" ]
-    people: ""
+    people: [ "Jepson, Warner" ]
     more_people: ""
     title: "Letter from Warner Jepson to David Tudor"
     date: "1960"
@@ -5667,7 +5667,7 @@ object_list:
     id: "332"
     old_id: "5.32"
     maker: [ "Richard Maxfield (American, 1927–69)" ]
-    people: ""
+    people: [ "Maxfield, Richard" ]
     more_people: ""
     title: "Course description for a course on electronic music at the New School for Social Research, New York, NY"
     date: "7 September 1959"
@@ -5684,7 +5684,7 @@ object_list:
     id: "333"
     old_id: "5.33"
     maker: [ "Henry Flynt (American, b. 1940)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Flynt, Henry", "Maciunas, George" ]
     more_people: ""
     title: "*Communists Must Give Revolutionary Leadership in Culture*"
     date: "1965"
@@ -5701,7 +5701,7 @@ object_list:
     id: "334"
     old_id: "5.34a"
     maker: [ "Paul Henry Lang" ]
-    people: ""
+    people: [ "Lang, Paul Henry" ]
     more_people: ""
     title: "Review of a performance by David Tudor and the Audio-Visual Group, *New York Herald Tribune*"
     date: "8 April 1959"
@@ -5718,7 +5718,7 @@ object_list:
     id: "335"
     old_id: "5.34b"
     maker: [ "Harold C. Schonberg" ]
-    people: ""
+    people: [ "Schonberg, Harold C." ]
     more_people: ""
     title: "“‘Advanced’ Music Beeps and Plinks: Experimenters Use Bottle, Ratchets, Toy Machine Gun in Concert at ‘Y,’” review of David Tudor and the Audio-Visual Group, *New York Times*"
     date: "8 April 1959"
@@ -5735,7 +5735,7 @@ object_list:
     id: "336"
     old_id: "5.34c"
     maker: [ "George Gelles" ]
-    people: ""
+    people: [ "Gelles, George" ]
     more_people: ""
     title: "“Electronic Concert Not Very Amusing,” review of a David Tudor and Alvin Lucier performance of works by Alvin Lucier, Toshi Ichiyanagi, and John Cage, *Boston Globe*"
     date: "27 February 1966"
@@ -5752,7 +5752,7 @@ object_list:
     id: "337"
     old_id: "5.34d"
     maker: [ "Anthony Matejczyk" ]
-    people: ""
+    people: [ "Matejczyk, Anthony" ]
     more_people: ""
     title: "“Music for Our Time: Gurgles and Growls,” review of a David Tudor and Alvin Lucier performance of works by Alvin Lucier, Toshi Ichiyanagi, and John Cage, *Boston Herald*"
     date: "ca. February 1966"
@@ -5769,7 +5769,7 @@ object_list:
     id: "338"
     old_id: "5.34e"
     maker: [ "Nancy K. Siff" ]
-    people: ""
+    people: [ "Siff, Nancy K." ]
     more_people: ""
     title: "“Pong Bong,” review of a performance by David Tudor and the Audio-Visual Group, *The Village Voice*"
     date: "15 April 1959"
@@ -5786,7 +5786,7 @@ object_list:
     id: "339"
     old_id: "5.34f"
     maker: [ "Ross Parmenter" ]
-    people: ""
+    people: [ "Parmenter, Ross" ]
     more_people: ""
     title: "“Music: Far Out Program; Contemporary Japanese Offering at the Village Gate Proves Unusual Fare,” review of a concert of “Contemporary Japanese Music & Poetry” by Toshiro Mayuzumi, Toshi Ichiyanagi, and Yoko Ono, performed by Mayazumi, Ichiyanagi, Ono, John Cage, La Monte Young, Simone Forti, David Tudor, and others at the Village Gate, New York, NY, *New York Times*"
     date: "4 April 1961"
@@ -5803,7 +5803,7 @@ object_list:
     id: "340"
     old_id: "5.34g"
     maker: [ "Francis D. Perkins" ]
-    people: ""
+    people: [ "Perkins, Francis D." ]
     more_people: ""
     title: "“David Tudor Plays Piano at Social Research School,” review of a recital by David Tudor of works by Richard Maxfield, John Cage, Hans Otto, and Roland Kayn at the New School for Social Research, New York, NY, *New York Tribune*"
     date: "24 March 1961"
@@ -5837,7 +5837,7 @@ object_list:
     id: "342"
     old_id: "5.36"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Concert flyer for “Mvsica Antiqva et Nova Presents Evenings at AG,” sent to David Tudor from unknown sender"
     date: "1961"
@@ -5854,7 +5854,7 @@ object_list:
     id: "343"
     old_id: "5.37"
     maker: [ "Matsuzaki Kunitoshi" ]
-    people: ""
+    people: [ "Kunitoshi, Matsuzaki" ]
     more_people: ""
     title: "John Cage’s *Music Walk* (1958), performed by John Cage, David Tudor, Yoko Ono, and Mayuzumi Toshirō, at Tokyo Bunka Kaikan Hall, Tokyo, Japan"
     date: "9 October 1962"
@@ -5889,7 +5889,7 @@ object_list:
     id: "345"
     old_id: "6.01b"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Event Score*"
     date: "August 1965"
@@ -5915,7 +5915,7 @@ object_list:
     id: "346"
     old_id: "6.01c"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Drip Music (Drip Event)*"
     date: "1959–62"
@@ -5932,7 +5932,7 @@ object_list:
     id: "347"
     old_id: "6.02"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Event score included in *Water Yam*"
     date: "1963"
@@ -5949,7 +5949,7 @@ object_list:
     id: "348"
     old_id: "6.03a"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Water Yam*"
     date: "1963"
@@ -5966,7 +5966,7 @@ object_list:
     id: "349"
     old_id: "6.03b"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Water Yam*"
     date: "1963"
@@ -6000,7 +6000,7 @@ object_list:
     id: "351"
     old_id: "6.04"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "*Drip Music* (1959), from the album *George Brecht/Ben Patterson: Drip Music/370 Flies*, Alga Marghen (record label), Milan, Italy, 2002"
     date: "recorded 2002"
@@ -6255,7 +6255,7 @@ object_list:
     id: "366"
     old_id: "6.19"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Drip Music*"
     date: "ca. 1970"
@@ -6291,7 +6291,7 @@ object_list:
     id: "368"
     old_id: "6.21"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "*Ekstra Bladet/Politiken*, 1992 reprint by Edition Hundertmark"
     date: "early 1963; reprinted in 1992"
@@ -6308,7 +6308,7 @@ object_list:
     id: "369"
     old_id: "6.22a"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from George Maciunas to George Brecht"
     date: "ca. January 1963"
@@ -6394,7 +6394,7 @@ object_list:
     id: "374"
     old_id: "6.24"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Eight Piano Transcriptions (for David Tudor)*"
     date: "1963"
@@ -6411,7 +6411,7 @@ object_list:
     id: "375"
     old_id: "6.25"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Letter from George Brecht to David Tudor"
     date: "11 July 1961"
@@ -6428,7 +6428,7 @@ object_list:
     id: "376"
     old_id: "6.26"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Incidental Music*, event score sent to David Tudor"
     date: "summer 1961"
@@ -6445,7 +6445,7 @@ object_list:
     id: "377"
     old_id: "6.27"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Handwritten and typed transcriptions of George Brecht event scores"
     date: "ca. 1962–63"
@@ -6462,7 +6462,7 @@ object_list:
     id: "378"
     old_id: "6.28"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Event (Pulse Start, Pulse Stop)*, event score sent to David Tudor"
     date: "December 1962"
@@ -6479,7 +6479,7 @@ object_list:
     id: "379"
     old_id: "6.29"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Motor Vehicle Sundown (Event)*, event score sent to David Tudor"
     date: "spring/summer 1960"
@@ -6496,7 +6496,7 @@ object_list:
     id: "380"
     old_id: "6.30"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Three Aqueous Events*, event score sent to David Tudor"
     date: "summer 1961"
@@ -6513,7 +6513,7 @@ object_list:
     id: "381"
     old_id: "6.31"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Three Chair Events*, event score sent to David Tudor"
     date: "spring 1961"
@@ -6530,7 +6530,7 @@ object_list:
     id: "382"
     old_id: "6.32"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Audio recording of a performance of George Brecht’s *Incidental Music* (summer 1961) at the Kongresssaal Mathildenhöhe, Darmstadt, Germany, as part of the 1961 Internationale Ferienkurse für Neue Musik"
     date: "6 September 1961"
@@ -6564,7 +6564,7 @@ object_list:
     id: "384"
     old_id: "6.34"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 2 (Cologne: Walther König, 1991), 35–36"
     date: "26 October 1958"
@@ -6581,7 +6581,7 @@ object_list:
     id: "385"
     old_id: "6.35"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 2 (Cologne: Walther König, 1991), 64–66"
     date: "ca. December 1958"
@@ -6599,7 +6599,7 @@ object_list:
     id: "386"
     old_id: "6.36"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 2 (Cologne: Walther König, 1991), 107"
     date: "21 January 1959"
@@ -6616,7 +6616,7 @@ object_list:
     id: "387"
     old_id: "6.37"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 24–25"
     date: "28 April 1959"
@@ -6633,7 +6633,7 @@ object_list:
     id: "388"
     old_id: "6.38"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Notebook page showing draft of *Time-Table Music* (1963), reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 105–7"
     date: "July 1959"
@@ -6650,7 +6650,7 @@ object_list:
     id: "389"
     old_id: "6.39"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 123"
     date: "ca. late July 1959"
@@ -6679,7 +6679,7 @@ object_list:
     id: "390"
     old_id: "6.40"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 125"
     date: "ca. late July 1959"
@@ -6707,7 +6707,7 @@ object_list:
     id: "391"
     old_id: "6.41"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "“EVENTS: scores and other occurrences,” typescript, sent to Jill Johnston"
     date: "28 December 1961"
@@ -6724,7 +6724,7 @@ object_list:
     id: "392"
     old_id: "6.42"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Letter from George Brecht to *The Village Voice* editor Daniel Wolf, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 4 (Cologne: Walther König, 1991), 178"
     date: "9 February 1960"
@@ -6741,7 +6741,7 @@ object_list:
     id: "393"
     old_id: "6.43"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Pages from *Kulchur* magazine, no. 3, 1961, edited by Marc Schleifer"
     date: ""
@@ -6775,7 +6775,7 @@ object_list:
     id: "395"
     old_id: "6.45"
     maker: [ "Diane de Bonneval" ]
-    people: ""
+    people: [ "Bonneval, Diane de" ]
     more_people: ""
     title: "“New School’s ‘Happenings’ Proves to be ‘Hellzapoppin’-Beatnik Style,” *New York World-Telegram and The Sun*, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 5 (Cologne: Walther König, 1998), 89"
     date: "3 May 1960"
@@ -6792,7 +6792,7 @@ object_list:
     id: "396"
     old_id: "6.46"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "Letter from John Cage to George Brecht, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 5 (Cologne: Walther König, 1998), 114"
     date: "27 May 1960"
@@ -6809,7 +6809,7 @@ object_list:
     id: "397"
     old_id: "6.47"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Letter from David Tudor to George Brecht, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 5 (Cologne: Walther König, 1998), 183"
     date: "27 July 1960"
@@ -6843,7 +6843,7 @@ object_list:
     id: "399"
     old_id: "6.49"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: ""
+    people: [ "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to George Brecht, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 7 (Cologne: Walther König, 2005), 26–27"
     date: "2 July 1961"
@@ -6860,7 +6860,7 @@ object_list:
     id: "400"
     old_id: "6.50"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Mallard Milk*, event score sent to David Tudor"
     date: "summer 1961"
@@ -6877,7 +6877,7 @@ object_list:
     id: "401"
     old_id: "6.51"
     maker: [ "George Brecht (American, 1926–2008)", "Robert Watts (American, 1923–88)" ]
-    people: ""
+    people: [ "Brecht, George", "Watts, Robert" ]
     more_people: ""
     title: "*Lantern Extract*, envelope and seventeen scores sent to M. C. Richards"
     date: "late 1962"
@@ -6894,7 +6894,7 @@ object_list:
     id: "402"
     old_id: "6.52"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Letters from George Brecht to Jill Johnston"
     date: "ca. 1963"
@@ -6911,7 +6911,7 @@ object_list:
     id: "403"
     old_id: "6.53"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Letter from George Brecht to M. C. Richards"
     date: "July 1963"
@@ -6964,7 +6964,7 @@ object_list:
     id: "406"
     old_id: "7.05"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Postcards sent by Jackson Mac Low to Benjamin Patterson with various scores composed in 1963, including *Social Projects 1–3*, *Architecture (for GB)*, *Schedule (for George Brecht)*, and *Light Rhythms for Henry Flynt*"
     date: "April 1963"
@@ -6998,7 +6998,7 @@ object_list:
     id: "408"
     old_id: "7.08"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to M. C. Richards in Stony Point, NY"
     date: "1 February 1955"
@@ -7015,7 +7015,7 @@ object_list:
     id: "409"
     old_id: "7.09"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Typescript of “Biblical Poems” 1–3, enclosed with a letter to M. C. Richards"
     date: "1955"
@@ -7032,7 +7032,7 @@ object_list:
     id: "410"
     old_id: "7.10"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Envelope for a letter from Jackson Mac Low to David Tudor, John Cage, and M. C. Richards in Stony Point, NY"
     date: "10 February 1955"
@@ -7049,7 +7049,7 @@ object_list:
     id: "411"
     old_id: "7.11"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to John Cage in Stony Point, NY"
     date: "ca. 10 February 1955"
@@ -7066,7 +7066,7 @@ object_list:
     id: "412"
     old_id: "7.12"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to David Tudor in Stony Point, NY"
     date: "ca. 10 February 1955"
@@ -7083,7 +7083,7 @@ object_list:
     id: "413"
     old_id: "7.13"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to M. C. Richards in Stony Point, NY"
     date: "ca. 10 February 1955"
@@ -7100,7 +7100,7 @@ object_list:
     id: "414"
     old_id: "7.14"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Typescript of “Biblical Poems” 4–5, enclosed with a letter to M. C. Richards"
     date: "1955"
@@ -7117,7 +7117,7 @@ object_list:
     id: "415"
     old_id: "7.23"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Fragment of a letter from Jackson Mac Low to David Tudor, John Cage, and M. C. Richards in Stony Point, NY"
     date: "10 February 1955"
@@ -7134,7 +7134,7 @@ object_list:
     id: "416"
     old_id: "7.16"
     maker: [ "Angus MacLise (American, 1938–79)" ]
-    people: ""
+    people: [ "MacLise, Angus" ]
     more_people: ""
     title: "*Year* (New York: Dead Language, 1962)"
     date: "1962"
@@ -7151,7 +7151,7 @@ object_list:
     id: "417"
     old_id: "7.17"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Pages from Jackson Mac Low’s contribution to a unique copy of *An Anthology of Chance Operations* (New York: George Maciunas and Jackson Mac Low, 1962)"
     date: "1962"
@@ -7168,7 +7168,7 @@ object_list:
     id: "418"
     old_id: "7.18"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "*Fluxus News–Policy Letter, no. 6*"
     date: "6 April 1963"
@@ -7185,7 +7185,7 @@ object_list:
     id: "419"
     old_id: "7.19"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Open letter from Jackson Mac Low to George Maciunas in response to *Fluxus News—Policy Letter, no. 6*"
     date: "25 April 1963"
@@ -7202,7 +7202,7 @@ object_list:
     id: "420"
     old_id: "7.20"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Postcards from Jackson Mac Low to Daniel Spoerri, Emmett Williams, and Robert Filliou, with scores for *Social Projects 1–3*"
     date: "29 April 1963"
@@ -7219,7 +7219,7 @@ object_list:
     id: "421"
     old_id: "7.21"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "*Fluxus News—Policy Letter, no. 7*, reprinted in *Fluxus etc., Addenda 1*, ed. Jon Hendricks (New York: Ink &, 1983), 157–59"
     date: "1 May 1963"
@@ -7236,7 +7236,7 @@ object_list:
     id: "422"
     old_id: "7.25"
     maker: [ "Barbara Moore (American)", "Jon Hendricks (American, b. 1940)" ]
-    people: ""
+    people: [ "Moore, Barbara", "Hendricks, Jon" ]
     more_people: ""
     title: "Inventory and price list for Jackson Mac Low items for sale from Backworks"
     date: "summer 1977"
@@ -7304,7 +7304,7 @@ object_list:
     id: "426"
     old_id: "7.30"
     maker: [ "Anne Tardos (American, b. 1943)" ]
-    people: ""
+    people: [ "Tardos, Anne" ]
     more_people: ""
     title: "Poster for a Jackson Mac Low retrospective concert at Washington Square Church, New York, NY"
     date: "1982"
@@ -7321,7 +7321,7 @@ object_list:
     id: "427"
     old_id: "7.31"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Flyer for “Jackson Mac Low: Verbal/Musical Works” at The Kitchen, New York, NY, sent by Mac Low to Dick Higgins"
     date: "30 May 1978"
@@ -7372,7 +7372,7 @@ object_list:
     id: "430"
     old_id: "7.34"
     maker: [ "Peter Zummo" ]
-    people: ""
+    people: [ "Zummo, Peter" ]
     more_people: ""
     title: "“Words: Jackson Mac Low, The Brook,” *Soho Weekly News*"
     date: "8 April 1976"
@@ -7389,7 +7389,7 @@ object_list:
     id: "431"
     old_id: "7.35"
     maker: [ "Tom Johnson" ]
-    people: ""
+    people: [ "Johnson, Tom" ]
     more_people: ""
     title: "“A Mac Low High Point,” *The Village Voice*"
     date: "6 October 1982"
@@ -7406,7 +7406,7 @@ object_list:
     id: "432"
     old_id: "7.36"
     maker: [ "Robert Palmer" ]
-    people: ""
+    people: [ "Palmer, Robert" ]
     more_people: ""
     title: "“Music: Perplexities of Fluxus,” *New York Times*"
     date: "2 June 1978"
@@ -7423,7 +7423,7 @@ object_list:
     id: "433"
     old_id: "7.37"
     maker: [ "Tom Johnson" ]
-    people: ""
+    people: [ "Johnson, Tom" ]
     more_people: ""
     title: "“Jackson Mac Low: Text Sound Pieces,” *The Village Voice*"
     date: "28 April 1975"
@@ -7440,7 +7440,7 @@ object_list:
     id: "434"
     old_id: "7.38"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: ""
+    people: [ "Low, Jackson Mac" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to David Tudor"
     date: "30 March 1961"
@@ -7474,7 +7474,7 @@ object_list:
     id: "436"
     old_id: "8.01"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notebook sketches related to *We Shall Run* (1963)"
     date: "ca. 1963"
@@ -7491,7 +7491,7 @@ object_list:
     id: "437"
     old_id: "8.03"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "“Class Moving Definitions: For Yvonne Rainer”"
     date: "n.d."
@@ -7508,7 +7508,7 @@ object_list:
     id: "438"
     old_id: "8.04"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Performance of *We Shall Run* (1963) at Bennington College, Bennington, VT"
     date: "ca. early 1980s"
@@ -7525,7 +7525,7 @@ object_list:
     id: "439"
     old_id: "8.05"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "*Trio A* (1966)"
     date: "April 1982"
@@ -7542,7 +7542,7 @@ object_list:
     id: "440"
     old_id: "8.06"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "*Trio A* (1966), produced by Sally Banes"
     date: "1978"
@@ -7610,7 +7610,7 @@ object_list:
     id: "444"
     old_id: "8.10"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Cleaning of *Trio A*, Portland, Oregon"
     date: "n.d."
@@ -7627,7 +7627,7 @@ object_list:
     id: "445"
     old_id: "8.11"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "*Trio A with Flags* (1966), performed at the opening of *The People’s Flag Show*, Judson Memorial Church, New York, NY"
     date: "9 November 1970"
@@ -7661,7 +7661,7 @@ object_list:
     id: "447"
     old_id: "8.13"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "*We Shall Run* (1963), performed at Bennington College, Bennington, VT"
     date: "1980"
@@ -7678,7 +7678,7 @@ object_list:
     id: "448"
     old_id: "8.14"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notebook page related to *Watering Place* (ca. 1960)"
     date: "ca. 1960"
@@ -7695,7 +7695,7 @@ object_list:
     id: "449"
     old_id: "8.15"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Untitled notebook pages on performer versus audience"
     date: "ca. 1963"
@@ -7712,7 +7712,7 @@ object_list:
     id: "450"
     old_id: "8.16"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notes, draft program, and cue sheets related to *The Mind Is a Muscle* (1966–68), including *Trio A*, *Trio B*, and *Mat*"
     date: "ca. 1966–68"
@@ -7729,7 +7729,7 @@ object_list:
     id: "451"
     old_id: "8.17"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Pages from the score for *Watering Place* (ca. 1960)"
     date: "ca. 1960"
@@ -7746,7 +7746,7 @@ object_list:
     id: "452"
     old_id: "8.18"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Score for *Satie for Two*"
     date: "1962"
@@ -7763,7 +7763,7 @@ object_list:
     id: "453"
     old_id: "8.19"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Graphic scores related to *Film*, from *The Mind Is a Muscle* (1966–68)"
     date: "ca. 1966–68"
@@ -7780,7 +7780,7 @@ object_list:
     id: "454"
     old_id: "8.20"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Graphic scores related to *Trio B*, from *The Mind is a Muscle* (1966–68)"
     date: "ca. 1966–68"
@@ -7814,7 +7814,7 @@ object_list:
     id: "456"
     old_id: "8.21b"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "*The Mind Is a Muscle* concert program, Anderson Theater, New York, NY"
     date: "11, 14, 15 April 1968"
@@ -7831,7 +7831,7 @@ object_list:
     id: "457"
     old_id: "8.21c"
     maker: [ "Don McDonagh (American, 1932–2019)" ]
-    people: ""
+    people: [ "McDonagh, Don" ]
     more_people: ""
     title: "“Miss Rainer Offers ‘Mind Is a Muscle,’” *New York Times*"
     date: "12 April 1968"
@@ -7848,7 +7848,7 @@ object_list:
     id: "458"
     old_id: "8.21d"
     maker: [ "Jill Johnston (American, 1929–2010)" ]
-    people: ""
+    people: [ "Johnston, Jill" ]
     more_people: ""
     title: "“Rainer’s ‘Mind Is a Muscle,’” *The Village Voice*, 13"
     date: "2 June 1966"
@@ -7865,7 +7865,7 @@ object_list:
     id: "459"
     old_id: "8.21e"
     maker: [ "Jill Johnston (American, 1929–2010)" ]
-    people: ""
+    people: [ "Johnston, Jill" ]
     more_people: ""
     title: "“Rainer’s Muscle,” *The Village Voice*"
     date: "18 April 1968"
@@ -7882,7 +7882,7 @@ object_list:
     id: "460"
     old_id: "8.21f"
     maker: [ "Deborah Jowitt (American, b. 1934)" ]
-    people: ""
+    people: [ "Jowitt, Deborah" ]
     more_people: ""
     title: "“Expanded Muscle,” *The Village Voice*"
     date: "18 April 1968"
@@ -7899,7 +7899,7 @@ object_list:
     id: "461"
     old_id: "8.21g"
     maker: [ "Jill Johnston (American, 1929–2010)" ]
-    people: ""
+    people: [ "Johnston, Jill" ]
     more_people: ""
     title: "“Yvonne Rainer: I” and “Yvonne Rainer: II,” *The Village Voice*"
     date: "23 May 1963 and 6 June 1963"
@@ -7917,7 +7917,7 @@ object_list:
     id: "462"
     old_id: "8.21h"
     maker: [ "Joan B. Cass" ]
-    people: ""
+    people: [ "Cass, Joan B." ]
     more_people: ""
     title: "“Brandeis Offers Dance Contrasts,” *Boston Herald Traveler*"
     date: "16 January 1968"
@@ -7934,7 +7934,7 @@ object_list:
     id: "463"
     old_id: "8.22a"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "“Materials for Performance,” notes for a workshop in Yvonne  Rainer’s studio"
     date: "ca. 1969"
@@ -7951,7 +7951,7 @@ object_list:
     id: "464"
     old_id: "8.22b"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "“Lecture for a Group of Expectant People”"
     date: "September 1968"
@@ -7968,7 +7968,7 @@ object_list:
     id: "465"
     old_id: "8.23"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Pages from the Labanotation score for Yvonne Rainer’s dances *Chair-Pillow* and *Couples,* from the larger project *Continuous Project Altered Daily* (1970), as performed at George Washington University, Washington, D.C."
     date: "1970"
@@ -7985,7 +7985,7 @@ object_list:
     id: "466"
     old_id: "8.24"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notes on arms, hands, legs, and feet, from Yvonne Rainer’s dance scripts notebook"
     date: "ca. 1962"
@@ -8002,7 +8002,7 @@ object_list:
     id: "467"
     old_id: "8.25"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notes related to *Three Satie Spoons*, *The Bells*, and *Ordinary Dance*"
     date: "1961–62"
@@ -8019,7 +8019,7 @@ object_list:
     id: "468"
     old_id: "8.26"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "“Some Thoughts on Improvisation (for the Painter James [Lee] Byars)”"
     date: "December 1963"
@@ -8036,7 +8036,7 @@ object_list:
     id: "469"
     old_id: "8.28"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notes on equivalencies and objects"
     date: "n.d."
@@ -8053,7 +8053,7 @@ object_list:
     id: "470"
     old_id: "8.29"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notebook sketches for *Three Satie Spoons* and *Satie for Two*"
     date: "1961–62"
@@ -8070,7 +8070,7 @@ object_list:
     id: "471"
     old_id: "8.30"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Partial score for *Parts of Some Sextets*"
     date: "1965"
@@ -8087,7 +8087,7 @@ object_list:
     id: "472"
     old_id: "8.31"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: ""
+    people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notes related to *The Mind Is a Muscle*, including *Trio A* and *Trio B*"
     date: "1965–66"
@@ -8139,7 +8139,7 @@ object_list:
     id: "475"
     old_id: "9.02"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Score for *#2—Proposition (October, 1962) (Make a Salad)*, in *By Alison Knowles*, A Great Bear Pamphlet (New York: Something Else Press, 1965), 2"
     date: "1965"
@@ -8156,7 +8156,7 @@ object_list:
     id: "476"
     old_id: "9.03a"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Alison Knowles performing *#2—Proposition (October, 1962) (Make a Salad)*, at Festival of Misfits, Institute of Contemporary Arts, London"
     date: "1962"
@@ -8173,7 +8173,7 @@ object_list:
     id: "477"
     old_id: "9.03b"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "*Bean Rolls from Fluxkit*"
     date: "1965"
@@ -8190,7 +8190,7 @@ object_list:
     id: "478"
     old_id: "9.04"
     maker: [ "Tom Wasmuth (American, b. 1941)" ]
-    people: ""
+    people: [ "Wasmuth, Tom" ]
     more_people: ""
     title: "Diagram, 24 June 1969, in Alison Knowles’s *Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971), 35"
     date: "1971"
@@ -8207,7 +8207,7 @@ object_list:
     id: "479"
     old_id: "9.05"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "“Journal of the Identical Lunch,” *The Outsider* 2, no. 4/5 (Winter 1968/69): 182–84"
     date: "1968–69"
@@ -8242,7 +8242,7 @@ object_list:
     id: "481"
     old_id: "9.07a"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "“Alison Knowles: *Identical Lunch Symphony*,” Logan Center for the Arts, University of Chicago"
     date: "5 May 2012"
@@ -8259,7 +8259,7 @@ object_list:
     id: "482"
     old_id: "9.07b"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "*Alison Knowles: Identical Lunch*"
     date: "2012"
@@ -8294,7 +8294,7 @@ object_list:
     id: "484"
     old_id: "9.08"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "*George Maciunas Performs The Identical Lunch*"
     date: "1969, realized 1973"
@@ -8311,7 +8311,7 @@ object_list:
     id: "485"
     old_id: "9.09"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "*Unidentified Woman Performs The Identical Lunch*"
     date: "1969, realized 1973"
@@ -8328,7 +8328,7 @@ object_list:
     id: "486"
     old_id: "9.10"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "*Shigeko Kubota Performs The Identical Lunch*"
     date: "1969, realized 1973"
@@ -8345,7 +8345,7 @@ object_list:
     id: "487"
     old_id: "9.11"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "*Anne Brazeau Performs The Identical Lunch*"
     date: "1969, realized 1973"
@@ -8362,7 +8362,7 @@ object_list:
     id: "488"
     old_id: "9.12"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Letter from Alison Knowles to Jean Brown"
     date: "5 August ca. 1970s"
@@ -8397,7 +8397,7 @@ object_list:
     id: "490"
     old_id: "9.14"
     maker: [ "Alison Knowles (American, b. 1933)", "Pauline Oliveros (American, 1932–2016)" ]
-    people: ""
+    people: [ "Knowles, Alison", "Oliveros, Pauline" ]
     more_people: ""
     title: "*Postcard Theatre*"
     date: "ca. 1970s"
@@ -8414,7 +8414,7 @@ object_list:
     id: "491"
     old_id: "9.15"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "“how two beans are alike and how are they different. no two beans are altogether alike or altogether different”"
     date: "n.d."
@@ -8431,7 +8431,7 @@ object_list:
     id: "492"
     old_id: "9.16"
     maker: [ "Alison Knowles (American, b. 1933)", "Bill Fontana (American, b. 1947)" ]
-    people: ""
+    people: [ "Knowles, Alison", "Fontana, Bill" ]
     more_people: ""
     title: "*Gentle Surprises* booklet, including score for *Blind Lunch*"
     date: "1973"
@@ -8448,7 +8448,7 @@ object_list:
     id: "493"
     old_id: "9.17"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "*Bean Sequences* booklet"
     date: "ca. 1981"
@@ -8567,7 +8567,7 @@ object_list:
     id: "500"
     old_id: "9.26"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Postcard from Alison Knowles to George Maciunas"
     date: "25 August 1966"
@@ -8584,7 +8584,7 @@ object_list:
     id: "501"
     old_id: "9.27"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Letter from Alison Knowles to George Maciunas about macrobiotic diets"
     date: ""
@@ -8601,7 +8601,7 @@ object_list:
     id: "502"
     old_id: "9.28"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Note from Alison Knowles to Emmett Williams on verso of “Wheat Hearts” cardboard label"
     date: ""
@@ -8618,7 +8618,7 @@ object_list:
     id: "503"
     old_id: "9.29a"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
     date: "April ca. 1963"
@@ -8635,7 +8635,7 @@ object_list:
     id: "504"
     old_id: "9.29b"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
     date: "n.d. (ca. 1963)"
@@ -8652,7 +8652,7 @@ object_list:
     id: "505"
     old_id: "9.29c"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
     date: "n.d. [“Saturday night,” ca. 1963]"
@@ -8686,7 +8686,7 @@ object_list:
     id: "507"
     old_id: "9.31"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Recipe for Rum Coconut"
     date: "ca. 1960s"
@@ -8703,7 +8703,7 @@ object_list:
     id: "508"
     old_id: "9.32"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Recipe for Milk au Diable"
     date: "ca. 1960s"
@@ -8720,7 +8720,7 @@ object_list:
     id: "509"
     old_id: "9.33"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Recipe for Lime Pickle"
     date: ""
@@ -8737,7 +8737,7 @@ object_list:
     id: "510"
     old_id: "9.34"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "Recipe for Buttermilk"
     date: ""
@@ -8754,7 +8754,7 @@ object_list:
     id: "511"
     old_id: "9.35"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "*Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971)"
     date: ""
@@ -8771,7 +8771,7 @@ object_list:
     id: "512"
     old_id: "9.36"
     maker: [ "Philip Corner (American, b. 1933)" ]
-    people: ""
+    people: [ "Corner, Philip" ]
     more_people: ""
     title: "*The Identical Lunch* (San Francisco: Nova Broadcast Press, 1973)"
     date: ""
@@ -8788,7 +8788,7 @@ object_list:
     id: "513"
     old_id: "9.37"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: ""
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "“Invitation to Participate in New Years Eve’s Flux-Feast”"
     date: "1969"
@@ -8805,7 +8805,7 @@ object_list:
     id: "514"
     old_id: "9.39"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "“Collections from the Full Moon” poster"
     date: ""
@@ -8822,7 +8822,7 @@ object_list:
     id: "515"
     old_id: "10.01"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "List of participants in *Spatial Poem (Nos. 1–4)*"
     date: "ca. 1972"
@@ -8839,7 +8839,7 @@ object_list:
     id: "516"
     old_id: "10.02"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "*Direction Music for Fingers*"
     date: "September 1964"
@@ -8873,7 +8873,7 @@ object_list:
     id: "518"
     old_id: "10.10"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "Promotional postcard for *Complete Works: Spatial Poem*"
     date: "ca. 1976"
@@ -8890,7 +8890,7 @@ object_list:
     id: "519"
     old_id: "10.12"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "Score for *Spatial Poem No. 2 (Direction Event)*"
     date: "1965"
@@ -8907,7 +8907,7 @@ object_list:
     id: "520"
     old_id: "10.13"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "Score for *Spatial Poem No. 5 (Open Event)*"
     date: "1972"
@@ -8924,7 +8924,7 @@ object_list:
     id: "521"
     old_id: "10.14"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "Score for *Spatial Poem No. 6 (Orbit Event)*"
     date: "1973"
@@ -8941,7 +8941,7 @@ object_list:
     id: "522"
     old_id: "10.15"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "Score for *Spatial Poem No. 8 (Wind Event)*"
     date: "1974"
@@ -8958,7 +8958,7 @@ object_list:
     id: "523"
     old_id: "10.16"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "Score for *Spatial Poem No. 9 (Disappearing Event)*"
     date: "1975"
@@ -8975,7 +8975,7 @@ object_list:
     id: "524"
     old_id: "10.17"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "Score for *Spatial Poem No. 9 (Disappearing Event)*"
     date: "1975"
@@ -9077,7 +9077,7 @@ object_list:
     id: "530"
     old_id: "10.22"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "Cover of *Spatial Poem* (Osaka: self-published, 1976)"
     date: ""
@@ -9094,7 +9094,7 @@ object_list:
     id: "531"
     old_id: "10.23"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "“Mieko Shiomi,” *Art and Artists* 8, no. 7 (1973): 42–45"
     date: ""
@@ -9111,7 +9111,7 @@ object_list:
     id: "532"
     old_id: "10.24"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)" ]
     more_people: ""
     title: "Untitled"
     date: "ca. 1975"
@@ -9502,7 +9502,7 @@ object_list:
     id: "555"
     old_id: "10.47"
     maker: [ "Dicky Bahto (American, b. 1981)" ]
-    people: ""
+    people: [ "Bahto, Dicky" ]
     more_people: ""
     title: "Video realization of Mieko Shiomi’s *Mirror Piece*"
     date: "1963, realized 2021"
@@ -9611,7 +9611,7 @@ object_list:
     id: "561"
     old_id: "11.03"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Detail of part 4 of the printed program for *Routine*"
     date: "1973"
@@ -9628,7 +9628,7 @@ object_list:
     id: "562"
     old_id: "11.04"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Three Telephone Events*, from *Water Yam* (1963)"
     date: "spring 1961"
@@ -9645,7 +9645,7 @@ object_list:
     id: "563"
     old_id: "11.05"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Detail of page 2 of the program for Allan Kaprow’s *Routine* (1973), with handwritten notes by a participant during Kaprow’s residency at the Portland Center for the Visual Arts, Portland, OR"
     date: "December 1973"
@@ -9662,7 +9662,7 @@ object_list:
     id: "564"
     old_id: "11.06"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Drawing on the handwritten draft of the program for *Routine*"
     date: "1973"
@@ -9679,7 +9679,7 @@ object_list:
     id: "565"
     old_id: "11.07"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Detail of page 3 of the *Routine* activity booklet"
     date: "1975"
@@ -9731,7 +9731,7 @@ object_list:
     id: "568"
     old_id: "11.10"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Film still from *Routine*"
     date: "1973"
@@ -9748,7 +9748,7 @@ object_list:
     id: "569"
     old_id: "11.11"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Opening shot of *Routine*"
     date: "1973"
@@ -9765,7 +9765,7 @@ object_list:
     id: "570"
     old_id: "11.12"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Opening shot of *Warm-ups*"
     date: "1975"
@@ -9782,7 +9782,7 @@ object_list:
     id: "571"
     old_id: "11.14"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Opening shot of *7 Kinds of Sympathy*"
     date: "1976"
@@ -9799,7 +9799,7 @@ object_list:
     id: "572"
     old_id: "11.15"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Printed program for *Routine*, presented at the Portland Center for the Visual Arts, Portland, Oregon"
     date: "29 November– 2 December 1973"
@@ -9817,7 +9817,7 @@ object_list:
     id: "573"
     old_id: "11.16"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*Routine* activity booklet"
     date: "1975"
@@ -9834,7 +9834,7 @@ object_list:
     id: "574"
     old_id: "11.17"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*Routine*"
     date: "1973"
@@ -9851,7 +9851,7 @@ object_list:
     id: "575"
     old_id: "11.18"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*Comfort Zones*"
     date: "1975"
@@ -9868,7 +9868,7 @@ object_list:
     id: "576"
     old_id: "11.19"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*7 Kinds of Sympathy*"
     date: "1976"
@@ -9885,7 +9885,7 @@ object_list:
     id: "577"
     old_id: "11.20"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Review of using *7 Kinds of Sympathy* videotape as score"
     date: "ca. 1976"
@@ -9902,7 +9902,7 @@ object_list:
     id: "578"
     old_id: "11.21"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*Private Parts*"
     date: "1977"
@@ -9919,7 +9919,7 @@ object_list:
     id: "579"
     old_id: "11.22a"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*Tape Score*"
     date: "1957"
@@ -9936,7 +9936,7 @@ object_list:
     id: "580"
     old_id: "11.22b"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*Throat and Cough Piece*"
     date: "1957–58"
@@ -9953,7 +9953,7 @@ object_list:
     id: "581"
     old_id: "11.23a"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Handwritten notes for *Communication*"
     date: "1958"
@@ -9970,7 +9970,7 @@ object_list:
     id: "582"
     old_id: "11.23b"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "“Recorded Speech I” for *Communication*"
     date: "1958"
@@ -10004,7 +10004,7 @@ object_list:
     id: "584"
     old_id: "11.25"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Pages from a composition notebook labeled “Theater Pieces”"
     date: "1959"
@@ -10021,7 +10021,7 @@ object_list:
     id: "585"
     old_id: "11.26a"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Three differently formatted scores for *Soap*"
     date: "December 1964"
@@ -10038,7 +10038,7 @@ object_list:
     id: "586"
     old_id: "11.26b"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Handwritten page of notes for *Soap*"
     date: "fall 1965"
@@ -10123,7 +10123,7 @@ object_list:
     id: "591"
     old_id: "11.26g"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Program for Florida State University’s Eighteenth Annual Symposium, which included Kaprow’s *Soap*"
     date: "1–4 February 1965"
@@ -10140,7 +10140,7 @@ object_list:
     id: "592"
     old_id: "11.26h"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*Notes to Soap*"
     date: "February 1965"
@@ -10157,7 +10157,7 @@ object_list:
     id: "593"
     old_id: "11.27a"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Poster for *Transfer*, with Allan Kaprow’s handwritten notes"
     date: "February 1968"
@@ -10174,7 +10174,7 @@ object_list:
     id: "594"
     old_id: "11.27b"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Poster for *Transfer*"
     date: "February 1968"
@@ -10191,7 +10191,7 @@ object_list:
     id: "595"
     old_id: "11.28"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Contract to prepare and present a “happening,” signed by Carl A. Viggiani, chairman of the Department of Romance Languages, Wesleyan University, Middletown, Connecticut"
     date: "20 December 1967"
@@ -10225,7 +10225,7 @@ object_list:
     id: "597"
     old_id: "11.30a"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Handwritten draft of the program for *Routine*"
     date: "1973"
@@ -10259,7 +10259,7 @@ object_list:
     id: "599"
     old_id: "11.30c"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Letter from Allan Kaprow to Ilo Bonyhadi, at the Portland Center for the Visual Arts"
     date: "23 April 1973"
@@ -10276,7 +10276,7 @@ object_list:
     id: "600"
     old_id: "11.30d"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Letter from Allan Kaprow to Mary L. Beebe at the Portland Center for the Visual Arts"
     date: "5 November 1973"
@@ -10310,7 +10310,7 @@ object_list:
     id: "602"
     old_id: "11.30fa"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Draft of the printed program for *Routine*, with Allan Kaprow’s handwritten notes, version 1"
     date: "December 1973"
@@ -10327,7 +10327,7 @@ object_list:
     id: "603"
     old_id: "11.30fb"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Draft of the printed program for *Routine*, with Allan Kaprow’s handwritten notes, version 2"
     date: "December 1973"
@@ -10344,7 +10344,7 @@ object_list:
     id: "604"
     old_id: "11.30fc"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Draft of the printed program for *Routine*, with Allan Kaprow’s handwritten notes, version 3"
     date: "December 1973"
@@ -10361,7 +10361,7 @@ object_list:
     id: "605"
     old_id: "11.30g"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Production still from Allan Kaprow’s 16mm film of *Routine*"
     date: "29 November–2 December 1973"
@@ -10379,7 +10379,7 @@ object_list:
     id: "606"
     old_id: "11.30h"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Contact sheets of photographs by Alvin Comiter, with Allan Kaprow’s notations"
     date: "1975"
@@ -10396,7 +10396,7 @@ object_list:
     id: "607"
     old_id: "11.30i"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Photograph of the production crew for *Routine*"
     date: "1975"
@@ -10413,7 +10413,7 @@ object_list:
     id: "608"
     old_id: "11.30j"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Production still of *Routine*"
     date: "1975"
@@ -10430,7 +10430,7 @@ object_list:
     id: "609"
     old_id: "11.30l"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Production still of *Routine*"
     date: "1975"
@@ -10447,7 +10447,7 @@ object_list:
     id: "610"
     old_id: "11.30m"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Production still of *Routine*"
     date: "1975"
@@ -10464,7 +10464,7 @@ object_list:
     id: "611"
     old_id: "11.30n"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Production still of *Routine*"
     date: "1975"
@@ -10481,7 +10481,7 @@ object_list:
     id: "612"
     old_id: "11.30o"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Production still of *Routine*"
     date: "1975"
@@ -10498,7 +10498,7 @@ object_list:
     id: "613"
     old_id: "11.38"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "“How to Use these videotapes and booklets”"
     date: "ca. 1970s"
@@ -10515,7 +10515,7 @@ object_list:
     id: "614"
     old_id: "11.31"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Interview of Allan Kaprow by Richard Wood Massi, in Richard Wood Massi, *Computer, Graphic, and Traditional Systems: A Theoretical Study of Music Notation* (PhD diss., UC San Diego, 1993), 38–54"
     date: "22 June 1989"
@@ -10549,7 +10549,7 @@ object_list:
     id: "616"
     old_id: "11.33"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Score for *Soap* in the form of a poster"
     date: "1964–65"
@@ -10566,7 +10566,7 @@ object_list:
     id: "617"
     old_id: "11.34a"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "“Easy Activity” essay on *Loss*"
     date: "1975"
@@ -10583,7 +10583,7 @@ object_list:
     id: "618"
     old_id: "11.34aa"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Program for *Loss*"
     date: "1973"
@@ -10600,7 +10600,7 @@ object_list:
     id: "619"
     old_id: "11.34b"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "List of participants and their phone numbers, for use in *Loss*"
     date: "27 January 1973"
@@ -10617,7 +10617,7 @@ object_list:
     id: "620"
     old_id: "11.34c"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Sketches for illustrations for the program for *Loss*"
     date: "ca. 1973"
@@ -10651,7 +10651,7 @@ object_list:
     id: "622"
     old_id: "11.34e"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Letter from Allan Kaprow to Pat Egan"
     date: "18 February 1973"
@@ -10668,7 +10668,7 @@ object_list:
     id: "623"
     old_id: "11.34f"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Handwritten notes for *Loss*"
     date: "1973"
@@ -10719,7 +10719,7 @@ object_list:
     id: "626"
     old_id: "11.35a"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*Comfort Zones* activity booklet"
     date: "June 1975"
@@ -10736,7 +10736,7 @@ object_list:
     id: "627"
     old_id: "11.35b"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Program for *Comfort Zones* in English"
     date: "June 1975"
@@ -10753,7 +10753,7 @@ object_list:
     id: "628"
     old_id: "11.35c"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Shooting script for 16mm film of *Comfort Zones*"
     date: "June 1975"
@@ -10770,7 +10770,7 @@ object_list:
     id: "629"
     old_id: "11.35d"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Contact sheet of photographs taken and annotated by Allan Kaprow for use in his *Comfort Zones* activity booklet"
     date: "June 1975"
@@ -10787,7 +10787,7 @@ object_list:
     id: "630"
     old_id: "11.36a"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "*7 Kinds of Sympathy* activity booklet"
     date: "March 1976"
@@ -10804,7 +10804,7 @@ object_list:
     id: "631"
     old_id: "11.36b"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Note for a videotape of *7 Kinds of Sympathy*"
     date: "March 1976"
@@ -10821,7 +10821,7 @@ object_list:
     id: "632"
     old_id: "11.36c"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Handwritten draft of the program for *7 Kinds of Sympathy*, with notes about the video version"
     date: "March 1976"
@@ -10838,7 +10838,7 @@ object_list:
     id: "633"
     old_id: "11.36d"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "List of possible titles for an activity sponsored by the Museum of the 20th Century, Vienna, Austria"
     date: "March 1976"
@@ -10855,7 +10855,7 @@ object_list:
     id: "634"
     old_id: "11.37"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Detailed shooting script for *Private Parts*, with a list of participants in the performance at California State University, Long Beach"
     date: "March 1976"
@@ -10872,7 +10872,7 @@ object_list:
     id: "348-sequence"
     old_id: "6.03a"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "*Water Yam*"
     date: "1963"

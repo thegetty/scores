@@ -207,7 +207,7 @@ object_list:
     id: "012"
     old_id: "1.01"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: [ "Feldman, Morton" ]
+    people: [ "Feldman, Morton", "Tudor, David" ]
     more_people: ""
     title: "*Intersection 3* with a dedication to David Tudor"
     date: "1953"
@@ -241,7 +241,7 @@ object_list:
     id: "014"
     old_id: "1.03"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection 3*"
     date: "1953"
@@ -258,7 +258,7 @@ object_list:
     id: "015"
     old_id: "1.04"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Rereleased recording of David Tudor performing *Intersection 3*"
     date: "2007"
@@ -275,7 +275,7 @@ object_list:
     id: "016"
     old_id: "1.05"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Undated recording of David Tudor performing *Intersection 3*"
     date: ""
@@ -326,7 +326,7 @@ object_list:
     id: "019"
     old_id: "1.07a"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Animated score of David Tudor’s *Intersection 3* performance"
     date: "1953"
@@ -343,7 +343,7 @@ object_list:
     id: "020"
     old_id: "1.07b"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Audio sampler of Tudor’s sonorities for *Intersection 3*"
     date: "1953"
@@ -360,7 +360,7 @@ object_list:
     id: "021"
     old_id: "1.08"
     maker: [ "Morton Feldman (American, 1926–87)" ]
-    people: [ "Feldman, Morton" ]
+    people: [ "Feldman, Morton", "Tudor, David" ]
     more_people: ""
     title: "Letter from Morton Feldman to David Tudor"
     date: "15 June 1953"
@@ -411,8 +411,8 @@ object_list:
     id: "024"
     old_id: "1.11a"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John", "Feldman, Morton", "Brown, Earle" ]
+    more_people: [ "Boulez, Pierre", "Wolff, Christian" ]
     title: "Program for a concert featuring David Tudor at the Festival of Contemporary Arts, University of Illinois School of Music"
     date: "22 March 1953"
     date_sort: "1953-03-22"
@@ -428,8 +428,8 @@ object_list:
     id: "025"
     old_id: "1.11b"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John", "Feldman, Morton", "Brown, Earle" ]
+    more_people: [ "Wolff, Christian", "Stockhausen, Karlheinz", "Pousseur, Henri" ]
     title: "Program for Musik der Zeit, featuring David Tudor and John Cage at Nordwestdeutscher Rundfunk Köln"
     date: "26 November 1954"
     date_sort: "1954-11-26"
@@ -445,8 +445,8 @@ object_list:
     id: "026"
     old_id: "1.11c"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John", "Feldman, Morton", "Brown, Earle" ]
+    more_people: [ "Wolff, Christian" ]
     title: "Program for a concert featuring David Tudor and John Cage at the University of British Columbia"
     date: "2 December 1955"
     date_sort: "1955-12-02"
@@ -462,8 +462,8 @@ object_list:
     id: "027"
     old_id: "1.11d"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Tudor, David", "Feldman, Morton", "Brown, Earle" ]
+    more_people: [ "Webern, Anton", "Boulez, Pierre", "Stockhausen, Karlheinz", "Wolff, Christian" ]
     title: "“WHRB Presents David Tudor, Pianist, & John Cage in a Program for ‘New’ Music for Piano at Harvard University”"
     date: "20 April 1956"
     date_sort: "1956-04-20"
@@ -479,8 +479,8 @@ object_list:
     id: "028"
     old_id: "1.11e"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John", "Brown, Earle", "Feldman, Morton" ]
+    more_people: [ "Wolff, Christian", "Stockhausen, Karlheinz" ]
     title: "Program for a concert featuring David Tudor at the Vortragssaal at the Akademie für Musik und darstellende Kunst"
     date: "30 November 1956"
     date_sort: "1956-11-30"
@@ -496,8 +496,8 @@ object_list:
     id: "029"
     old_id: "1.11f"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Tudor, David", "Feldman, Morton", "Brown, Earle" ]
+    more_people: [ "Stockhausen, Karlheinz", "Wolff, Christian" ]
     title: "Program for a performance featuring David Tudor and John Cage"
     date: "n.d."
     date_sort: ""
@@ -513,8 +513,8 @@ object_list:
     id: "030"
     old_id: "1.12a"
     maker: [ "George W. Stowe" ]
-    people: [ "Stowe, George W." ]
-    more_people: ""
+    people: [ "Stowe, George W.", "Cage, John", "Tudor, David", "Feldman, Morton", "Brown, Earle" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Varese, Edgar" ]
     title: "“David Tudor Program Opens Sunday Afternoon Series,” *Hartford Times*"
     date: "November 1953"
     date_sort: "1953-11-01"
@@ -530,7 +530,7 @@ object_list:
     id: "031"
     old_id: "1.12b"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Cunningham, Merce" ]
     more_people: ""
     title: "“Merce Cunningham of New York”"
     date: "August 1953?"
@@ -548,8 +548,8 @@ object_list:
     id: "032"
     old_id: "1.12c"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cunningham, Merce" ]
+    more_people: [ "Wolpe, Stefan" ]
     title: "“Concerts Are Arranged at College,” *Asheville Citizen-Times*"
     date: "21 June 1953"
     date_sort: "1953-06-21"

@@ -350,6 +350,25 @@ window['toggleObjectSize'] = () => {
     : sizeButton.innerHTML = 'View: Large'
 }
 
+// Add function to open and close the Score and Playback drawers
+window['toggleDrawer'] = function(event) {
+  const drawerLink = event.target.closest('.score-section__link--expander');
+  const drawer = drawerLink.previousElementSibling;
+  
+  if (drawer && drawer.classList.contains('score-section__objects')) {
+    const drawerCardsClasses = drawer.classList;
+    drawerCardsClasses.toggle('open');
+    
+    if (drawerCardsClasses.contains('open')) {
+      event.target.textContent = "Collapse";
+    } else {
+      event.target.textContent = "Expand ...";
+    }
+      } else {
+    console.error("Drawer not found");
+  }
+}
+
 /**
  * pageSetup
  * @description This function is called after each smoothState reload.

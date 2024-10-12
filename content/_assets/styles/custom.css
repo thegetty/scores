@@ -293,7 +293,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 /* SCORE PAGES
 ============================================================================= */
 .score-section {
-  margin-bottom: 4rem;
+  margin-bottom: 6rem;
 }
 .score-section__header,
 .score-section__blurb,
@@ -435,6 +435,26 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 
 /* INTRO & COMMENTARY PAGES
 ============================================================================= */
+
+.quire-essay .quire-page__header .hero-body {
+  margin: 0 2rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin-bottom: 2rem;
+}
+.quire-essay .quire-page__header .hero-body .quire-page__header__title,
+.quire-essay .quire-page__header .hero-body .quire-page__header__contributor,
+.quire-essay .quire-page__header .hero-body .quire-download {
+  margin: 0;
+  text-align: left;
+}
+.quire-essay .quire-page__header .hero-body .quire-download a {
+  color: black;
+}
+.quire-essay .quire-page__header .hero-body .quire-page__header__contributor {
+  grid-column-start: 3;
+  font-style: normal;
+}
 .quire-essay .quire-page__content .container .content {
   padding: 0;
   margin: 0 auto;
@@ -444,11 +464,17 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .quire-essay .quire-page__content .container .content p {
   line-height: 1.3;
+  text-indent: 4rem;
 }
 .quire-essay .quire-page__content .container .content blockquote {
   padding: 0;
-  margin: 1rem 0 1rem 1.5rem;
+  margin: 1rem 0 1rem 4rem;
   font-style: normal;
+}
+.quire-essay .quire-page__content .container .content p:first-child,
+.quire-essay .quire-page__content .container .content blockquote p,
+.quire-essay .quire-page__content .container .content h2 + p {
+  text-indent: 0;
 }
 .quire-essay .quire-page__content .container .content blockquote p::before,
 .quire-entry .quire-page__content .container .content blockquote p::before {
@@ -472,7 +498,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 /* Figures */
 .scores-figure {
-  margin: 1rem 0 !important;
+  margin: 1.25rem 0 1rem !important;
 }
 .scores-figure img {
   width: 100%;
@@ -586,13 +612,14 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   border-top-color: white;
 }
 .objects-page .object-filters__controls {
-  display: inherit;
+  grid-template-columns: repeat(4, 1fr);
 }
 .objects-page .object-filters__button {
   border-width: 0;
   height: auto;
   margin: 0;
   padding: 0;
+  text-align: left;
 }
 .objects-page .object-filters__item label {
   font-size: 1rem;
@@ -619,7 +646,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .objects-page .object-filters__button {
   font-size: 1rem;
   font-family: 'u001', sans-serif;
-  margin-right: 2rem;
+  margin-right: 1.5rem;
 }
 .objects-page .object-filters__button.object-filters__button--active {
   background-color: black !important;
@@ -629,11 +656,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   all: revert !important;
 }
 .objects-page .object-filters__button#object-size-button {
-  float: right;
+  grid-column-start: 4;
 }
 .objects-page .object-card {
   background-color: transparent;
-  margin-right: 2rem;
+  margin-right: 0;
 }
 .objects-page .object-card__content {
   padding: 0;
@@ -652,10 +679,10 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-bottom: 0;
 }
 .objects-page .object-cards .object-card__image {
-  height: 110px;
+  height: 80px;
 }
 .objects-page .object-cards.large .object-card__image {
-  height: 330px;
+  height: 440px;
 }
 .objects-page .object-card__image img {
   max-height: 100%;
@@ -665,12 +692,31 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .objects-page ol.object-cards-list {
   display: flex;
   flex-wrap: wrap;
+  grid-row-gap: 2rem;
+  grid-column-gap: 1.25rem;
+  justify-content: space-around;
+}
+/* https://stackoverflow.com/questions/18744164/flex-box-align-last-row-to-grid */
+.objects-page ol.object-cards-list::after {
+  content: "";
+  flex: auto;
 }
 .objects-page section.object-cards {
-  margin: 2rem;
+  margin: 2rem 2rem 10rem;
 }
 .objects-page .object-filters {
   padding: 0 2rem;
+}
+.objects-page .quire-contents-buttons {
+  display: none;
+}
+.objects-page + .quire-menu {
+  color: white;
+  background-color: black;
+}
+.objects-page + .quire-menu .quire-menu__list a,
+.objects-page + .quire-menu .scores-footer * {
+  color: white;
 }
 
 /* SCORE OBJECT PAGES
@@ -736,7 +782,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .score-object .quire-entry__tombstone .table td, 
 .score-object .quire-entry__tombstone .table th {
-  padding: .25rem 0;
+  padding: 0;
 }
 .quire-entry__tombstone tr:hover {
   background-color: inherit;
@@ -829,7 +875,6 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .quire-entry__thumbnails .thumbnail.current-thumbnail::before {
   content: "•";
-  font-size: 2rem;
   line-height: 0;
   color: white;
   text-align: center;
@@ -845,12 +890,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 ============================================================================= */
 #iframe-viewer {
   position: fixed;
-  left: 4rem;
-  top: 4rem;
-  width: calc(100vw - 8rem);
-  height: calc(100vh - 8rem);
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
   background-color: black;
-  border-radius: 1rem;
   z-index: 1;
 }
 #iframe-loading-indicator {
@@ -862,32 +906,38 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .iframe_viewer__iframe {
   position: absolute;
   width: calc(100% - 6rem);
-  height: calc(100% - 6rem);
-  top: 3rem;
+  height: calc(100% - 9rem);
+  top: 6rem;
   left: 3rem;
 }
 .iframe_viewer__nav-buttons,
 .iframe_viewer__controls {
   position: absolute;
-  padding: 0 1rem;
+  padding: 1.5rem 2rem 0;
 }
 .iframe_viewer__controls {
   right: 0;
   top: 0;
 }
 .quire-page__content .container .content .iframe_viewer__controls a,
-.quire-page__content .container .content .iframe_viewer__nav-buttons a,
-.quire-page__content .container .content .iframe_viewer__controls a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover,
-.quire-page__content .container .content .iframe_viewer__nav-buttons a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+.quire-page__content .container .content .iframe_viewer__controls a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
   background-color: transparent;
   border-bottom-width: 0 !important;
-  padding: .5rem .5rem 0;
-  height: 2.5rem;
   display: inline-flex;
   justify-content: center;
   align-items: center;
   color: white !important;
-
+  margin-left: 1.5rem;
+}
+.quire-page__content .container .content .iframe_viewer__nav-buttons a,
+.quire-page__content .container .content .iframe_viewer__nav-buttons a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {
+  background-color: transparent;
+  border-bottom-width: 0 !important;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  color: white !important;
+  margin-right: 1.5rem;
 }
 #iframe-control-tooltip {
   position: absolute;

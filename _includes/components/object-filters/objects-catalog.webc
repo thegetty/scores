@@ -1,3 +1,7 @@
+<!--
+CUSTOMIZED FILE
+Added object-filters__controls-group wrapper to aid in styling
+-->
 <template webc:nokeep>
   <objects-data :@objects="objects"></objects-data>
   <section class="object-filters" data-outputs-exclude="epub,pdf">
@@ -8,9 +12,10 @@
     </div>
     <div class="collapsible__controls">
       <div webc:if="hasFilters($data)" class="object-filters__controls">
+        <div class="object-filters__controls-group">
         <button class="object-filters__button object-filters__button--primary" data-control-apply>Apply Filters</button>
-        <button class
-="object-filters__button" data-control-reset>Reset</button>
+        <button class="object-filters__button" data-control-reset>Reset</button>
+        </div>
       </div>
     </div>
   </section>

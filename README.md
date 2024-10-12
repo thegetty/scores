@@ -102,6 +102,9 @@ Fixed source of thumbnails for videos
 **_includes/components/object-filters/object-filters.webc**
 Used "..." instead of "All" in select boxes
 
+**_includes/components/object-filters/objects-catalog.webc**
+Added object-filters__controls-group wrapper to aid in styling
+
 **_plugins/shortcodes/tombstone.js**
 Handle special outputs for Maker and Type properties
 

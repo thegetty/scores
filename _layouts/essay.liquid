@@ -1,6 +1,6 @@
 ---
 ## CUSTOMIZED FILE
-## Added markup for iframe viewer
+## Added markup for iframe viewer, and pass PDF info in to pageHeader
 ##
 classes:
   - quire-essay
@@ -10,9 +10,11 @@ description: Essay layout. This layout describes a single-page template that has
 
 {% pageHeader
   byline_format=byline_format,
+  filePathStem=page.filePathStem,
   image=image,
   label=label,
   pageContributors=pageContributors,
+  page_pdf_output=page_pdf_output,
   subtitle=subtitle,
   title=title
 %}

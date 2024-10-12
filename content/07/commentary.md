@@ -7,6 +7,7 @@ toc: false
 menu: false
 contributor:
   - id: jhicks
+page_pdf_output: true
 ---
 
 At around 2:30 in the afternoon on Monday, 29 April 1963, the poet and performer Jackson Mac Low mailed four postcards to the double bassist and composer Benjamin Patterson. That evening, he sent two more—one postmarked 6:00 p.m. and the sixth and final postmarked 7:30. Earlier that day, Mac Low had sent copies of three of the six postcards by airmail to an address in Paris shared by the Romanian-born Swiss artist and writer Daniel Spoerri, the American concrete poet Emmett Williams, and the French artist and poet Robert Filliou ([fig. 7.1](#fig-7-1)).

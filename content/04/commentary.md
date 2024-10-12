@@ -7,6 +7,7 @@ toc: false
 menu: false
 contributor:
   - id: gelewis
+page_pdf_output: true
 ---
 
 Benjamin Patterson’s *Paper Piece* (1960) is said to have begun as a letter posted to his family from Germany, where he was beginning to take part in the first pre-Fluxus experiments in performance. Over the years, the piece has become one of the most widely performed Fluxus works.[^1]

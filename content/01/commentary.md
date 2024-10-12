@@ -7,6 +7,7 @@ toc: false
 menu: false
 contributor:
   - id: mgallope
+page_pdf_output: true
 ---
 
 The score for Morton Feldman’s *Intersection 3* (1953) is exemplary among Feldman’s graph pieces of the 1950s, and it stands as an early instance of experimental notation among figures of the postwar avant-garde. In this composition for solo piano, Feldman distributes numbers in seven horizontal staves, each three squares tall and spanning the length of an eleven-inch-long piece of graph paper ([fig. 1.1](#fig-1-1)). On the horizontal axis, one graph space equals one beat at 176 beats per minute (BPM). Vertically, the notation directs the performer to play the number of notes indicated by the numbers in each box. The three rows of boxes correspond to three registers: low, medium, and high. The exact pitches are left for the performer to decide.

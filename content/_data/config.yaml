@@ -53,13 +53,13 @@ pageTitle:
   labelDivider: '. '
 
 pdf:
-  filename: 'scores'
+  filename: 'the-scores-project'
   outputDir: '/_assets/downloads' 
   pagePDF:
     accessLinks:
       - header: true 
-        label: 'PDF'
-      - footer: true
+        label: 'Download PDF'
+      - footer: false
         label: 'Download this page'
     coverPage: true
     output: false

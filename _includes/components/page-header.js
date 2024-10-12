@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Added PDF download link to page header
+//
 const { html } = require('~lib/common-tags')
 const path = require('path')
 
@@ -14,12 +18,16 @@ module.exports = function(eleventyConfig) {
   const { labelDivider } = eleventyConfig.globalData.config.pageTitle
   const { imageDir } = eleventyConfig.globalData.config.figures
 
+  const pdfConfig = eleventyConfig.globalData.config.pdf
+
   return function (params) {
     const {
       byline_format: bylineFormat,
+      filePathStem,
       image,
       label,
       pageContributors,
+      page_pdf_output: pagePDFOutput,
       subtitle,
       title
     } = params
@@ -52,6 +60,18 @@ module.exports = function(eleventyConfig) {
         `
       : ''
 
+    let downloadLink = ''
+
+    if (pagePDFOutput) {
+      const text = pdfConfig.pagePDF.accessLinks.find((al) => al.header === true).label
+      const href = path.join(pdfConfig.outputDir, `${pdfConfig.filename}-${slugify(filePathStem)}.pdf`)
+      downloadLink = html`
+        <div class="quire-download" data-outputs-exclude="epub,pdf">
+          <a class="quire-download__link" href="${ href }" download>${ text }</a>
+        </div>
+      `
+    }
+
     return html`
       <section class="${classes}">
         <div class="hero-body">
@@ -60,6 +80,7 @@ module.exports = function(eleventyConfig) {
             ${pageTitle({ title, subtitle })}
           </h1>
           ${contributorsElement}
+          ${downloadLink}
         </div>
       </section>
       ${imageElement}

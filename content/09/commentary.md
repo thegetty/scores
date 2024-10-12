@@ -7,6 +7,7 @@ toc: false
 menu: false
 contributor:
   - id: ercapper
+page_pdf_output: true
 ---
 
 Alison Knowles is the only woman among the founding members of Fluxus. With a background in painting and printmaking, Knowles graduated from Pratt Institute in Brooklyn in 1956, where she studied with the abstract expressionist painter Adolph Gottlieb and the German émigré illustrator and painter Richard Lindner.[^1] Her study of the visual arts left an imprint on her later work. Lindner, for example, directed his students to draw urban street scenes from life, an assignment that might be seen to reverberate in Knowles’s sustained interest in social observation.[^2] After graduation, Knowles studied briefly at Syracuse University with the famed Black Mountain College instructor Josef Albers.[^3] Although she was an uneasy fit for Albers’s occasionally strict approach to pedagogy, Knowles’s mature work builds upon the pragmatic aspect of his experimentalism. In an echo of Albers’s material studies, many of her works explore the manifold possibilities of ordinary and accessible materials, and Knowles’s goal of overcoming habitual perception through rigorous acts of attention is broadly consistent with Albers’s philosophy of visual education.[^4]

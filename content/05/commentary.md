@@ -7,6 +7,7 @@ toc: false
 menu: false
 contributor:
   - id: bpiekut
+page_pdf_output: true
 ---
 
 In 1960, La Monte Young was in his third year of graduate study in composition at University of California at Berkeley, where he represented a strange hybrid of beatnik counterculture and establishment credibility. That fall, he moved to New York City on a pre-doctoral fellowship intending to study experimental music composition with John Cage at the New School for Social Research. Instead, he found Richard Maxfield, who was filling in for Cage with a course on electronic music, which Young took.[^1]

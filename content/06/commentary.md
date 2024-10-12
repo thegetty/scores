@@ -7,6 +7,7 @@ toc: false
 menu: false
 contributor:
   - id: nharren
+page_pdf_output: true
 ---
 
 In 1959, in the wake of nearly a decade of postwar experimentation with new forms of musical notation, the American visual artist George Brecht began to develop a genre of text-based performance instruction he called the "event score." Having turned his creative energies away from abstract expressionist painting and, correspondingly, his intellectual focus away from the work of Jackson Pollock and toward that of John Cage, Brecht joined Cage’s experimental composition course at the New School for Social Research in the summers of 1958 and 1959 ([fig. 6.1](#fig-6-1)). His notebooks from the time, selections of which are included in the [Archive](/06/#archive) section of this chapter, provide an illuminating chronicle of this period.

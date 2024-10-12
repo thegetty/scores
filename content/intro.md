@@ -8,6 +8,7 @@ contributor:
   - id: mgallope
   - id: nharren
   - id: jhicks
+page_pdf_output: true
 ---
 
 In the decades following World War II, the musical score emerged as a unique and powerful medium for experimental art. A new movement of visual artists, composers, poets, and performers reimagined the score—traditionally defined as the written representation of a musical composition—as a tool for structuring experimentation in the nascent fields of performance art, conceptualism, and intermedia. They drew inspiration from unconventional musical notations devised in the early to mid-1950s by the composers Earle Brown, John Cage, and Morton Feldman. The new movement's use of experimental scores spread during the 1960s through publications, festivals, concerts, classrooms, networked correspondence, exhibitions, happenings, and a renewed awareness of score-like antecedents in the charts, diagrams, sketches, and written instructions of earlier avant-gardes, from Dada and Surrealism to the Bauhaus. By the later years of the 1960s, diverse communities of artists, musicians, poets, and dancers had transformed the possibilities of the score into an ever-expanding universe of textual, symbolic, and graphic marks. They used experimental scores to stage a multitude of practices that dismantled and recast the traditional boundaries of artistic media.

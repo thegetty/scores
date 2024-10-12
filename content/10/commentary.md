@@ -7,6 +7,7 @@ toc: false
 menu: false
 contributor:
   - id: nharren
+page_pdf_output: true
 ---
 
 > “Write a word (or words) on the enclosed card and place it somewhere.”

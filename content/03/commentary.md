@@ -7,6 +7,7 @@ toc: false
 menu: false
 contributor:
   - id: mgallope
+page_pdf_output: true
 ---
 
 Sylvano Bussotti’s *Five Piano Pieces for David Tudor* (1959) may be better known for its visual appearance than for its sound in performance. The striking notation for *No. 4* ([fig. 3.1](#fig-3-1)) was reproduced in print reviews of David Tudor’s performance, and two decades later it appeared at the front of the introduction to Gilles Deleuze and Félix Guattari’s encyclopedic *Mille Plateaux* (1980). Bussotti’s score is wild, inventive, and highly memorable; stretched across five staves, all the usual rules and parameters appear to have been scrambled. Ink pools inexplicably in various holes created by a tangle of curved lines. With so much called into question, by what rules and expectations might this composition be adequately performed?

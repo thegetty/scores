@@ -7,6 +7,7 @@ toc: false
 menu: false
 contributor:
   - id: jbryanwilson
+page_pdf_output: true
 ---
 
 Despite a wealth of critical writing about the photographic documentation of the choreographer Yvonne Rainer’s influential performances, surprisingly little attention has been paid to the range and complexity of her dance scores.[^1] In fact, the term “score” itself has been inconsistently applied to the diverse set of notations she employed to transcribe sequences of bodily actions onto the page (including typed instructions, hand-drawn directional arrows, stick-figure drawings, penciled text on graph paper, gridded boxes listing numbers of steps, and color-coded lines); these have also been called, by Rainer and others, “floorplans,” “people plans,” “sketches,” “diagrams,” “charts,” “patterns,” and “designs.”[^2]

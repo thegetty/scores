@@ -93,6 +93,9 @@ Restructured menu to appear as page footer
 **_includes/components/navigation.js**
 Changed to just four links, consistent across all pages
 
+**_includes/components/page-header.js**
+Added PDF download link to page header
+
 **_includes/components/search.js**
 Replaced icons with text labels, and updated input placeholder text
 

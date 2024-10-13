@@ -8,4 +8,5 @@ outputs:
   - html
 classes:
   - scores-cover-page
+  - splash
 ---

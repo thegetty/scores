@@ -3,6 +3,7 @@
 // Added `layout` as a top-level class in order to custom style nav bar on certain layouts
 // Added google analytics 4 snippet
 // Changed position of menu to appear as page footer
+// Add splash overlay for cover
 //
 const path = require('path')
 const { html } = require('~lib/common-tags')
@@ -23,6 +24,10 @@ module.exports = async function(data) {
 
   const analyticsSnippet = googleId ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''
 
+  const splashOverlay = classes.includes('splash') 
+    ? `<div class="splash-overlay"><div class="splash-overlay-image"><img src="" alt="" /></div><a class="splash-overlay-link">The Scores Project</a></div>` 
+    : ''
+
   return html`
     <!doctype html>
     <html lang="${publication.language}">
@@ -31,6 +36,7 @@ module.exports = async function(data) {
         ${analyticsSnippet}
         ${this.icons(data)}
         ${this.iconscc(data)}
+        ${splashOverlay}
         <div class="quire no-js ${layout}" id="container">
           <div class="quire__primary">
             ${this.navigation(layout)}

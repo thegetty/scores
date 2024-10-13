@@ -2,6 +2,8 @@
 // CUSTOMIZED FILE -- Bronze Guidelines
 // Add script for iframe-based image viewer
 // Add script to toggle image size on object cards
+// Added script to toggle drawers
+// Added script to control splash overlay on cover
 //
 /**
  * @fileOverview
@@ -357,7 +359,7 @@ window['toggleDrawer'] = function(event) {
   
   if (drawer && drawer.classList.contains('score-section__objects')) {
     const drawerCardsClasses = drawer.classList;
-    drawerCardsClasses.toggle('open');
+    drawerCardsClasses.c;
     
     if (drawerCardsClasses.contains('open')) {
       event.target.textContent = "Collapse";
@@ -369,6 +371,46 @@ window['toggleDrawer'] = function(event) {
   }
 }
 
+function hideSplash() {
+  let splash = document.querySelector('.splash-overlay');
+  if (splash) {
+    splash.setAttribute('hidden', 'true')
+  }
+}
+
+function randomImage() {
+  let splashImages = [
+    "r2012418_890164_b39_f32_012.jpg",
+    "fig-201-a_AR832709.jpg",
+    "p27023_890164_b39_i_39_32_situations_pianos_1.jpg",
+    "gri_2006_m_24_45_330393ds.jpg",
+    "r2013910_2006_m_24_b1_f5_015.jpg",
+    "gri_2006_m_24_241_1_b1_f2_349357ds.jpg",
+    "r2013910_2006_m_24_b1_f3_001.jpg",
+    "980063-b24f9_standing.jpg",
+    "r2014449_980063_b4_f13_003.jpg",
+    "980063-b20f13_r-loss.jpg",
+    "r2014504_980063_b26_f7_012.jpg"
+  ];
+
+  let randomSplashImage = splashImages[Math.floor(Math.random() * splashImages.length)];
+  let splash = document.querySelector('.splash-overlay-image img');
+
+  if (splash) {
+    let splashSrc = '_assets/images/figures/' + randomSplashImage;
+    let currentSrc = splash.getAttribute('src');
+    
+    if (splashSrc === currentSrc) {
+      do {
+        randomSplashImage = splashImages[Math.floor(Math.random() * splashImages.length)];
+        splashSrc = '_assets/images/figures/' + randomSplashImage;
+      } while (splashSrc === currentSrc);
+    }
+    splash.setAttribute('src', splashSrc);
+  }
+}
+
+
 /**
  * pageSetup
  * @description This function is called after each smoothState reload.
@@ -378,6 +420,7 @@ function pageSetup() {
   setDate()
   toggleCite()
   objectSize()
+  randomImage()
 }
 
 function parseQueryParams() {
@@ -399,6 +442,13 @@ globalSetup()
 
 // Run when DOM content has loaded
 window.addEventListener('load', () => {
+
+  let splashLink = document.querySelector(".splash-overlay-link");
+  let splashOverlayImage = document.querySelector(".splash-overlay-image");
+  if (splashOverlayImage && splashLink) {
+    splashLink.addEventListener('click', randomImage)
+    splashOverlayImage.addEventListener('click', hideSplash)
+  }
   pageSetup()
   scrollToHash(window.location.hash, 75, 'swing')
   const params = parseQueryParams()

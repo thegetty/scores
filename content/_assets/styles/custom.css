@@ -36,7 +36,9 @@
   --thumbnail-height: 40px;
 
   --small-font-size: .8rem;
-  --small-font-line-height: 1.2;
+  --small-font-line-height: 1.3;
+
+  --toc-indent-unit: 1.5rem;
 }
 @media screen and (min-width: 700px) {
   :root {
@@ -49,6 +51,9 @@
 body {
   color: #000;
   font-family: "u001", sans-serif;
+  line-height: 1.3;
+  letter-spacing: 0.02rem;
+  -webkit-font-smoothing: antialiased;
 }
 .quire-page__content {
   line-height: 1.3;
@@ -65,7 +70,8 @@ body {
   font-size: 1rem;
   font-weight: 400;
 }
-.quire-page h2 {
+.quire-page h2,
+.quire-page h3 {
   font-weight: 400;
   text-transform: none;
 }
@@ -84,6 +90,9 @@ body {
   all: initial;
   font-size: 1em;
   font-family: "u001", sans-serif;
+  line-height: 1.3;
+  letter-spacing: 0.02rem;
+  -webkit-font-smoothing: antialiased;
 }
 /* Table of contents */
 .quire-contents-list .menu-list a {
@@ -198,17 +207,139 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   opacity: 1;
 }
 
-/* MENU & FOOTER
+/* MENU
 ============================================================================= */
-.quire-menu {
-  display: none;
-  padding: 2rem;
+/* The menu is set to display by default */
+
+.quire-menu.is-expanded {
+  display: block;
+  padding: 0 2rem 2rem;
   font-family: 'u001', sans-serif;
   color: black;
 }
-.quire-menu.is-expanded {
+/* Adjust layout of title and subtitle */
+.quire-menu .scores-menu__title {
+  margin-bottom: 1rem;
+}
+.quire-menu .scores-menu__subtitle {
+  max-width: 20rem;
+  margin-bottom: 3rem;
+}
+/* Clear Quire default menu list styles */
+.quire-menu__header a, 
+.quire-menu__list a, 
+.quire-menu__formats a {
+  margin: 0;
+  color: black;
+}
+.quire-menu .menu-list {
+  line-height: 1.3;
+}
+.quire-menu .menu-list a {
+  padding: 0;
+}
+.quire-menu .menu-list a:hover {
+  background-color: inherit;
+  color: inherit;
+  text-decoration: none;
+}
+.quire-menu .page-item a.active, 
+.quire-menu .section-item a.active,
+.quire-menu .page-item a.active:hover, 
+.quire-menu .section-item a.active:hover {
+  margin-left: 0;
+  border-left-width: 0;
+  color: black !important;
+  padding-left: 0;
+}
+.quire-menu .page-item a.active *,
+.quire-menu .section-item a.active * {
+  color: black !important;
+}
+/* Display title and contributor blocks side by side */
+.quire-menu .menu-list a {
+  display: flex;
+}
+/* Set base width and spacing for titles */
+.quire-menu .menu-list a .item-title {
+  width: 40vw;
+  overflow-x: wrap;
+  margin-right: 3rem;
+}
+/* Clear Quire default list styles for contributor names */
+.quire-menu .menu-list a .quire-contributors-list {
+  margin: 0;
+  padding-left: 0;
+  border-left-width: 0;
+}
+/* Display chapter 2 authors in string rather than list */
+.quire-menu .menu-list ol > li:nth-child(3) .quire-contributors-list {
+  display: flex; 
+}
+.quire-menu .menu-list ol > li:nth-child(3) .quire-contributors-list .quire-contributor:first-child::after {
+  content: ",\00a0";
+  margin-left: -.35rem; /* Compensates for whitespace in the <li> */
+}
+/* For each chapter, display the subtitle (score name) by default and the title (artist name) only on hover */
+.quire-menu .menu-list ol > li:nth-child(n+2):nth-child(-n+12) a .item-title__title-text {
+  display: none;
+}
+.quire-menu .menu-list ol > li:nth-child(n+2):nth-child(-n+12) a:hover .item-title__title-text {
+  display: inline;
+}
+.quire-menu .menu-list ol > li:nth-child(n+2):nth-child(-n+12) a:hover .item-title__subtitle-text {
+  display: none;
+}
+/* Add space after the intro and after the last chapter */
+.quire-menu .menu-list ol > li:nth-child(1),
+.quire-menu .menu-list ol > li:nth-child(12) {
+  margin-bottom: 1rem;
+}
+/* Add indents for each of the main chapters */
+.quire-menu .menu-list ol > li:nth-child(2) {
+  margin-left: calc(11 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(3) {
+  margin-left: calc(10 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(4) {
+  margin-left: calc(9 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(5) {
+  margin-left: calc(8 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(6) {
+  margin-left: calc(7 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(7) {
+  margin-left: calc(6 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(8) {
+  margin-left: calc(5 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(9) {
+  margin-left: calc(4 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(10) {
+  margin-left: calc(3 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(11) {
+  margin-left: calc(2 * var(--toc-indent-unit));
+}
+.quire-menu .menu-list ol > li:nth-child(12) {
+  margin-left: calc(1 * var(--toc-indent-unit));
+}
+/* Add space between the Edited By and Published By list */
+.quire-menu .scores-menu__editors {
+  margin-bottom: 1rem;
+}
+/* Make Sure "Edited by" and Published by the" phrases appear on their own line */
+.quire-menu .edited-by,
+.quire-menu .published-by {
   display: block;
 }
+
+/* On the Score Object pages, the menu is set to hidden by default, and opens on page as a fixed, scrolling element on click */
 .quire-score-object + .quire-menu.is-expanded {
   position: fixed;
   top: 4rem;
@@ -224,32 +355,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .quire-score-object + .quire-menu.is-expanded  .scores-menu__subtitle {
   margin-top: 0;
 }
-.quire-menu .scores-menu__subtitle {
-  max-width: 20rem;
-  margin-top: 1rem;
-}
-.quire-menu__header a, 
-.quire-menu__list a, 
-.quire-menu__formats a {
-  margin: 0;
-  color: black;
-}
-.quire-menu .menu-list a {
-  padding: 0;
-}
-.quire-menu .menu-list a:hover {
-  background-color: inherit;
-  color: inherit;
-  text-decoration: none;
-}
-.quire-menu .page-item a.active, 
-.quire-menu .section-item a.active {
-  all: inherit !important;
-}
-.quire-menu .page-item a.active *,
-.quire-menu .section-item a.active * {
-  color: black !important;
-}
+
+/* FOOTER
+============================================================================= */
 .scores-footer {
   display: grid;
   gap: 2rem;
@@ -263,6 +371,10 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   font-size: var(--small-font-size);
   font-weight: 400;
   line-height: var(--small-font-line-height);
+  color: #000;
+  line-height: 1.3;
+  letter-spacing: 0.02rem;
+  -webkit-font-smoothing: antialiased;
 }
 .scores-footer h6 {
   display: block;
@@ -357,6 +469,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .score-section .score-section__objects .object-link__image__wrapper img {
   max-height: 100%;
+  max-height: -webkit-fill-available; /* fixes appearance in Safari */
   object-fit: contain;
   width: 100%;
 }
@@ -504,7 +617,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 /* Figures */
 .scores-figure {
-  margin: 1.25rem 0 1rem !important;
+  margin: 2.4rem 0 2rem !important;
 }
 .scores-figure img {
   width: 100%;
@@ -660,6 +773,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .objects-page .object-filters__select::after {
   all: revert !important;
+  color: #000;
+  font-family: "u001", sans-serif;
+  line-height: 1.3;
+  letter-spacing: 0.02rem;
+  -webkit-font-smoothing: antialiased;
 }
 .objects-page .object-filters__button#object-size-button {
   grid-column-start: 4;

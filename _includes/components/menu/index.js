@@ -16,6 +16,7 @@ const { html } = require('~lib/common-tags')
  */
 module.exports = function(eleventyConfig) {
   const citation = eleventyConfig.getFilter('citation')
+  const contributors = eleventyConfig.getFilter('contributors')
   const copyright = eleventyConfig.getFilter('copyright')
   const eleventyNavigation = eleventyConfig.getFilter('eleventyNavigation')
   const linkList = eleventyConfig.getFilter('linkList')
@@ -24,7 +25,7 @@ module.exports = function(eleventyConfig) {
   const menuResources = eleventyConfig.getFilter('menuResources')
 
   const { 
-    contributor_as_it_appears,
+    contributor: publicationContributors,
     publisher,
     title,
     subtitle,
@@ -41,7 +42,7 @@ module.exports = function(eleventyConfig) {
     const menuState = pageData.data.layout != 'score-object' 
       ? 'is-expanded'
       : ''
-    
+
 
     return html`
       <div
@@ -61,9 +62,12 @@ module.exports = function(eleventyConfig) {
           ${menuList({ currentURL: pageData.url, navigation: eleventyNavigation(collections.menu) })} 
         </nav>
 
-        <p class="scores-menu__editors">${contributor_as_it_appears}<p>
+        <div class="scores-menu__editors">
+          <span class="edited-by">Edited by </span>
+          ${contributors({ context: publicationContributors, format: 'name', type: 'primary' })}
+        </div>
 
-        <p class="scores-menu__publisher">Published by the ${publisher[0].name}</p>
+        <p class="scores-menu__publisher"><span class="published-by">Published by the </span><span class="publisher-name">${publisher[0].name}</span></p>
 
         <div class="scores-footer">
 

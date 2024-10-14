@@ -871,7 +871,7 @@ object_list:
     id: "051"
     old_id: "1.15e"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (32nd-note Realization)"
     date: "n.d."
@@ -888,7 +888,7 @@ object_list:
     id: "052"
     old_id: "1.15f"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Alternative 32nd-note Realization)"
     date: "n.d."
@@ -922,7 +922,7 @@ object_list:
     id: "054"
     old_id: "1.16b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection 2*"
     date: "early 1950s"
@@ -939,7 +939,7 @@ object_list:
     id: "055"
     old_id: "1.17a"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "David Tudor performing a work by John Cage in London"
     date: "1954"
@@ -956,7 +956,7 @@ object_list:
     id: "056"
     old_id: "1.17b"
     maker: 
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "David Tudor performing in Spain"
     date: "1950s"
@@ -973,7 +973,7 @@ object_list:
     id: "057"
     old_id: "1.17c"
     maker: 
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "David Tudor as a young man at the piano"
     date: "1950s"
@@ -990,7 +990,7 @@ object_list:
     id: "058"
     old_id: "1.17d"
     maker: 
-    people: ""
+    people: [ "Tudor, David" ]
     more_people: ""
     title: "David Tudor as young man at the piano"
     date: "1950s"
@@ -1007,8 +1007,8 @@ object_list:
     id: "059"
     old_id: "1.18"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Brown, Earle", "Cage, John", "Feldman, Morton", "Tudor, David" ]
+    more_people: [ "Wolff, Christian" ]
     title: "Christian Wolff, Earle Brown, John Cage, David Tudor, and Morton Feldman at the Capitol Records building in New York"
     date: "ca. 1953"
     date_sort: "1953-01-01"
@@ -1092,7 +1092,7 @@ object_list:
     id: "064"
     old_id: "2.02"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "First realization of John Cage’s *Solo for Piano*"
     date: "1958"
@@ -1109,7 +1109,7 @@ object_list:
     id: "065"
     old_id: "2.03"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Supplementary score pages for the first realization of John Cage’s *Solo for Piano*"
     date: "1958"
@@ -1126,7 +1126,7 @@ object_list:
     id: "066"
     old_id: "2.05"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Pencil draft of the second realization of John Cage’s *Solo for Piano*"
     date: "1958"
@@ -1143,7 +1143,7 @@ object_list:
     id: "067"
     old_id: "2.06"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Final version of the second realization of John Cage’s *Solo for Piano* for the *Indeterminacy* recording (1959)"
     date: "1958"
@@ -1298,7 +1298,7 @@ object_list:
     id: "075"
     old_id: "2.07"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Live performance of the first realization of John Cage’s *Concert for Piano and Orchestra* at Town Hall"
     date: "1958"
@@ -1315,7 +1315,7 @@ object_list:
     id: "076"
     old_id: "2.08"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Studio recording of the second realization of John Cage’s *Solo for Piano* for with Cage’s *Indeterminacy* stories"
     date: "1959"
@@ -1332,7 +1332,7 @@ object_list:
     id: "077"
     old_id: "2.09"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Live performance of the first realization of John Cage’s *Concert for Piano and Orchestra* at Mills College"
     date: "1964"
@@ -1349,7 +1349,7 @@ object_list:
     id: "078"
     old_id: "2.10"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Studio recording of David Tudor performing *Concert for Piano and Orchestra*"
     date: "1993"
@@ -1366,7 +1366,7 @@ object_list:
     id: "079"
     old_id: "2.11"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Performance of the second realization of John Cage’s *Solo for Piano*"
     date: ""
@@ -1383,7 +1383,7 @@ object_list:
     id: "080"
     old_id: "2.12"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Live performance of the *Solo for Piano* at the Philadelphia Museum of Art"
     date: "11 September 1982"
@@ -1400,7 +1400,7 @@ object_list:
     id: "081"
     old_id: "2.13a"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Live performance of the *Solo for Piano* at the Almeida Theatre in London"
     date: "13 June 1986"
@@ -1417,7 +1417,7 @@ object_list:
     id: "082"
     old_id: "2.13b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "David Tudor’s Sonorities for John Cage’s *Solo for Piano*"
     date: ""
@@ -1434,8 +1434,8 @@ object_list:
     id: "083"
     old_id: "2.14a"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Cunningham, Merce", "Tudor, David" ]
+    more_people: [ "Ajemian, Maro" ]
     title: "Flyer for John Cage’s twenty-five-year retrospective concert at Town Hall"
     date: "May 1958"
     date_sort: "1958-05-01"
@@ -1451,8 +1451,8 @@ object_list:
     id: "084"
     old_id: "2.14b"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Cunningham, Merce", "Tudor, David" ]
+    more_people: [ "Ajemian, Maro", "Richards, Mary Caroline" ]
     title: "Press release for John Cage’s twenty-five-year retrospective concert at Town Hall"
     date: "May 1958"
     date_sort: "1958-05-01"

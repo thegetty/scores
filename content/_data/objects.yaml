@@ -1468,8 +1468,8 @@ object_list:
     id: "085"
     old_id: "2.14c"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Tudor, David", "Cunningham, Merce" ]
+    more_people: [ "Ajemian, Maro" ]
     title: "Program for John Cage’s twenty-five-year retrospective concert at Town Hall"
     date: "May 1958"
     date_sort: "1958-05-01"
@@ -1485,7 +1485,7 @@ object_list:
     id: "086"
     old_id: "2.14d"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Tudor, David", "Cunningham, Merce" ]
     more_people: ""
     title: "Program for Village Vanguard performance"
     date: "1958"
@@ -1502,8 +1502,8 @@ object_list:
     id: "087"
     old_id: "2.14e"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Tudor, David", "Bussotti, Sylvano" ]
+    more_people: [ "Stockhausen, Karlheinz", "Wolff, Christian" ]
     title: "Program for a concert by David Tudor and John Cage at Ann Arbor High School, Michigan, sponsored by the Dramatic Arts Center"
     date: "16 May 1960"
     date_sort: "1960-05-16"
@@ -1519,8 +1519,8 @@ object_list:
     id: "088"
     old_id: "2.14f"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David" ]
+    more_people: [ "Cardew, Cornelius", "Stockhausen, Karlheinz" ]
     title: "Program for Musik der Zeit, Westdeutscher Rundfunk Köln, Germany"
     date: "19 September 1958"
     date_sort: "1958-09-19"
@@ -1536,7 +1536,7 @@ object_list:
     id: "089"
     old_id: "2.14g"
     maker: 
-    people: ""
+    people: [ "Cunningham, Merce", "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Program for *Antic Meet* performance of John Cage’s *Solo for Piano*, Eleventh American Dance Festival, Connecticut College"
     date: "14 August 1958"
@@ -1553,7 +1553,7 @@ object_list:
     id: "090"
     old_id: "2.14h"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Cage, John", "Cunningham, Merce" ]
     more_people: ""
     title: "Program for *Antic Meet* performance of John Cage’s *Solo for Piano*, Twelfth American Dance Festival, Connecticut College"
     date: "13 August 1959"
@@ -1570,8 +1570,8 @@ object_list:
     id: "091"
     old_id: "2.14i"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Feldman, Morton", "Brown, Earle", "Bussotti, Sylvano", "Tudor, David" ]
+    more_people: [ "Wolff, Christian", "Cardew, Cornelius" ]
     title: "Program for Die Reihe III [Third series], Musikalische Jugend Österreichs, Internationale Gesellschaft für Neue Musik"
     date: "19 November 1959"
     date_sort: "1959-11-19"
@@ -1587,7 +1587,7 @@ object_list:
     id: "092"
     old_id: "2.14j"
     maker: [ "John Cage (American, 1912–92)", "Richard Kostelanetz (b. 1940)" ]
-    people: [ "Cage, John", "Kostelanetz, Richard" ]
+    people: [ "Cage, John", "Kostelanetz, Richard", "Tudor, David" ]
     more_people: ""
     title: "Liner notes for *Indeterminacy* recording"
     date: "1959; reissued 1992"
@@ -1604,8 +1604,8 @@ object_list:
     id: "093"
     old_id: "2.14k"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John", "Bussotti, Sylvano", "Feldman, Morton", "Brown, Earle" ]
+    more_people: [ "Wolff, Christian", "Stockhausen, Karlheinz", "Boulez, Pierre" ] 
     title: "Promotional collage of clippings and scores for a concert at the First Unitarian Society, Minneapolis, MN, printed in *The Potboiler* (January and February 1962)"
     date: "22 January 1961"
     date_sort: "1961-01-22"
@@ -1621,8 +1621,8 @@ object_list:
     id: "094"
     old_id: "2.15a"
     maker: [ "H. G." ]
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John" ]
+    more_people: [ "Stockhausen, Karlheinz", "Boulez, Pierre" ]
     title: "“Mäßiger Auftakt in Köln: Drei Premieren, darunter eine mit Wäscheklammern,” *Neue Rhein Zeitung*"
     date: "25 September 1958"
     date_sort: "1958-09-25"
@@ -1638,7 +1638,7 @@ object_list:
     id: "095"
     old_id: "2.15b"
     maker: [ "Dore Ashton" ]
-    people: [ "Ashton, Dore" ]
+    people: [ "Ashton, Dore", "Cage, John" ]
     more_people: ""
     title: "“Cage, Composer, Shows Calligraphy of Note,” review of the Stable Gallery show, *New York Times*"
     date: "6 May 1958"
@@ -1655,7 +1655,7 @@ object_list:
     id: "096"
     old_id: "2.15c"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "“A Whistle, a ‘Slinky’ and a Bunch of Screws,” photograph by Sy Friedman, *New York Times*, X9"
     date: "11 May 1958"
@@ -1672,8 +1672,8 @@ object_list:
     id: "097"
     old_id: "2.15d"
     maker: [ "Jay S. Harrison" ]
-    people: [ "Harrison, Jay S." ]
-    more_people: ""
+    people: [ "Harrison, Jay S.", "Cage, John", "Tudor, David" ]
+    more_people: [ "Ajemian, Maro" ]
     title: "“John Cage Retrospective Is Presented at Town Hall,” *New York Herald Tribune*, 12"
     date: "16 May 1958"
     date_sort: "1958-05-16"
@@ -1689,8 +1689,8 @@ object_list:
     id: "098"
     old_id: "2.15e"
     maker: [ "Milew Kastendieck" ]
-    people: [ "Kastendieck, Milew" ]
-    more_people: ""
+    people: [ "Kastendieck, Milew", "Cage, John" ]
+    more_people: [ "Ajemian, Maro" ]
     title: "“Cage’s Music Still a Phenomenon,” *New York Journal-American*, 12"
     date: "16 May 1958"
     date_sort: "1958-05-16"
@@ -1706,8 +1706,8 @@ object_list:
     id: "099"
     old_id: "2.15f"
     maker: [ "Ross Parmenter" ]
-    people: [ "Parmenter, Ross" ]
-    more_people: ""
+    people: [ "Parmenter, Ross", "Cage, John", "Tudor, David", "Cuningham, Merce" ]
+    more_people: [ "Ajemian, Maro" ]
     title: "“Music: Experimenter: Zounds! Sound by John Cage at Town Hall,” *New York Times*, 20"
     date: "16 May 1958"
     date_sort: "1958-05-16"
@@ -1723,7 +1723,7 @@ object_list:
     id: "100"
     old_id: "2.15g"
     maker: [ "Louis Biancolli" ]
-    people: [ "Biancolli, Louis" ]
+    people: [ "Biancolli, Louis", "Cage, John" ]
     more_people: ""
     title: "“John Cage Gives Review of Work,” *New York World-Telegram and Sun*, 25"
     date: "16 May 1958"

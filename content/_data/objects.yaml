@@ -565,7 +565,7 @@ object_list:
     id: "033"
     old_id: "1.12d"
     maker: 
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "“Cage to Perform ‘Abstract’ Music,” *Daily Illini*"
     date: "24 March 1953"
@@ -582,8 +582,8 @@ object_list:
     id: "034"
     old_id: "1.12e"
     maker: [ "Duffy Defibaugh" ]
-    people: [ "Defibaugh, Duffy" ]
-    more_people: ""
+    people: [ "Defibaugh, Duffy", "Cage, John", "Brown, Earle" ]
+    more_people: [ "Barron, Bebe and Louis", "Henry, Pierre" ]
     title: "“‘Magnetic Music’ Not Ready,” *Daily Illini*"
     date: "March 1953"
     date_sort: "1953-03-01"
@@ -599,8 +599,8 @@ object_list:
     id: "035"
     old_id: "1.12f"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Defibaugh, Duffy", "Cage, John", "Brown, Earle" ]
+    more_people: [ "Barron, Bebe and Louis", "Henry, Pierre" ]
     title: "Front page of the *Daily Illini*"
     date: "March 1953"
     date_sort: "1953-03-01"
@@ -616,8 +616,8 @@ object_list:
     id: "036"
     old_id: "1.12g"
     maker: [ "Peggy Glanville-Hicks" ]
-    people: [ "Glanville-Hicks, Peggy" ]
-    more_people: ""
+    people: [ "Glanville-Hicks, Peggy", "Cage, John" ]
+    more_people: [ "Schaeffer, Pierre", "Boulez, Pierre", "Henry, Pierre" ] 
     title: "“Tapesichord: The Music of Whistle and Bang,” *Vogue*, 78–81, 108"
     date: "July 1953"
     date_sort: "1953-07-01"
@@ -633,8 +633,8 @@ object_list:
     id: "037"
     old_id: "1.12h"
     maker: [ "L. T." ]
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John", "Brown, Earle" ]
+    more_people: [ "Wolff, Christian" ]
     title: "“Concert and Recital: David Tudor, Pianist,” *New York Herald Tribune*"
     date: "15 April 1954"
     date_sort: "1954-04-15"
@@ -650,8 +650,8 @@ object_list:
     id: "038"
     old_id: "1.12i"
     maker: [ "T. M. S." ]
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Brown, Earle", "Feldman, Morton", "Cage, John" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Messiaen, Olivier", "Wolpe, Stefan" ]
     title: "“Concert and Recital: David Tudor, Pianist,” *New York Herald Tribune*, 22"
     date: "29 April 1954"
     date_sort: "1954-04-29"
@@ -667,8 +667,8 @@ object_list:
     id: "039"
     old_id: "1.12j"
     maker: 
-    people: ""
-    more_people: ""
+    people:  [ "Tudor, David", "Feldman, Morton", "Cage, John" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Wolpe, Stefan" ]
     title: "“Musical Events: Old Horizons,” *New Yorker*, 125–33"
     date: "8 May 1954"
     date_sort: "1954-05-08"
@@ -684,8 +684,8 @@ object_list:
     id: "040"
     old_id: "1.12k"
     maker: [ "R. P." ]
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Tudor, David", "Feldman, Morton" ]
+    more_people: [ "Stockhausen, Karlheinz" ]
     title: "“John Cage Offers Stereophonic Concert Including Eight Radios and Four Pianos,” *New York Times*"
     date: "31 May 1956"
     date_sort: "1956-05-31"
@@ -701,8 +701,8 @@ object_list:
     id: "041"
     old_id: "1.12m"
     maker: [ "Jay S. Harrison" ]
-    people: [ "Harrison, Jay S." ]
-    more_people: ""
+    people: [ "Harrison, Jay S.", "Feldman, Morton", "Cage, John", "Tudor, David", "Brown, Earle" ]
+    more_people: [ "Stockhausen, Karlheinz", "Wolff, Christian" ]
     title: "“New Music Concert Given at the Carl Fischer Hall,” *New York Herald Tribune*, 15"
     date: "31 May 1956"
     date_sort: "1956-05-31"
@@ -718,8 +718,8 @@ object_list:
     id: "042"
     old_id: "1.12n"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Brown, Earle", "Feldman, Morton", "Cage, John" ]
+    more_people: [ "Boulez, Pierre", "Pousseur, Henri", "Stockhausen, Karlheinz", "Wolff, Christian" ]
     title: "“Music of the Future: Science Fiction for the Piano,” *The Times* (London)"
     date: "19 December 1956"
     date_sort: "1956-12-19"
@@ -735,8 +735,8 @@ object_list:
     id: "043"
     old_id: "1.12o"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Tudor, David", "Brown, Earle", "Feldman, Morton" ]
+    more_people: [ "Wolff, Christian", "Stockhausen, Karlheinz" ]
     title: "“Mozart bevorzugte für das Spiel von Hausmusik. . . ,” *The Observer*"
     date: "15 December 1958"
     date_sort: "1958-12-15"
@@ -752,8 +752,8 @@ object_list:
     id: "044"
     old_id: "1.12p"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Brown, Earle", "Feldman, Morton", "Cage, John" ]
+    more_people: [ "Stockhausen, Karlheinz", "Wolff, Christian" ]
     title: "“Der Kampf mit dem Drachen. In der Musikakademie wurde ein Klavier mit dem Stock geschlagen,” *The Observer*"
     date: "5 December 1958"
     date_sort: "1958-12-05"
@@ -820,7 +820,7 @@ object_list:
     id: "048"
     old_id: "1.15b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Sketches of Numbered Boxes)"
     date: "ca. 1953"
@@ -837,7 +837,7 @@ object_list:
     id: "049"
     old_id: "1.15c"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Sketches of Clusters)"
     date: "ca. 1953"
@@ -854,7 +854,7 @@ object_list:
     id: "050"
     old_id: "1.15d"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Quarter-note Realization)"
     date: "ca. 1953"

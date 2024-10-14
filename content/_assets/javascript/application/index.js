@@ -410,6 +410,14 @@ function randomImage() {
   }
 }
 
+function scrollView() {
+  const scrollTargets = document.getElementsByClassName('current-thumbnail')
+  if (scrollTargets.length > 0) {
+    for (const target of scrollTargets) {
+      target.scrollIntoView({ inline: "start" })
+    }
+  } 
+}
 
 /**
  * pageSetup
@@ -421,6 +429,7 @@ function pageSetup() {
   toggleCite()
   objectSize()
   randomImage()
+  scrollView()
 }
 
 function parseQueryParams() {

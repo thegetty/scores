@@ -596,25 +596,26 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 
 /* INTRO & COMMENTARY PAGES
 ============================================================================= */
-
-.quire-essay .quire-page__header .hero-body {
-  margin: 0 2rem;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  margin-bottom: 2rem;
-}
-.quire-essay .quire-page__header .hero-body .quire-page__header__title,
-.quire-essay .quire-page__header .hero-body .quire-page__header__contributor,
-.quire-essay .quire-page__header .hero-body .quire-download {
-  margin: 0;
-  text-align: left;
-}
-.quire-essay .quire-page__header .hero-body .quire-download a {
-  color: black;
-}
-.quire-essay .quire-page__header .hero-body .quire-page__header__contributor {
-  grid-column-start: 3;
-  font-style: normal;
+@media screen {
+  .quire-essay .quire-page__header .hero-body {
+    margin: 0 2rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-bottom: 2rem;
+  }
+  .quire-essay .quire-page__header .hero-body .quire-page__header__contributor {
+    grid-column-start: 3;
+    font-style: normal;
+  }
+  .quire-essay .quire-page__header .hero-body .quire-page__header__title,
+  .quire-essay .quire-page__header .hero-body .quire-page__header__contributor,
+  .quire-essay .quire-page__header .hero-body .quire-download {
+    margin: 0;
+    text-align: left;
+  }
+  .quire-essay .quire-page__header .hero-body .quire-download a {
+    color: black;
+  }
 }
 .quire-essay .quire-page__content .container .content {
   padding: 0;
@@ -625,17 +626,24 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .quire-essay .quire-page__content .container .content p {
   line-height: 1.3;
-  text-indent: 4rem;
 }
 .quire-essay .quire-page__content .container .content blockquote {
   padding: 0;
-  margin: 1rem 0 1rem 4rem;
+  margin: 1rem 0 1rem 1.5rem;
   font-style: normal;
 }
-.quire-essay .quire-page__content .container .content p:first-child,
-.quire-essay .quire-page__content .container .content blockquote p,
-.quire-essay .quire-page__content .container .content h2 + p {
-  text-indent: 0;
+@media screen {
+  .quire-essay .quire-page__content .container .content p {
+    text-indent: 4rem;
+  }
+  .quire-essay .quire-page__content .container .content blockquote {
+    margin-left: 4rem;
+  }
+  .quire-essay .quire-page__content .container .content p:first-child,
+  .quire-essay .quire-page__content .container .content blockquote p,
+  .quire-essay .quire-page__content .container .content h2 + p {
+    text-indent: 0;
+  }
 }
 .quire-essay .quire-page__content .container .content blockquote p::before,
 .quire-entry .quire-page__content .container .content blockquote p::before {
@@ -686,6 +694,37 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .scores-figure-group-grid--3 {
   grid-template-columns: 1fr 1fr;
+}
+
+/* Style for special page links that appear below An Anthology figures in chapter 5 and 7 commentaries */
+.anthology-links {
+  height: 2rem;
+  font-size: var(--small-font-size);
+  padding-bottom: 1em;
+  position: relative;
+  display: flex;
+}
+.anthology-links-heading {
+  display: block;
+  text-align: left;
+  min-width: 4rem;
+}
+.anthology-links-scrollarea {
+  white-space: nowrap;
+  overflow-x: scroll;
+  height: inherit;
+}
+.anthology-links .current-thumbnail {
+  position: relative;
+  /* text-decoration: underline; */
+}
+.anthology-links .current-thumbnail::before {
+  content: "•";
+  font-size: .75em;
+  margin-top: 1.5em;
+  display: inline-block;
+  position: absolute;
+  left: 45%;
 }
 
 /* COPYRIGHT & ABOUT PAGE

@@ -80,9 +80,9 @@ In tandem with Knowles’s rising status in the history of art, *The Identical L
 
 [^14]: On Knowles’s creative approach to the form of the book, see Julia Robinson, “The Sculpture of Indeterminacy: Alison Knowles’s Beans and Variations,” *Art Journal* 63, no. 4 (2004): 96–115.
 
-[^15]: Knowles publishes her exact address in Alison Knowles, *by Alison Knowles*, *A Great Bear Pamphlet* (New York: Something Else Press, 1965), 15.
+[^15]: Knowles publishes her exact address in Alison Knowles, *By Alison Knowles*, A Great Bear Pamphlet (New York: Something Else Press, 1965), 15.
 
-[^16]: Alison Knowles and Hannah B. Higgins, “Notes toward Indigo Island: A Conversation between Alison Knowles and Hannah Higgins,” 100; and Dumett, “Alison Knowles: Ritual and Routine,” 279.
+[^16]: Alison Knowles and Hannah B. Higgins, “Notes toward Indigo Island: A Conversation between Alison Knowles and Hannah Higgins,” in Knowles, 100; and Dumett, “Alison Knowles: Ritual and Routine,” 279.
 
 [^17]: Alison Knowles, “The Identical Lunch,” *The Outsider* 2, nos. 4–5 (1968/69): 182.
 

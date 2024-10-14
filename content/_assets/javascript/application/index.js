@@ -359,7 +359,7 @@ window['toggleDrawer'] = function(event) {
   
   if (drawer && drawer.classList.contains('score-section__objects')) {
     const drawerCardsClasses = drawer.classList;
-    drawerCardsClasses.c;
+    drawerCardsClasses.toggle('open');
     
     if (drawerCardsClasses.contains('open')) {
       event.target.textContent = "Collapse";

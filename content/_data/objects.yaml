@@ -1332,7 +1332,7 @@ object_list:
     id: "077"
     old_id: "2.09"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David", "Cage, John" ]
+    people: [ "Tudor, David", "Cage, John", "Oliveros, Pauline", "Subotnick, Morton" ]
     more_people: ""
     title: "Live performance of the first realization of John Cage’s *Concert for Piano and Orchestra* at Mills College"
     date: "1964"
@@ -1451,8 +1451,8 @@ object_list:
     id: "084"
     old_id: "2.14b"
     maker: 
-    people: [ "Cage, John", "Cunningham, Merce", "Tudor, David" ]
-    more_people: [ "Ajemian, Maro", "Richards, Mary Caroline" ]
+    people: [ "Cage, John", "Cunningham, Merce", "Tudor, David", "Richards, Mary Caroline" ]
+    more_people: [ "Ajemian, Maro" ]
     title: "Press release for John Cage’s twenty-five-year retrospective concert at Town Hall"
     date: "May 1958"
     date_sort: "1958-05-01"
@@ -1612,7 +1612,7 @@ object_list:
     year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 63, folder 5"
-    extended_caption: "The author of this mock review collages together a [*Harper’s Magazine* feature article on Davod Tudor](/image-index/192/), and includes a score reproduction, commentary on Tudor’s work, information about the performance, and a note about the virtues of Photostat-based typography. Though he seems not to have attended the concert, the writer’s observations about Tudor’s work (presumably based on the *Harper’s* article) exemplify the tendency of middlebrow critics to engage in their own armchair philosophizing about the upending of traditional ontologies of music. The author calls Tudor’s performance an indeterminate “thing,” and compares experimental notation to a tradition of formalized diagraming that is more familiar but equally complex—a football playbook."
+    extended_caption: "The author of this mock review collages together a [*Harper’s Magazine* feature article on David Tudor](/image-index/192/), and includes a score reproduction, commentary on Tudor’s work, information about the performance, and a note about the virtues of Photostat-based typography. Though he seems not to have attended the concert, the writer’s observations about Tudor’s work (presumably based on the *Harper’s* article) exemplify the tendency of middlebrow critics to engage in their own armchair philosophizing about the upending of traditional ontologies of music. The author calls Tudor’s performance an indeterminate “thing,” and compares experimental notation to a tradition of formalized diagraming that is more familiar but equally complex—a football playbook."
     credit: ""
     featured: 
     type: [ programs and flyers ]
@@ -1621,8 +1621,8 @@ object_list:
     id: "094"
     old_id: "2.15a"
     maker: [ "H. G." ]
-    people: [ "Tudor, David", "Cage, John" ]
-    more_people: [ "Stockhausen, Karlheinz", "Boulez, Pierre" ]
+    people: [ "Tudor, David", "Cage, John", "Stockhausen, Karlheinz" ]
+    more_people: [ "Boulez, Pierre" ]
     title: "“Mäßiger Auftakt in Köln: Drei Premieren, darunter eine mit Wäscheklammern,” *Neue Rhein Zeitung*"
     date: "25 September 1958"
     date_sort: "1958-09-25"
@@ -1638,7 +1638,7 @@ object_list:
     id: "095"
     old_id: "2.15b"
     maker: [ "Dore Ashton" ]
-    people: [ "Ashton, Dore", "Cage, John" ]
+    people: [ "Ashton, Dore", "Cage, John", "Rauschenberg, Robert", "Johns, Jasper" ]
     more_people: ""
     title: "“Cage, Composer, Shows Calligraphy of Note,” review of the Stable Gallery show, *New York Times*"
     date: "6 May 1958"

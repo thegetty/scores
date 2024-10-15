@@ -45,7 +45,7 @@ module.exports = function (eleventyConfig, { page }) {
 
         // Add list of page link to An Anthology figures to meet rights requirements
         if (fig.anthology_links) {
-          anthologyLinks = '<div class="anthology-links"><div class="anthology-links-heading">View: </div><div class="anthology-links-scrollarea">';
+          anthologyLinks = '<div class="anthology-links" data-outputs-exclude="epub,pdf"><div class="anthology-links-heading">View: </div><div class="anthology-links-scrollarea">';
           anthologyData.forEach(item => {
             if (item.href == objLink) {
               anthologyLinks += `<a href="${item.href}" class="current-thumbnail" target="object-iframe">${item.text}</a>, `;

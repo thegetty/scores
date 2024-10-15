@@ -119,7 +119,7 @@ body {
 /* Prev/Next buttons */
 .quire-contents-buttons {
   height: 200px;
-  padding: 0 2rem;
+  margin: 2rem;
 }
 .quire-nav-button {
   display: inline;
@@ -383,7 +383,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 
 /* On the Score Object pages, the menu is set to hidden by default, and opens on page as a fixed, scrolling element on click */
+.quire-score-object + .quire-menu {
+  display: none;
+}
 .quire-score-object + .quire-menu.is-expanded {
+  display: block;
   position: fixed;
   top: 4rem;
   bottom: 0;
@@ -726,6 +730,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   position: absolute;
   left: 45%;
 }
+@media print {
+  .anthology-links {
+    display: none;
+  }
+}
 
 /* COPYRIGHT & ABOUT PAGE
 ============================================================================= */
@@ -1002,9 +1011,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .score-object .quire-page__content .container .content {
   padding-top: 0;
 }
-.object-credit {
+.score-object .quire-page__content .content p.object-credit {
   font-size: var(--small-font-size);
   line-height: var(--small-font-line-height);
+  text-indent: 0;
+  margin-top: 1rem;
 }
 .score-object .quire-page__content .container .content a, 
 .score-object .quire-page__content .container .content a:hover {
@@ -1267,6 +1278,9 @@ body.iframe-version .quire .quire__primary main {
   }
   /* Figures */
   .content figure.scores-figure {
+    margin: 1.2rem 0 1rem !important;
+  }
+  .content figure.scores-figure {
     -prince-float: top;
     margin-top: 0 !important;
     text-align: left;
@@ -1287,15 +1301,18 @@ body.iframe-version .quire .quire__primary main {
   .scores-figure-group > figcaption {
     margin-top: 0;
   }
-  .scores-figure-group.scores-figure-group-grid--2 .scores-figure {
+  .scores-figure-group.scores-figure-group-grid--2 .scores-figure,
+  .scores-figure-group.scores-figure-group-grid--3 .scores-figure {
     width: calc(50% - .75rem);
     display: inline-block;
     margin-top: 1rem !important;
   }
-  .scores-figure-group.scores-figure-group-grid--2 .scores-figure:nth-child(-n+2) {
+  .scores-figure-group.scores-figure-group-grid--2 .scores-figure:nth-child(-n+2),
+  .scores-figure-group.scores-figure-group-grid--3 .scores-figure:nth-child(-n+2) {
     margin-top: 0 !important;
   }
-  .scores-figure-group.scores-figure-group-grid--2 .scores-figure:nth-child(odd) {
+  .scores-figure-group.scores-figure-group-grid--2 .scores-figure:nth-child(odd),
+  .scores-figure-group.scores-figure-group-grid--3 .scores-figure:nth-child(odd) {
     margin-right: .75rem !important;
   }
   .content .scores-figure-group figure.scores-figure img {

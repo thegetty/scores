@@ -2080,7 +2080,7 @@ object_list:
     id: "121"
     old_id: "2.15ac"
     maker: [ "Louis R. Guzzo" ]
-    people: [ "Guzzo, Louis R." ]
+    people: [ "Guzzo, Louis R.", "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "“Cage’s Electronic Music Amazes and Amuses,” *Seattle Times*"
     date: "27 September 1962"
@@ -2097,7 +2097,7 @@ object_list:
     id: "122"
     old_id: "2.15ad"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Bernstein, Leonard", "Tudor, David", "Feldman, Morton", "Brown, Earle" ]
     more_people: ""
     title: "“Far-Out at the Philharmonic,” *Time*, 79–80"
     date: "14 February 1964"
@@ -2114,7 +2114,7 @@ object_list:
     id: "123"
     old_id: "2.16a"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: [ "Cage, John" ]
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Letter from John Cage to David Tudor"
     date: "29 January 1958"
@@ -2131,7 +2131,7 @@ object_list:
     id: "124"
     old_id: "2.16b"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: [ "Cage, John" ]
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Letter from John Cage to David Tudor"
     date: "1951"
@@ -2148,8 +2148,8 @@ object_list:
     id: "125"
     old_id: "2.16c"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John", "Feldman, Morton", "Brown, Earle" ]
+    more_people: [ "Wolpe, Stefan", "Stockhausen, Karlheinz", "Wolff, Christian" ]
     title: "David Tudor’s press materials"
     date: "1959?"
     date_sort: "1959-01-01"
@@ -2165,7 +2165,7 @@ object_list:
     id: "126"
     old_id: "2.16d"
     maker: [ "James Klosty" ]
-    people: [ "Klosty, James" ]
+    people: [ "Klosty, James", "Tudor, David" ]
     more_people: ""
     title: "Letter from James Klosty to David Tudor"
     date: "1971"
@@ -2182,8 +2182,8 @@ object_list:
     id: "127"
     old_id: "2.17"
     maker: [ "Mary Caroline Richards (American, 1916–99)" ]
-    people: [ "Richards, Mary Caroline" ]
-    more_people: ""
+    people: [ "Richards, Mary Caroline", "Artaud, Antonin" ]
+    more_people: 
     title: "Antonin Artaud lecture for the Living Theatre"
     date: "1959"
     date_sort: "1959-01-01"
@@ -2199,7 +2199,7 @@ object_list:
     id: "128"
     old_id: "2.18"
     maker: [ "David Tudor (American, 1926–96)", "Antonin Artaud (French, 1896–1948)" ]
-    people: [ "Tudor, David", "Artaud, Antonin" ]
+    people: [ "Tudor, David", "Artaud, Antonin", "Richards, Mary Caroline" ]
     more_people: ""
     title: "David Tudor’s typescript of M. C. Richards’s English translation of Antonin Artaud’s “An Affective Athleticism”"
     date: ""
@@ -2216,7 +2216,7 @@ object_list:
     id: "129"
     old_id: "2.19a"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "David Tudor performing John Cage’s *Water Music* at Darmstadt"
     date: "1958, or possibly 1956"
@@ -2233,7 +2233,7 @@ object_list:
     id: "130"
     old_id: "2.19b"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "David Tudor performing John Cage’s *Concert for Piano and Orchestra*"
     date: "1958"
@@ -2250,7 +2250,7 @@ object_list:
     id: "131"
     old_id: "2.19c"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "David Tudor preparing his second realization of John Cage’s *Solo for Piano*"
     date: "1958"
@@ -2267,7 +2267,7 @@ object_list:
     id: "132"
     old_id: "2.19d"
     maker: [ "Manfred Leve (German, 1936–2012)" ]
-    people: [ "Leve, Manfred" ]
+    people: [ "Leve, Manfred", "Tudor, David" ]
     more_people: ""
     title: "David Tudor performing at Galerie 22 in Düsseldorf, Germany"
     date: "14 October 1958"
@@ -2284,7 +2284,7 @@ object_list:
     id: "133"
     old_id: "2.19e"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "John Cage and David Tudor in the Tôkei-ji Temple Garden (Kanazawa, Japan)"
     date: "1962"
@@ -2301,7 +2301,7 @@ object_list:
     id: "134"
     old_id: "2.20"
     maker: 
-    people: ""
+    people: [ "Cunningham, Merce", "Cage, John" ]
     more_people: ""
     title: "Merce Cunningham conducting John Cage’s *Concert for Piano and Orchestra* at Town Hall"
     date: "15 May 1958"
@@ -2318,7 +2318,7 @@ object_list:
     id: "135"
     old_id: "2.21"
     maker: [ "Aram Avakian (American, 1926–87)" ]
-    people: [ "Avakian, Aram" ]
+    people: [ "Avakian, Aram", "Cunningham, Merce", "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "John Cage, Merce Cunningham, and David Tudor at the Town Hall premiere of *Concert for Piano and Orchestra*"
     date: "May 1958"
@@ -2335,7 +2335,7 @@ object_list:
     id: "136"
     old_id: "2.22a"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Dynamics table for graph A for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2352,7 +2352,7 @@ object_list:
     id: "137"
     old_id: "2.22b"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Auxiliary sound inventory for the first realization of John Cage’s *Solo for Piano*"
     date: "May 1958"
@@ -2369,7 +2369,7 @@ object_list:
     id: "138"
     old_id: "2.22c"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Graph sequence for the *Antic Meet* performance of John Cage’s *Solo for Piano* at the American Dance Festival"
     date: "August 1958"
@@ -2386,7 +2386,7 @@ object_list:
     id: "139"
     old_id: "2.22d"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Graph sequence for the *Antic Meet* performance of John Cage’s *Concert for Piano and Orchestra* at the Phoenix Theatre, New York"
     date: "16 February 1960"
@@ -2403,7 +2403,7 @@ object_list:
     id: "140"
     old_id: "2.22e"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Graph sequence for the Cologne performance of John Cage’s *Solo for Piano*"
     date: "September 1958"

@@ -128,6 +128,7 @@ const goToFigureState = function ({
   const newThumbnailSelector = `a[data-figure-id="${figureId}"`
   const newThumbnail = document.querySelector(newThumbnailSelector)
   newThumbnail.classList.add('current-thumbnail');
+  newThumbnail.scrollIntoView({ block: "nearest", inline: "start" });
 
   /** 
    * Build params

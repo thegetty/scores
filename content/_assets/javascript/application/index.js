@@ -414,10 +414,21 @@ function scrollView() {
   const scrollTargets = document.getElementsByClassName('current-thumbnail')
   if (scrollTargets.length > 0) {
     for (const target of scrollTargets) {
-      target.scrollIntoView({ inline: "start" })
+      const parent = target.parentElement
+      const parentRect = parent.getBoundingClientRect()
+      const targetRect = target.getBoundingClientRect()
+
+      // Calculate the scrolling offsets
+      const offsetTop = targetRect.top - parentRect.top + parent.scrollTop
+      const offsetLeft = targetRect.left - parentRect.left + parent.scrollLeft
+      
+      // Scroll the parent element to center the target element
+      parent.scrollTop = offsetTop - (parent.clientHeight / 2) + (target.clientHeight / 2)
+      parent.scrollLeft = offsetLeft - (parent.clientWidth / 2) + (target.clientWidth / 2)
     }
-  } 
+  }
 }
+
 
 /**
  * pageSetup

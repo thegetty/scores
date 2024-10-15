@@ -1451,8 +1451,8 @@ object_list:
     id: "084"
     old_id: "2.14b"
     maker: 
-    people: [ "Cage, John", "Cunningham, Merce", "Tudor, David", "Richards, Mary Caroline" ]
-    more_people: [ "Ajemian, Maro" ]
+    people: [ "Cage, John", "Cunningham, Merce", "Tudor, David" ]
+    more_people: [ "Ajemian, Maro", "Richards, Mary Caroline" ]
     title: "Press release for John Cage’s twenty-five-year retrospective concert at Town Hall"
     date: "May 1958"
     date_sort: "1958-05-01"
@@ -1740,8 +1740,8 @@ object_list:
     id: "101"
     old_id: "2.15h"
     maker: [ "Margaret Lloyd" ]
-    people: [ "Lloyd, Margaret" ]
-    more_people: ""
+    people: [ "Lloyd, Margaret", "Cage, John", "Cunningham, Merce", "Feldman, Morton", "Tudor, David" ]
+    more_people: [ "Rauschenberg, Robert" ]
     title: "“Modern American Dance in Connecticut: Contrasting Styles Seen in Eleventh Annual,” *Christian Science Monitor*"
     date: "23 August 1958"
     date_sort: "1958-08-23"
@@ -1757,7 +1757,7 @@ object_list:
     id: "102"
     old_id: "2.15i"
     maker: [ "H. R." ]
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "“In der Werkstatt der direktiven Freiheit,” *Kölnische Rundschau*"
     date: "21 September 1958"
@@ -1774,8 +1774,8 @@ object_list:
     id: "103"
     old_id: "2.15j"
     maker: [ "M. F." ]
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Tudor, David" ]
+    more_people: [ "Boulez, Pierre", "Stockhausen, Karlheinz" ]
     title: "“Ein Ding mit Pfiff: Avantgardisten im ersten Abend ‘Musik der Zeit,’” *Neue Rhein Zeitung*"
     date: "22 September 1958"
     date_sort: "1958-09-22"
@@ -1791,8 +1791,8 @@ object_list:
     id: "104"
     old_id: "2.15k"
     maker: [ "Herbert Schultz" ]
-    people: [ "Schultz, Herbert" ]
-    more_people: ""
+    people: [ "Schultz, Herbert", "Cage, John", "Tudor, David" ]
+    more_people: [ "Stockhausen, Karlheinz", "Boulez, Pierre" ]
     title: "“Nicht mehr der Ton macht die Musik,” *Der Mittag*"
     date: "23 September 1958"
     date_sort: "1958-09-23"
@@ -1808,8 +1808,8 @@ object_list:
     id: "105"
     old_id: "2.15l"
     maker: [ "Diether de la Motte" ]
-    people: [ "de la Motte, Diether" ]
-    more_people: ""
+    people: [ "de la Motte, Diether", "Cage, John", "Tudor, David" ]
+    more_people: [ "Boulez, Pierre", "Stockhausen, Karlheinz" ]
     title: "“Musik der Zeit: Demonstration neuer Kompositionstechniken,” *Rheinische Post*"
     date: "23 September 1958"
     date_sort: "1958-09-23"
@@ -1825,7 +1825,7 @@ object_list:
     id: "106"
     old_id: "2.15m"
     maker: [ "HvL" ]
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "“Im Klavierkonzert ging es absunderlich her,” *Westdeutsche Rundschau Wuppertal*"
     date: "23 September 1958"
@@ -1842,8 +1842,8 @@ object_list:
     id: "107"
     old_id: "2.15n"
     maker: [ "Friedrich Berger" ]
-    people: [ "Berger, Friedrich" ]
-    more_people: ""
+    people: [ "Berger, Friedrich", "Cage, John", "Tudor, David"  ]
+    more_people: [ "Stockhausen, Karlheinz", "Boulez, Pierre" ]
     title: "“Alibi für die Gestrigen,” *Kölner Stadt-Anzeiger*"
     date: "24 September 1958"
     date_sort: "1958-09-24"
@@ -1859,7 +1859,7 @@ object_list:
     id: "108"
     old_id: "2.15o"
     maker: [ "Heinrich Lindlar" ]
-    people: [ "Lindlar, Heinrich" ]
+    people: [ "Lindlar, Heinrich", "Cage, John" ]
     more_people: ""
     title: "“Was man hörte, war verwirrend: Fragwürdiges Funk-Konzert aus Köln mit ‘Musik der Zeit,’” *Die Welt*"
     date: "25 September 1958"
@@ -1876,7 +1876,7 @@ object_list:
     id: "109"
     old_id: "2.15p"
     maker: [ "Kurt Driesch" ]
-    people: [ "Driesch, Kurt" ]
+    people: [ "Driesch, Kurt", "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "“‘Avantgardistische Musik’ am Abgrund: Europäische Erstauffühurng von John Cage’s ‘Klavierkonzert’ in Köln,” *Rhein Neckar-Azeitung*"
     date: "30 September 1958"
@@ -1893,7 +1893,7 @@ object_list:
     id: "110"
     old_id: "2.15q"
     maker: [ "H. H. Stuckenschmidt" ]
-    people: [ "Stuckenschmidt, H. H." ]
+    people: [ "Stuckenschmidt, H. H.", "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "“Sessions on Modern Music Held Near Darmstadt,” *Musical America*, 18–19, 34"
     date: "October 1958"
@@ -1910,8 +1910,8 @@ object_list:
     id: "111"
     old_id: "2.15r"
     maker: [ "A. H." ]
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Pousseur, Henri", "Messaien, Olivier" ]
     title: "“David Tudor in Piano Recital,” *New York Herald Tribune*, 11"
     date: "20 March 1959"
     date_sort: "1959-03-20"
@@ -1927,7 +1927,7 @@ object_list:
     id: "112"
     old_id: "2.15s"
     maker: [ "Edward Cannel" ]
-    people: [ "Cannel, Edward" ]
+    people: [ "Cannel, Edward", "Cage, John" ]
     more_people: ""
     title: "“Little Thing Like Mushroom Can Change Destiny,” *Oregon Journal*"
     date: "5 July 1959"
@@ -1944,8 +1944,8 @@ object_list:
     id: "113"
     old_id: "2.15t"
     maker: [ "Doris Hering" ]
-    people: [ "Hering, Doris" ]
-    more_people: ""
+    people: [ "Hering, Doris", "Tudor, David", "Cunningham, Merce" ]
+    more_people: [ "Shearer, Sybil" ]
     title: "“The ‘Good Guys’ Versus the ‘Bad Guys’: Twelfth American Dance Festival,” *Dance Magazine*, 31–35, 82"
     date: "October 1959"
     date_sort: "1959-10-01"
@@ -1961,7 +1961,7 @@ object_list:
     id: "114"
     old_id: "2.15u"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "“John Cage: Indeterminacy,” *Time*, 65"
     date: "2 November 1959"
@@ -1978,7 +1978,7 @@ object_list:
     id: "115"
     old_id: "2.15v"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "“Tumulte im Mozart-Saal des Konzerthauses,” *Neues Österreich*"
     date: "21 November 1959"
@@ -1995,7 +1995,7 @@ object_list:
     id: "116"
     old_id: "2.15w"
     maker: [ "Eric Salzman" ]
-    people: [ "Salzman, Eric" ]
+    people: [ "Salzman, Eric", "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "“John Cage in Story Hour for Some Friends,” *New York Times*"
     date: "26 January 1960"
@@ -2012,8 +2012,8 @@ object_list:
     id: "117"
     old_id: "2.15x"
     maker: [ "Fred Grunfeld" ]
-    people: [ "Grunfeld, Fred" ]
-    more_people: ""
+    people: [ "Grunfeld, Fred", "Cage, John", "Feldman, Morton" ]
+    more_people: [ "Ajemian, Maro" ]
     title: "“Cage Without Bars,” *The Reporter*, 35, 37"
     date: "4 February 1960"
     date_sort: "1960-02-04"
@@ -2029,8 +2029,8 @@ object_list:
     id: "118"
     old_id: "2.15y"
     maker: [ "Walter Terry" ]
-    people: [ "Terry, Walter" ]
-    more_people: ""
+    people: [ "Terry, Walter", "Cunningham, Merce", "Cage, John", "Feldman, Morton", "Tudor, David" ]
+    more_people: [ "Wolff, Christian" ]
     title: "“Cunningham Dance Group Gives Avant Garde Works,” *New York Herald Tribune*, 19"
     date: "17 February 1960"
     date_sort: "1960-02-17"
@@ -2046,8 +2046,8 @@ object_list:
     id: "119"
     old_id: "2.15z"
     maker: [ "Paul Henry Lang" ]
-    people: [ "Lang, Paul Henry" ]
-    more_people: ""
+    people: [ "Lang, Paul Henry", "Tudor, David" ]
+    more_people: [ "Carter, Elliott" ]
     title: "“What Is Offered by Electronic Age?,” *New York Herald Tribune*, 6"
     date: "10 April 1960"
     date_sort: "1960-04-10"
@@ -2063,7 +2063,7 @@ object_list:
     id: "120"
     old_id: "2.15ab"
     maker: [ "John K. Sherman" ]
-    people: [ "Sherman, John K." ]
+    people: [ "Sherman, John K.", "Tudor, David", "Cage, John", "Bussotti, Sylvano" ]
     more_people: ""
     title: "“Music to Hear—and Unhear,” *Minneapolis Star*"
     date: "1961"

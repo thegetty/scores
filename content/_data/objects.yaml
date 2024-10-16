@@ -3474,8 +3474,8 @@ object_list:
     id: "203"
     old_id: "4.07"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: [ "Patterson, Benjamin" ]
-    more_people: ""
+    people: [ "Patterson, Benjamin", "Mosconi, Davide", "Corner, Philip", "Neville, Phoebe", "Marchetti, Walter" ]
+    more_people:
     title: "*Paper Piece,* originally from the album *Early Works*, with Benjamin Patterson (director) and performers Davide Mosconi, Gabriele Bonomo, Philip Corner, Phoebe Neville, and Walter Marchetti (paper)"
     date: "1999"
     date_sort: "1999-01-01"
@@ -3508,7 +3508,7 @@ object_list:
     id: "205"
     old_id: "4.09"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: [ "Patterson, Benjamin" ]
+    people: [ "Patterson, Benjamin", "Knowles, Alison", "Corner, Philip", "Vautier, Ben", "Andersen, Eric", "Ritter, Willem de", "Higgins, Dick", "Williams, Emmett", "Hendricks, Geoffrey", "Klingenberg, Bent af" ]
     more_people: ""
     title: "Excerpt of *Paper Piece* performed by Ben Patterson, Ben Vautier, Alison Knowles, Eric Andersen, Willem de Ritter, Bent af Klingenberg, Philip Corner, Dick Higgins, Emmett Williams, and Geoffrey Hendricks, in Malmö, Sweden"
     date: "1992"
@@ -3526,7 +3526,7 @@ object_list:
     old_id: "4.10a"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     people: [ "Patterson, Benjamin" ]
-    more_people: ""
+    more_people: [ "Vautier, Ben" ]
     title: "Performance of *Paper Piece* in Nice, France"
     date: "1964"
     date_sort: "1964-01-01"
@@ -3543,7 +3543,7 @@ object_list:
     old_id: "4.10b"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     people: [ "Patterson, Benjamin" ]
-    more_people: ""
+    more_people: [ "Vautier, Ben" ]
     title: "Performance of *Paper Piece* in Nice, France"
     date: "1970"
     date_sort: "1970-01-01"
@@ -3593,7 +3593,7 @@ object_list:
     id: "210"
     old_id: "4.11"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: [ "Patterson, Benjamin" ]
+    people: [ "Patterson, Benjamin", "Vostell, Wolf" ]
     more_people: ""
     title: "*Décollage Solo for Wolf Vostell*, with a letter from Wolf Vostell"
     date: "April 1960"
@@ -3730,7 +3730,7 @@ object_list:
     id: "218"
     old_id: "4.14"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: [ "Patterson, Benjamin" ]
+    people: [ "Patterson, Benjamin", "Knowles, Alison" ]
     more_people: ""
     title: "*Final Exam* for Alison Knowles"
     date: "1 June 1965"
@@ -3781,7 +3781,7 @@ object_list:
     id: "221"
     old_id: "4.17a"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Patterson, Benjamin" ]
     more_people: ""
     title: "Postcard from George Brecht to Benjamin Patterson"
     date: "22 April 1963"
@@ -3798,7 +3798,7 @@ object_list:
     id: "222"
     old_id: "4.17b"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Patterson, Benjamin" ]
     more_people: ""
     title: "Postcard from George Brecht to Benjamin Patterson"
     date: "21 January 1964"
@@ -3815,7 +3815,7 @@ object_list:
     id: "223"
     old_id: "4.17c"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Patterson, Benjamin" ]
     more_people: ""
     title: "Postcard from George Brecht to Benjamin Patterson"
     date: "7 April 1965"
@@ -3832,7 +3832,7 @@ object_list:
     id: "224"
     old_id: "4.18"
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-    people: [ "Patterson, Benjamin" ]
+    people: [ "Patterson, Benjamin", "Tudor, David" ]
     more_people: ""
     title: "Letter from Benjamin Patterson to David Tudor"
     date: "14 December 1960"
@@ -3849,7 +3849,7 @@ object_list:
     id: "225"
     old_id: "4.19"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Patterson, Benjamin" ]
     more_people: ""
     title: "Letter from George Maciunas to Benjamin Patterson"
     date: "January 1963"
@@ -3934,7 +3934,7 @@ object_list:
     id: "230"
     old_id: "4.23"
     maker: [ "Benjamin Patterson (American, 1934–2016)", "Emmett Williams (American, 1925–2007)" ]
-    people: [ "Patterson, Benjamin", "Williams, Emmett" ]
+    people: [ "Patterson, Benjamin", "Williams, Emmett", "Maciunas, George" ]
     more_people: ""
     title: "Interview with Benjamin Patterson in Emmett Williams’s “Way Way Way Out,” in *The Stars and Stripes*, 11"
     date: "30 August 1962"
@@ -3968,7 +3968,7 @@ object_list:
     id: "232"
     old_id: "4.24b"
     maker: [ "possibly Rolf Jährling" ]
-    people: [ "Jährling, Rolf" ]
+    people: [ "Jährling, Rolf", "Patterson, Benjamin" ]
     more_people: ""
     title: "Benjamin Patterson performing *Variations for Double-Bass* at *Kleinen Sommerfest: Après John Cage*, Galerie Parnass, Wuppertal, West Germany"
     date: "9 June 1962"
@@ -3985,7 +3985,7 @@ object_list:
     id: "233"
     old_id: "4.24c"
     maker: 
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
     title: "Performance of Benjamin Patterson’s *Paper Piece* at the Fluxus Festival, Hypokriterion Theater, Amsterdam"
     date: "23 June 1963"
@@ -4002,7 +4002,7 @@ object_list:
     id: "234"
     old_id: "4.24d"
     maker: 
-    people: ""
+    people: [ "Patterson, Benjamin", "Alphen, Oscar van" ]
     more_people: ""
     title: "Benjamin Patterson and Oscar van Alphen performing *Paper Piece* at the Fluxus Festival, Hypokriterion Theater, Amsterdam"
     date: "23 June 1963"
@@ -4019,7 +4019,7 @@ object_list:
     id: "235"
     old_id: "4.25"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Patterson, Benjamin" ]
     more_people: ""
     title: "Portrait of Benjamin Patterson"
     date: ""
@@ -4036,7 +4036,7 @@ object_list:
     id: "236"
     old_id: "4.26"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Maciunas, George", "Patterson, Benjamin" ]
     more_people: ""
     title: "Invitation and program sent to David Tudor for the exhibition *Kleinen Sommerfest: Après John Cage*, organized by George Maciunas and Benjamin Patterson at Galerie Parnass, Wuppertal, West Germany"
     date: "9 June 1962"
@@ -4053,7 +4053,7 @@ object_list:
     id: "237"
     old_id: "4.27"
     maker: [ "Manfred Leve (German, 1936–2012)" ]
-    people: [ "Leve, Manfred" ]
+    people: [ "Leve, Manfred", "Patterson, Benjamin", "Tudor, David", "Brecht, George", "Helms, Khris", "Kagel, Ursula", "Helms, Hans G." ]
     more_people: ""
     title: "Benjamin Patterson, Hans G. Helms, Ursula Kagel, Khris Helms, David Tudor, and others performing George Brecht’s *Card-Piece for Voice* (1959) as part of the “Contre-Festival,” organized during the IGNM-Weltmusikfestes, Atelier Mary Bauermeister, Cologne, Germany"
     date: "15 June 1960"
@@ -4087,8 +4087,8 @@ object_list:
     id: "239"
     old_id: "5.02a"
     maker: [ "Takehisa Kosugi (Japanese, 1938–2018)" ]
-    people: [ "Kosugi, Takehisa" ]
-    more_people: ""
+    people: [ "Kosugi, Takehisa", "Wada, Tashi" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Tashi Wada performing Kosugi’s *Micro 1* (1961) as part of the event *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4104,8 +4104,8 @@ object_list:
     id: "240"
     old_id: "5.02b"
     maker: [ "Simone Forti (American, b. 1935)" ]
-    people: [ "Forti, Simone" ]
-    more_people: ""
+    people: [ "Forti, Simone", "Wada, Tashi" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Simone Forti reading from her book *Handbook in Motion* (1974) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4121,8 +4121,8 @@ object_list:
     id: "241"
     old_id: "5.02c"
     maker: [ "Terry Riley (American, b. 1935)" ]
-    people: [ "Riley, Terry" ]
-    more_people: ""
+    people: [ "Riley, Terry", "Wada, Tashi", "Buchla, Ezra" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Ezra Buchla performing Riley’s *Ear Piece* (ca. 1962) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4138,8 +4138,8 @@ object_list:
     id: "242"
     old_id: "5.02d"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: [ "Cage, John" ]
-    more_people: ""
+    people: [ "Cage, John", "Wada, Tashi", "Holter, Julia" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Julia Holter performing Cage’s *45′ for a Speaker* (1954) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4155,8 +4155,8 @@ object_list:
     id: "243"
     old_id: "5.02e"
     maker: [ "Jackson Mac Low (American, 1922–2004)", "Simone Forti (American, b. 1935)" ]
-    people: [ "Mac Low, Jackson ", "Forti, Simone" ]
-    more_people: ""
+    people: [ "Mac Low, Jackson ", "Forti, Simone", "Wada, Tashi", "Berglund, Phoebe", "Zins-Browne, Andros" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Phoebe Berglund and Andros Zins-Browne performing Simone Forti’s dance realization of Jackson Mac Low’s *Asymmetry 222* (1980) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4175,8 +4175,8 @@ object_list:
     id: "244"
     old_id: "5.02f"
     maker: [ "Takehisa Kosugi (Japanese, 1938–2018)" ]
-    people: [ "Kosugi, Takehisa" ]
-    more_people: ""
+    people: [ "Kosugi, Takehisa", "Wada, Tashi", "Buchla, Ezra" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Ezra Buchla performing Kosugi’s *Micro 1* (1961) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4192,8 +4192,8 @@ object_list:
     id: "246"
     old_id: "5.02h"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: [ "Brown, Earle" ]
-    more_people: ""
+    people: [ "Brown, Earle", "Buchla, Ezra", "Wada, Tashi" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4209,8 +4209,8 @@ object_list:
     id: "247"
     old_id: "5.02i"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: [ "Brown, Earle" ]
-    more_people: ""
+    people: [ "Brown, Earle", "Wada, Tashi", "Muhr, Luisa", "Fogel, Corey" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Corey Fogel and Luisa Muhr performing Brown’s *December 1952* (1952) on vibraphone as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4226,8 +4226,8 @@ object_list:
     id: "248"
     old_id: "5.02j"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: [ "Brown, Earle" ]
-    more_people: ""
+    people: [ "Brown, Earle", "Hollander, Celia", "Wada, Tashi" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Celia Hollander performing Brown’s *December 1952* (1952) with laptop and other electronics as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4243,8 +4243,8 @@ object_list:
     id: "249"
     old_id: "5.02k"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
-    more_people: ""
+    people: [ "Brecht, George", "Fogel, Corey", "Hollander, Celia", "Holter, Julia", "Wada, Tashi" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "Corey Fogel, Celia Hollander, Julia Holter, and Tashi Wada performing George Brecht’s *Motor Vehicle Sundown (Event)* (1960) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4260,8 +4260,8 @@ object_list:
     id: "250"
     old_id: "5.02l"
     maker: [ "Simone Forti (American, b. 1935)" ]
-    people: [ "Forti, Simone" ]
-    more_people: ""
+    people: [ "Forti, Simone", "Wada, Tashi" ]
+    more_people: [ "Cooper, Sarah" ]
     title: "*Onion Walk* (1961) performed by Simone Forti and friends as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"

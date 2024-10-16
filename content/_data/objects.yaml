@@ -4277,7 +4277,7 @@ object_list:
     id: "251"
     old_id: "5.02m"
     maker: [ "Phoebe Berglund" ]
-    people: [ "Berglund, Phoebe" ]
+    people: [ "Berglund, Phoebe", "De Maria, Walter" ]
     more_people: ""
     title: "*SKY, STONE, SEA* (2021), after Walter De Maria’s *Beach Crawl* (1960), at Marsha P. Johnson State Park Beach, Brooklyn, NY, performed by Phoebe Berglund Dance Troupe"
     date: "2021"
@@ -4294,7 +4294,7 @@ object_list:
     id: "252"
     old_id: "5.02o"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Lee, Jeanne" ]
     more_people: ""
     title: "*The text on the opposite page may be used in any way as a score for solo or group readings, musical or dramatic performances, looking, smelling, anything else &/or nothing at all* (July 1961), performed by Jackson Mac Low and Jeanne Lee at Town Hall, New York, NY"
     date: "13 September 1966"
@@ -4311,7 +4311,7 @@ object_list:
     id: "253"
     old_id: "5.02p"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Lee, Jeanne", "Neuhaus, Max", "Tenney, James" ]
     more_people: ""
     title: "*The text on the opposite page may be used in any way as a score for solo or group readings, musical or dramatic performances, looking, smelling, anything else &/or nothing at all* (July 1961), performed by Jackson Mac Low and Jeanne Lee (voices) with Max Neuhaus and James Tenney (electronics) at Town Hall, New York, NY"
     date: "13 September 1966"
@@ -4329,7 +4329,7 @@ object_list:
     old_id: "5.02q"
     maker: [ "Simone Forti (American, b. 1935)" ]
     people: [ "Forti, Simone" ]
-    more_people: ""
+    more_people: [ "Martin, Julie", "Kaye, Pooh" ]
     title: "Performances of Simone Forti’s *Huddle* and *Slant Board*, from the event *An Evening of Dance Constructions,* Museum of Contemporary Art, Los Angeles, CA"
     date: "1961; performed 2004; film released 2009"
     date_sort: "2004-01-01"
@@ -4345,8 +4345,8 @@ object_list:
     id: "255"
     old_id: "5.03"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Brecht, George", "Brown, Earle", "Cage, John", "Young, La Monte", "De Maria, Walter", "Ono, Yoko" ]
+    more_people: [ "Higgins, Dick", "Flynt, Henry", "Ichiyanagi, Toshi" ]
     title: "Program from a fundraising concert for *An Anthology of Chance Operations* at the Living Theatre, New York, NY"
     date: "8 January 1962"
     date_sort: "1962-01-08"
@@ -4362,8 +4362,8 @@ object_list:
     id: "256"
     old_id: "5.04"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Young, La Monte", "Mac Low, Jackson" ]
+    more_people: [ "Paik, Nam June", "Riley, Terry", "Wolff, Christian" ]
     title: "Program from a fundraising concert for *An Anthology of Chance Operations* at the Living Theatre, New York, NY"
     date: "5 February 1962"
     date_sort: "1962-02-05"
@@ -4379,8 +4379,8 @@ object_list:
     id: "257"
     old_id: "5.05a"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Young, La Monte", "Ono, Yoko" ]
+    more_people: 
     title: "Flyer for “Three Evenings of Picnic and Electronic Music by Richard Maxfield,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "28–30 April 1961"
     date_sort: "1961-04-28"
@@ -4396,7 +4396,7 @@ object_list:
     id: "258"
     old_id: "5.05b"
     maker: 
-    people: ""
+    people: [ "Young, La Monte", "Ono, Yoko" ]
     more_people: ""
     title: "Flyer for “Compositions by La Monte Young,” part of the concert series organized by Yoko Ono and Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "19–20 May 1961"
@@ -4414,7 +4414,7 @@ object_list:
     id: "259"
     old_id: "5.05c"
     maker: 
-    people: ""
+    people: [ "Young, La Monte", "Ono, Yoko" ]
     more_people: ""
     title: "Program for “Compositions by La Monte Young,” part of the concert series organized by Yoko Ono and Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "19–20 May 1961"
@@ -4432,7 +4432,7 @@ object_list:
     id: "260"
     old_id: "5.06"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson", "Young, La Monte" ]
     more_people: ""
     title: "Flyer advertising *An Anthology of Chance Operations*"
     date: "1962"
@@ -4449,8 +4449,8 @@ object_list:
     id: "261"
     old_id: "5.07"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Young, La Monte", "Rainer, Yvonne", "Brecht, George" ]
+    more_people: [ "Schneemann, Carolee", "Rauschenberg, Robert", "Monk, Meredith", "Neuhaus, Max", "Corner, Philip", "Tenney, James" ]
     title: "List of the Judson Dance Theater’s dance concerts, 1961–66"
     date: "ca. 1966"
     date_sort: "1966-01-01"
@@ -4466,7 +4466,7 @@ object_list:
     id: "262"
     old_id: "5.08"
     maker: 
-    people: ""
+    people: [ "Brecht, George" ]
     more_people: ""
     title: "Announcement for the George Brecht solo exhibition *toward EVENTS: an arrangement*, at the Reuben Gallery, New York, NY"
     date: "1959"
@@ -4483,7 +4483,7 @@ object_list:
     id: "263"
     old_id: "5.09"
     maker: 
-    people: ""
+    people: [ "Young, La Monte", "Cale, John", "Zazeela, Marian", "Conrad, Tony" ]
     more_people: ""
     title: "Program for a performance by the group Theatre of Eternal Music, with La Monte Young, John Cale, Marian Zazeela, and Tony Conrad"
     date: "ca. 1965"
@@ -4500,7 +4500,7 @@ object_list:
     id: "264"
     old_id: "5.10"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Cage, John" ]
     more_people: ""
     title: "Postcard from George Brecht to John Cage"
     date: "n.d."
@@ -4517,7 +4517,7 @@ object_list:
     id: "265"
     old_id: "5.11a"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: [ "Cage, John" ]
+    people: [ "Cage, John", "Maciunas, George" ]
     more_people: ""
     title: "Letter from John Cage to George Maciunas"
     date: "3 February 1966"
@@ -4534,7 +4534,7 @@ object_list:
     id: "266"
     old_id: "5.11b"
     maker: [ "Nam June Paik (Korean, 1932–2006)" ]
-    people: [ "Paik, Nam June" ]
+    people: [ "Paik, Nam June", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Nam June Paik to George Maciunas"
     date: "14 November 1967"
@@ -4568,7 +4568,7 @@ object_list:
     id: "268"
     old_id: "5.11da"
     maker: [ "Dick Higgins (American, 1938–98)" ]
-    people: [ "Higgins, Dick" ]
+    people: [ "Higgins, Dick", "Maciunas, George", "Knowles, Alison", "Mac Low, Jackson" ]
     more_people: ""
     title: "Letter from Dick Higgins to George Maciunas"
     date: "17 August 1966"
@@ -4585,7 +4585,7 @@ object_list:
     id: "269"
     old_id: "5.11db"
     maker: [ "Dick Higgins (American, 1938–98)" ]
-    people: [ "Higgins, Dick" ]
+    people: [ "Higgins, Dick", "Maciunas, George", "Knowles, Alison" ]
     more_people: ""
     title: "Letter from Dick Higgins to George Maciunas"
     date: "22 August 1966"
@@ -4602,7 +4602,7 @@ object_list:
     id: "270"
     old_id: "5.11dc"
     maker: [ "Dick Higgins (American, 1938–98)" ]
-    people: [ "Higgins, Dick" ]
+    people: [ "Higgins, Dick", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Dick Higgins to George Maciunas"
     date: "23 August 1966"
@@ -4619,7 +4619,7 @@ object_list:
     id: "271"
     old_id: "5.11e"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Higgins, Dick" ]
     more_people: ""
     title: "Letters from George Maciunas to Dick Higgins"
     date: "18 January 1962 and February 1963"
@@ -4670,8 +4670,8 @@ object_list:
     id: "274"
     old_id: "5.12a"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Mac Low, Jackson" ]
+    more_people: [ "Higgins, Dick" ]
     title: "Draft program titled “The Living Theatre presents NEW MUSIC performed by the Audio Visual Group”"
     date: "1 August 1960"
     date_sort: "1960-08-01"

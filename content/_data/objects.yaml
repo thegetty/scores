@@ -4858,7 +4858,7 @@ object_list:
     id: "285"
     old_id: "5.13j"
     maker: 
-    people: ""
+    people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "Program for a piano recital by David Tudor at the New School for Social Research, New York, NY"
     date: "24 March 1961"
@@ -4875,8 +4875,8 @@ object_list:
     id: "286"
     old_id: "5.13k"
     maker: [ "Ray Johnson (American, 1927–95)" ]
-    people: [ "Johnson, Ray" ]
-    more_people: ""
+    people: [ "Johnson, Ray", "Tudor, David", "Cage, John", "Bussotti, Sylvano", "Young, La Monte" ]
+    more_people: [ "Stockhausen, Karlheinz", "Pousseur, Henri", "Cardew, Cornelius", "Ichiyanagi, Toshi" ]
     title: "Collage created from a flyer designed by Remy Charlip for recitals by David Tudor at the Living Theatre, New York, NY, plus an envelope"
     date: "ca. 1960"
     date_sort: "1960-01-01"
@@ -4893,7 +4893,7 @@ object_list:
     id: "287"
     old_id: "5.13l"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
     title: "Flyer for concert by John Cage and David Tudor at the Living Theatre, New York, NY"
     date: "25 January 1960"
@@ -4910,7 +4910,7 @@ object_list:
     id: "288"
     old_id: "5.14a"
     maker: 
-    people: ""
+    people: [ "Young, La Monte", "Mac Low, Jackson", "Maciunas, George" ]
     more_people: ""
     title: "Miniature mock-up for *An Anthology of Chance Operations* with handwritten notes, probably by Jackson Mac Low, George Maciunas, and La Monte Young"
     date: "ca. 1962"
@@ -4927,7 +4927,7 @@ object_list:
     id: "289"
     old_id: "5.14b"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson", "Young, La Monte" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "1 December 1961"
@@ -4944,7 +4944,7 @@ object_list:
     id: "290"
     old_id: "5.14c"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "20 February 1962"
@@ -4961,7 +4961,7 @@ object_list:
     id: "291"
     old_id: "5.14d"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson", "Young, La Monte" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "13 May 1962"
@@ -4978,7 +4978,7 @@ object_list:
     id: "292"
     old_id: "5.14e"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "22 August 1962"
@@ -4995,7 +4995,7 @@ object_list:
     id: "293"
     old_id: "5.14f"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "August 1962"
@@ -5012,7 +5012,7 @@ object_list:
     id: "294"
     old_id: "5.14g"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*"
     date: "October 1962"
@@ -5046,7 +5046,7 @@ object_list:
     id: "296"
     old_id: "5.14i"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson" ]
     more_people: ""
     title: "Chart of artistic movements and media including optic, acoustic, kinetic, and semantic/symbolic arts, mailed by George Maciunas to Jackson Mac Low"
     date: "ca. 1961–62"
@@ -5063,7 +5063,7 @@ object_list:
     id: "297"
     old_id: "5.14j"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson" ]
     more_people: ""
     title: "Letter from George Maciunas to Jackson Mac Low on *An Anthology of Chance Operations*, written on the back of *Fluxus News leter [sic] No. 5*"
     date: "January 1963"
@@ -5080,7 +5080,7 @@ object_list:
     id: "298"
     old_id: "5.14k"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Young, La Monte" ]
     more_people: ""
     title: "Letter from George Maciunas to La Monte Young on *An Anthology of Chance Operations*"
     date: ""
@@ -5097,7 +5097,7 @@ object_list:
     id: "299"
     old_id: "5.16a"
     maker: [ "La Monte Young (American, b. 1935)" ]
-    people: [ "Young, La Monte" ]
+    people: [ "Young, La Monte", "Tudor, David" ]
     more_people: ""
     title: "Letter from La Monte Young to David Tudor"
     date: "1960–61"
@@ -5114,7 +5114,7 @@ object_list:
     id: "300"
     old_id: "5.16b"
     maker: [ "La Monte Young (American, b. 1935)" ]
-    people: [ "Young, La Monte" ]
+    people: [ "Young, La Monte", "Tudor, David" ]
     more_people: ""
     title: "Letter from La Monte Young to David Tudor"
     date: "1960–61"

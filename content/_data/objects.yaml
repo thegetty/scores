@@ -2828,7 +2828,7 @@ object_list:
     id: "165"
     old_id: "3.10"
     maker: [ "Sylvano Bussotti (Italian, 1931–2021)" ]
-    people: [ "Bussotti, Sylvano" ]
+    people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "Performance notes for Sylvano Bussotti’s *Pièces de chair II*"
     date: "1958–59"
@@ -4156,7 +4156,7 @@ object_list:
     old_id: "5.02e"
     maker: [ "Jackson Mac Low (American, 1922–2004)", "Simone Forti (American, b. 1935)" ]
     people: [ "Mac Low, Jackson ", "Forti, Simone", "Wada, Tashi", "Berglund, Phoebe", "Zins-Browne, Andros" ]
-    more_people: [ "Cooper, Sarah" ]
+    more_people: [ "Cooper, Sarah", "Paxton, Steve" ]
     title: "Phoebe Berglund and Andros Zins-Browne performing Simone Forti’s dance realization of Jackson Mac Low’s *Asymmetry 222* (1980) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4687,7 +4687,7 @@ object_list:
     id: "275"
     old_id: "5.12d"
     maker: 
-    people: ""
+    people: [ "Mac Low, Jackson", "Ono, Yoko", "Young, La Monte" ]
     more_people: ""
     title: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "8–9 April 1961"
@@ -4704,8 +4704,8 @@ object_list:
     id: "276"
     old_id: "5.12e"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Mac Low, Jackson", "Neuhaus, Max", "Tenney, James", "Patterson, Benjamin" ]
+    more_people: [ "Corner, Philip" ]
     title: "Bifold program for “A Program of Electronic Music, Electronic Poetry & Live Simultaneities,” held at Town Hall, New York, NY"
     date: "13 September 1966"
     date_sort: "1966-09-13"
@@ -4721,8 +4721,8 @@ object_list:
     id: "277"
     old_id: "5.13a"
     maker: [ "Remy Charlip (American, 1929–2012)" ]
-    people: [ "Charlip, Remy" ]
-    more_people: ""
+    people: [ "Charlip, Remy", "Tudor, David", "Bussotti, Sylvano", "Young, La Monte", "Cage, John" ]
+    more_people: [ "Pousseur, Henri", "Ichiyanagi, Toshi", "Stockhausen, Karlheinz", "Cardew, Cornelius" ]
     title: "Flyer for recitals by David Tudor at the Living Theatre, New York, NY"
     date: "March–April 1960"
     date_sort: "1960-03-01"
@@ -4739,8 +4739,8 @@ object_list:
     id: "278"
     old_id: "5.13b"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Bussotti, Sylvano" ]
+    more_people: [ "Stockhausen, Karlheinz", "Cardew, Cornelius" ]
     title: "Program for a recital by David Tudor at the Living Theatre, New York, NY"
     date: "28 March 1960"
     date_sort: "1960-03-28"
@@ -4756,8 +4756,8 @@ object_list:
     id: "279"
     old_id: "5.13c"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John" ]
+    more_people: [ "Wolff, Christian" ]
     title: "Program for a recital by David Tudor at the Living Theatre, New York, NY"
     date: "4 April 1960"
     date_sort: "1960-04-04"
@@ -4773,8 +4773,8 @@ object_list:
     id: "280"
     old_id: "5.13d"
     maker: 
-    people: ""
-    more_people: ""
+    people: [" Tudor, David", "Ichiyanagi, Toshi", "Young, La Monte", "Cage, John", "Cunningham, Merce" ]
+    more_people: [ "Cardew, Cornelius", "Wolff, Christian" ]
     title: "Program for a recital by David Tudor and Toshi Ichiyanagi at the Living Theatre, New York, NY"
     date: "11 April 1960"
     date_sort: "1960-04-11"
@@ -4790,7 +4790,7 @@ object_list:
     id: "281"
     old_id: "5.13f"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Tudor, David", "Ichiyanagi, Toshi", "Kobayashi, Kenji" ]
     more_people: ""
     title: "Program for a Composers’ Showcase concert featuring the music of John Cage performed by Cage, David Tudor, Toshi Ichiyanagi, and Kenji Kobayashi, Museum of Modern Art, New York, NY"
     date: "20 April 1961"
@@ -4807,7 +4807,7 @@ object_list:
     id: "282"
     old_id: "5.13g"
     maker: 
-    people: ""
+    people: [ "Ichiyanagi, Toshi", "Ono, Yoko", "Cage, John", "Tudor, David", "Young, La Monte", "Cunningham, Merce", "Mac Low, Jackson" ]
     more_people: ""
     title: "Flyer for “Music by Toshi Ichiyanagi,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "7–8 January 1961"
@@ -4824,7 +4824,7 @@ object_list:
     id: "283"
     old_id: "5.13h"
     maker: 
-    people: ""
+    people: [ "Ichiyanagi, Toshi", "Young, La Monte", "Ono, Yoko", "Mac Low, Jackson", "Tudor, David", "Cage, John", "Cunningham, Merce" ]
     more_people: ""
     title: "Program for “Music by Toshi Ichiyanagi,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "7–8 January 1961"
@@ -4841,7 +4841,7 @@ object_list:
     id: "284"
     old_id: "5.13i"
     maker: 
-    people: ""
+    people: [ "Mayuzumi, Toshiro", "Ono, Yoko", "Ichiyanagi, Toshi", "Cage, John", "Young, La Monte", "Forti, Simone", "Tudor, David" ]
     more_people: ""
     title: "Program for a concert of “Contemporary Japanese Music & Poetry” by Toshiro Mayuzumi, Toshi Ichiyanagi, and Yoko Ono, performed by Mayazumi, Ichiyanagi, Ono, John Cage, La Monte Young, Simone Forti, David Tudor, and others at the Village Gate, New York, NY"
     date: "3 April 1961"

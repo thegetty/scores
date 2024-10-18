@@ -4278,7 +4278,7 @@ object_list:
     old_id: "5.02m"
     maker: [ "Phoebe Berglund" ]
     people: [ "Berglund, Phoebe", "De Maria, Walter" ]
-    more_people: ""
+    more_people: [ "Johnson, Joseph Allan", "Antinozzi, Julia", "Brandano, Juli", "Gray, Wendell, II", "Grennan, Leanna", "Heintzelman, Amelia", "Lloyd, Jordan Demetrius", "Manns, Jade", "Samuels, Leah", "Wasserman-Smith, Ella" ]
     title: "*SKY, STONE, SEA* (2021), after Walter De Maria’s *Beach Crawl* (1960), at Marsha P. Johnson State Park Beach, Brooklyn, NY, performed by Phoebe Berglund Dance Troupe"
     date: "2021"
     date_sort: "2021-01-01"
@@ -4432,8 +4432,8 @@ object_list:
     id: "260"
     old_id: "5.06"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Mac Low, Jackson", "Young, La Monte" ]
-    more_people: ""
+    people: [ "Maciunas, George", "Mac Low, Jackson", "Young, La Monte", "Brecht, George", "Brown, Earle", "Cage, John", "De Maria, Walter", "Ichiyanagi, Toshi", "Paik, Nam June" ]
+    more_people: [ "Flynt, Henry", "Wolff, Christian", "Riley, Terry" ]
     title: "Flyer advertising *An Anthology of Chance Operations*"
     date: "1962"
     date_sort: "1962-01-01"
@@ -4551,7 +4551,7 @@ object_list:
     id: "267"
     old_id: "5.11c"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson", "Shiomi, Chieko", "Brecht, George", "Paik, Nam June", "Ichiyanagi, Toshi", "Knowles, Alison", "Kaprow, Allan"  ]
     more_people: ""
     title: "Artist index cards"
     date: "1961–64"
@@ -4619,8 +4619,8 @@ object_list:
     id: "271"
     old_id: "5.11e"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Higgins, Dick" ]
-    more_people: ""
+    people: [ "Maciunas, George", "Higgins, Dick", "Paik, Nam June", "Knowles, Alison", "Brecht, George", "Patterson, Benjamin", "Mac Low, Jackson", "Ichiyanagi, Toshi" ]
+    more_people: [ "Watts, Robert", "Hanse, Al", "Schmit, Tomas", "Køpcke, Arthur", "Williams, Emmett", "Ligeti, Gyorgy" ]
     title: "Letters from George Maciunas to Dick Higgins"
     date: "18 January 1962 and February 1963"
     date_sort: "1962-01-18"

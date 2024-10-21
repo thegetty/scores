@@ -1675,11 +1675,10 @@ figure_list:
     alt: ""
 -
     id: "fig-020"
-    # src: embeds/sampler-feldman.html
-    src: placeholder.jpg
+    src: embeds/sampler-feldman.html
     zoom: 
-    # poster: figures/sampler-feldman/poster.jpg
-    # media_type: table
+    poster: figures/sampler-feldman/poster.jpg
+    media_type: table
     media_id: 
     label: ""
     alt: ""

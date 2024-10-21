@@ -6153,7 +6153,7 @@ object_list:
     id: "360"
     old_id: "6.13"
     maker: 
-    people: ""
+    people: [ "Maciunas, George", "Brecht, George" ]
     more_people: ""
     title: "George Maciunas performing George Brecht’s *Drip Music (Drip Event)* (1959–62) at *Festum Fluxorum*, at Kunstakademie Düsseldorf, Düsseldorf, Germany"
     date: "2 February 1963"
@@ -6170,7 +6170,7 @@ object_list:
     id: "361"
     old_id: "6.14"
     maker: 
-    people: ""
+    people: [ "Maciunas, George", "Brecht, George", "Paik, Nam June", "Schmit, Tomas", "Klintberg, Bengt af", "Williams, Emmett", "Trowbridge, Frank", "Köpcke, Arthur", "Spoerri, Daniel" ]
     more_people: ""
     title: "Ensemble performance of George Brecht’s *Drip Music (Drip Event)* (1959–62), directed by George Maciunas at *Festum Fluxorum*, at Kunstakademie Düsseldorf, Düsseldorf, Germany"
     date: "2 February 1963"
@@ -6187,8 +6187,8 @@ object_list:
     id: "362"
     old_id: "6.15"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Moore, Peter", "Brecht, George" ]
+    more_people: [ "Hansen, Al" ]
     title: "George Brecht performing *Three Aqueous Events/Drip Music (Drip Event)* (1959–62) at the concert *Happenings, Events, and Advanced Musics*, at Douglass College, Rutgers University, New Brunswick, NJ"
     date: "6 April 1963"
     date_sort: "1963-04-06"
@@ -6204,7 +6204,7 @@ object_list:
     id: "363"
     old_id: "6.16"
     maker: 
-    people: ""
+    people: [ "Brecht, George", "Vautier, Ben" ]
     more_people: ""
     title: "Sculptural realization of George Brecht’s *Drip Music (Drip Event)* (1959–62) at the New York Fluxhall/Fluxshop, New York, NY"
     date: "1964"
@@ -6221,8 +6221,8 @@ object_list:
     id: "364"
     old_id: "6.17"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Brecht, George", "Kaprow, Allan", "Cage, John" ]
+    more_people: [ "Cernovich, Nicola", "Waring, James", "Rauschenberg, Robert", "Johnson, Ray", "Maxfield, Richard", "Hansen, Al" ]
     title: "Program for *A Concert of New Music*, Living Theatre, New York, NY"
     date: "14 March 1960"
     date_sort: "1960-03-14"
@@ -6238,8 +6238,8 @@ object_list:
     id: "365"
     old_id: "6.18"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Brecht, George", "Kaprow, Allan", "Cage, John" ]
+    more_people: [ "Cernovich, Nicola", "Waring, James", "Rauschenberg, Robert", "Maxfield, Richard", "Hansen, Al" ]
     title: "Flyer for *A Concert of New Music*, Living Theatre, New York, NY, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 4 (Cologne: Walther König, 1998), 230"
     date: "14 March 1960"
     date_sort: "1960-03-14"
@@ -6308,7 +6308,7 @@ object_list:
     id: "369"
     old_id: "6.22a"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
+    people: [ "Maciunas, George", "Brecht, George" ]
     more_people: ""
     title: "Letter from George Maciunas to George Brecht"
     date: "ca. January 1963"
@@ -6394,7 +6394,7 @@ object_list:
     id: "374"
     old_id: "6.24"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Tudor, David" ]
     more_people: ""
     title: "*Eight Piano Transcriptions (for David Tudor)*"
     date: "1963"
@@ -6411,7 +6411,7 @@ object_list:
     id: "375"
     old_id: "6.25"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Tudor, David" ]
     more_people: ""
     title: "Letter from George Brecht to David Tudor"
     date: "11 July 1961"
@@ -6428,7 +6428,7 @@ object_list:
     id: "376"
     old_id: "6.26"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Tudor, David" ]
     more_people: ""
     title: "*Incidental Music*, event score sent to David Tudor"
     date: "summer 1961"
@@ -6445,7 +6445,7 @@ object_list:
     id: "377"
     old_id: "6.27"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Brecht, George" ]
     more_people: ""
     title: "Handwritten and typed transcriptions of George Brecht event scores"
     date: "ca. 1962–63"
@@ -6462,7 +6462,7 @@ object_list:
     id: "378"
     old_id: "6.28"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Tudor, David" ]
     more_people: ""
     title: "*Event (Pulse Start, Pulse Stop)*, event score sent to David Tudor"
     date: "December 1962"
@@ -6479,7 +6479,7 @@ object_list:
     id: "379"
     old_id: "6.29"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "*Motor Vehicle Sundown (Event)*, event score sent to David Tudor"
     date: "spring/summer 1960"
@@ -6496,7 +6496,7 @@ object_list:
     id: "380"
     old_id: "6.30"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Tudor, David" ]
     more_people: ""
     title: "*Three Aqueous Events*, event score sent to David Tudor"
     date: "summer 1961"
@@ -6513,7 +6513,7 @@ object_list:
     id: "381"
     old_id: "6.31"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Tudor, David" ]
     more_people: ""
     title: "*Three Chair Events*, event score sent to David Tudor"
     date: "spring 1961"
@@ -6530,7 +6530,7 @@ object_list:
     id: "382"
     old_id: "6.32"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Brecht, George" ]
     more_people: ""
     title: "Audio recording of a performance of George Brecht’s *Incidental Music* (summer 1961) at the Kongresssaal Mathildenhöhe, Darmstadt, Germany, as part of the 1961 Internationale Ferienkurse für Neue Musik"
     date: "6 September 1961"
@@ -6547,8 +6547,8 @@ object_list:
     id: "383"
     old_id: "6.33"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Patterson, Benjamin", "Brecht, George" ]
+    more_people: [ "Clavez, Bertrand" ]
     title: "Benjamin Patterson recording his realization of George Brecht’s *Drip Music (Drip Event)* (1959–62) in Paris using a specially made apparatus designed by Patterson with the assistance of Bertrand Clavez"
     date: "2002"
     date_sort: "2002-01-01"
@@ -6564,7 +6564,7 @@ object_list:
     id: "384"
     old_id: "6.34"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Cage, John" ]
     more_people: ""
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 2 (Cologne: Walther König, 1991), 35–36"
     date: "26 October 1958"
@@ -6581,7 +6581,7 @@ object_list:
     id: "385"
     old_id: "6.35"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Cage, John" ]
     more_people: ""
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 2 (Cologne: Walther König, 1991), 64–66"
     date: "ca. December 1958"
@@ -6650,8 +6650,8 @@ object_list:
     id: "389"
     old_id: "6.39"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
-    more_people: ""
+    people: [ "Brecht, George", "Cage, John" ]
+    more_people: [ "Wolff, Christian", "Stockhausen, Karlheinz" ]
     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 123"
     date: "ca. late July 1959"
     date_sort: "1959-07-15"

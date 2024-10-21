@@ -9,6 +9,7 @@ class ImageSequence extends LitElement {
         justify-content: center;
         max-width: 100vw;
         max-height: 100vh;
+        height: 100%;
       }
 
       .image-sequence.interactive {

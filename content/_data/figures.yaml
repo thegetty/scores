@@ -14655,13 +14655,20 @@ figure_list:
     alt: "Event scores printed on blank cardstock at a scale similar to or smaller than an index card. Many with title in capital letters at top left followed by bulleted or numbered text instructions. Some instructions are only a few words long; a rare few cards include also basic illustrations drawn from vintage instruction manuals."
 -
     id: "fig-348"
-    src: placeholder.jpg
+    src: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: "Top view of wooden box dominated by a white label with large black letters that read “Water Yam.” Smaller text surrounding reads “FLUXUS C” and “ARRANGED BY GEORGE BRECHT.” Hinged wooden box open to reveal stacked cardstock. Top page is white cardstock printed with “Drip Music” event score."
+    sequences:
+      - id: "figures/sequences/348/"
+        start: WaterYam_076.jpg
+        behavior:
+          - continuous
+          - sequence
+        regex: /WaterYam_\d{3}\.jpg/
 -
     id: "fig-349"
     src: placeholder.jpg
@@ -19448,13 +19455,20 @@ figure_list:
     alt: "Square-shaped light yellow cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.9 disappearing event” followed by six lines of text instructions, three bulleted points on documentation of a performance, and Shiomi’s return address. Utilizes large margins."
 -
     id: "fig-525"
-    src: figures/grl_890164-b225.jpg
+    src: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: ""
+    sequences:
+      - id: "figures/sequences/525/"
+        start: "SpatialPoem_011.jpg"
+        behavior:
+          - continuous
+          - sequence
+        regex: /SpatialPoem_\d{3}\.jpg/
 -
     id: "fig-526"
     src: figures/gri_890164_ff37_005_mm.jpg
@@ -19466,13 +19480,21 @@ figure_list:
     alt: ""
 -
     id: "fig-527"
-    src: figures/ShiomiMieko_SpatialPoem3_falling.jpg
+    src: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: ""
+    sequences:
+      - id: "figures/sequences/527/"
+        start: gri_890164_b223_001_mm.jpg
+        behavior:
+          - continuous
+          - sequence
+        regex: /gri_890164_b223_\d{3}_mm\.jpg/
+        frame_distance: 100
 -
     id: "fig-528"
     src: figures/fig-528_AR832708.jpg
@@ -19484,13 +19506,21 @@ figure_list:
     alt: ""
 -
     id: "fig-529"
-    src: placeholder.jpg
+    src: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: ""
+    sequences:
+      - id: "figures/sequences/529/"
+        start: r2014928_890164_b219_001.jpg
+        behavior:
+          - continuous
+          - sequence
+        regex: /r2014928_890164_b219_\d{3}\.jpg/
+        frame_distance: 100
 -
     id: "fig-530-a"
     src: figures/gri_91_b36111_001_mm.jpg
@@ -22751,61 +22781,3 @@ figure_list:
     media_id: 
     label: ""
     alt: "Yellow lined page with list of eight names at top, all with different hand in red pen. Notes to right of list assigning pairs. Same list of names at bottom in black pen. “Participants” above list. "
--
-    id: "fig-348-sequence"
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Top view of wooden box dominated by a white label with large black letters that read “Water Yam.” Smaller text surrounding reads “FLUXUS C” and “ARRANGED BY GEORGE BRECHT.” Hinged wooden box open to reveal stacked cardstock. Top page is white cardstock printed with “Drip Music” event score."
-    sequences:
-      - id: "figures/sequences/348/"
-        behavior:
-          - continuous
-          - sequence
-        regex: /WaterYam_\d{3}\.jpg/
--
-    id: "fig-525-sequence"
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
-    sequences:
-      - id: "figures/sequences/525/"
-        behavior:
-          - continuous
-          - sequence
-        regex: /SpatialPoem_\d{3}\.jpg/
--
-    id: "fig-527-sequence"
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
-    sequences:
-      - id: "figures/sequences/527/"
-        behavior:
-          - continuous
-          - sequence
-        regex: /gri_890164_b223_\d{3}_mm\.jpg/
-        frame_distance: 100
--
-    id: "fig-529-sequence"
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
-    sequences:
-      - id: "figures/sequences/529/"
-        behavior:
-          - continuous
-          - sequence
-        regex: /r2014928_890164_b219_\d{3}\.jpg/
-        frame_distance: 100

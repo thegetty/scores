@@ -5,7 +5,7 @@
 const { html } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 
-const logger = chalkFactory('shortcodes:figureGroup')
+const logger = chalkFactory('shortcodes:obj')
 
 /**
  * Render multiple <figure> elements in a group
@@ -52,7 +52,11 @@ module.exports = function (eleventyConfig, { page }) {
         } else if (fig.annotations) {
           objImagePath = `/iiif/${figId}/base/static-inline-figure-image.jpg`
         } else if (fig.sequences) {
-          objImagePath = `/iiif/fig-348-sequence/WaterYam_001/static-inline-figure-image.jpg`
+          figStart = fig.sequences[0].start.replace('.jpg', '')
+          if (!figStart) {
+            logger.error(`Every figure with a sequence needs an explicity defined start image for the obj.js shortcode`)
+          }
+          objImagePath = `/iiif/${figId}/${figStart}/static-inline-figure-image.jpg`
         } else if (fig.zoom) {
           const figFilename = fig.src.replace('figures/', '').replace('.jpg', '')
           objImagePath = `/iiif/${figId}/${figFilename}/static-inline-figure-image.jpg`

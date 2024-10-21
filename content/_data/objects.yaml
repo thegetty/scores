@@ -514,7 +514,7 @@ object_list:
     old_id: "1.12a"
     maker: [ "George W. Stowe" ]
     people: [ "Stowe, George W.", "Cage, John", "Tudor, David", "Feldman, Morton", "Brown, Earle" ]
-    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Varese, Edgard" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Varese, Edgar" ]
     title: "“David Tudor Program Opens Sunday Afternoon Series,” *Hartford Times*"
     date: "November 1953"
     date_sort: "1953-11-01"
@@ -3203,7 +3203,7 @@ object_list:
     old_id: "3.14b"
     maker: [ "Lodovico Mamprin" ]
     people: [ "Mamprin, Lodovico", "Tudor, David", "Cage, John", "Bussotti, Sylvano" ]
-    more_people: [ "Pousseur, Henri", "Stockhausen, Karlheinz" ]
+    more_people: [ "Pousseur, Henri", "Stockhausen, Karlheinz", "Amey, Frank", "Evangelisti, Franco" ]
     title: "“Tre concerti in Italia di musiche d’avanguardia,” *Giornale del Mattino*, 5"
     date: "15 November 1959"
     date_sort: "1959-11-15"
@@ -3321,8 +3321,8 @@ object_list:
     id: "194"
     old_id: "3.14i"
     maker: 
-    people: [ "Tudor, David", "Bussotti, Sylvano", "Cage, John" ]
-    more_people: [ "Stockhausen, Karlheinz" ]
+    people: [ "Tudor, David", "Bussotti, Sylvano", "Cage, John", "Karlheinz, Stockhausen" ]
+    more_people: ""
     title: "“Musikken der fik TV-Seerne til at Storme Radiohuset: Er den gale musik kun skruptosset?,” *Politiken*, 13"
     date: "30 July 1961"
     date_sort: "1961-07-30"
@@ -4104,8 +4104,8 @@ object_list:
     id: "240"
     old_id: "5.02b"
     maker: [ "Simone Forti (American, b. 1935)" ]
-    people: [ "Forti, Simone", "Wada, Tashi" ]
-    more_people: [ "Cooper, Sarah" ]
+    people: [ "Forti, Simone" ]
+    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
     title: "Simone Forti reading from her book *Handbook in Motion* (1974) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4121,8 +4121,8 @@ object_list:
     id: "241"
     old_id: "5.02c"
     maker: [ "Terry Riley (American, b. 1935)" ]
-    people: [ "Riley, Terry", "Wada, Tashi", "Buchla, Ezra" ]
-    more_people: [ "Cooper, Sarah" ]
+    people: [ "Riley, Terry", "Buchla, Ezra" ]
+    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
     title: "Ezra Buchla performing Riley’s *Ear Piece* (ca. 1962) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4138,8 +4138,8 @@ object_list:
     id: "242"
     old_id: "5.02d"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: [ "Cage, John", "Wada, Tashi", "Holter, Julia" ]
-    more_people: [ "Cooper, Sarah" ]
+    people: [ "Cage, John", "Holter, Julia" ]
+    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
     title: "Julia Holter performing Cage’s *45′ for a Speaker* (1954) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4155,8 +4155,8 @@ object_list:
     id: "243"
     old_id: "5.02e"
     maker: [ "Jackson Mac Low (American, 1922–2004)", "Simone Forti (American, b. 1935)" ]
-    people: [ "Mac Low, Jackson ", "Forti, Simone", "Wada, Tashi", "Berglund, Phoebe", "Zins-Browne, Andros" ]
-    more_people: [ "Cooper, Sarah", "Paxton, Steve" ]
+    people: [ "Mac Low, Jackson ", "Forti, Simone", "Berglund, Phoebe", "Zins-Browne, Andros" ]
+    more_people: [ "Cooper, Sarah", "Paxton, Steve", "Wada, Tashi" ]
     title: "Phoebe Berglund and Andros Zins-Browne performing Simone Forti’s dance realization of Jackson Mac Low’s *Asymmetry 222* (1980) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4175,8 +4175,8 @@ object_list:
     id: "244"
     old_id: "5.02f"
     maker: [ "Takehisa Kosugi (Japanese, 1938–2018)" ]
-    people: [ "Kosugi, Takehisa", "Wada, Tashi", "Buchla, Ezra" ]
-    more_people: [ "Cooper, Sarah" ]
+    people: [ "Kosugi, Takehisa", "Buchla, Ezra" ]
+    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
     title: "Ezra Buchla performing Kosugi’s *Micro 1* (1961) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4192,8 +4192,8 @@ object_list:
     id: "246"
     old_id: "5.02h"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: [ "Brown, Earle", "Buchla, Ezra", "Wada, Tashi" ]
-    more_people: [ "Cooper, Sarah" ]
+    people: [ "Brown, Earle", "Buchla, Ezra" ]
+    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
     title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4209,8 +4209,8 @@ object_list:
     id: "247"
     old_id: "5.02i"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: [ "Brown, Earle", "Wada, Tashi", "Muhr, Luisa", "Fogel, Corey" ]
-    more_people: [ "Cooper, Sarah" ]
+    people: [ "Brown, Earle", "Muhr, Luisa", "Fogel, Corey" ]
+    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
     title: "Corey Fogel and Luisa Muhr performing Brown’s *December 1952* (1952) on vibraphone as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4226,8 +4226,8 @@ object_list:
     id: "248"
     old_id: "5.02j"
     maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: [ "Brown, Earle", "Hollander, Celia", "Wada, Tashi" ]
-    more_people: [ "Cooper, Sarah" ]
+    people: [ "Brown, Earle", "Hollander, Celia" ]
+    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
     title: "Celia Hollander performing Brown’s *December 1952* (1952) with laptop and other electronics as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4260,8 +4260,8 @@ object_list:
     id: "250"
     old_id: "5.02l"
     maker: [ "Simone Forti (American, b. 1935)" ]
-    people: [ "Forti, Simone", "Wada, Tashi" ]
-    more_people: [ "Cooper, Sarah" ]
+    people: [ "Forti, Simone" ]
+    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
     title: "*Onion Walk* (1961) performed by Simone Forti and friends as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
@@ -4345,8 +4345,8 @@ object_list:
     id: "255"
     old_id: "5.03"
     maker: 
-    people: [ "Brecht, George", "Brown, Earle", "Cage, John", "Young, La Monte", "De Maria, Walter", "Ono, Yoko" ]
-    more_people: [ "Higgins, Dick", "Flynt, Henry", "Ichiyanagi, Toshi" ]
+    people: [ "Brecht, George", "Brown, Earle", "Cage, John", "Young, La Monte", "Ono, Yoko", "Ichiyanagi, Toshi" ]
+    more_people: [ "Higgins, Dick", "Flynt, Henry", "De Maria, Walter" ]
     title: "Program from a fundraising concert for *An Anthology of Chance Operations* at the Living Theatre, New York, NY"
     date: "8 January 1962"
     date_sort: "1962-01-08"
@@ -4379,7 +4379,7 @@ object_list:
     id: "257"
     old_id: "5.05a"
     maker: 
-    people: [ "Young, La Monte", "Ono, Yoko" ]
+    people: [ "Young, La Monte", "Ono, Yoko", "Maxfield, Richard", "Tudor, David" ]
     more_people: 
     title: "Flyer for “Three Evenings of Picnic and Electronic Music by Richard Maxfield,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "28–30 April 1961"
@@ -4415,7 +4415,7 @@ object_list:
     old_id: "5.05c"
     maker: 
     people: [ "Young, La Monte", "Ono, Yoko" ]
-    more_people: ""
+    more_people: [ "Dunn, Robert", "Morris, Robert" ]
     title: "Program for “Compositions by La Monte Young,” part of the concert series organized by Yoko Ono and Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "19–20 May 1961"
     date_sort: "1961-05-19"
@@ -4432,8 +4432,8 @@ object_list:
     id: "260"
     old_id: "5.06"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Mac Low, Jackson", "Young, La Monte", "Brecht, George", "Brown, Earle", "Cage, John", "De Maria, Walter", "Ichiyanagi, Toshi", "Paik, Nam June" ]
-    more_people: [ "Flynt, Henry", "Wolff, Christian", "Riley, Terry" ]
+    people: [ "Maciunas, George", "Mac Low, Jackson", "Young, La Monte", "Brecht, George", "Brown, Earle", "Cage, John", "Ichiyanagi, Toshi" ]
+    more_people: [ "Flynt, Henry", "Wolff, Christian", "Riley, Terry", "De Maria, Walter", "Paik, Nam June" ]
     title: "Flyer advertising *An Anthology of Chance Operations*"
     date: "1962"
     date_sort: "1962-01-01"
@@ -4551,8 +4551,8 @@ object_list:
     id: "267"
     old_id: "5.11c"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Mac Low, Jackson", "Shiomi, Chieko", "Brecht, George", "Paik, Nam June", "Ichiyanagi, Toshi", "Knowles, Alison", "Kaprow, Allan"  ]
-    more_people: ""
+    people: [ "Maciunas, George", "Mac Low, Jackson", "Shiomi, Chieko", "Brecht, George", "Ichiyanagi, Toshi", "Knowles, Alison", "Kaprow, Allan"  ]
+    more_people: [ "Paik, Nam June" ]
     title: "Artist index cards"
     date: "1961–64"
     date_sort: "1961-01-01"
@@ -4619,8 +4619,8 @@ object_list:
     id: "271"
     old_id: "5.11e"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Higgins, Dick", "Paik, Nam June", "Knowles, Alison", "Brecht, George", "Patterson, Benjamin", "Mac Low, Jackson", "Ichiyanagi, Toshi" ]
-    more_people: [ "Watts, Robert", "Hanse, Al", "Schmit, Tomas", "Køpcke, Arthur", "Williams, Emmett", "Ligeti, Gyorgy" ]
+    people: [ "Maciunas, George", "Higgins, Dick", "Knowles, Alison", "Brecht, George", "Patterson, Benjamin", "Mac Low, Jackson", "Ichiyanagi, Toshi" ]
+    more_people: [ "Watts, Robert", "Hanse, Al", "Schmit, Tomas", "Køpcke, Arthur", "Williams, Emmett", "Ligeti, Gyorgy", "Paik, Nam June" ]
     title: "Letters from George Maciunas to Dick Higgins"
     date: "18 January 1962 and February 1963"
     date_sort: "1962-01-18"
@@ -4687,7 +4687,7 @@ object_list:
     id: "275"
     old_id: "5.12d"
     maker: 
-    people: [ "Mac Low, Jackson", "Ono, Yoko", "Young, La Monte" ]
+    people: [ "Mac Low, Jackson", "Ono, Yoko", "Young, La Monte", "Ichiyanagi, Toshi" ]
     more_people: ""
     title: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
     date: "8–9 April 1961"
@@ -4704,8 +4704,8 @@ object_list:
     id: "276"
     old_id: "5.12e"
     maker: 
-    people: [ "Mac Low, Jackson", "Neuhaus, Max", "Tenney, James", "Patterson, Benjamin" ]
-    more_people: [ "Corner, Philip" ]
+    people: [ "Mac Low, Jackson", "Patterson, Benjamin" ]
+    more_people: [ "Corner, Philip", "Neuhaus, Max", "Tenney, James" ]
     title: "Bifold program for “A Program of Electronic Music, Electronic Poetry & Live Simultaneities,” held at Town Hall, New York, NY"
     date: "13 September 1966"
     date_sort: "1966-09-13"
@@ -4721,8 +4721,8 @@ object_list:
     id: "277"
     old_id: "5.13a"
     maker: [ "Remy Charlip (American, 1929–2012)" ]
-    people: [ "Charlip, Remy", "Tudor, David", "Bussotti, Sylvano", "Young, La Monte", "Cage, John" ]
-    more_people: [ "Pousseur, Henri", "Ichiyanagi, Toshi", "Stockhausen, Karlheinz", "Cardew, Cornelius" ]
+    people: [ "Charlip, Remy", "Tudor, David", "Bussotti, Sylvano", "Young, La Monte", "Cage, John", "Ichiyanagi, Toshi" ]
+    more_people: [ "Pousseur, Henri", "Stockhausen, Karlheinz", "Cardew, Cornelius" ]
     title: "Flyer for recitals by David Tudor at the Living Theatre, New York, NY"
     date: "March–April 1960"
     date_sort: "1960-03-01"
@@ -4875,8 +4875,8 @@ object_list:
     id: "286"
     old_id: "5.13k"
     maker: [ "Ray Johnson (American, 1927–95)" ]
-    people: [ "Johnson, Ray", "Tudor, David", "Cage, John", "Bussotti, Sylvano", "Young, La Monte" ]
-    more_people: [ "Stockhausen, Karlheinz", "Pousseur, Henri", "Cardew, Cornelius", "Ichiyanagi, Toshi" ]
+    people: [ "Johnson, Ray", "Tudor, David", "Cage, John", "Bussotti, Sylvano", "Young, La Monte", "Ichiyanagi, Toshi" ]
+    more_people: [ "Stockhausen, Karlheinz", "Pousseur, Henri", "Cardew, Cornelius" ]
     title: "Collage created from a flyer designed by Remy Charlip for recitals by David Tudor at the Living Theatre, New York, NY, plus an envelope"
     date: "ca. 1960"
     date_sort: "1960-01-01"

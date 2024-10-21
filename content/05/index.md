@@ -114,8 +114,6 @@ archive:
         - id: "319"
         - id: "320"
         - id: "321"
-        - id: "326"
-        - id: "329"
     - heading: "Artwork"
       objects:
         - id: "333"
@@ -133,13 +131,9 @@ archive:
         - id: "310"
         - id: "313"
         - id: "322"
-        - id: "323"
-        - id: "324"
         - id: "325"
-        - id: "327"
         - id: "328"
         - id: "330"
-        - id: "331"
     - heading: "Sketches and materials"
       objects:
         - id: "288"

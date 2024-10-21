@@ -15,12 +15,10 @@ commentary:
 score:
   objects:
     - id: "479"
-    - id: "480"
 playback:
   objects:
     - id: "481"
     - id: "482"
-    - id: "483"
 archive: 
   contributor:
   groups:
@@ -35,7 +33,6 @@ archive:
         - id: "513"
     - heading: "Photographs"
       objects:
-        - id: "474"
         - id: "476"
         - id: "506"
     # - heading: "Press clippings"

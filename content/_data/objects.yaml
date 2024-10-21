@@ -21,7 +21,7 @@ object_list:
     old_id: "0.01"
     maker: 
     people: ""
-    more_people: ""
+    more_people: [ "Monk, Thelonious" ]
     title: "Four “Indeterminate” Notation Systems"
     date: ""
     date_sort: ""
@@ -514,7 +514,7 @@ object_list:
     old_id: "1.12a"
     maker: [ "George W. Stowe" ]
     people: [ "Stowe, George W.", "Cage, John", "Tudor, David", "Feldman, Morton", "Brown, Earle" ]
-    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Varese, Edgar" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Varese, Edgard" ]
     title: "“David Tudor Program Opens Sunday Afternoon Series,” *Hartford Times*"
     date: "November 1953"
     date_sort: "1953-11-01"

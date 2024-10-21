@@ -14,9 +14,11 @@ description: Essay layout. This layout describes a single-page template that has
   image=image,
   label=label,
   pageContributors=pageContributors,
-  page_pdf_output=page_pdf_output,
   subtitle=subtitle,
-  title=title
+  title=title,
+  page_pdf_output=page_pdf_output,
+  key=key,
+  outputs=outputs
 %}
 
 <section class="section quire-page__content">
@@ -26,7 +28,7 @@ description: Essay layout. This layout describes a single-page template that has
   <div class="container">
     <div class="content">
       {{ content }}
-      {% bibliography citations %}
+      {% bibliography citations outputs page_pdf_output %}
       <div class="iframe_viewer" id="iframe-viewer" style="display:none;">
         <div class="iframe_viewer__nav-buttons" id="iframe-nav"></div>
         <div class="iframe_viewer__controls">

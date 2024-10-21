@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Changed thumbnail and static-inline size
+//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 

@@ -108,6 +108,9 @@ Used "..." instead of "All" in select boxes
 **_includes/components/object-filters/objects-catalog.webc**
 Added object-filters__controls-group wrapper to aid in styling
 
+**_plugins/figures/iiif/config.js**
+Changed thumbnail and static-inline size
+
 **_plugins/shortcodes/tombstone.js**
 Handle special outputs for Maker and Type properties
 

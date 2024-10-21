@@ -51,6 +51,8 @@ module.exports = function (eleventyConfig, { page }) {
           objImagePath = `/_assets/images/${fig.thumb}`
         } else if (fig.annotations) {
           objImagePath = `/iiif/${figId}/base/static-inline-figure-image.jpg`
+        } else if (fig.sequences) {
+          objImagePath = `/iiif/fig-348-sequence/WaterYam_001/static-inline-figure-image.jpg`
         } else if (fig.zoom) {
           const figFilename = fig.src.replace('figures/', '').replace('.jpg', '')
           objImagePath = `/iiif/${figId}/${figFilename}/static-inline-figure-image.jpg`

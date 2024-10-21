@@ -761,7 +761,7 @@ figure_list:
     media_id: 
     link: /image-index/348/
     label: "Fig. 6.8"
-    caption: "George Brecht (American, 1926–2008). *Water Yam*, 1963, wooden box with label; box contains ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
+    caption: "George Brecht (American, 1926–2008). *Water Yam*, 1963, wooden box with label; box cogntains ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     alt: "Top view of wooden box dominated by a white label with large black letters that read “Water Yam.” Smaller text surrounding reads “FLUXUS C” and “ARRANGED BY GEORGE BRECHT.” Hinged wooden box open to reveal stacked cardstock. Top page is white cardstock printed with “Drip Music” event score."
 -
@@ -10638,15 +10638,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Horizontal cream page with three evenly spaced vertical creases containing black handwritten text in English. Left three quarters of page contain title “Solo,” “Décollage Piece - 1961,” and “for Wolf Vostell” on three separate lines at top center followed by one paragraph that runs the length of the page. Right quarter of page contains continuation of paragraph on left portion followed by Patterson’s signature, the date, and one final paragraph."
--
-    id: "fig-211"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White paper flyer with black printed text in German. Top contains two lines of text “Wolf Véstell decollages collages ausstellung 15.5-28.5 1961” followed by blank space until several lines of text begin just below center listing works to be performed. Location of performance at bottom of page. "
+# REMOVED
+# -
+#     id: "fig-211"
+#     src: placeholder.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White paper flyer with black printed text in German. Top contains two lines of text “Wolf Véstell decollages collages ausstellung 15.5-28.5 1961” followed by blank space until several lines of text begin just below center listing works to be performed. Location of performance at bottom of page. "
 -
     id: "fig-212-a"
     src: figures/p27023_890164_b39_i_39_32_situations_pianos_1.jpg
@@ -12081,11 +12082,12 @@ figure_list:
     alt: "Color video showing a purple onion balanced on the mouth of a green wine bottle that is set on top of a wooden stool that is standing outdoors in front of a decorative stone fountain. An elderly woman in a wheelchair watches the onion and bottle carefully and at one point offers it a friendly wave. "
 -
     id: "fig-251"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/BeachCrawl_Berglund.jpg
+    media_type: vimeo
+    media_id: 1021755307/eae2b1918a
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing nine performers wearing warm street clothes and kneepads moving around a rocky beach with the New York City skyline in the background. They collect and compare small rocks, hit rocks together to make sounds, crawl slowly across the sand in unison, throw rocks into the water, rest in small groups, raise their hands toward the sun, and carry one another as they walk away. At one point a woman displays some rocks in her hands as we hear a voice say, “Well that’s new isn’t it?” The soundtrack is a wandering landscape of synthesizer tones that are mostly harmonious but with some moments of dissonance."
 -
@@ -19454,7 +19456,7 @@ figure_list:
     label: ""
     alt: "Square-shaped light yellow cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.9 disappearing event” followed by six lines of text instructions, three bulleted points on documentation of a performance, and Shiomi’s return address. Utilizes large margins."
 -
-    id: "fig-525"
+    id: "fig-525-a"
     src: 
     zoom: true
     poster: 
@@ -19469,6 +19471,15 @@ figure_list:
           - continuous
           - sequence
         regex: /SpatialPoem_\d{3}\.jpg/
+-
+    id: "fig-525-b"
+    src: figures/grl_890164-b225.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
 -
     id: "fig-526"
     src: figures/gri_890164_ff37_005_mm.jpg
@@ -20530,7 +20541,16 @@ figure_list:
     label: ""
     alt: "Grey, white-flecked page with black handwritten text in English containing one paragraph of text on top half of page. Bottom half of page is blank save a two sentence post-script. Paginated 4 at top right. "
 -
-    id: "fig-545"
+    id: "fig-545-a"
+    src: figures/r2017583_890164_b31_f30_001.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-545-b"
     src: figures/r2014557_890164_b31_f30_017.jpg
     zoom: true
     poster: 
@@ -20800,15 +20820,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Landscape-oriented black and white photograph with a woman at the center of the frame holding a full-body mirror outdoors in a parking lot. Reflection shows man with hands raised overhead. "
--
-    id: "fig-569"
-    src: placeholder.jpg
-    zoom: true
-    # poster: figures/KaprowRoutineFilmClip_1.jpg
-    # media_type: vimeo
-    media_id: 
-    label: ""
-    alt: "Black screen with “‘Routine’ by Allan Kaprow” in bold all-capitalized white text with male voiceover."
+# REMOVED
+# -
+#     id: "fig-569"
+#     src: placeholder.jpg
+#     zoom: true
+#     # poster: figures/KaprowRoutineFilmClip_1.jpg
+#     # media_type: vimeo
+#     media_id: 
+#     label: ""
+#     alt: "Black screen with “‘Routine’ by Allan Kaprow” in bold all-capitalized white text with male voiceover."
 -
     id: "fig-570"
     src: 
@@ -20819,15 +20840,16 @@ figure_list:
     aspect_ratio: standard
     label: ""
     alt: ""
--
-    id: "fig-571"
-    src: placeholder.jpg
-    zoom: true 
-    # poster: figures/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
-    # media_type: vimeo
-    media_id: 
-    label: ""
-    alt: "Male voiceover accompanied by bluish-white field of color in a 4:3 format. Title card with “7 Kinds of Sympathy” at center in bold all-capitalized white text atop solid blue background appears when voiceover concludes. "
+# REMOVED    
+# -
+#     id: "fig-571"
+#     src: placeholder.jpg
+#     zoom: true 
+#     # poster: figures/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
+#     # media_type: vimeo
+#     media_id: 
+#     label: ""
+#     alt: "Male voiceover accompanied by bluish-white field of color in a 4:3 format. Title card with “7 Kinds of Sympathy” at center in bold all-capitalized white text atop solid blue background appears when voiceover concludes. "
 -
     id: "fig-572-a"
     src: figures/gri_980063_b24_f09_009_mm.jpg
@@ -22720,7 +22742,7 @@ figure_list:
     alt: "Yellow lined page with over twenty handwritten titles in black and red pen. "
 -
     id: "fig-634-a"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22729,7 +22751,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and the right at right with shot information. Text handwritten in red pen. “Detail Shot Script” at center of top margin. "
 -
     id: "fig-634-b"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_002.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22738,7 +22760,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-c"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_003.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22747,7 +22769,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-d"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_004.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22756,7 +22778,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-e"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_005.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22765,7 +22787,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-f"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_006.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22774,7 +22796,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-g"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_007.jpg
     zoom: true
     poster: 
     media_type: 

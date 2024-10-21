@@ -112,7 +112,5 @@ archive:
         - id: "633"
     - heading: "Videos"
       objects:
-        - id: "569"
         - id: "570"
-        - id: "571"
 ---

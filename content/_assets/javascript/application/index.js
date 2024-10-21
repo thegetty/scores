@@ -372,6 +372,20 @@ window['toggleDrawer'] = function(event) {
   }
 }
 
+// Toggle score object page between side-by-side and widecreen view
+window['toggleEntryContent'] = () => {
+  const myDiv = document.getElementById('quire-entry-view')
+  const myButton = document.getElementById('quire-entry-view-toggle')
+
+  myDiv.classList.toggle('side-by-side')
+  
+  if (myButton.textContent.includes('Widescreen')) {
+    myButton.textContent = 'Side-by-Side'
+  } else {
+    myButton.textContent = 'Widescreen'
+  }
+}
+
 function hideSplash() {
   let splash = document.querySelector('.splash-overlay');
   if (splash) {

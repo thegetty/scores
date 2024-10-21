@@ -1025,10 +1025,26 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   color: white !important;
 }
 
+/* The Side-by-Side / Widecreen control */
+#quire-entry-view-toggle {
+  color: white;
+  font-size: 1rem;
+  z-index: 1;
+  border-width: 0;
+  cursor: pointer;
+  position: absolute;
+  top: -1rem;
+  font-family: inherit;
+  background-color: black;
+  padding: 1rem 2rem;
+}
+
 /* SCORE OBJECT PAGES -- THUMBNAIL NAVIGATOR
 ============================================================================= */
-.quire-entry__lightbox {
-  top: 3rem;
+@media screen and (min-width: 700px) {
+  .quire-entry__lightbox {
+    height: calc( 100vh - 4rem - var(--thumbnail-height) - 5rem );
+  }
 }
 .side-by-side .quire-entry__lightbox {
   height: calc(100% - 3rem);
@@ -1043,7 +1059,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   .side-by-side .quire-entry__lightbox.quire-entry__lightbox--with-thumbnails {
     height: calc(100vh - 8rem - (var(--thumbnail-height) + 4rem));
   }
-  .quire-entry__thumbnails {
+  .side-by-side .quire-entry__thumbnails {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -1066,6 +1082,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   overflow-x: scroll;
   overflow-y: clip;
   margin: 0 2rem;
+  position: relative;
 }
 .quire-entry__thumbnails__inner {
   display: flex;
@@ -1223,6 +1240,9 @@ body.iframe-version .quire-page__content {
 }
 body.iframe-version .quire .quire__primary main {
   background-color: black;
+}
+body.iframe-version #quire-entry-view-toggle {
+  display: none;
 }
 
 /* PRINT

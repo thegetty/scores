@@ -37,6 +37,10 @@ export default (hash) => {
   const target = document.querySelector(hash)
   // Does a scroll target exist?
   if (target) {
+
+    // Don't scroll if the link is to an image in the lightbox
+    if (target.className == 'q-lightbox-slides__slide') return
+
     if (Accordion.partOfAccordion(target)) {
       const accordion = new Accordion(target.closest(`.${Accordion.className}`))
       accordion.setStateFromUrl()

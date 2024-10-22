@@ -6707,7 +6707,7 @@ object_list:
     id: "391"
     old_id: "6.41"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Johnson, Jill" ]
     more_people: ""
     title: "“EVENTS: scores and other occurrences,” typescript, sent to Jill Johnston"
     date: "28 December 1961"
@@ -6724,7 +6724,7 @@ object_list:
     id: "392"
     old_id: "6.42"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Wolf, Daniel" ]
     more_people: ""
     title: "Letter from George Brecht to *The Village Voice* editor Daniel Wolf, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 4 (Cologne: Walther König, 1991), 178"
     date: "9 February 1960"
@@ -6758,8 +6758,8 @@ object_list:
     id: "394"
     old_id: "6.44"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Hansen, Al", "Brecht, George", "Feldman, Morton", "Cage, John", "Mac Low, Jackson", "Kaprow, Allan" ]
+    more_people: [ "Stockhausen, Karlheinz", "Henry, Pierre", "Schaeffer, Pierre" ]
     title: "Program for *A Program of Happenings ! Events ? & Situations !*, Pratt Institute, New York"
     date: "2 May 1960"
     date_sort: "1960-05-02"
@@ -6775,7 +6775,7 @@ object_list:
     id: "395"
     old_id: "6.45"
     maker: [ "Diane de Bonneval" ]
-    people: [ "Bonneval, Diane de" ]
+    people: [ "Bonneval, Diane de", "Brecht, George", "Cage, John", "Kaprow, Allan" ]
     more_people: ""
     title: "“New School’s ‘Happenings’ Proves to be ‘Hellzapoppin’-Beatnik Style,” *New York World-Telegram and The Sun*, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 5 (Cologne: Walther König, 1998), 89"
     date: "3 May 1960"
@@ -6792,8 +6792,8 @@ object_list:
     id: "396"
     old_id: "6.46"
     maker: [ "John Cage (American, 1912–92)" ]
-    people: [ "Cage, John" ]
-    more_people: ""
+    people: [ "Cage, John", "Brecht, George", "Tudor, David" ]
+    more_people: [ "Stockhausen, Karlheinz" ]
     title: "Letter from John Cage to George Brecht, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 5 (Cologne: Walther König, 1998), 114"
     date: "27 May 1960"
     date_sort: "1960-05-27"
@@ -6809,7 +6809,7 @@ object_list:
     id: "397"
     old_id: "6.47"
     maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David" ]
+    people: [ "Tudor, David", "Brecht, George" ]
     more_people: ""
     title: "Letter from David Tudor to George Brecht, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 5 (Cologne: Walther König, 1998), 183"
     date: "27 July 1960"
@@ -6826,8 +6826,8 @@ object_list:
     id: "398"
     old_id: "6.48"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Tudor, David", "Cage, John", "Ichiyanagi, Toshi", "Bussotti, Sylvano", "Brecht, George", "Young, La Monte" ]
+    more_people: [ "Wolff, Christian" ]
     title: "Announcement for a David Tudor concert at Mary Bauermeister’s atelier, Cologne, Germany"
     date: "15 June 1960"
     date_sort: "1960-06-15"
@@ -6843,7 +6843,7 @@ object_list:
     id: "399"
     old_id: "6.49"
     maker: [ "Toshi Ichiyanagi (Japanese, b. 1933)" ]
-    people: [ "Ichiyanagi, Toshi" ]
+    people: [ "Ichiyanagi, Toshi", "Brecht, George", "Young, La Monte", "Cage, John", "Feldman, Morton" ]
     more_people: ""
     title: "Letter from Toshi Ichiyanagi to George Brecht, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 7 (Cologne: Walther König, 2005), 26–27"
     date: "2 July 1961"
@@ -6860,7 +6860,7 @@ object_list:
     id: "400"
     old_id: "6.50"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Tudor, David", "Higgins, Dick" ]
     more_people: ""
     title: "*Mallard Milk*, event score sent to David Tudor"
     date: "summer 1961"
@@ -6877,7 +6877,7 @@ object_list:
     id: "401"
     old_id: "6.51"
     maker: [ "George Brecht (American, 1926–2008)", "Robert Watts (American, 1923–88)" ]
-    people: [ "Brecht, George", "Watts, Robert" ]
+    people: [ "Brecht, George", "Watts, Robert", "Richards, Mary Caroline" ]
     more_people: ""
     title: "*Lantern Extract*, envelope and seventeen scores sent to M. C. Richards"
     date: "late 1962"
@@ -6894,7 +6894,7 @@ object_list:
     id: "402"
     old_id: "6.52"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Johnston, Jill", "Cage, John" ]
     more_people: ""
     title: "Letters from George Brecht to Jill Johnston"
     date: "ca. 1963"
@@ -6911,7 +6911,7 @@ object_list:
     id: "403"
     old_id: "6.53"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Richards, Mary Caroline" ]
     more_people: ""
     title: "Letter from George Brecht to M. C. Richards"
     date: "July 1963"
@@ -6928,7 +6928,7 @@ object_list:
     id: "404"
     old_id: "7.01"
     maker: 
-    people: ""
+    people: [ "Mac Low, Jackson" ]
     more_people: ""
     title: "Interactive map of locations relevant to the creation and distribution of Jackson Mac Low’s postcard scores"
     date: "spring 1963"
@@ -6964,8 +6964,8 @@ object_list:
     id: "406"
     old_id: "7.05"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
-    more_people: ""
+    people: [ "Mac Low, Jackson", "Patterson, Ben", "Brecht, George" ]
+    more_people: [ "Flynt, Hery" ]
     title: "Postcards sent by Jackson Mac Low to Benjamin Patterson with various scores composed in 1963, including *Social Projects 1–3*, *Architecture (for GB)*, *Schedule (for George Brecht)*, and *Light Rhythms for Henry Flynt*"
     date: "April 1963"
     date_sort: "1963-04-01"
@@ -6998,7 +6998,7 @@ object_list:
     id: "408"
     old_id: "7.08"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Richards, Mary Caroline" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to M. C. Richards in Stony Point, NY"
     date: "1 February 1955"
@@ -7015,7 +7015,7 @@ object_list:
     id: "409"
     old_id: "7.09"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Richards, Mary Caroline" ]
     more_people: ""
     title: "Typescript of “Biblical Poems” 1–3, enclosed with a letter to M. C. Richards"
     date: "1955"
@@ -7032,7 +7032,7 @@ object_list:
     id: "410"
     old_id: "7.10"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Tudor, David", "Richards, Mary Caroline", "Cage, John" ]
     more_people: ""
     title: "Envelope for a letter from Jackson Mac Low to David Tudor, John Cage, and M. C. Richards in Stony Point, NY"
     date: "10 February 1955"
@@ -7049,7 +7049,7 @@ object_list:
     id: "411"
     old_id: "7.11"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Cage, John" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to John Cage in Stony Point, NY"
     date: "ca. 10 February 1955"
@@ -7066,7 +7066,7 @@ object_list:
     id: "412"
     old_id: "7.12"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Tudor, David" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to David Tudor in Stony Point, NY"
     date: "ca. 10 February 1955"
@@ -7083,7 +7083,7 @@ object_list:
     id: "413"
     old_id: "7.13"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Richards, Mary Caroline" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to M. C. Richards in Stony Point, NY"
     date: "ca. 10 February 1955"
@@ -7100,7 +7100,7 @@ object_list:
     id: "414"
     old_id: "7.14"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Richards, Mary Caroline" ]
     more_people: ""
     title: "Typescript of “Biblical Poems” 4–5, enclosed with a letter to M. C. Richards"
     date: "1955"
@@ -7117,7 +7117,7 @@ object_list:
     id: "415"
     old_id: "7.23"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Tudor, David", "Cage, John", "Richards, Mary Caroline" ]
     more_people: ""
     title: "Fragment of a letter from Jackson Mac Low to David Tudor, John Cage, and M. C. Richards in Stony Point, NY"
     date: "10 February 1955"
@@ -7134,7 +7134,7 @@ object_list:
     id: "416"
     old_id: "7.16"
     maker: [ "Angus MacLise (American, 1938–79)" ]
-    people: [ "MacLise, Angus" ]
+    people: [ "MacLise, Angus", "Mac Low, Jackson" ]
     more_people: ""
     title: "*Year* (New York: Dead Language, 1962)"
     date: "1962"
@@ -7168,8 +7168,8 @@ object_list:
     id: "418"
     old_id: "7.18"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
-    more_people: ""
+    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Ben", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi" ]
+    more_people: [ "Paik, Nam June", "Higgins, Dick", "Vautier, Ben" ]
     title: "*Fluxus News–Policy Letter, no. 6*"
     date: "6 April 1963"
     date_sort: "1963-04-06"
@@ -7185,7 +7185,7 @@ object_list:
     id: "419"
     old_id: "7.19"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Maciunas, George" ]
     more_people: ""
     title: "Open letter from Jackson Mac Low to George Maciunas in response to *Fluxus News—Policy Letter, no. 6*"
     date: "25 April 1963"
@@ -7202,7 +7202,7 @@ object_list:
     id: "420"
     old_id: "7.20"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Spoerri, Daniel", "Williams, Emmett", "Filliou, Robert" ]
     more_people: ""
     title: "Postcards from Jackson Mac Low to Daniel Spoerri, Emmett Williams, and Robert Filliou, with scores for *Social Projects 1–3*"
     date: "29 April 1963"
@@ -7219,8 +7219,8 @@ object_list:
     id: "421"
     old_id: "7.21"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
-    more_people: ""
+    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi", "Shiomi, Chieko", "Knowles, Alison" ]
+    more_people: [ "Paik, Nam June", "Higgins, Dick", "Vautier, Ben", "Ligeti, Gyorgy", "Kosugi, Takehisa" ]
     title: "*Fluxus News—Policy Letter, no. 7*, reprinted in *Fluxus etc., Addenda 1*, ed. Jon Hendricks (New York: Ink &, 1983), 157–59"
     date: "1 May 1963"
     date_sort: "1963-05-01"
@@ -7236,8 +7236,8 @@ object_list:
     id: "422"
     old_id: "7.25"
     maker: [ "Barbara Moore (American)", "Jon Hendricks (American, b. 1940)" ]
-    people: [ "Moore, Barbara", "Hendricks, Jon" ]
-    more_people: ""
+    people: [ "Moore, Barbara", "Hendricks, Jon", "Mac Low, Jackson", "Cunningham, Merce", "Patterson, Benjamin" ]
+    more_people: [ "Moorman, Charolette", "Neuhaus, Max", "Tenney, James", "Dunn, Robert" ]
     title: "Inventory and price list for Jackson Mac Low items for sale from Backworks"
     date: "summer 1977"
     date_sort: "1977-06-01"
@@ -7253,8 +7253,8 @@ object_list:
     id: "423"
     old_id: "7.27"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Mac Low, Jackson", "Patterson, Benjamin", "Cage, John", "Forti, Simone", "Young, La Monte" ]
+    more_people: [ "Corner, Philip", "Schneemann, Carolee", "Higgins, Dick", "Zazeela, Marian" ]
     title: "Program for “Jackson Mac Low Retrospective Concert—In Celebration of His 60th Birthday”"
     date: "12 September 1982"
     date_sort: "1982-09-12"
@@ -7270,8 +7270,8 @@ object_list:
     id: "424"
     old_id: "7.28"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Mac Low, Jackson" ]
+    more_people: [ "Ginsburg, Allen", "Corner, Philip" ]
     title: "Poster for a “peace illumination walk” in sympathy with the suffering in Vietnam"
     date: "23 December 1966"
     date_sort: "1966-12-23"
@@ -7287,8 +7287,8 @@ object_list:
     id: "425"
     old_id: "7.29"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Mac Low, Jackson", "Cage, John", "Forti, Simone", "Young, La Monte" ]
+    more_people: [ "Schneemann, Carolee" ]
     title: "Press release for a Jackson Mac Low retrospective concert"
     date: "1982"
     date_sort: "1982-01-01"
@@ -7304,8 +7304,8 @@ object_list:
     id: "426"
     old_id: "7.30"
     maker: [ "Anne Tardos (American, b. 1943)" ]
-    people: [ "Tardos, Anne" ]
-    more_people: ""
+    people: [ "Tardos, Anne", "Mac Low, Jackson", "Cage, John", "Forti, Simone", "Knowles, Alison", "Young, La Monte" ]
+    more_people: [ "Corner, Philip", "Higgins, Dick", "Monk, Meredith", "Oliveros, Pauline", "Paik, Nam June", "Schneemann, Carolee", "Zazeela, Marian" ]
     title: "Poster for a Jackson Mac Low retrospective concert at Washington Square Church, New York, NY"
     date: "1982"
     date_sort: "1982-01-01"
@@ -7321,7 +7321,7 @@ object_list:
     id: "427"
     old_id: "7.31"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Higgins, Dick" ]
     more_people: ""
     title: "Flyer for “Jackson Mac Low: Verbal/Musical Works” at The Kitchen, New York, NY, sent by Mac Low to Dick Higgins"
     date: "30 May 1978"
@@ -7338,7 +7338,7 @@ object_list:
     id: "428"
     old_id: "7.32"
     maker: 
-    people: ""
+    people: [ "Mac Low, Jackson" ]
     more_people: ""
     title: "Flyer for “Waltspacer: An Audiovisual Simultaneity” at Loeb Student Center, New York University, New York, NY"
     date: "23 April 1969"
@@ -7355,7 +7355,7 @@ object_list:
     id: "429"
     old_id: "7.33"
     maker: 
-    people: ""
+    people: [ "Mac Low, Jackson", "Cunningham, Merce" ]
     more_people: ""
     title: "Program for “Jackson Mac Low with Merce Cunningham and Dance Company” at Cunningham Studio at Westbeth, New York, NY"
     date: "16–17 February 1974"

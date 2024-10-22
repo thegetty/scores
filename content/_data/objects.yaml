@@ -7372,8 +7372,8 @@ object_list:
     id: "430"
     old_id: "7.34"
     maker: [ "Peter Zummo" ]
-    people: [ "Zummo, Peter" ]
-    more_people: ""
+    people: [ "Zummo, Peter", "Mac Low, Jackson" ]
+    more_people: [ "Corner, Philip" ]
     title: "“Words: Jackson Mac Low, The Brook,” *Soho Weekly News*"
     date: "8 April 1976"
     date_sort: "1976-04-08"
@@ -7389,7 +7389,7 @@ object_list:
     id: "431"
     old_id: "7.35"
     maker: [ "Tom Johnson" ]
-    people: [ "Johnson, Tom" ]
+    people: [ "Johnson, Tom", "Mac Low, Jackson", "Cage, John" ]
     more_people: ""
     title: "“A Mac Low High Point,” *The Village Voice*"
     date: "6 October 1982"
@@ -7406,7 +7406,7 @@ object_list:
     id: "432"
     old_id: "7.36"
     maker: [ "Robert Palmer" ]
-    people: [ "Palmer, Robert" ]
+    people: [ "Palmer, Robert", "Jackson, Mac Low" ]
     more_people: ""
     title: "“Music: Perplexities of Fluxus,” *New York Times*"
     date: "2 June 1978"
@@ -7423,7 +7423,7 @@ object_list:
     id: "433"
     old_id: "7.37"
     maker: [ "Tom Johnson" ]
-    people: [ "Johnson, Tom" ]
+    people: [ "Johnson, Tom", "Mac Low, Jackson", "Cage, John" ]
     more_people: ""
     title: "“Jackson Mac Low: Text Sound Pieces,” *The Village Voice*"
     date: "28 April 1975"
@@ -7440,7 +7440,7 @@ object_list:
     id: "434"
     old_id: "7.38"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson" ]
+    people: [ "Mac Low, Jackson", "Tudor, David" ]
     more_people: ""
     title: "Letter from Jackson Mac Low to David Tudor"
     date: "30 March 1961"
@@ -7457,7 +7457,7 @@ object_list:
     id: "435"
     old_id: "7.39"
     maker: 
-    people: ""
+    people: [ "Mac Low, Jackson" ]
     more_people: ""
     title: "Photograph of Jackson Mac Low"
     date: "25 January 1965"
@@ -7543,7 +7543,7 @@ object_list:
     old_id: "8.06"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     people: [ "Rainer, Yvonne" ]
-    more_people: ""
+    more_people: [ "Banes, Sally" ]
     title: "*Trio A* (1966), produced by Sally Banes"
     date: "1978"
     date_sort: "1978-01-01"
@@ -7559,7 +7559,7 @@ object_list:
     id: "441"
     old_id: "8.07"
     maker: ""
-    people: ""
+    people: [ "Rainer, Yvonne", "Atlas, Charles" ]
     more_people: ""
     title: "Interview with Charles Atlas (excerpt from Atlas’s *Rainer Variations*)"
     date: "2001–2"
@@ -7576,8 +7576,8 @@ object_list:
     id: "442"
     old_id: "8.08"
     maker: ""
-    people: ""
-    more_people: ""
+    people: [ "Rainer, Yvonne", "Atlas, Charles", "Move, Richard" ]
+    more_people: 
     title: "Yvonne Rainer attempting to teach *Trio A* to Martha Graham, impersonated by Richard Move in drag (excerpt from Charles Atlas’s *Rainer Variations*)"
     date: "2001–2"
     date_sort: "2001-01-01"
@@ -7593,7 +7593,7 @@ object_list:
     id: "443"
     old_id: "8.09"
     maker: ""
-    people: ""
+    people: [ "Rainer, Yvonne", "Atlas, Charles", "Chalfant, Kathleen" ]
     more_people: ""
     title: "Interview with Kathleen Chalfant (excerpt from Charles Atlas’s *Rainer Variations*)"
     date: "2001–2"
@@ -7627,8 +7627,8 @@ object_list:
     id: "445"
     old_id: "8.11"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: [ "Rainer, Yvonne" ]
-    more_people: ""
+    people: [ "Rainer, Yvonne", "Lloyd, Barbara", "Gordon, David", "Green, Nancy", "Paxton, Steve", "Scott, Lincoln" ]
+    more_people: [ "Ringgold, Faith", "Toche, Jean", "Hendricks, Jon" ]
     title: "*Trio A with Flags* (1966), performed at the opening of *The People’s Flag Show*, Judson Memorial Church, New York, NY"
     date: "9 November 1970"
     date_sort: "1970-11-09"
@@ -7644,7 +7644,7 @@ object_list:
     id: "446"
     old_id: "8.12"
     maker: ""
-    people: ""
+    people: [ "Rainer, Yvonne", "Hay, Deborah", "Rauschenberg, Robert", "Morris, Robert", "Gross, Sally", "Schlichter, Joseph", "Holder, Tony", "Hay, Alex" ]
     more_people: ""
     title: "Yvonne Rainer’s *We Shall Run* (1963), performed at the Wadsworth Atheneum, Hartford, CT"
     date: "7 March 1965"
@@ -7661,7 +7661,7 @@ object_list:
     id: "447"
     old_id: "8.13"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: [ "Rainer, Yvonne" ]
+    people: [ "Rainer, Yvonne", "Mangolte, Babette" ]
     more_people: ""
     title: "*We Shall Run* (1963), performed at Bennington College, Bennington, VT"
     date: "1980"
@@ -7730,7 +7730,7 @@ object_list:
     old_id: "8.17"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     people: [ "Rainer, Yvonne" ]
-    more_people: ""
+    more_people: [ "Dunn, Robert" ]
     title: "Pages from the score for *Watering Place* (ca. 1960)"
     date: "ca. 1960"
     date_sort: "1960-01-01"
@@ -7797,8 +7797,8 @@ object_list:
     id: "455"
     old_id: "8.21a"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Rainer, Yvonne", "Gordon, David", "Paxton, Steve" ]
+    more_people: [ "Rauschenberg, Robert", "Corner, Philip" ]
     title: "Judson Dance Theater concert program for “A Dance Concert of Old and New Works by: David Gordon, Yvonne Rainer, Steve Paxton”"
     date: "10–12 January 1966"
     date_sort: "1966-01-10"
@@ -7815,7 +7815,7 @@ object_list:
     old_id: "8.21b"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     people: [ "Rainer, Yvonne" ]
-    more_people: ""
+    more_people: [ "Gordon, William", "Paxton, Steve" ]
     title: "*The Mind Is a Muscle* concert program, Anderson Theater, New York, NY"
     date: "11, 14, 15 April 1968"
     date_sort: "1968-04-11"
@@ -7831,7 +7831,7 @@ object_list:
     id: "457"
     old_id: "8.21c"
     maker: [ "Don McDonagh (American, 1932–2019)" ]
-    people: [ "McDonagh, Don" ]
+    people: [ "McDonagh, Don", "Rainer, Yvonne" ]
     more_people: ""
     title: "“Miss Rainer Offers ‘Mind Is a Muscle,’” *New York Times*"
     date: "12 April 1968"
@@ -7848,8 +7848,8 @@ object_list:
     id: "458"
     old_id: "8.21d"
     maker: [ "Jill Johnston (American, 1929–2010)" ]
-    people: [ "Johnston, Jill" ]
-    more_people: ""
+    people: [ "Johnston, Jill", "Rainer, Yvonne" ]
+    more_people: [ "Rauschenberg, Robert", "Paxton, Steve", "Gordon, David"]
     title: "“Rainer’s ‘Mind Is a Muscle,’” *The Village Voice*, 13"
     date: "2 June 1966"
     date_sort: "1966-06-02"
@@ -7865,7 +7865,7 @@ object_list:
     id: "459"
     old_id: "8.21e"
     maker: [ "Jill Johnston (American, 1929–2010)" ]
-    people: [ "Johnston, Jill" ]
+    people: [ "Johnston, Jill", "Rainer, Yvonne" ]
     more_people: ""
     title: "“Rainer’s Muscle,” *The Village Voice*"
     date: "18 April 1968"
@@ -7882,8 +7882,8 @@ object_list:
     id: "460"
     old_id: "8.21f"
     maker: [ "Deborah Jowitt (American, b. 1934)" ]
-    people: [ "Jowitt, Deborah" ]
-    more_people: ""
+    people: [ "Jowitt, Deborah", "Rainer, Yvonne" ]
+    more_people: [ "Gordon, David", "Paxton, Steve" ]
     title: "“Expanded Muscle,” *The Village Voice*"
     date: "18 April 1968"
     date_sort: "1968-04-18"
@@ -7899,8 +7899,8 @@ object_list:
     id: "461"
     old_id: "8.21g"
     maker: [ "Jill Johnston (American, 1929–2010)" ]
-    people: [ "Johnston, Jill" ]
-    more_people: ""
+    people: [ "Johnston, Jill", "Rainer, Yvonne", "Cunningham, Merce" ]
+    more_people: [ "Paxton, Steve", "Brown, Trisha", "Dunn, Judith", "Davis, William", "Reid, Albert" ]
     title: "“Yvonne Rainer: I” and “Yvonne Rainer: II,” *The Village Voice*"
     date: "23 May 1963 and 6 June 1963"
     date_sort: "1963-05-23"
@@ -7917,7 +7917,7 @@ object_list:
     id: "462"
     old_id: "8.21h"
     maker: [ "Joan B. Cass" ]
-    people: [ "Cass, Joan B." ]
+    people: [ "Cass, Joan B.", "Rainer, Yvonne" ]
     more_people: ""
     title: "“Brandeis Offers Dance Contrasts,” *Boston Herald Traveler*"
     date: "16 January 1968"
@@ -7968,7 +7968,7 @@ object_list:
     id: "465"
     old_id: "8.23"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: [ "Rainer, Yvonne" ]
+    people: [ "Rainer, Yvonne", "Katz, Barbara" ]
     more_people: ""
     title: "Pages from the Labanotation score for Yvonne Rainer’s dances *Chair-Pillow* and *Couples,* from the larger project *Continuous Project Altered Daily* (1970), as performed at George Washington University, Washington, D.C."
     date: "1970"
@@ -8019,7 +8019,7 @@ object_list:
     id: "468"
     old_id: "8.26"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: [ "Rainer, Yvonne" ]
+    people: [ "Rainer, Yvonne", "Byars, James Lee" ]
     more_people: ""
     title: "“Some Thoughts on Improvisation (for the Painter James [Lee] Byars)”"
     date: "December 1963"
@@ -8070,7 +8070,7 @@ object_list:
     id: "471"
     old_id: "8.30"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: [ "Rainer, Yvonne" ]
+    people: [ "Rainer, Yvonne", "Childs, Lucinda", "Dunn, Judith", "Gross, Sally", "Hay, Deborah", "Holder, Tony", "Morris, Robert", "Paxton, Steve", "Rauschenberg, Robert", "Schlichter, Joseph" ]
     more_people: ""
     title: "Partial score for *Parts of Some Sextets*"
     date: "1965"
@@ -8190,7 +8190,7 @@ object_list:
     id: "478"
     old_id: "9.04"
     maker: [ "Tom Wasmuth (American, b. 1941)" ]
-    people: [ "Wasmuth, Tom" ]
+    people: [ "Wasmuth, Tom", "Knowles, Alison" ]
     more_people: ""
     title: "Diagram, 24 June 1969, in Alison Knowles’s *Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971), 35"
     date: "1971"
@@ -8208,7 +8208,7 @@ object_list:
     old_id: "9.05"
     maker: [ "Alison Knowles (American, b. 1933)" ]
     people: [ "Knowles, Alison" ]
-    more_people: ""
+    more_people: [ "Williams, Emmett" ]
     title: "“Journal of the Identical Lunch,” *The Outsider* 2, no. 4/5 (Winter 1968/69): 182–84"
     date: "1968–69"
     date_sort: "1968-01-01"
@@ -8242,7 +8242,7 @@ object_list:
     id: "481"
     old_id: "9.07a"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Maciunas, George" ]
     more_people: ""
     title: "“Alison Knowles: *Identical Lunch Symphony*,” Logan Center for the Arts, University of Chicago"
     date: "5 May 2012"
@@ -8294,7 +8294,7 @@ object_list:
     id: "484"
     old_id: "9.08"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Maciunas, George" ]
     more_people: ""
     title: "*George Maciunas Performs The Identical Lunch*"
     date: "1969, realized 1973"
@@ -8328,7 +8328,7 @@ object_list:
     id: "486"
     old_id: "9.10"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Kubota, Shigeko" ]
     more_people: ""
     title: "*Shigeko Kubota Performs The Identical Lunch*"
     date: "1969, realized 1973"
@@ -8345,7 +8345,7 @@ object_list:
     id: "487"
     old_id: "9.11"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Brazeau, Anne" ]
     more_people: ""
     title: "*Anne Brazeau Performs The Identical Lunch*"
     date: "1969, realized 1973"
@@ -8362,7 +8362,7 @@ object_list:
     id: "488"
     old_id: "9.12"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Brown, Jean" ]
     more_people: ""
     title: "Letter from Alison Knowles to Jean Brown"
     date: "5 August ca. 1970s"
@@ -8380,7 +8380,7 @@ object_list:
     id: "489"
     old_id: "9.13"
     maker: [ "Alison Knowles (American, b. 1933)", "Anna (Annea) Lockwood (New Zealand-born American, b. 1939)" ]
-    people: [ "Knowles, Alison", "Lockwood, Anna (Annea)" ]
+    people: [ "Knowles, Alison", "Lockwood, Anna (Annea)", "Brown, Jean" ]
     more_people: ""
     title: "Letter from Alison Knowles to Jean Brown"
     date: "n.d."
@@ -8465,8 +8465,8 @@ object_list:
     id: "494"
     old_id: "9.19"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Knowles, Alison" ]
+    more_people: [ "Anderson, Laurie" ]
     title: "Brochure for the course “Meet the Woman Composer” at the New School for Social Research, New York, NY"
     date: "1976"
     date_sort: "1976-01-01"
@@ -8482,7 +8482,7 @@ object_list:
     id: "495"
     old_id: "9.21"
     maker: 
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Xerox of “Alison Knowles,” in Miriam Shapiro’s *Art: A Woman’s Sensibility* (Valencia, CA: CalArts, 1975), 36"
     date: ""
@@ -8499,7 +8499,7 @@ object_list:
     id: "496"
     old_id: "9.22"
     maker: 
-    people: ""
+    people: [ "Knowles, Alison", "Corner, Philip" ]
     more_people: ""
     title: "Poster for Alison Knowles and Philip Corner’s *Food Mandala* at the Samaya Foundation, New York, NY"
     date: "1980"
@@ -8516,8 +8516,8 @@ object_list:
     id: "497"
     old_id: "9.23"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Knowles, Alison", "Lockwood, Anna", "Shiomi, Mieko", "Forti, Simone" ]
+    more_people: [ "Oliveros, Pauline" ]
     title: "Announcement for *Womens Work*, “a magazine of performance scores by contemporary women artists”"
     date: ""
     date_sort: ""
@@ -8533,7 +8533,7 @@ object_list:
     id: "498"
     old_id: "9.24"
     maker: 
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Program for Alison Knowles’s *The Bean Garden* in “Meet the Woman Composer” at the New School for Social Research, New York, NY"
     date: "1976"
@@ -8550,8 +8550,8 @@ object_list:
     id: "499"
     old_id: "9.25"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Knowles, Alison" ]
+    more_people: [ "Kroesen, Jill", "Brown, Trisha" ]
     title: "Review of Knowles’s *The Bean Garden* at the New School, *Soho Weekly News*"
     date: "25 November 1976"
     date_sort: "1976-11-25"
@@ -8567,7 +8567,7 @@ object_list:
     id: "500"
     old_id: "9.26"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Maciunas, George" ]
     more_people: ""
     title: "Postcard from Alison Knowles to George Maciunas"
     date: "25 August 1966"

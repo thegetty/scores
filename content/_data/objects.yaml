@@ -9094,8 +9094,8 @@ object_list:
     id: "531"
     old_id: "10.23"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: [ "Shiomi, Mieko (Chieko)" ]
-    more_people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George", "Brecht, George", "Ichiyanagi, Toshi" ]
+    more_people: [ "Kosugi, Takehisa", "Zazeela, Marian" ]
     title: "“Mieko Shiomi,” *Art and Artists* 8, no. 7 (1973): 42–45"
     date: ""
     date_sort: ""
@@ -9128,7 +9128,7 @@ object_list:
     id: "533"
     old_id: "10.25"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1963"
@@ -9145,7 +9145,7 @@ object_list:
     id: "534"
     old_id: "10.26"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "fall 1965"
@@ -9162,8 +9162,8 @@ object_list:
     id: "535"
     old_id: "10.27"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    more_people: [ "Flynt, Henry" ]
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1965"
     date_sort: "1965-01-01"
@@ -9179,7 +9179,7 @@ object_list:
     id: "536"
     old_id: "10.28"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1965"
@@ -9196,8 +9196,8 @@ object_list:
     id: "537"
     old_id: "10.29"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    more_people: [ "Finlay, Ian Hamilton" ]
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "1966"
     date_sort: "1966-01-01"
@@ -9213,7 +9213,7 @@ object_list:
     id: "538"
     old_id: "10.30"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
@@ -9230,7 +9230,7 @@ object_list:
     id: "539"
     old_id: "10.31"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas, with annotations by Maciunas"
     date: "ca. 1966"
@@ -9247,7 +9247,7 @@ object_list:
     id: "540"
     old_id: "10.32"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "1966"
@@ -9264,8 +9264,8 @@ object_list:
     id: "541"
     old_id: "10.33"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    more_people: [ "Johns, Jasper" ]
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
     date_sort: "1966-01-01"
@@ -9281,7 +9281,7 @@ object_list:
     id: "542"
     old_id: "10.34"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
@@ -9298,7 +9298,7 @@ object_list:
     id: "543"
     old_id: "10.35"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
@@ -9315,8 +9315,8 @@ object_list:
     id: "544"
     old_id: "10.36"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    more_people: [ "Brown, Jean" ]
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1968"
     date_sort: "1968-01-01"
@@ -9332,7 +9332,7 @@ object_list:
     id: "545"
     old_id: "10.37"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Postcard from Mieko Shiomi to George Maciunas"
     date: "ca. 1968"
@@ -9349,7 +9349,7 @@ object_list:
     id: "546"
     old_id: "10.38"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1968"
@@ -9366,7 +9366,7 @@ object_list:
     id: "547"
     old_id: "10.39"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1971"
@@ -9383,7 +9383,7 @@ object_list:
     id: "548"
     old_id: "10.40"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Postcard from Mieko Shiomi to George Maciunas"
     date: "1971"
@@ -9400,7 +9400,7 @@ object_list:
     id: "549"
     old_id: "10.41"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
@@ -9417,7 +9417,7 @@ object_list:
     id: "550"
     old_id: "10.42"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"

@@ -8516,7 +8516,7 @@ object_list:
     id: "497"
     old_id: "9.23"
     maker: 
-    people: [ "Knowles, Alison", "Lockwood, Anna", "Shiomi, Mieko", "Forti, Simone" ]
+    people: [ "Knowles, Alison", "Lockwood, Anna", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
     more_people: [ "Oliveros, Pauline" ]
     title: "Announcement for *Womens Work*, “a magazine of performance scores by contemporary women artists”"
     date: ""
@@ -8584,7 +8584,7 @@ object_list:
     id: "501"
     old_id: "9.27"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Alison Knowles to George Maciunas about macrobiotic diets"
     date: ""
@@ -8601,7 +8601,7 @@ object_list:
     id: "502"
     old_id: "9.28"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Williams, Emmett" ]
     more_people: ""
     title: "Note from Alison Knowles to Emmett Williams on verso of “Wheat Hearts” cardboard label"
     date: ""
@@ -8618,7 +8618,7 @@ object_list:
     id: "503"
     old_id: "9.29a"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
+    people: [ "Knowles, Alison", "Williams, Emmett", "Patterson, Benjamin" ]
     more_people: ""
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
     date: "April ca. 1963"
@@ -8635,8 +8635,8 @@ object_list:
     id: "504"
     old_id: "9.29b"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
-    more_people: ""
+    people: [ "Knowles, Alison", "Williams, Emmett", "Brecht, George", "Kaprow, Allan", "Brown, Earle" ]
+    more_people: [ "Hansen, Al", "Watts, Robert" ]
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
     date: "n.d. (ca. 1963)"
     date_sort: "1963-01-01"
@@ -8652,8 +8652,8 @@ object_list:
     id: "505"
     old_id: "9.29c"
     maker: [ "Alison Knowles (American, b. 1933)" ]
-    people: [ "Knowles, Alison" ]
-    more_people: ""
+    people: [ "Knowles, Alison", "Williams, Emmett", "Brecht, George", "Mac Low, Jackson", "Maciunas, George" ]
+    more_people: [ "Watts, Robert" ]
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
     date: "n.d. [“Saturday night,” ca. 1963]"
     date_sort: "1963-01-01"
@@ -8669,7 +8669,7 @@ object_list:
     id: "506"
     old_id: "9.30"
     maker: 
-    people: ""
+    people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Alison Knowles tasting soup"
     date: ""
@@ -8755,7 +8755,7 @@ object_list:
     old_id: "9.35"
     maker: [ "Alison Knowles (American, b. 1933)" ]
     people: [ "Knowles, Alison" ]
-    more_people: ""
+    more_people: [ "Williams, Emmett", "Corner, Philip" ]
     title: "*Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971)"
     date: ""
     date_sort: ""
@@ -8771,7 +8771,7 @@ object_list:
     id: "512"
     old_id: "9.36"
     maker: [ "Philip Corner (American, b. 1933)" ]
-    people: [ "Corner, Philip" ]
+    people: [ "Corner, Philip", "Knowles, Alison" ]
     more_people: ""
     title: "*The Identical Lunch* (San Francisco: Nova Broadcast Press, 1973)"
     date: ""
@@ -8788,8 +8788,8 @@ object_list:
     id: "513"
     old_id: "9.37"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George" ]
-    more_people: ""
+    people: [ "Maciunas, George", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
+    more_people: [ "Flynt, Henry", "Higgins, Dick", "Paik, Nam June", "Zazeela, Marian", "Alloway, Lawrence", "Williams, Emmett" ]
     title: "“Invitation to Participate in New Years Eve’s Flux-Feast”"
     date: "1969"
     date_sort: "1969-01-01"
@@ -8822,8 +8822,8 @@ object_list:
     id: "515"
     old_id: "10.01"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: [ "Shiomi, Mieko (Chieko)" ]
-    more_people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
+    more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "List of participants in *Spatial Poem (Nos. 1–4)*"
     date: "ca. 1972"
     date_sort: "1972-01-01"
@@ -8856,7 +8856,7 @@ object_list:
     id: "517"
     old_id: "10.03"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Kaprow, Allan" ]
     more_people: ""
     title: "Mieko Shiomi performing *Direction Music for Fingers* at Washington Square Gallery, New York, NY"
     date: "30 October 1964"
@@ -8873,8 +8873,8 @@ object_list:
     id: "518"
     old_id: "10.10"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: [ "Shiomi, Mieko (Chieko)" ]
-    more_people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Kaprow, Allan", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
+    more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "Promotional postcard for *Complete Works: Spatial Poem*"
     date: "ca. 1976"
     date_sort: "1976-01-01"
@@ -9077,8 +9077,8 @@ object_list:
     id: "530"
     old_id: "10.22"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: [ "Shiomi, Mieko (Chieko)" ]
-    more_people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Kaprow, Allan", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
+    more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "Cover of *Spatial Poem* (Osaka: self-published, 1976)"
     date: ""
     date_sort: ""

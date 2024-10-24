@@ -9434,7 +9434,7 @@ object_list:
     id: "551"
     old_id: "10.43"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
@@ -9451,7 +9451,7 @@ object_list:
     id: "552"
     old_id: "10.44"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
@@ -9468,7 +9468,7 @@ object_list:
     id: "553"
     old_id: "10.45"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "1972"
@@ -9485,7 +9485,7 @@ object_list:
     id: "554"
     old_id: "10.46"
     maker: 
-    people: ""
+    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1974"
@@ -9502,8 +9502,8 @@ object_list:
     id: "555"
     old_id: "10.47"
     maker: [ "Dicky Bahto (American, b. 1981)" ]
-    people: [ "Bahto, Dicky" ]
-    more_people: ""
+    people: [ "Bahto, Dicky", "Shiomi, Mieko (Chieko)" ]
+    more_people: [ "Luboviski-Acosta, Tatiana", "Doran, Taylor", "Tam, Yvonne" ]
     title: "Video realization of Mieko Shiomi’s *Mirror Piece*"
     date: "1963, realized 2021"
     date_sort: "2021-01-01"
@@ -9526,7 +9526,7 @@ object_list:
     id: "556"
     old_id: "11.01a"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Mac Low, Jackson", "Kaprow, Allan", "Brecht, George", "Hansen, Al", "Higgins, Dick" ]
     more_people: ""
     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY"
     date: "summer 1958"
@@ -9543,7 +9543,7 @@ object_list:
     id: "557"
     old_id: "11.01b"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Kaprow, Allan", "Brecht, George", "Hansen, Al" ]
     more_people: ""
     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, New York"
     date: "summer 1958"
@@ -9560,8 +9560,8 @@ object_list:
     id: "558"
     old_id: "11.01c"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Cage, John", "Higgins, Dick", "Mac Low, Jackson" ]
+    more_people: [ "Hansen, Al" ]
     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, New York"
     date: "summer 1958"
     date_sort: "1958-06-01"
@@ -9577,7 +9577,7 @@ object_list:
     id: "559"
     old_id: "11.01d"
     maker: 
-    people: ""
+    people: [ "Cage, John", "Galente, Carol", "Addiss, Stephen", "Mac Low, Jackson" ]
     more_people: ""
     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, New York"
     date: "summer 1958"
@@ -9594,7 +9594,7 @@ object_list:
     id: "560"
     old_id: "11.01e"
     maker: 
-    people: ""
+    people: [ "Cage, John" ]
     more_people: ""
     title: "John Cage leading his experimental composition class, New School for Social Research, New York, New York"
     date: "summer 1958"
@@ -9696,7 +9696,7 @@ object_list:
     id: "566"
     old_id: "11.08"
     maker: 
-    people: ""
+    people: [ "Kaprow, Allan", "Johnson, Sue", "Hauck, David" ]
     more_people: ""
     title: "Allan Kaprow filming performers Sue Johnson and David Hauck for the film version of *Routine*"
     date: "1973"
@@ -9732,7 +9732,7 @@ object_list:
     old_id: "11.10"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Sullivan, Michael", "Johnson, Sue", "Hauck, David"  ]
     title: "Film still from *Routine*"
     date: "1973"
     date_sort: "1973-01-01"
@@ -9749,7 +9749,7 @@ object_list:
     old_id: "11.11"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Sullivan, Michael", "Johnson, Sue", "Hauck, David" ]
     title: "Opening shot of *Routine*"
     date: "1973"
     date_sort: "1973-01-01"
@@ -9783,7 +9783,7 @@ object_list:
     old_id: "11.14"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Kirby, Peter" ]
     title: "Opening shot of *7 Kinds of Sympathy*"
     date: "1976"
     date_sort: "1976-01-01"
@@ -9835,7 +9835,7 @@ object_list:
     old_id: "11.17"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Sullivan, Michael", "Johnson, Sue", "Hauck, David" ]
     title: "*Routine*"
     date: "1973"
     date_sort: "1973-01-01"
@@ -9852,7 +9852,7 @@ object_list:
     old_id: "11.18"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Vandrés, Galería", "Seaton, David", "Llordén, Esther", "Costas, Mario" ]
     title: "*Comfort Zones*"
     date: "1975"
     date_sort: "1975-01-01"
@@ -9869,7 +9869,7 @@ object_list:
     old_id: "11.19"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Kirby, Peter", "Steiny, Julie", "Jones, Bryan" ]
     title: "*7 Kinds of Sympathy*"
     date: "1976"
     date_sort: "1976-01-01"
@@ -9886,7 +9886,7 @@ object_list:
     old_id: "11.20"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Kirby, Peter", "Buchanan, Nancy", "Simpson, Sylvia", "Simpson, Jerry", "Rachel, Vaughn" ]
     title: "Review of using *7 Kinds of Sympathy* videotape as score"
     date: "ca. 1976"
     date_sort: "1976-01-01"
@@ -9903,7 +9903,7 @@ object_list:
     old_id: "11.21"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Kirby, Peter" ]
     title: "*Private Parts*"
     date: "1977"
     date_sort: "1977-01-01"
@@ -9987,7 +9987,7 @@ object_list:
     id: "583"
     old_id: "11.24"
     maker: 
-    people: ""
+    people: [ "Kaprow, Allan", "Cage, John" ]
     more_people: ""
     title: "Douglass College survey about the Voorhees Assembly program"
     date: "1958"
@@ -10055,7 +10055,7 @@ object_list:
     id: "587"
     old_id: "11.26c"
     maker: 
-    people: ""
+    people: [ "Burnett, Clyde", "Kaprow, Allan" ]
     more_people: ""
     title: "Allan Kaprow’s clipping of Clyde Burnett, “History of Photography Is Reviewed,” likely printed in the *Sarasota Herald-Tribune*"
     date: "1965"
@@ -10072,7 +10072,7 @@ object_list:
     id: "588"
     old_id: "11.26d"
     maker: 
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Notice of cancelation of Allan Kaprow’s *Soap*"
     date: "1965"
@@ -10089,7 +10089,7 @@ object_list:
     id: "589"
     old_id: "11.26e"
     maker: 
-    people: ""
+    people: [ "Kaprow, Allan", "Carter, Robert" ]
     more_people: ""
     title: "Letter from Robert Carter, a graduate student in painting at Florida State University, to Allan Kaprow"
     date: "ca. 1965"
@@ -10106,7 +10106,7 @@ object_list:
     id: "590"
     old_id: "11.26f"
     maker: 
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Clipping of a tidal chart of waves at Sarasota Bay, from *Soap*"
     date: "1 February 1965"
@@ -10191,7 +10191,7 @@ object_list:
     id: "595"
     old_id: "11.28"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Viggiani, Carl" ]
     more_people: ""
     title: "Contract to prepare and present a “happening,” signed by Carl A. Viggiani, chairman of the Department of Romance Languages, Wesleyan University, Middletown, Connecticut"
     date: "20 December 1967"
@@ -10208,8 +10208,8 @@ object_list:
     id: "596"
     old_id: "11.29"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Kaprow, Allan" ]
+    more_people: [ "Glantz, Andrew" ]
     title: "“Triumphal poses” of participants in Allan Kaprow’s *Transfer*"
     date: "February 1968"
     date_sort: "1968-02-01"
@@ -10242,7 +10242,7 @@ object_list:
     id: "598"
     old_id: "11.30b"
     maker: 
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Portland Center for the Visual Arts’ project grant application for the National Endowment for the Arts"
     date: "12 April 1973"
@@ -10250,7 +10250,7 @@ object_list:
     year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-    extended_caption: "It is instructive to note that the Portland Center for the Visual Arts assumed that Allam Kaprow would want to use the film budget to produce “documentation” of his event. Kaprow rejected the merely documentary function of film and did so explicitly by beginning activity booklets and films with the assertion that “this is not a record” (or another statement with a similar meaning)."
+    extended_caption: "It is instructive to note that the Portland Center for the Visual Arts assumed that Allan Kaprow would want to use the film budget to produce “documentation” of his event. Kaprow rejected the merely documentary function of film and did so explicitly by beginning activity booklets and films with the assertion that “this is not a record” (or another statement with a similar meaning)."
     credit: "Ilo Bonyhadi Estate."
     featured: 
     type: [ archival materials ]
@@ -10259,7 +10259,7 @@ object_list:
     id: "599"
     old_id: "11.30c"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Bonyhadi, Ilo" ]
     more_people: ""
     title: "Letter from Allan Kaprow to Ilo Bonyhadi, at the Portland Center for the Visual Arts"
     date: "23 April 1973"

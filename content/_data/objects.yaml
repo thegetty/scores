@@ -10276,7 +10276,7 @@ object_list:
     id: "600"
     old_id: "11.30d"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Beebe, Mary" ]
     more_people: ""
     title: "Letter from Allan Kaprow to Mary L. Beebe at the Portland Center for the Visual Arts"
     date: "5 November 1973"
@@ -10293,8 +10293,8 @@ object_list:
     id: "601"
     old_id: "11.30e"
     maker: 
-    people: ""
-    more_people: ""
+    people: [ "Kaprow, Allan", "Beebe, Mary" ]
+    more_people: [ "Sullivan, Mike" ]
     title: "Letter from Mary L. Beebe to Allan Kaprow"
     date: "21 November 1973"
     date_sort: "1973-11-21"
@@ -10379,7 +10379,7 @@ object_list:
     id: "606"
     old_id: "11.30h"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Comiter, Alvin" ]
     more_people: ""
     title: "Contact sheets of photographs by Alvin Comiter, with Allan Kaprow’s notations"
     date: "1975"
@@ -10396,7 +10396,7 @@ object_list:
     id: "607"
     old_id: "11.30i"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Sullivan, Michael", "Katz, Mel" ]
     more_people: ""
     title: "Photograph of the production crew for *Routine*"
     date: "1975"
@@ -10413,7 +10413,7 @@ object_list:
     id: "608"
     old_id: "11.30j"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Beebe, Mary", "Sullivan, Michael", "Katz, Mel" ]
     more_people: ""
     title: "Production still of *Routine*"
     date: "1975"
@@ -10430,7 +10430,7 @@ object_list:
     id: "609"
     old_id: "11.30l"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Sullivan, Michael" ]
     more_people: ""
     title: "Production still of *Routine*"
     date: "1975"
@@ -10447,7 +10447,7 @@ object_list:
     id: "610"
     old_id: "11.30m"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Sullivan, Michael" ]
     more_people: ""
     title: "Production still of *Routine*"
     date: "1975"
@@ -10464,7 +10464,7 @@ object_list:
     id: "611"
     old_id: "11.30n"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Katz, Mel" ]
     more_people: ""
     title: "Production still of *Routine*"
     date: "1975"
@@ -10515,7 +10515,7 @@ object_list:
     id: "614"
     old_id: "11.31"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Massi, Richard Wood" ]
     more_people: ""
     title: "Interview of Allan Kaprow by Richard Wood Massi, in Richard Wood Massi, *Computer, Graphic, and Traditional Systems: A Theoretical Study of Music Notation* (PhD diss., UC San Diego, 1993), 38–54"
     date: "22 June 1989"
@@ -10584,7 +10584,7 @@ object_list:
     old_id: "11.34aa"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Delford Brown, Rhett", "Delford Brown, Robert", "Eisenhauer, Letty", "Gabor, Mark", "Solow, Edie", "Gollin, Jane", "Gollin, James", "Kirby, Michael", "Kirby, Victoria", "Paik, Nam June" ]
     title: "Program for *Loss*"
     date: "1973"
     date_sort: "1973-01-01"
@@ -10600,8 +10600,8 @@ object_list:
     id: "619"
     old_id: "11.34b"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
-    more_people: ""
+    people: [ "Kaprow, Allan", "Ono, Yoko" ]
+    more_people: [ "Delford Brown, Rhett", "Delford Brown, Robert", "Paik, Nam June", "Kubota, Shigeko", "Lennon, John", "Gollin, Jane", "Gollin, James", "Eisenhauer, Letty", "Gabor, Mark" ]
     title: "List of participants and their phone numbers, for use in *Loss*"
     date: "27 January 1973"
     date_sort: "1973-01-27"
@@ -10634,7 +10634,7 @@ object_list:
     id: "621"
     old_id: "11.34d"
     maker: 
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Allan Kaprow’s clipping of instructions for applying Bluboro™ powder"
     date: "ca. 1973"
@@ -10651,7 +10651,7 @@ object_list:
     id: "622"
     old_id: "11.34e"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
+    people: [ "Kaprow, Allan", "Egan, Pat" ]
     more_people: ""
     title: "Letter from Allan Kaprow to Pat Egan"
     date: "18 February 1973"
@@ -10685,7 +10685,7 @@ object_list:
     id: "624"
     old_id: "11.34g"
     maker: 
-    people: ""
+    people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Contact sheet of photographs of the review session for *Loss*"
     date: "1973"
@@ -10702,7 +10702,7 @@ object_list:
     id: "625"
     old_id: "11.34h"
     maker: 
-    people: ""
+    people: [ "Kaprow, Allan", "Comiter, Alvin" ]
     more_people: ""
     title: "Contact sheet of photographs by Alvin Comiter, with Allan Kaprow’s notations"
     date: "ca. 1973"
@@ -10788,7 +10788,7 @@ object_list:
     old_id: "11.36a"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Baecker, Galerie", "Ottinger, Bee" ]
     title: "*7 Kinds of Sympathy* activity booklet"
     date: "March 1976"
     date_sort: "1976-03-01"
@@ -10805,7 +10805,7 @@ object_list:
     old_id: "11.36b"
     maker: [ "Allan Kaprow (American, 1927–2006)" ]
     people: [ "Kaprow, Allan" ]
-    more_people: ""
+    more_people: [ "Kirby, Peter" ]
     title: "Note for a videotape of *7 Kinds of Sympathy*"
     date: "March 1976"
     date_sort: "1976-03-01"
@@ -10872,7 +10872,7 @@ object_list:
     id: "348-sequence"
     old_id: "6.03a"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
+    people: [ "Brecht, George", "Maciunas, George" ]
     more_people: ""
     title: "*Water Yam*"
     date: "1963"

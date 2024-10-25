@@ -36,20 +36,33 @@ Entry content, including entry image and tombstone data
 
     {% assign all_tags = all_tags_text | split: ", " | uniq | sort %}
 
-    <select id="tagdropdown" onchange="showTagged(this.value)">
-      <option value="all">all cards</option>
+    <div class="card-select">
+
+    {% if cards == 'water-yam' %}
+      {% if water-yam.config.tagsHeading %}
+        <label for="tagdropdown" class="card-select__label">{{ water-yam.config.tagsHeading }}</label>
+      {% endif %}
+    {% elsif cards == 'tudor-cage' %}
+      {% if tudor-cage.config.tagsHeading %}
+        <label for="tagdropdown" class="card-select__label">{{ tudor-cage.config.tagsHeading }}</label>
+      {% endif %}
+    {% endif %}
+
+    <select id="tagdropdown" onchange="showTagged(this.value)" class="card-select__select">
+      <option value="all">all</option>
       {% for tag in all_tags %}
       {% if tag.size > 0 %}
       <option value="{{ tag }}">{{ tag }}</option>
       {% endif %}
       {% endfor %}
     </select>
+    </div>
 
     <div class="quire-entry__lightbox{% for object in pageObjects %}{% if object.figures.size > 1 %} quire-entry__lightbox--with-thumbnails{% endif %}{% endfor %}">
 
     {% assign card_scale = 0.5 %}
     {% assign image_directory = '/_assets/images/figures/' %}
-    {% assign card_directory = 'water-yam' %}
+    {% assign card_directory = cards %}
     {% for card in card_data %}
     <figure class="card" style="width: {{ 72 | times: card_scale | times: card.width }}px;" data-tags="{{ card.tags }}" id="{{ card.file | replace: ".png" , "" }}">
       <img class="card-image" src="{{ image_directory }}/{{ card_directory }}/{{ card.file }}" alt="{{ card.title }}: {{ card.fullText }}" />

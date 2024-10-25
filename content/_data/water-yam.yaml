@@ -1,3 +1,7 @@
+config: 
+  tagsHeading: "Theme: "
+  secondaryTagsHeading: "Date: "
+
 card_list:
 
   - title: "Drip Music (Drip Event)"
@@ -21,7 +25,7 @@ card_list:
     secondaryTags: "1960-04-01"
     annotation: "*Motor Vehicle Sundown (Event)*, among Brecht’s earliest and most elaborate scores, was the first to include the word “event” in its title. Brecht has recounted the origins of this important piece: “In the Spring of 1960, standing in the woods in East Brunswick, New Jersey, where I lived at the time, waiting for my wife to come from the house, standing behind my English Ford station wagon, the motor running and the left-turn signal blinking, it occurred to me that a wholly ‘event’ piece could be drawn from the situation. Three months later the first piece explicitly titled an ‘event’ was finished, the “Motor Vehicle Sundown (Event)” (George Brecht, “The Origin of Events” (1970), in Happening & Fluxus, ed. Hanns Sohm (Cologne: Koelnischer Kunstverein, 1970), n.p.). It was premiered in May 26, 1962, in Ann Arbor, Michigan by the ONCE Group (including Robert Ashley and Gordon Mumma) in a simultaneous performance alongside Dick Higgins’s *Constellation no. 7* and La Monte Young’s *Composition 1961 #21*."
     additionalImages: "card-005.png"
-    notes: "recto/verson"
+    notes: "recto/verso"
     relatedItems: "BrechtGeorge_MotorVehicleSundown_1960_FPO"
 
   - title: "Iced Dice"

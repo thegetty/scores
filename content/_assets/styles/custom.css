@@ -1133,15 +1133,24 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 #quire-entry-view:not(.side-by-side) .quire-entry__lightbox {
   margin: 1.6rem 2rem 0;
 }
-.quire-score-object-cards select {
+.quire-score-object-cards .card-select {
   font-family: inherit;
   font-size: 1rem;
-  border: none;
-  margin-left: calc(25vw + .8rem);
+  margin-left: calc(25vw + 1rem);
   display: block;
   z-index: 1;
-  background-color: transparent;
+}
+.quire-score-object-cards .card-select__label {
+  display: inline-block;
+}
+.quire-score-object-cards .card-select__select {
+  font-family: inherit;
+  font-size: inherit;
   color: var(--accent-color);
+  border: none;
+  background-color: transparent;
+  display: inline-block;
+  padding: 0;
 }
 .quire-score-object-cards .quire-entry__lightbox .card {
   float: left;

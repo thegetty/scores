@@ -27,6 +27,8 @@ module.exports = async function(data) {
   const splashOverlay = classes.includes('splash') 
     ? `<div class="splash-overlay"><div class="splash-overlay-image"><img src="" alt="" /></div><a class="splash-overlay-link">The Scores Project</a></div>` 
     : ''
+  
+  const divClass = layout == 'score-object-cards' ? ' score-object' : layout
 
   return html`
     <!doctype html>
@@ -37,7 +39,7 @@ module.exports = async function(data) {
         ${this.icons(data)}
         ${this.iconscc(data)}
         ${splashOverlay}
-        <div class="quire no-js ${layout}" id="container">
+        <div class="quire no-js ${divClass}" id="container">
           <div class="quire__primary">
             ${this.navigation(layout)}
             <main class="quire-page ${classes}" data-output-path="${outputPath}" data-page-id="${pageId}" >

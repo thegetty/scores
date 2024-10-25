@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Restructured menu to appear as page footer
+// Restructured menu to appear as page footer on all pages but score object pages
 //
 const { html } = require('~lib/common-tags')
 
@@ -39,10 +39,9 @@ module.exports = function(eleventyConfig) {
 
     const footerLinks = resourceLinks.filter(({ type }) => type === 'footer-link')
 
-    const menuState = pageData.data.layout != 'score-object' 
+    const menuState = (pageData.data.layout !== 'score-object' && pageData.data.layout !== 'score-object-cards' )
       ? 'is-expanded'
       : ''
-
 
     return html`
       <div

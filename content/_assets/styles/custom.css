@@ -305,7 +305,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 /* Set base width and spacing for titles */
 .quire-menu .menu-list a .item-title {
-  width: 40vw;
+  min-width: 40vw;
   overflow-x: wrap;
   margin-right: 3rem;
 }
@@ -1029,7 +1029,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 #quire-entry-view-toggle {
   color: white;
   font-size: 1rem;
-  z-index: 1;
+  z-index: 100;
   border-width: 0;
   cursor: pointer;
   position: absolute;
@@ -1120,6 +1120,55 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .quire-entry__thumbnails .thumbnail::before {
   content: "";
+}
+
+/*  CARD VIEWER
+============================================================================= */
+.quire-score-object-cards .quire-entry__lightbox {
+  overflow: scroll;
+  font-size: var(--small-font-size);
+  margin-top: 1rem;
+  height: calc(100% - 7rem);
+}
+#quire-entry-view:not(.side-by-side) .quire-entry__lightbox {
+  margin: 1.6rem 2rem 0;
+}
+.quire-score-object-cards select {
+  font-family: inherit;
+  font-size: 1rem;
+  border: none;
+  margin-left: calc(25vw + .8rem);
+  display: block;
+  z-index: 1;
+  background-color: transparent;
+  color: var(--accent-color);
+}
+.quire-score-object-cards .quire-entry__lightbox .card {
+  float: left;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+  background-color: transparent;
+  color: white;
+  box-shadow: none;
+  
+}
+.quire-score-object-cards .quire-entry__lightbox .card-caption__button {
+  display: inline;
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: var(--small-font-size);
+  padding: 0;
+  margin-top: .25rem;
+} 
+.quire-score-object-cards .quire-entry__lightbox .card-caption__tags li {
+  display: inline-block;
+  margin-right: .5rem;
+  cursor: pointer;
+}
+.quire-score-object-cards .quire-entry__lightbox .card-caption__tags li.selected {
+  color: var(--accent-color);
 }
 
 /*  iFRAME VIEWER

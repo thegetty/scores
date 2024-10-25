@@ -126,6 +126,9 @@ A custom layout for the primary score landing pages
 **_layouts/score-object.liquid**
 A custom layout based on `quire-entry` that adds figure thumbnails for lightbox navigation
 
+**_layouts/score-object-cards.liquid**
+A custom layout based on `score-object` but displays an array of filterable cards in the lightbox
+
 **_plugins/shortcodes/contributors.js**
 Parse contributor info passed in as JSON string, for `score.liquid` layout
 

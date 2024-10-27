@@ -79,9 +79,12 @@ module.exports = function (eleventyConfig, { page }) {
         </a>
         ${anthologyLinks}
         <figcaption>
+          <div>
           <span class="scores-figure__label">${figLabel}</span>
           <span class="scores-figure__caption">${markdownify(figCaption)}</span>
           <span class="scores-figure__credit">${markdownify(figCredit)}</span>
+          </div>       
+          <a class="scores-figure__link" href="https://getty.edu/publications/scores${objLink}" data-outputs-exclude="html">getty.edu/publications/scores${objLink}</a>
         </figcaption>
       </figure>
     `

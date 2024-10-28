@@ -4503,7 +4503,7 @@ object_list:
     people: [ "Brecht, George", "Cage, John" ]
     more_people: ""
     title: "Postcard from George Brecht to John Cage"
-    date: "n.d."
+    date: "ca. 1967–69"
     date_sort: "1967-01-01"
     year_filter: [ "1967", "1968", "1969" ]
     medium: ""
@@ -5083,7 +5083,7 @@ object_list:
     people: [ "Maciunas, George", "Young, La Monte" ]
     more_people: ""
     title: "Letter from George Maciunas to La Monte Young on *An Anthology of Chance Operations*"
-    date: ""
+    date: "ca. 1962"
     date_sort: "1962-01-01"
     year_filter: [ "1962" ]
     medium: ""
@@ -5986,7 +5986,7 @@ object_list:
     people: [ "Brecht, George" ]
     more_people: ""
     title: "High-speed video of the unboxing and repacking of George Brecht’s compendium of event scores, *Water Yam* (1963)"
-    date: ""
+    date: "2024"
     date_sort: "2024-01-01"
     year_filter: [ "1963", "2024" ]
     medium: ""
@@ -7494,7 +7494,7 @@ object_list:
     people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "“Class Moving Definitions: For Yvonne Rainer”"
-    date: "n.d."
+    date: "ca. 1960s"
     date_sort: "1960-01-01"
     year_filter: [ "1960" ]
     medium: "audio recording, 45:19"
@@ -7613,7 +7613,7 @@ object_list:
     people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Cleaning of *Trio A*, Portland, Oregon"
-    date: "n.d."
+    date: "ca. 2000s"
     date_sort: "2000-01-01"
     year_filter: [ "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009" ]
     medium: "video, 184:25"
@@ -8039,7 +8039,7 @@ object_list:
     people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notes on equivalencies and objects"
-    date: "n.d."
+    date: "ca. early 1960s"
     date_sort: "1961-01-01"
     year_filter: [ "1961", "1962", "1963", "1964", "1965" ]
     medium: ""
@@ -8383,7 +8383,7 @@ object_list:
     people: [ "Knowles, Alison", "Lockwood, Anna (Annea)", "Brown, Jean" ]
     more_people: ""
     title: "Letter from Alison Knowles to Jean Brown"
-    date: "n.d."
+    date: "1973"
     date_sort: "1973-01-01"
     year_filter: [ "1973" ]
     medium: ""
@@ -8417,7 +8417,7 @@ object_list:
     people: [ "Knowles, Alison" ]
     more_people: ""
     title: "“how two beans are alike and how are they different. no two beans are altogether alike or altogether different”"
-    date: "n.d."
+    date: "ca. 1980"
     date_sort: "1980-01-01"
     year_filter: [ "1980" ]
     medium: "three dried beans in a wax paper package"
@@ -8519,7 +8519,7 @@ object_list:
     people: [ "Knowles, Alison", "Lockwood, Anna", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
     more_people: [ "Oliveros, Pauline" ]
     title: "Announcement for *Womens Work*, “a magazine of performance scores by contemporary women artists”"
-    date: ""
+    date: "ca. 1975"
     date_sort: "1975-01-01"
     year_filter: [ "1975" ]
     medium: ""
@@ -8587,7 +8587,7 @@ object_list:
     people: [ "Knowles, Alison", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Alison Knowles to George Maciunas about macrobiotic diets"
-    date: ""
+    date: "ca. 1977"
     date_sort: "1977-01-01"
     year_filter: [ "1977" ]
     medium: ""
@@ -8604,7 +8604,7 @@ object_list:
     people: [ "Knowles, Alison", "Williams, Emmett" ]
     more_people: ""
     title: "Note from Alison Knowles to Emmett Williams on verso of “Wheat Hearts” cardboard label"
-    date: ""
+    date: "ca. 1960s"
     date_sort: "1960-01-01"
     year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: ""
@@ -8672,7 +8672,7 @@ object_list:
     people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Alison Knowles tasting soup"
-    date: ""
+    date: "ca. 1970s"
     date_sort: "1970-01-01"
     year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
     medium: ""
@@ -8723,7 +8723,7 @@ object_list:
     people: [ "Tudor, David" ]
     more_people: ""
     title: "Recipe for Lime Pickle"
-    date: ""
+    date: "ca. 1960s"
     date_sort: "1960-01-01"
     year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: "typed index card"
@@ -8740,7 +8740,7 @@ object_list:
     people: [ "Tudor, David" ]
     more_people: ""
     title: "Recipe for Buttermilk"
-    date: ""
+    date: "ca. 1960s"
     date_sort: "1960-01-01"
     year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: "blue ink in black notebook"
@@ -8808,7 +8808,7 @@ object_list:
     people: [ "Knowles, Alison" ]
     more_people: ""
     title: "“Collections from the Full Moon” poster"
-    date: ""
+    date: "1974"
     date_sort: "1974-01-01"
     year_filter: [ "1974" ]
     medium: ""

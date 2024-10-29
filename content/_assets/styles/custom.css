@@ -903,6 +903,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   width: auto;
   margin: 0 auto;
 }
+.objects-page .object-cards .object-card__title {
+  display: none;
+}
+.objects-page .object-cards.large .object-card__title {
+  display: block;
+}
 .objects-page ol.object-cards-list {
   display: flex;
   flex-wrap: wrap;

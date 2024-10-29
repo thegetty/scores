@@ -667,7 +667,7 @@ object_list:
     id: "039"
     old_id: "1.12j"
     maker: 
-    people:  [ "Tudor, David", "Feldman, Morton", "Cage, John", "Wolff, Christian", "Boulez, Pierre", "Wolpe, Stefan" ]
+    people: [ "Tudor, David", "Feldman, Morton", "Cage, John", "Wolff, Christian", "Boulez, Pierre", "Wolpe, Stefan" ]
     more_people:
     title: "“Musical Events: Old Horizons,” *New Yorker*, 125–33"
     date: "8 May 1954"
@@ -2736,6 +2736,7 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3"
     extended_caption: "David Tudor’s copy of Sylvano Bussotti’s score contains spare but important pencil annotations that reveal key choices of his in developing realizations of the score."
     credit: "Used by permission of Hal Leonard."
+    related_objects: [ id: "165", id: "166" ]
     featured: 
     type: [ score ]
     figure: [ id: "fig-159-a", id: "fig-159-b", id: "fig-159-c", id: "fig-159-d", id: "fig-159-e", id: "fig-159-f", id: "fig-159-g", id: "fig-159-h", id: "fig-159-i", id: "fig-159-j", id: "fig-159-k", id: "fig-159-l", id: "fig-159-m", id: "fig-159-n", id: "fig-159-o", id: "fig-159-p", id: "fig-159-q", id: "fig-159-r", id: "fig-159-s", id: "fig-159-t", id: "fig-159-u", id: "fig-159-v", id: "fig-159-w", id: "fig-159-x", id: "fig-159-y", id: "fig-159-z", id: "fig-159-aa", id: "fig-159-ab", id: "fig-159-ac", id: "fig-159-ad", id: "fig-159-ae", id: "fig-159-af", id: "fig-159-ag", id: "fig-159-ah", id: "fig-159-ai", id: "fig-159-aj", id: "fig-159-ak", id: "fig-159-al", id: "fig-159-am", id: "fig-159-an", id: "fig-159-ao", id: "fig-159-ap", id: "fig-159-aq", id: "fig-159-ar", id: "fig-159-as", id: "fig-159-at", id: "fig-159-au", id: "fig-159-av", id: "fig-159-aw", id: "fig-159-ax", id: "fig-159-ay", id: "fig-159-az", id: "fig-159-ba", id: "fig-159-bb", id: "fig-159-bc", id: "fig-159-bd", id: "fig-159-be", id: "fig-159-bf", id: "fig-159-bg" ]
@@ -2838,6 +2839,7 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3"
     extended_caption: "These are the broader performance notes for the entirety of *Pièces de chair II*. Page one shows the way the larger work contains *Piano Pieces for David Tudor* nested inside the larger cycle. They are distributed throughout the cycle, placed out of order, while also being prominently featured: *No. 5* opens the cycle, and *No. 4* serves as the finale."
     credit: "Used by permission of Hal Leonard."
+    related_objects: [ id: "159", id: "166" ]
     featured: 
     type: [ score ]
     figure: [ id: "fig-165-a", id: "fig-165-b", id: "fig-165-c", id: "fig-165-d", id: "fig-165-e", id: "fig-165-f", id: "fig-165-g", id: "fig-165-h", id: "fig-165-i", id: "fig-165-j", id: "fig-165-k", id: "fig-165-l", id: "fig-165-m" ]
@@ -2855,6 +2857,7 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: "This diagram shows a 1961 “postscript” version of *Pièces de chair II* (1958–60) that reworks elements of the original cycle."
     credit: "Used by permission of Hal Leonard."
+    related_objects: [ id: "159", id: "165" ]
     featured: 
     type: [ score ]
     figure: [ id: "fig-166" ]
@@ -4188,6 +4191,9 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-244" ]
+# REMOVED
+# -
+# id: "245"
 -
     id: "246"
     old_id: "5.02h"
@@ -4732,6 +4738,7 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
     extended_caption: ""
     credit: "Remy Charlip Estate."
+    related_objects: [ id: "286" ]
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-277" ]
@@ -4773,7 +4780,7 @@ object_list:
     id: "280"
     old_id: "5.13d"
     maker: 
-    people: [" Tudor, David", "Ichiyanagi, Toshi", "Young, La Monte", "Cage, John", "Cunningham, Merce" ]
+    people: [ "Tudor, David", "Ichiyanagi, Toshi", "Young, La Monte", "Cage, John", "Cunningham, Merce" ]
     more_people: [ "Cardew, Cornelius", "Wolff, Christian" ]
     title: "Program for a recital by David Tudor and Toshi Ichiyanagi at the Living Theatre, New York, NY"
     date: "11 April 1960"
@@ -4885,7 +4892,7 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
     extended_caption: ""
     credit: "Remy Charlip Estate."
-    related: [ "277" ]
+    related_objects: [ id: "277" ]
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-286-a", id: "fig-286-b" ]
@@ -7569,6 +7576,7 @@ object_list:
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 116, item V85a-b"
     extended_caption: ""
     credit: "Video copyright of the artist. Used courtesy of Video Data Bank, School of the Art Institute of Chicago. Used courtesy of Charles Atlas."
+    related_objects: [ id: "442", id: "443" ]
     featured: 
     type: [ video ]
     figure: [ id: "fig-441" ]
@@ -7586,6 +7594,7 @@ object_list:
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 116, item V86a-b"
     extended_caption: "This excerpt from video artist Charles Atlas’s longer work *Rainer Variations* (other excerpts of which are included in [chapter 8](/08/)) shows a bemused Yvonne Rainer attempting to teach [*Trio A*](/image-index/440/) (1966) to famed modern dance artist Martha Graham, who is played by the choreographer Richard Move in drag. This dynamic collaboration between Rainer, Atlas, and Move brings together Rainer’s interest in both dance and the moving image as well as melodrama and humor, queer aesthetics and critique, dance history, and the practice of revisiting and remixing her past works. Describing Atlas’s *Rainer Variations* as a “faux Rainer portrait,” Rainer has remarked: “At play here is a skepticism about the conventions of the documentary form that purports to reveal the ‘real’ artist who ultimately remains a persona or crafty impersonator of her own idealized self-image” (liner notes to Charles Atlas, *Rainer Variations*, DVD, Electronic Arts Intermix, New York, 2002, n.p.)."
     credit: "Video copyright of the artist. Used courtesy of Video Data Bank, School of the Art Institute of Chicago. Used courtesy of Charles Atlas."
+    related_objects: [ id: "441", id: "443" ]
     featured: true
     type: [ video ]
     figure: [ id: "fig-442" ]
@@ -7603,6 +7612,7 @@ object_list:
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 116, item V87a-b"
     extended_caption: ""
     credit: "Video copyright of the artist. Used courtesy of Video Data Bank, School of the Art Institute of Chicago. Used courtesy of Charles Atlas."
+    related_objects: [ id: "441", id: "442" ]
     featured: 
     type: [ video ]
     figure: [ id: "fig-443" ]
@@ -8304,6 +8314,7 @@ object_list:
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/image-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. © Alison Knowles."
+    related_objects: [ id: "485", id: "486", id: "487" ]
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-484" ]
@@ -8321,6 +8332,7 @@ object_list:
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/image-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. © Alison Knowles."
+    related_objects: [ id: "484", id: "486", id: "487" ]
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-485" ]
@@ -8338,6 +8350,7 @@ object_list:
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/image-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. © Alison Knowles."
+    related_objects: [ id: "484", id: "485", id: "487" ]
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-486" ]
@@ -8355,6 +8368,7 @@ object_list:
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/image-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. © Alison Knowles."
+    related_objects: [ id: "484", id: "485", id: "486" ]
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-487" ]
@@ -9183,7 +9197,7 @@ object_list:
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1965"
-    date_sort: 1965-01-01""
+    date_sort: "1965-01-01"
     year_filter: [ "1965" ]
     medium: "photocopy of typewritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
@@ -9632,7 +9646,7 @@ object_list:
     more_people: ""
     title: "*Three Telephone Events*, from *Water Yam* (1963)"
     date: "spring 1961"
-    date_sort: "1961-03-01`"
+    date_sort: "1961-03-01"
     year_filter: [ "1961" ]
     medium: "offset printed on card stock"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"

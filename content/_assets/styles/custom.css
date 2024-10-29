@@ -392,7 +392,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   top: 4rem;
   bottom: 0;
   overflow-y: scroll;
-  z-index: 10;
+  z-index: 100;
   background-color: white;
   padding-top: 1rem;
 }
@@ -846,7 +846,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 @media screen and (min-width: 500px) {
   .objects-page .object-filters__item {
-    grid-template-columns: 100px auto;
+    grid-template-columns: 150px auto;
   }
   .objects-page .object-filters__item label {
     text-align: left;
@@ -902,6 +902,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   max-height: 100%;
   width: auto;
   margin: 0 auto;
+}
+.objects-page .object-cards .object-card__title {
+  display: none;
+}
+.objects-page .object-cards.large .object-card__title {
+  display: block;
 }
 .objects-page ol.object-cards-list {
   display: flex;
@@ -1033,7 +1039,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   border-width: 0;
   cursor: pointer;
   position: absolute;
-  top: -1rem;
+  top: -1.25rem;
   font-family: inherit;
   background-color: black;
   padding: 1rem 2rem;
@@ -1043,7 +1049,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 ============================================================================= */
 @media screen and (min-width: 700px) {
   .quire-entry__lightbox {
-    height: calc( 100vh - 4rem - var(--thumbnail-height) - 5rem );
+    height: calc( 100vh - 4rem - var(--thumbnail-height) - 6rem );
   }
 }
 .side-by-side .quire-entry__lightbox {
@@ -1051,7 +1057,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 @media screen and (min-width: 700px) {
   .side-by-side .quire-entry__lightbox {
-    top: 6rem;
+    top: 6.25rem;
     left: 2rem;
     height: calc(100% - 8rem);
     width: calc(56% - 8px - 2rem);
@@ -1127,11 +1133,10 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .quire-score-object-cards .quire-entry__lightbox {
   overflow: scroll;
   font-size: var(--small-font-size);
-  margin-top: 1rem;
   height: calc(100% - 7rem);
 }
-#quire-entry-view:not(.side-by-side) .quire-entry__lightbox {
-  margin: 1.6rem 2rem 0;
+.quire-score-object-cards #quire-entry-view:not(.side-by-side) .quire-entry__lightbox {
+  margin: 1.25rem 2rem 0;
 }
 .quire-score-object-cards .card-select {
   font-family: inherit;
@@ -1139,6 +1144,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-left: calc(25vw + 1rem);
   display: block;
   z-index: 1;
+  margin-top: -.25rem;
 }
 .quire-score-object-cards .card-select__label {
   display: inline-block;

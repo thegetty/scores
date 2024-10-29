@@ -434,10 +434,10 @@ window['toggleEntryContent'] = () => {
 
   myDiv.classList.toggle('side-by-side')
   
-  if (myButton.textContent.includes('Widescreen')) {
-    myButton.textContent = 'Side-by-Side'
+  if (myButton.textContent.includes('View: Wide')) {
+    myButton.textContent = 'View: Narrow'
   } else {
-    myButton.textContent = 'Widescreen'
+    myButton.textContent = 'View: Wide'
   }
 }
 

@@ -846,7 +846,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 @media screen and (min-width: 500px) {
   .objects-page .object-filters__item {
-    grid-template-columns: 100px auto;
+    grid-template-columns: 150px auto;
   }
   .objects-page .object-filters__item label {
     text-align: left;

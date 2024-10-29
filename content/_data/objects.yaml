@@ -24,8 +24,8 @@ object_list:
     more_people: [ "Monk, Thelonious" ]
     title: "Four “Indeterminate” Notation Systems"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1947-01-01"
+    year_filter: [ "1947" ]
     medium: ""
     location: ""
     extended_caption: ""
@@ -279,8 +279,8 @@ object_list:
     more_people: ""
     title: "Undated recording of David Tudor performing *Intersection 3*"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1953-01-01"
+    year_filter: [ "1953", "1954", "1956" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 3A, C126"
     extended_caption: ""
@@ -500,8 +500,8 @@ object_list:
     more_people: [ "Stockhausen, Karlheinz", "Wolff, Christian" ]
     title: "Program for a performance featuring David Tudor and John Cage"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1956-01-01"
+    year_filter: [ "1956" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 71, folder 3"
     extended_caption: "A handwritten note in ink by an unknown person reads: “my mother wouldn’t let me do that to our piano.”"
@@ -875,8 +875,8 @@ object_list:
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (32nd-note Realization)"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1953-01-01"
+    year_filter: [ "1953" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 25"
     extended_caption: ""
@@ -892,8 +892,8 @@ object_list:
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Alternative 32nd-note Realization)"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1953-01-01"
+    year_filter: [ "1953" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 9, folder 25"
     extended_caption: ""
@@ -1370,8 +1370,8 @@ object_list:
     more_people: ""
     title: "Performance of the second realization of John Cage’s *Solo for Piano*"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 34A, item R326"
     extended_caption: ""
@@ -1421,8 +1421,8 @@ object_list:
     more_people: ""
     title: "David Tudor’s Sonorities for John Cage’s *Solo for Piano*"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1958-05-01"
+    year_filter: [ "1958" ]
     medium: ""
     location: ""
     extended_caption: ""
@@ -2203,8 +2203,8 @@ object_list:
     more_people: ""
     title: "David Tudor’s typescript of M. C. Richards’s English translation of Antonin Artaud’s “An Affective Athleticism”"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1951-01-01"
+    year_filter: [ "1951" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 67, folder 13"
     extended_caption: ""
@@ -2764,8 +2764,8 @@ object_list:
     more_people: ""
     title: "David Tudor performing live Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 13A, R49"
     extended_caption: ""
@@ -2781,8 +2781,8 @@ object_list:
     more_people: ""
     title: "David Tudor performing *Nos. 1*, *3*, and *4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: ""
     extended_caption: "*Nos. 2* and *5* of Bussotti’s *Five Pieces for David Tudor* are in traditional music notation."
@@ -2849,8 +2849,8 @@ object_list:
     more_people: ""
     title: "Diagram of Sylvano Bussotti’s *Pièces de chair II*"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: "This diagram shows a 1961 “postscript” version of *Pièces de chair II* (1958–60) that reworks elements of the original cycle."
@@ -2900,8 +2900,8 @@ object_list:
     more_people: ""
     title: "Ink drawing by Sylvano Bussotti to David Tudor"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -2917,8 +2917,8 @@ object_list:
     more_people: ""
     title: "Signature on score fragment"
     date: "n.d"
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -2934,8 +2934,8 @@ object_list:
     more_people: ""
     title: "Envelope from Sylvano Bussotti to David Tudor"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -2968,8 +2968,8 @@ object_list:
     more_people: ""
     title: "Ink drawing by Sylvano Bussotti to David Tudor"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: "From 1959 to 1967, Sylvano Bussotti sent David Tudor packages that included personalized signatures, drawings, and graphic notations in colored pen, often in fragmented form."
@@ -2985,8 +2985,8 @@ object_list:
     more_people: ""
     title: "Score fragment"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -3087,8 +3087,8 @@ object_list:
     more_people: ""
     title: "Letter from Sylvano Bussotti to David Tudor"
     date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1959-01-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -4023,8 +4023,8 @@ object_list:
     more_people: ""
     title: "Portrait of Benjamin Patterson"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1962-01-01"
+    year_filter: [ "1962" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 41, folder 4"
     extended_caption: ""
@@ -4503,9 +4503,9 @@ object_list:
     people: [ "Brecht, George", "Cage, John" ]
     more_people: ""
     title: "Postcard from George Brecht to John Cage"
-    date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1967–69"
+    date_sort: "1967-01-01"
+    year_filter: [ "1967", "1968", "1969" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 3, folder 31"
     extended_caption: ""
@@ -5083,9 +5083,9 @@ object_list:
     people: [ "Maciunas, George", "Young, La Monte" ]
     more_people: ""
     title: "Letter from George Maciunas to La Monte Young on *An Anthology of Chance Operations*"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1962"
+    date_sort: "1962-01-01"
+    year_filter: [ "1962" ]
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
     extended_caption: "During the final stages of [*An Anthology*](/image-index/238/)’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, West Germany, where he worked as a graphic designer for the U.S. military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
@@ -5986,9 +5986,9 @@ object_list:
     people: [ "Brecht, George" ]
     more_people: ""
     title: "High-speed video of the unboxing and repacking of George Brecht’s compendium of event scores, *Water Yam* (1963)"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    date: "2024"
+    date_sort: "2024-01-01"
+    year_filter: [ "1963", "2024" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
     extended_caption: "The Getty Research Institute holds three 1960s Fluxus editions of *Water Yam*, each with a different style of container and a different number of cards included (between seventy-three and ninety-one). *Water Yam* debuted in 1963, but the copy featured here—a deluxe edition housed in a wooden box with a metal clasp—was probably assembled in 1965, since it includes the slightly later score *Cloud Scissors* (1964–65). It contains ninety-one different scores, enough to easily fill up the entire table. As an exercise in reckoning with the vast scope of this work, readers might imagine what it would take to arrange a performance of every single score."
@@ -6745,8 +6745,8 @@ object_list:
     more_people: ""
     title: "Pages from *Kulchur* magazine, no. 3, 1961, edited by Marc Schleifer"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1961-01-01"
+    year_filter: [ "1961" ]
     medium: ""
     location: ""
     extended_caption: "One of the first places George Brecht’s event scores appeared in print was this 1961 issue of the literary magazine *Kulchur*, where Brecht’s “sound-scores” appeared amongst works of fiction, poetry, and criticism."
@@ -7494,9 +7494,9 @@ object_list:
     people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "“Class Moving Definitions: For Yvonne Rainer”"
-    date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: "audio recording, 45:19"
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 102.a, item R26"
     extended_caption: "In this audio recording, likely captured during a dance workshop led by Yvonne Rainer, she describes an exercise in which participants are to split themselves into two groups: performers, who must remain in motion throughout the exercise, and audience, who are instructed to occupy the periphery of the space. These roles are changeable if a participant approaches someone in the opposite role and announces a desire to switch. Rainer designates herself a performer but refuses to model exact movement, instead suggesting that it is her attitude that participants might follow. She explains the dynamics of spatialization between moving bodies, inanimate objects, and audience members. She then instructs performers to move about the space and to move one another as well as objects over the course of the session, which will end when all objects and persons are returned more or less to where they were at the start. Finally, in accordance with her uninflected, task-based approach to dance, she instructs participants not to take her use of words such as “carry” and “pass” as “points of departure for free association or creative improvisation, or interpretation, but rather as directives for very specific behavior and activity.”"
@@ -7613,9 +7613,9 @@ object_list:
     people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Cleaning of *Trio A*, Portland, Oregon"
-    date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 2000s"
+    date_sort: "2000-01-01"
+    year_filter: [ "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009" ]
     medium: "video, 184:25"
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 123, item V124"
     extended_caption: "Here, Yvonne Rainer instructs two solo dancers who are rehearsing [*Trio A*](/image-index/440/) (1966). The dancers have already memorized the basic outline of the movements, and so Rainer focuses on fine-tuning their continuity of line and managing the harshness and rigidity of individual movements. Fluidity of motion and maintaining a natural affect are critical. The dancers unwittingly overemphasize each individual position in their rehearsal, whereas Rainer desires a fluid performance without clear distinction between the individual positions of the limbs. Toward the beginning of the recording, she spends several minutes clarifying a single motion: the drop of the right leg into a falling lean. “It is not a [parallel] passé,” she says, referring to the specialized vocabulary of ballet. Rather, using quotidian language, she describes it as a more fluid motion of the foot down to the ground by the left foot, preceded by a momentary suspension and followed by a fall forward. The whole gesture should be executed with an emphasis on cultivating and moving with the body’s organic, unexaggerated momentum."
@@ -8039,9 +8039,9 @@ object_list:
     people: [ "Rainer, Yvonne" ]
     more_people: ""
     title: "Notes on equivalencies and objects"
-    date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date: "ca. early 1960s"
+    date_sort: "1961-01-01"
+    year_filter: [ "1961", "1962", "1963", "1964", "1965" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 31.b, folder 20"
     extended_caption: "These brief notes offer insight into Yvonne Rainer’s thinking about how the performance of task-like activities can reorient our perception of the dancing body. She writes, “If one is skillful and sensitive one can redistribute the ‘load’ that physical presence carries so that previously charged material becomes uncharged and previously innocuous or banal material becomes fraught with tension, anxiety, expectation.”"
@@ -8298,7 +8298,7 @@ object_list:
     more_people: ""
     title: "*George Maciunas Performs The Identical Lunch*"
     date: "1969, realized 1973"
-    date_sort: "1969-01-01"
+    date_sort: "1973-01-01"
     year_filter: [ "1969", "1973" ]
     medium: "screenprint with hand additions"
     location: ""
@@ -8349,7 +8349,7 @@ object_list:
     more_people: ""
     title: "*Anne Brazeau Performs The Identical Lunch*"
     date: "1969, realized 1973"
-    date_sort: "1969-01-01"
+    date_sort: "1973-01-01"
     year_filter: [ "1969", "1973" ]
     medium: "screenprint with hand additions"
     location: ""
@@ -8383,9 +8383,9 @@ object_list:
     people: [ "Knowles, Alison", "Lockwood, Anna (Annea)", "Brown, Jean" ]
     more_people: ""
     title: "Letter from Alison Knowles to Jean Brown"
-    date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date: "1973"
+    date_sort: "1973-01-01"
+    year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 36"
     extended_caption: "Alison Knowles’s career as an artist began before the onset of the women’s liberation movement of the 1960s. In retrospect, she and others have identified a feminist impulse in her early work that involved making and serving food. But her sense of herself as a woman artist, one who might seek out collaborations and solidarities with other women, emerged after teaching at CalArts in the early 1970s, where Judy Chicago and Miriam Schapiro developed the Feminist Art Program. As she recalled later in an interview with former student Aviva Rahmani, Knowles’s experience at CalArts “forced me to take a harder look at myself and what my own history had been” (Aviva Rahmani, “Alison Knowles: An Interview,” in *M/E/A/N/I/N/G: An Anthology of Artists’ Writings, Theory, and Criticism*, ed. Susan Bee and Mira Schor [Durham, NC: Duke University Press, 2000], 364). Still, Knowles remained committed to collaborating with and mentoring artists of all genders, and this led to her occasional feeling of estrangement from the Feminist Art Program, which insisted on women-only cohorts and curricula. In this letter to collector Jean Brown, written sometime after Knowles returned to New York from California, one can see Knowles’s excitement about creating both a women’s household with Bici Forbes (Nye Ffarrabas), and a women’s avant-garde publication with Anna (now Annea) Lockwood. At the same time, however, Knowles stakes a position in opposition to “the partisanship within the women’s movement.” The [*Womens Work*](/image-index/497/) magazine she pitches here came to fruition in 1975; a second issue was published in 1978."
@@ -8417,9 +8417,9 @@ object_list:
     people: [ "Knowles, Alison" ]
     more_people: ""
     title: "“how two beans are alike and how are they different. no two beans are altogether alike or altogether different”"
-    date: "n.d."
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1980"
+    date_sort: "1980-01-01"
+    year_filter: [ "1980" ]
     medium: "three dried beans in a wax paper package"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 37"
     extended_caption: ""
@@ -8486,8 +8486,8 @@ object_list:
     more_people: ""
     title: "Xerox of “Alison Knowles,” in Miriam Shapiro’s *Art: A Woman’s Sensibility* (Valencia, CA: CalArts, 1975), 36"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1975-01-01"
+    year_filter: [ "1975" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 38"
     extended_caption: "Alison Knowles’s career as an artist predated the women’s movement. In retrospect, she and others have identified a feminist impulse in her early work with making and serving food. But her sense of herself as a woman artist, who might seek out collaborations and solidarities with other women, emerged after teaching at CalArts in the early 1970s, where Judy Chicago and Miriam Schapiro developed the Feminist Art Program, site of the *Womanhouse* project alluded to here. As Knowles recalled later in an interview with her former student Aviva Rahmani, Knowles’s experience at CalArts “forced me to take a harder look at myself and what my own history had been” (Aviva Rahmani, “Alison Knowles: An Interview,” in *M/E/A/N/I/N/G: An Anthology of Artists’ Writings, Theory, and Criticism*, ed. Susan Bee and Mira Schor [Durham, NC: Duke University Press, 2000], 364)."
@@ -8519,9 +8519,9 @@ object_list:
     people: [ "Knowles, Alison", "Lockwood, Anna", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
     more_people: [ "Oliveros, Pauline" ]
     title: "Announcement for *Womens Work*, “a magazine of performance scores by contemporary women artists”"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1975"
+    date_sort: "1975-01-01"
+    year_filter: [ "1975" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 39"
     extended_caption: "Alison Knowles’s career as an artist began before the onset of the women’s liberation movement of the 1960s. In retrospect, she and others have identified a feminist impulse in her early work that involved making and serving food. But her sense of herself as a woman artist, one who might seek out collaborations and solidarities with other women, emerged after teaching at CalArts in the early 1970s, where Judy Chicago and Miriam Schapiro developed the Feminist Art Program. As she recalled later in an interview with former student Aviva Rahmani, Knowles’s experience at CalArts “forced me to take a harder look at myself and what my own history had been” (Aviva Rahmani, “Alison Knowles: An Interview,” in *M/E/A/N/I/N/G: An Anthology of Artists’ Writings, Theory, and Criticism*, ed. Susan Bee and Mira Schor [Durham, NC: Duke University Press, 2000], 364). When she returned to New York, Knowles became friends with the composer Annea (then Anna) Lockwood, and together they put together *Womens Work*, a magazine of avant-garde scores written by women artists from around the world. Two issues were published, one in 1975 and another in 1978."
@@ -8587,9 +8587,9 @@ object_list:
     people: [ "Knowles, Alison", "Maciunas, George" ]
     more_people: ""
     title: "Letter from Alison Knowles to George Maciunas about macrobiotic diets"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1977"
+    date_sort: "1977-01-01"
+    year_filter: [ "1977" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 11"
     extended_caption: ""
@@ -8604,9 +8604,9 @@ object_list:
     people: [ "Knowles, Alison", "Williams, Emmett" ]
     more_people: ""
     title: "Note from Alison Knowles to Emmett Williams on verso of “Wheat Hearts” cardboard label"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 55, folder 14"
     extended_caption: ""
@@ -8672,9 +8672,9 @@ object_list:
     people: [ "Knowles, Alison" ]
     more_people: ""
     title: "Alison Knowles tasting soup"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1970s"
+    date_sort: "1970-01-01"
+    year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
     medium: ""
     location: "Getty Research Institute, Dick Higgins Papers, 870613, box 18, folder 54"
     extended_caption: ""
@@ -8723,9 +8723,9 @@ object_list:
     people: [ "Tudor, David" ]
     more_people: ""
     title: "Recipe for Lime Pickle"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: "typed index card"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 99, folder 2"
     extended_caption: "At a time when mainstream restaurants serving international foods were relatively uncommon, David Tudor shared an enthusiasm for cooking international cuisines with John Cage. In a 1987 interview with Peter Dickinson, Tudor compared cooking Indian food to the transformations of mentality required by Cage’s chance-derived scores. During the 1960s, when short, typewritten event scores became a salient mode of experimentation, Tudor’s archive of recipes appear remarkably score-like, in a way that echoes [Knowles’s focus on everyday food preparation](/image-index/479/) as material for performances."
@@ -8740,9 +8740,9 @@ object_list:
     people: [ "Tudor, David" ]
     more_people: ""
     title: "Recipe for Buttermilk"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    date: "ca. 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
     medium: "blue ink in black notebook"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 99, folder 1"
     extended_caption: "At a time when mainstream restaurants serving international foods were relatively uncommon, David Tudor shared an enthusiasm for cooking international cuisines with John Cage. In a 1987 interview with Peter Dickinson, Tudor compared cooking Indian food to the transformations of mentality required by Cage’s chance-derived scores. During the 1960s, when short, typewritten event scores became a salient mode of experimentation, Tudor’s archive of recipes appear remarkably score-like, in a way that echoes [Knowles’s focus on everyday food preparation](/image-index/479/) as material for performances."
@@ -8758,8 +8758,8 @@ object_list:
     more_people: [ "Williams, Emmett", "Corner, Philip" ]
     title: "*Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971)"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1971-01-01"
+    year_filter: [ "1971" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 91-B35085"
     extended_caption: ""
@@ -8775,8 +8775,8 @@ object_list:
     more_people: ""
     title: "*The Identical Lunch* (San Francisco: Nova Broadcast Press, 1973)"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1973-01-01"
+    year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 94-B16117"
     extended_caption: "Alison Knowles has always shared authorship of *The Identical Lunch* with the composer Philip Corner. As she writes in the introduction to this book, “Philip midwifed if not actually preconceived *The Identical Lunch*. . . .He caught me eating the same lunch at the same time at the same place each day. From that day on, the experience was elevated into a formal score.” Inspired by Knowles’s formalization, performance, and documentation of eating the lunch, Corner, in turn, undertook a parallel project at Riss Foods. He decided to realize Knowles’s score by ordering everything on the menu, “starting from ‘tunafish,’ which is the third down on the board, mov[ing] down the left, then up the right side of that board, and then on to the other boards which offer, for example, hot plates, salads, etc.” Many complications ensue and ethical decisions have to be made as the diner menu is rewritten and inconsistencies appear. Corner records his thinking about all that in this book, which sometimes addresses Knowles directly, thereby staging a conversation of sorts between this book and Knowles’s [*Journal of the Identical Lunch*](/image-index/511/)."
@@ -8808,9 +8808,9 @@ object_list:
     people: [ "Knowles, Alison" ]
     more_people: ""
     title: "“Collections from the Full Moon” poster"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    date: "1974"
+    date_sort: "1974-01-01"
+    year_filter: [ "1974" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, oversize 7**"
     extended_caption: ""
@@ -9081,8 +9081,8 @@ object_list:
     more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "Cover of *Spatial Poem* (Osaka: self-published, 1976)"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1976-01-01"
+    year_filter: [ "1976" ]
     medium: "artist’s book"
     location: "Getty Research Institute, item 91-B36111"
     extended_caption: "This book, “dedicated to the people of the 30th century,” collects all the reports received for *Spatial Poem No. 1* through *Spatial Poem No. 9*. Most of the reports are arrayed around map-like representations of the Earth. The layouts for <a class='ref' data-figure-id='fig-530-h' data-region='' data-annotation-ids=''>*No. 1*</a> and <a class='ref' data-figure-id='fig-530-p' data-region='' data-annotation-ids=''>*No. 2*</a> in particular recall and yet also modify George Maciunas’s original designs for the related object editions that had been previously published. This publication marked the end of Mieko Shiomi’s groundbreaking, decade-long, globally networked endeavor. In more recent years, she has revived the *Spatial Poem* series by inviting later generations of participants to interpret her instructions anew."
@@ -9098,8 +9098,8 @@ object_list:
     more_people: [ "Kosugi, Takehisa", "Zazeela, Marian" ]
     title: "“Mieko Shiomi,” *Art and Artists* 8, no. 7 (1973): 42–45"
     date: ""
-    date_sort: ""
-    year_filter: ""
+    date_sort: "1973-01-01"
+    year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, item 87-S1567"
     extended_caption: "This well-illustrated artist’s statement, published in the London arts magazine *Art and Artists*, stands as one of Mieko Shiomi’s most extensive statements to be published in English during the period of her career on which *The Scores Project* focuses. The text elaborates on the origins of the [*Spatial Poem*](/image-index/530/) series (1965–75) and Shiomi’s understanding of the term intermedia, and it offers reflections on her experience as a woman artist."

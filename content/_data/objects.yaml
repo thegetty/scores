@@ -9004,7 +9004,7 @@ object_list:
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: 
     type: [ artwork ]
-    figure: [ id: "fig-525" ]
+    figure: [ id: "fig-525-a", id: "fig-525-b" ]
 -
     id: "526"
     old_id: "10.19"
@@ -9344,7 +9344,7 @@ object_list:
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-545" ]
+    figure: [ id: "fig-545-a", id: "fig-545-b" ]
 -
     id: "546"
     old_id: "10.38"
@@ -9744,23 +9744,24 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-568" ]
--
-    id: "569"
-    old_id: "11.11"
-    maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
-    more_people: [ "Sullivan, Michael", "Johnson, Sue", "Hauck, David" ]
-    title: "Opening shot of *Routine*"
-    date: "1973"
-    date_sort: "1973-01-01"
-    year_filter: [ "1973" ]
-    medium: "1 film reel: 16mm, SD, b&w"
-    location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46"
-    extended_caption: "Directed by Michael Sullivan, with performers Sue Johnson and David Hauck. Produced by the Portland Center for the Visual Arts with funds from the National Endowment for the Arts."
-    credit: ""
-    featured: 
-    type: [ video ]
-    figure: [ id: "fig-569" ]
+# REMOVED -- Dupe of 574
+# -
+#     id: "569"
+#     old_id: "11.11"
+#     maker: [ "Allan Kaprow (American, 1927–2006)" ]
+#     people: [ "Kaprow, Allan" ]
+#     more_people: [ "Sullivan, Michael", "Johnson, Sue", "Hauck, David" ]
+#     title: "Opening shot of *Routine*"
+#     date: "1973"
+#     date_sort: "1973-01-01"
+#     year_filter: [ "1973" ]
+#     medium: "1 film reel: 16mm, SD, b&w"
+#     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46"
+#     extended_caption: "Directed by Michael Sullivan, with performers Sue Johnson and David Hauck. Produced by the Portland Center for the Visual Arts with funds from the National Endowment for the Arts."
+#     credit: ""
+#     featured: 
+#     type: [ video ]
+#     figure: [ id: "fig-569" ]
 -
     id: "570"
     old_id: "11.12"
@@ -9778,23 +9779,24 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-570" ]
--
-    id: "571"
-    old_id: "11.14"
-    maker: [ "Allan Kaprow (American, 1927–2006)" ]
-    people: [ "Kaprow, Allan" ]
-    more_people: [ "Kirby, Peter" ]
-    title: "Opening shot of *7 Kinds of Sympathy*"
-    date: "1976"
-    date_sort: "1976-01-01"
-    year_filter: [ "1976" ]
-    medium: "U-matic videocassette, SD, color, 3/4-inch tape"
-    location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V37"
-    extended_caption: "Produced by Peter Kirby and by Anna Canepa Video Distribution."
-    credit: ""
-    featured: 
-    type: [ video ]
-    figure: [ id: "fig-571" ]
+# REMOVED -- Dupe of 576
+# -
+#     id: "571"
+#     old_id: "11.14"
+#     maker: [ "Allan Kaprow (American, 1927–2006)" ]
+#     people: [ "Kaprow, Allan" ]
+#     more_people: [ "Kirby, Peter" ]
+#     title: "Opening shot of *7 Kinds of Sympathy*"
+#     date: "1976"
+#     date_sort: "1976-01-01"
+#     year_filter: [ "1976" ]
+#     medium: "U-matic videocassette, SD, color, 3/4-inch tape"
+#     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V37"
+#     extended_caption: "Produced by Peter Kirby and by Anna Canepa Video Distribution."
+#     credit: ""
+#     featured: 
+#     type: [ video ]
+#     figure: [ id: "fig-571" ]
 -
     id: "572"
     old_id: "11.15"

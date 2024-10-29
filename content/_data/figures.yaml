@@ -761,7 +761,7 @@ figure_list:
     media_id: 
     link: /image-index/348/
     label: "Fig. 6.8"
-    caption: "George Brecht (American, 1926–2008). *Water Yam*, 1963, wooden box with label; box contains ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
+    caption: "George Brecht (American, 1926–2008). *Water Yam*, 1963, wooden box with label; box cogntains ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     alt: "Top view of wooden box dominated by a white label with large black letters that read “Water Yam.” Smaller text surrounding reads “FLUXUS C” and “ARRANGED BY GEORGE BRECHT.” Hinged wooden box open to reveal stacked cardstock. Top page is white cardstock printed with “Drip Music” event score."
 -
@@ -1675,10 +1675,10 @@ figure_list:
     alt: ""
 -
     id: "fig-020"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
+    src: embeds/sampler-feldman.html
+    zoom: 
+    poster: figures/sampler-feldman/poster.jpg
+    media_type: table
     media_id: 
     label: ""
     alt: ""
@@ -10638,15 +10638,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Horizontal cream page with three evenly spaced vertical creases containing black handwritten text in English. Left three quarters of page contain title “Solo,” “Décollage Piece - 1961,” and “for Wolf Vostell” on three separate lines at top center followed by one paragraph that runs the length of the page. Right quarter of page contains continuation of paragraph on left portion followed by Patterson’s signature, the date, and one final paragraph."
--
-    id: "fig-211"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "White paper flyer with black printed text in German. Top contains two lines of text “Wolf Véstell decollages collages ausstellung 15.5-28.5 1961” followed by blank space until several lines of text begin just below center listing works to be performed. Location of performance at bottom of page. "
+# REMOVED
+# -
+#     id: "fig-211"
+#     src: placeholder.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "White paper flyer with black printed text in German. Top contains two lines of text “Wolf Véstell decollages collages ausstellung 15.5-28.5 1961” followed by blank space until several lines of text begin just below center listing works to be performed. Location of performance at bottom of page. "
 -
     id: "fig-212-a"
     src: figures/p27023_890164_b39_i_39_32_situations_pianos_1.jpg
@@ -11972,56 +11973,62 @@ figure_list:
     alt: "Cream envelope turned to show flap. “Composition 1960 #9 La Monte Young October 1960” and three lines of text printed in black at center."
 -
     id: "fig-239"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/Micro1_TashiWada.jpg
+    media_type: vimeo
+    media_id: 1021314201/1d7c45151e
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing a live microphone on stand set up outdoors on museum plaza. Man approaches with a length of butcher paper which he quickly wraps around the microphone, thereby making loud, crunching sounds. He stands aside to listen for further sounds; the breeze and a quiet feedback tone can be heard."
 -
     id: "fig-240"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/HandbookInMotion_SimoneForti.jpg
+    media_type: vimeo
+    media_id: 1021315589/9486eb6b95
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing elderly woman wearing glasses, light pink beret, white jacket, and a barely visible headset microphone sits at a table set up outdoors on museum plaza. She reads excerpts of personal narratives from a book that she wrote, and the audience shows their appreciation with occasional gentle laughter."
 -
     id: "fig-241"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/EarPiece_EzraBuchla.jpg
+    media_type: vimeo
+    media_id: 1021315325/903f2dc5c2
+    aspect_ratio: widescreen
     label: ""
     alt: "[Do we have footage of this?%%%author highlighting%%%]"
 -
     id: "fig-242"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/45ForASpeaker_JuliaHolter.jpg
+    media_type: vimeo
+    media_id: 1021316994/567245fdee
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing middle-aged woman with long, dark hair wearing a black turtleneck sits at a table set up outdoors on museum plaza with a microphone set in front of her on the table. She reads in a brisk, uninflected manner—occasionally whispering—from a book of texts by John Cage."
 -
     id: "fig-243"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/Asymmetry222_PhoebeBerglund_AndrosZinsBrowne.jpg
+    media_type: vimeo
+    media_id: 1021441768/0f85d0f7d0
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing woman wearing all black standing outdoors, holding a long white rope that is partially entangled around her, and she uses her arms to entangle her body further. She is approached by a man in white shirt and dark pants who also wears a tangled rope. They touch hands and begin to entwine their bodies while taking various standing and crouching positions while always holding or touching hands. Eventually they spin and then break apart to regard each other from a distance. They crawl on the floor in parallel and then eventually stand up and walk away, holding hands."
 -
     id: "fig-244"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/Micro1_EzraBuchla.jpg
+    media_type: vimeo
+    media_id: 1021443538/1b93c463be
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing man wearing all black sitting outdoors at a table with electronic sound equipment on it. He wraps lengths of butcher paper around his head so that eventually he cannot see, while around his neck drapes a contact microphone that amplifies the sounds in a grating manner. Once his head is completely wrapped, he sits in near silence."
 -
@@ -12035,47 +12042,52 @@ figure_list:
     alt: "Color video showing a man wearing all black and holding a violin. He stands outdoors on a museum plaza, in the center of a square performance area demarcated by lines of red tape on the ground. Around him and inside the square area appear randomly placed shorter lengths of red tape positioned perpendicularly to one another. He plays a series of brief yet sustained tones on the violin, many with overtones, and occasionally moves to other parts of the performance area."
 -
     id: "fig-247"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/December1952_CoreyFogel_LuisaMuhr.jpg
+    media_type: vimeo
+    media_id: 1021446073/001599b90c
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing a man and a woman wearing street clothes positioned within a square performance area demarcated by lines of red tape on the ground. Inside the square area appear randomly placed shorter lengths of red tape positioned perpendicularly to one another. The performers each have a vibraphone on wheels that they push around the performance area and with which they make spare, occasional tones. The woman sometimes makes abstract sustained tones with her voice, walks around the performance area, and lies down on the ground and on top of the xylophone. The xylophones’ wheels make scraping sounds against the ground as they are being moved."
 -
     id: "fig-248"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/December1952_CeliaHollander.jpg
+    media_type: vimeo
+    media_id: 1021446744/40e6814c13
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing a woman wearing a yellow jacket and white baseball cap standing outdoors on a museum plaza, and positioned at the back of a square performance area demarcated by lines of red tape on the ground. Inside the square area appear randomly placed shorter lengths of red tape positioned perpendicularly to one another. In front of the woman is a small table with a laptop and mixing board on it. She uses her hands to manipulate the electronics, which make an abstract soundscape of clicks, beeps, and brief drones that sound like aircraft passing by. At one point, three children run into the performance area to get a closer look. "
 -
     id: "fig-249"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/MotorVehicleSundownEvent_Various.jpg
+    media_type: vimeo
+    media_id: 1021318500/7e7a332c1d
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing four vehicles positioned outdoors on a museum plaza at sunset: a white pickup truck, small utility vehicle, Volkswagen Beetle, and Volkswagen van. One performer enters each vehicle and starts its engine. In random order, the vehicles’ engines rev, lights and radios turn on and off, windshield wipers turn on and off, doors open and close, and horns honk. The performer in the Beetle occasionally sounds a hand-operated air raid siren. The light around gradually darkens as the sun goes down."
 -
     id: "fig-250"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/OnionWalk_SimoneForti.jpg
+    media_type: vimeo
+    media_id: 1021317455/0dbe5890ab
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing a purple onion balanced on the mouth of a green wine bottle that is set on top of a wooden stool that is standing outdoors in front of a decorative stone fountain. An elderly woman in a wheelchair watches the onion and bottle carefully and at one point offers it a friendly wave. "
 -
     id: "fig-251"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/BeachCrawl_Berglund.jpg
+    media_type: vimeo
+    media_id: 1021755307/eae2b1918a
+    aspect_ratio: widescreen
     label: ""
     alt: "Color video showing nine performers wearing warm street clothes and kneepads moving around a rocky beach with the New York City skyline in the background. They collect and compare small rocks, hit rocks together to make sounds, crawl slowly across the sand in unison, throw rocks into the water, rest in small groups, raise their hands toward the sun, and carry one another as they walk away. At one point a woman displays some rocks in her hands as we hear a voice say, “Well that’s new isn’t it?” The soundtrack is a wandering landscape of synthesizer tones that are mostly harmonious but with some moments of dissonance."
 -
@@ -14645,13 +14657,20 @@ figure_list:
     alt: "Event scores printed on blank cardstock at a scale similar to or smaller than an index card. Many with title in capital letters at top left followed by bulleted or numbered text instructions. Some instructions are only a few words long; a rare few cards include also basic illustrations drawn from vintage instruction manuals."
 -
     id: "fig-348"
-    src: placeholder.jpg
+    src: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: "Top view of wooden box dominated by a white label with large black letters that read “Water Yam.” Smaller text surrounding reads “FLUXUS C” and “ARRANGED BY GEORGE BRECHT.” Hinged wooden box open to reveal stacked cardstock. Top page is white cardstock printed with “Drip Music” event score."
+    sequences:
+      - id: "figures/sequences/348/"
+        start: WaterYam_076.jpg
+        behavior:
+          - continuous
+          - sequence
+        regex: /WaterYam_\d{3}\.jpg/
 -
     id: "fig-349"
     src: placeholder.jpg
@@ -14663,11 +14682,12 @@ figure_list:
     alt: ""
 -
     id: "fig-350"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/water-yam-unboxing.jpg
+    media_type: vimeo
+    media_id: 1021448270/fa79ee3573
+    aspect_ratio: widescreen
     label: ""
     alt: ""
 -
@@ -19436,7 +19456,23 @@ figure_list:
     label: ""
     alt: "Square-shaped light yellow cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.9 disappearing event” followed by six lines of text instructions, three bulleted points on documentation of a performance, and Shiomi’s return address. Utilizes large margins."
 -
-    id: "fig-525"
+    id: "fig-525-a"
+    src: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+    sequences:
+      - id: "figures/sequences/525/"
+        start: "SpatialPoem_011.jpg"
+        behavior:
+          - continuous
+          - sequence
+        regex: /SpatialPoem_\d{3}\.jpg/
+-
+    id: "fig-525-b"
     src: figures/grl_890164-b225.jpg
     zoom: true
     poster: 
@@ -19455,13 +19491,21 @@ figure_list:
     alt: ""
 -
     id: "fig-527"
-    src: figures/ShiomiMieko_SpatialPoem3_falling.jpg
+    src: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: ""
+    sequences:
+      - id: "figures/sequences/527/"
+        start: gri_890164_b223_001_mm.jpg
+        behavior:
+          - continuous
+          - sequence
+        regex: /gri_890164_b223_\d{3}_mm\.jpg/
+        frame_distance: 100
 -
     id: "fig-528"
     src: figures/fig-528_AR832708.jpg
@@ -19473,13 +19517,21 @@ figure_list:
     alt: ""
 -
     id: "fig-529"
-    src: placeholder.jpg
+    src: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: ""
+    sequences:
+      - id: "figures/sequences/529/"
+        start: r2014928_890164_b219_001.jpg
+        behavior:
+          - continuous
+          - sequence
+        regex: /r2014928_890164_b219_\d{3}\.jpg/
+        frame_distance: 100
 -
     id: "fig-530-a"
     src: figures/gri_91_b36111_001_mm.jpg
@@ -20489,7 +20541,16 @@ figure_list:
     label: ""
     alt: "Grey, white-flecked page with black handwritten text in English containing one paragraph of text on top half of page. Bottom half of page is blank save a two sentence post-script. Paginated 4 at top right. "
 -
-    id: "fig-545"
+    id: "fig-545-a"
+    src: figures/r2017583_890164_b31_f30_001.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-545-b"
     src: figures/r2014557_890164_b31_f30_017.jpg
     zoom: true
     poster: 
@@ -20759,15 +20820,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Landscape-oriented black and white photograph with a woman at the center of the frame holding a full-body mirror outdoors in a parking lot. Reflection shows man with hands raised overhead. "
--
-    id: "fig-569"
-    src: placeholder.jpg
-    zoom: true
-    # poster: figures/KaprowRoutineFilmClip_1.jpg
-    # media_type: vimeo
-    media_id: 
-    label: ""
-    alt: "Black screen with “‘Routine’ by Allan Kaprow” in bold all-capitalized white text with male voiceover."
+# REMOVED
+# -
+#     id: "fig-569"
+#     src: placeholder.jpg
+#     zoom: true
+#     # poster: figures/KaprowRoutineFilmClip_1.jpg
+#     # media_type: vimeo
+#     media_id: 
+#     label: ""
+#     alt: "Black screen with “‘Routine’ by Allan Kaprow” in bold all-capitalized white text with male voiceover."
 -
     id: "fig-570"
     src: 
@@ -20778,15 +20840,16 @@ figure_list:
     aspect_ratio: standard
     label: ""
     alt: ""
--
-    id: "fig-571"
-    src: placeholder.jpg
-    zoom: true 
-    # poster: figures/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
-    # media_type: vimeo
-    media_id: 
-    label: ""
-    alt: "Male voiceover accompanied by bluish-white field of color in a 4:3 format. Title card with “7 Kinds of Sympathy” at center in bold all-capitalized white text atop solid blue background appears when voiceover concludes. "
+# REMOVED    
+# -
+#     id: "fig-571"
+#     src: placeholder.jpg
+#     zoom: true 
+#     # poster: figures/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
+#     # media_type: vimeo
+#     media_id: 
+#     label: ""
+#     alt: "Male voiceover accompanied by bluish-white field of color in a 4:3 format. Title card with “7 Kinds of Sympathy” at center in bold all-capitalized white text atop solid blue background appears when voiceover concludes. "
 -
     id: "fig-572-a"
     src: figures/gri_980063_b24_f09_009_mm.jpg
@@ -22679,7 +22742,7 @@ figure_list:
     alt: "Yellow lined page with over twenty handwritten titles in black and red pen. "
 -
     id: "fig-634-a"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22688,7 +22751,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and the right at right with shot information. Text handwritten in red pen. “Detail Shot Script” at center of top margin. "
 -
     id: "fig-634-b"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_002.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22697,7 +22760,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-c"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_003.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22706,7 +22769,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-d"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_004.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22715,7 +22778,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-e"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_005.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22724,7 +22787,7 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-f"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_006.jpg
     zoom: true
     poster: 
     media_type: 
@@ -22733,68 +22796,10 @@ figure_list:
     alt: "Yellow lined page with three columns running length of the page, the leftmost in the margin with ascending numbers, the middle at left with times in seconds, and right at right with shot information. Text handwritten in red pen."
 -
     id: "fig-634-g"
-    src: placeholder.jpg
+    src: figures/r2017583_980063_b28_f3_007.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: "Yellow lined page with list of eight names at top, all with different hand in red pen. Notes to right of list assigning pairs. Same list of names at bottom in black pen. “Participants” above list. "
--
-    id: "fig-348-sequence"
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Top view of wooden box dominated by a white label with large black letters that read “Water Yam.” Smaller text surrounding reads “FLUXUS C” and “ARRANGED BY GEORGE BRECHT.” Hinged wooden box open to reveal stacked cardstock. Top page is white cardstock printed with “Drip Music” event score."
-    sequences:
-      - id: "figures/sequences/348/"
-        behavior:
-          - continuous
-          - sequence
-        regex: /WaterYam_\d{3}\.jpg/
--
-    id: "fig-525-sequence"
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
-    sequences:
-      - id: "figures/sequences/525/"
-        behavior:
-          - continuous
-          - sequence
-        regex: /SpatialPoem_\d{3}\.jpg/
--
-    id: "fig-527-sequence"
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
-    sequences:
-      - id: "figures/sequences/527/"
-        behavior:
-          - continuous
-          - sequence
-        regex: /gri_890164_b223_\d{3}_mm\.jpg/
-        frame_distance: 100
--
-    id: "fig-529-sequence"
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
-    sequences:
-      - id: "figures/sequences/529/"
-        behavior:
-          - continuous
-          - sequence
-        regex: /r2014928_890164_b219_\d{3}\.jpg/
-        frame_distance: 100

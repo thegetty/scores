@@ -1,0 +1,87 @@
+<style type="text/css">
+.music-sampler {
+  max-width: 80vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0;
+}
+.play-modes {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.play-modes button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-width: 0;
+  border-radius: 8px;
+}
+.play-modes button.active {
+  background-color: #ff0043;
+  color: white;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(6, calc((100% - 50px) / 6));
+  grid-template-rows: repeat(2, calc((100% - 10px) / 2));
+  gap: 10px;
+  width: 100%;
+  height: calc(80vh - 100px); /* Adjusting for button height and padding */
+}
+.grid-item {
+  cursor: pointer;
+  transition: transform 0.2s;
+  text-align: center;
+  display: flex;
+}
+.grid-item.hover:hover {
+  transform: scale(0.9);
+}
+.grid-item.click:active, .grid-item.key.active {
+  transform: scale(0.9);
+}
+.grid-item img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 8px;
+  position: relative;
+  width: auto;
+  height: auto;
+  top: initial;
+  left: initial;
+  transform: initial;
+}
+.grid-item:nth-child(-n+6) img {
+  margin-top: auto;
+}
+.grid-item:nth-child(n+7) img {
+  margin-bottom: auto;
+}
+</style>
+<div class="music-sampler">
+  <div class="grid">
+    <!-- Grid items (up to 12) -->
+    <div class="grid-item" data-audio="Feldman_1.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_1.jpg" alt="Sample 1"></div>
+    <div class="grid-item" data-audio="Feldman_2.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_2.jpg" alt="Sample 2"></div>
+    <div class="grid-item" data-audio="Feldman_3.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_3.jpg" alt="Sample 3"></div>
+    <div class="grid-item" data-audio="Feldman_4.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_4.jpg" alt="Sample 4"></div>
+    <div class="grid-item" data-audio="Feldman_5.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_5.jpg" alt="Sample 5"></div>
+    <div class="grid-item" data-audio="Feldman_6.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_6.jpg" alt="Sample 6"></div>
+    <div class="grid-item" data-audio="Feldman_7.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_7.jpg" alt="Sample 7"></div>
+    <div class="grid-item" data-audio="Feldman_8.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_8.jpg" alt="Sample 8"></div>
+    <div class="grid-item" data-audio="Feldman_9.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_9.jpg" alt="Sample 9"></div>
+    <div class="grid-item" data-audio="Feldman_10.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_10.jpg" alt="Sample 10"></div>
+    <div class="grid-item" data-audio="Feldman_11.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_11.jpg" alt="Sample 11"></div>
+    <div class="grid-item" data-audio="Feldman_12.mp3"><img src="/_assets/images/figures/sampler-feldman/Feldman_12.jpg" alt="Sample 12"></div>
+  </div>
+  <div class="play-modes">
+    <button id="click-play-mode" class="active">Click</button>
+    <button id="hover-play-mode">Hover</button>
+    <button id="key-play-mode">Keyboard</button>
+  </div>
+</div>

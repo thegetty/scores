@@ -60,10 +60,6 @@ archive:
     - heading: "Correspondence"
       objects:
         - id: "369"
-        - id: "370"
-        - id: "371"
-        - id: "372"
-        - id: "373"
         - id: "375"
         - id: "396"
         - id: "397"

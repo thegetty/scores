@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Added support for HTML5 `audio` media_type
+// Uses rc.17 version of code, adds support for HTML5 `audio` media_type
 //
 const { html } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
@@ -21,7 +21,7 @@ const logger = chalkFactory('Figure Video')
 module.exports = function (eleventyConfig) {
   const figureMediaEmbedUrl = eleventyConfig.getFilter('figureMediaEmbedUrl')
   
-  return function({ id, mediaId, mediaType }) {
+  return function({ id, mediaId, mediaType, lazyLoading }) {
     if (!mediaId) {
       logger.error(`Cannot render SoundCloud component without 'media_id'. Check that figures data for id: ${id} has a valid 'media_id'`)
       return ''
@@ -33,6 +33,7 @@ module.exports = function (eleventyConfig) {
         <audio 
           controls
           src="/_assets/images/${mediaId}"
+          loading="${ lazyLoading ?? 'lazy' }"
         ></audio>`
     
     } else {
@@ -43,6 +44,7 @@ module.exports = function (eleventyConfig) {
           allow="autoplay"
           frameborder="no"
           height="166"
+          loading="${ lazyLoading ?? 'lazy' }"
           scrolling="no"
           src="${embedUrl}"
           width="100%"

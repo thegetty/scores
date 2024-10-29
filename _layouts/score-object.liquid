@@ -15,7 +15,8 @@ description: Entry layout. This template is intended for use in catalogue-style 
 Entry content, including entry image and tombstone data
 {% endcomment %}
 
-<div {% if sideBySide == true or presentation == 'side-by-side' %} class="side-by-side" {% endif %}>
+<button id="quire-entry-view-toggle" onclick="toggleEntryContent()">Widescreen</button>
+<div id="quire-entry-view"{% if sideBySide == true or presentation == 'side-by-side' %} class="side-by-side" {% endif %}>
 
   {% comment %} Full-width entry image header {% endcomment %}
   <div class="quire-entry__image-wrap" data-outputs-include="html">
@@ -83,7 +84,7 @@ Entry content, including entry image and tombstone data
       </div>
     </header>
 
-    {% tombstone pageObjects %}
+    {% tombstone pageObjects key outputs page_pdf_output %}
 
     {% if abstract %}
       {% abstract abstract=abstract %}

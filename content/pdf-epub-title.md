@@ -12,16 +12,13 @@ toc: false
 
 <section class="scores-title-block">
 
-{%- if publication.title -%}
-  <h1 class="scores-title">{{ publication.title | markdownify }}
+<h1 class="scores-title">{{ publication.title | markdownify }}
   {% if publication.pdf_epub_subtitle %}<span class="scores-subtitle">{{ publication.pdf_epub_subtitle | markdownify }}</span>{% endif %}</h1>
-{%- endif -%}
 
-{%- if publication.contributor_as_it_appears -%}
-  <p class="scores-contributor">{{ publication.contributor_as_it_appears | markdownify }}</p>
-{%- else -%}
-  <p class="scores-contributor">{% contributors context=publicationContributors type="primary" format="string" %}</p>
-{%- endif -%}
+<div class="scores-contributor">
+<p>Edited by</p>
+{% contributors context=publicationContributors type="primary" format="name" %}
+</div>
 
 </section>
 

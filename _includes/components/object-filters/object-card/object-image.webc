@@ -1,6 +1,6 @@
  <!-- 
 CUSTOMIZED FILE
-Fixed source of thumbnails for audio and video
+Fixed source of thumbnails for audio, video, and tables/embeds
 -->
 <figure class="object-card__image" :data-field-name="attribute.name">
   <img :src="src(attributes)" :alt="alt(attributes)">
@@ -28,6 +28,8 @@ const src = ({ data }) => {
       thumbnail = figures.find(({ mediaType }) => mediaType === 'audio').poster
     } else if (figures.find(({ mediaType }) => mediaType === 'vimeo')) {
       thumbnail = figures.find(({ mediaType }) => mediaType === 'vimeo').poster
+    } else if (figures.find(({ mediaType }) => mediaType === 'table')) {
+      thumbnail = figures.find(({ mediaType }) => mediaType === 'table').poster
     }
   } else {
     thumbnail = data.thumbnail

@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Changed to just four links, consistent across all pages
+// Contents link is an anchor link on all pages except score object pages where it's a toggle
 //
 const { html } = require('~lib/common-tags')
 
@@ -8,7 +9,7 @@ module.exports = function() {
 
   return function (layout) {
 
-    const contentsAction = layout == 'score-object'
+    const contentsAction = (layout == 'score-object' || layout == 'score-object-cards')
       ? `onclick="toggleMenu()"`
       : `href="#site-menu"`
 

@@ -1,0 +1,805 @@
+config: 
+  tagsHeading: "Graph: "
+  secondaryTagsHeading: "Type: "
+
+card_list:
+-
+    file: gri_980039_b06_f11_001_mm.jpg
+    width: 10.00
+    height: 6.32
+    figNumber: fig-136-ag
+    title: Sketch and inventory for graph BB for the first realization of John Cage’s *Solo for Piano*
+    tags: BB
+    secondaryTags: sketch, inventory
+-
+    file: gri_980039_b07_f02_224_mm.jpg
+    width: 6.51
+    height: 10.00
+    figNumber: fig-136-bc
+    title: Table for graph BY for the first realization of John Cage’s *Solo for Piano*
+    tags: BY
+    secondaryTags: table
+-
+    file: gri_980039_b07_f02_225_mm.jpg
+    width: 6.47
+    height: 10.00
+    figNumber: fig-136-ch
+    title: Table for graph P for the first realization of John Cage’s *Solo for Piano*
+    tags: P
+    secondaryTags: table
+-
+    file: gri_980039_b07_f04_005_mm.jpg
+    width: 9.29
+    height: 10.00
+    figNumber: fig-136-cv
+    title: Notes for graphs AE, AB, and BK for the first realization of John Cage’s *Solo for Piano*
+    tags: AE, AB, BK
+    secondaryTags: note
+-
+    file: gri_980039_b07_f04_009_mm.jpg
+    width: 10.00
+    height: 6.36
+    figNumber: fig-136-bb
+    title: Sketches of graphs BX and Z for the first realization of John Cage’s *Solo for Piano*
+    tags: BX, Z
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_010_mm.jpg
+    width: 10.00
+    height: 6.33
+    figNumber: fig-136-ad
+    title: Sketch for graphs B and CD for the first realization of John Cage’s *Solo for Piano*
+    tags: B, CD
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_011_mm.jpg
+    width: 10.00
+    height: 6.38
+    figNumber: fig-136-ar
+    title: Sketches for graphs BN and I for the first realization of John Cage’s *Solo for Piano*
+    tags: BN, I
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_013_mm.jpg
+    width: 10.00
+    height: 6.37
+    figNumber: fig-136-bs
+    title: Sketch for graph H for the first realization of John Cage’s *Solo for Piano*
+    tags: H
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_014_mm.jpg
+    width: 10.00
+    height: 8.32
+    figNumber: fig-136-aq
+    title: Sketches for graphs BN and G for the first realization of John Cage’s *Solo for Piano*
+    tags: BN, G
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_016_mm.jpg
+    width: 10.00
+    height: 7.99
+    figNumber: fig-136-aa
+    title: Sketches for graph B for the first realization of John Cage’s *Solo for Piano*
+    tags: B
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_017_mm.jpg
+    width: 10.00
+    height: 8.06
+    figNumber: fig-136-x
+    title: Sketches for graph B for the first realization of John Cage’s *Solo for Piano*
+    tags: B
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_018_mm.jpg
+    width: 10.00
+    height: 6.85
+    figNumber: fig-136-ci
+    title: Sketches for graph Q for the first realization of John Cage’s *Solo for Piano*
+    tags: Q
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_019_mm.jpg
+    width: 10.00
+    height: 6.86
+    figNumber: fig-136-cj
+    title: Sketches for graph Q for the first realization of John Cage’s *Solo for Piano*
+    tags: Q
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_020_mm.jpg
+    width: 9.78
+    height: 10.00
+    figNumber: fig-136-ck
+    title: Sketches for graph Q for the first realization of John Cage’s *Solo for Piano*
+    tags: Q
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_021_mm.jpg
+    width: 9.76
+    height: 10.00
+    figNumber: fig-136-cm
+    title: Sketches for graphs Q and R for the first realization of John Cage’s *Solo for Piano*
+    tags: Q, R
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_022_mm.jpg
+    width: 9.57
+    height: 10.00
+    figNumber: fig-136-v
+    title: Sketches for graph AY for the first realization of John Cage’s *Solo for Piano*
+    tags: AY
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_023_mm.jpg
+    width: 9.53
+    height: 10.00
+    figNumber: fig-136-w
+    title: Sketches for graph AY for the first realization of John Cage’s *Solo for Piano*
+    tags: AY
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_024_mm.jpg
+    width: 9.76
+    height: 10.00
+    figNumber: fig-136-bf
+    title: Sketches of graphs CB, AI, and AV for the first realization of John Cage’s *Solo for Piano*
+    tags: CB, AI, AV
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_025_mm.jpg
+    width: 10.00
+    height: 9.20
+    figNumber: fig-136-j
+    title: Sketch for graph AG for the first realization of John Cage’s *Solo for Piano*
+    tags: AG
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_026_mm.jpg
+    width: 10.00
+    height: 9.25
+    figNumber: fig-136-k
+    title: Sketch for graph AG for the first realization of John Cage’s *Solo for Piano*
+    tags: AG
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_028_mm.jpg
+    width: 10.00
+    height: 8.43
+    figNumber: fig-136-bv
+    title: Sketches for graph J for the first realization of John Cage’s *Solo for Piano*
+    tags: J
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_029_mm.jpg
+    width: 10.00
+    height: 8.39
+    figNumber: fig-136-bu
+    title: Sketches for graph J for the first realization of John Cage’s *Solo for Piano*
+    tags: J
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_030_mm.jpg
+    width: 10.00
+    height: 8.43
+    figNumber: fig-136-bw
+    title: Sketches for graph J for the first realization of John Cage’s *Solo for Piano*
+    tags: J
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_031_mm.jpg
+    width: 10.00
+    height: 8.58
+    figNumber: fig-136-z
+    title: Sketches for graph B for the first realization of John Cage’s *Solo for Piano*
+    tags: B
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_032_mm.jpg
+    width: 10.00
+    height: 8.41
+    figNumber: fig-136-q
+    title: Sketches for graphs AT, BE, and BD for the first realization of John Cage’s *Solo for Piano*
+    tags: AT, BE, BD
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_033_mm.jpg
+    width: 10.00
+    height: 8.43
+    figNumber: fig-136-r
+    title: Sketches for graphs AT, BE, and BD for the first realization of John Cage’s *Solo for Piano*
+    tags: AT, BE, BD
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_034_mm.jpg
+    width: 10.00
+    height: 6.45
+    figNumber: fig-136-h
+    title: Sketches for graphs AF and AB for the first realization of John Cage’s *Solo for Piano*
+    tags: AF, AB
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_035_mm.jpg
+    width: 10.00
+    height: 6.49
+    figNumber: fig-136-i
+    title: Sketches for graphs AF and AB for the first realization of John Cage’s *Solo for Piano*
+    tags: AF, AB
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_036_mm.jpg
+    width: 10.00
+    height: 6.42
+    figNumber: fig-136-ae
+    title: Sketch for graph B and K for the first realization of John Cage’s *Solo for Piano*
+    tags: B, K
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_037_mm.jpg
+    width: 10.00
+    height: 6.57
+    figNumber: fig-136-ce
+    title: Sketches for graph O for the first realization of John Cage’s *Solo for Piano*
+    tags: O
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_038_mm.jpg
+    width: 10.00
+    height: 6.52
+    figNumber: fig-136-cf
+    title: Sketches for graph O for the first realization of John Cage’s *Solo for Piano*
+    tags: O
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_039_mm.jpg
+    width: 10.00
+    height: 6.45
+    figNumber: fig-136-bk
+    title: Sketch for graph D for the first realization of John Cage’s *Solo for Piano*
+    tags: D
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_040_mm.jpg
+    width: 10.00
+    height: 6.50
+    figNumber: fig-136-bo
+    title: Sketch for graph E for the first realization of John Cage’s *Solo for Piano*
+    tags: E
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_041_mm.jpg
+    width: 10.00
+    height: 6.57
+    figNumber: fig-136-bp
+    title: Sketch for graph E for the first realization of John Cage’s *Solo for Piano*
+    tags: E
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_042_mm.jpg
+    width: 10.00
+    height: 6.56
+    figNumber: fig-136-bq
+    title: Sketch for graph E for the first realization of John Cage’s *Solo for Piano*
+    tags: E
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_043_mm.jpg
+    width: 10.00
+    height: 6.49
+    figNumber: fig-136-bn
+    title: Sketch for graph E for the first realization of John Cage’s *Solo for Piano*
+    tags: E
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_044_mm.jpg
+    width: 10.00
+    height: 6.48
+    figNumber: fig-136-cn
+    title: Sketch for graph T for the first realization of John Cage’s *Solo for Piano*
+    tags: T
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_045_mm.jpg
+    width: 10.00
+    height: 6.46
+    figNumber: fig-136-cp
+    title: Sketches for graph T for the first realization of John Cage’s *Solo for Piano*
+    tags: T
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_046_mm.jpg
+    width: 10.00
+    height: 6.48
+    figNumber: fig-136-l
+    title: Sketch for graphs AJ and AL for the first realization of John Cage’s *Solo for Piano*
+    tags: AJ, AL
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_047_mm.jpg
+    width: 10.00
+    height: 6.44
+    figNumber: fig-136-m
+    title: Sketch for graphs AJ and AL for the first realization of John Cage’s *Solo for Piano*
+    tags: AJ, AL
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_050_mm.jpg
+    width: 10.00
+    height: 8.83
+    figNumber: fig-136-c
+    title: Sketches for graph A for the first realization of John Cage’s *Solo for Piano*
+    tags: A
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_051_mm.jpg
+    width: 10.00
+    height: 8.83
+    figNumber: fig-136-cg
+    title: Sketches for graphs O and BR for the first realization of John Cage’s *Solo for Piano*
+    tags: O, BR
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_052_mm.jpg
+    width: 10.00
+    height: 8.78
+    figNumber: fig-136-d
+    title: Sketches for graph A for the first realization of John Cage’s *Solo for Piano*
+    tags: A
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_053_mm.jpg
+    width: 10.00
+    height: 8.83
+    figNumber: fig-136-bj
+    title: Sketches for graphs CE and A for the first realization of John Cage’s *Solo for Piano*
+    tags: CE, A
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_054_mm.jpg
+    width: 10.00
+    height: 7.84
+    figNumber: fig-136-bd
+    title: Sketch of graph BZ for the first realization of John Cage’s *Solo for Piano*
+    tags: BZ
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_057_mm.jpg
+    width: 7.67
+    height: 10.00
+    figNumber: fig-136-u
+    title: Preliminary sketch for graph AY for the first realization of John Cage’s *Solo for Piano*
+    tags: AY
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_058_mm.jpg
+    width: 7.64
+    height: 10.00
+    figNumber: fig-136-cl
+    title: Sketches for graphs Q and G for the first realization of John Cage’s *Solo for Piano*
+    tags: Q, G
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_059_mm.jpg
+    width: 7.93
+    height: 10.00
+    figNumber: fig-136-cc
+    title: Sketch for graphs K and CD for the first realization of John Cage’s *Solo for Piano*
+    tags: K, CD
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_060_mm.jpg
+    width: 7.90
+    height: 10.00
+    figNumber: fig-136-ax
+    title: Sketches for graphs BU, CB, and CA for the first realization of John Cage’s *Solo for Piano*
+    tags: BU, CB, CA
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_061_mm.jpg
+    width: 9.17
+    height: 10.00
+    figNumber: fig-136-o
+    title: Sketches for graph AO for the first realization of John Cage’s *Solo for Piano*
+    tags: AO
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_062_mm.jpg
+    width: 7.68
+    height: 10.00
+    figNumber: fig-136-y
+    title: Sketches for graph B for the first realization of John Cage’s *Solo for Piano*
+    tags: B
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_063_mm.jpg
+    width: 7.62
+    height: 10.00
+    figNumber: fig-136-co
+    title: Sketch for graph T for the first realization of John Cage’s *Solo for Piano*
+    tags: T
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_064_mm.jpg
+    width: 7.96
+    height: 10.00
+    figNumber: fig-136-bm
+    title: Sketches for graphs D, F, and BN for the first realization of John Cage’s *Solo for Piano*
+    tags: D, F, BN
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_065_mm.jpg
+    width: 7.96
+    height: 10.00
+    figNumber: fig-136-g
+    title: Sketch for graphs AA, AR, AS, and AC for the first realization of John Cage’s *Solo for Piano*
+    tags: AA, AR, AS, AC
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_066_mm.jpg
+    width: 10.00
+    height: 6.78
+    figNumber: fig-136-cd
+    title: Sketch for graph O for the first realization of John Cage’s *Solo for Piano*
+    tags: O
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f04_067_mm.jpg
+    width: 10.00
+    height: 6.80
+    figNumber: fig-136-b
+    title: Sketch for graph A for the first realization of John Cage’s *Solo for Piano*
+    tags: A
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f05_001_mm.jpg
+    width: 6.64
+    height: 10.00
+    figNumber: fig-136-az
+    title: Timing chart for graphs BW, BO, et al. for the first realization of John Cage’s *Solo for Piano*
+    tags: BW, BO
+    secondaryTags: timing chart
+-
+    file: gri_980039_b07_f05_002_mm.jpg
+    width: 6.63
+    height: 10.00
+    figNumber: fig-136-ba
+    title: Timing chart for graphs BW, BO, et al. for the first realization of John Cage’s *Solo for Piano*
+    tags: BW, BO
+    secondaryTags: timing chart
+-
+    file: gri_980039_b07_f05_003_mm.jpg
+    width: 10.00
+    height: 5.95
+    figNumber: fig-136-aw
+    title: Sketches for graphs BT, BJ, and BW for the first realization of John Cage’s *Solo for Piano*
+    tags: BT, BJ, BW
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f05_004_mm.jpg
+    width: 10.00
+    height: 6.01
+    figNumber: fig-136-av
+    title: Sketches for graphs BT, BJ, and BW for the first realization of John Cage’s *Solo for Piano*
+    tags: BT, BJ, BW
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f05_005_mm.jpg
+    width: 6.52
+    height: 10.00
+    figNumber: fig-136-n
+    title: Tables for graphs AJ, AL, and J for the first realization of John Cage’s *Solo for Piano*
+    tags: AJ, AL, J
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_006_mm.jpg
+    width: 6.52
+    height: 10.00
+    figNumber: fig-136-be
+    title: Table of graph BZ for the first realization of John Cage’s *Solo for Piano*
+    tags: BZ
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_007_mm.jpg
+    width: 10.00
+    height: 7.83
+    figNumber: fig-136-au
+    title: Table for graph BT for the first realization of John Cage’s *Solo for Piano*
+    tags: BT
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_014_mm.jpg
+    width: 7.88
+    height: 10.00
+    figNumber: fig-136-cq
+    title: Table for graph T for the first realization of John Cage’s *Solo for Piano*
+    tags: T
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_015_mm.jpg
+    width: 7.83
+    height: 10.00
+    figNumber: fig-136-ac
+    title: Tables for graphs B, BD, BC, and AE for the first realization of John Cage’s *Solo for Piano*
+    tags: B, BD, BC, AE
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_016_mm.jpg
+    width: 6.51
+    height: 10.00
+    figNumber: fig-136-am
+    title: Table for graph BK for the first realization of John Cage’s *Solo for Piano*
+    tags: BK
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_017_mm.jpg
+    width: 6.50
+    height: 10.00
+    figNumber: fig-136-at
+    title: Table for graph BS for the first realization of John Cage’s *Solo for Piano*
+    tags: BS
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_025_mm.jpg
+    width: 7.83
+    height: 10.00
+    figNumber: fig-136-bt
+    title: Table for graph I for the first realization of John Cage’s *Solo for Piano*
+    tags: I
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_026_mm.jpg
+    width: 7.79
+    height: 10.00
+    figNumber: fig-136-aj
+    title: Table for graphs BI and H for the first realization of John Cage’s *Solo for Piano*
+    tags: BI, H
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_029_mm.jpg
+    width: 7.84
+    height: 10.00
+    figNumber: fig-136-ay
+    title: Tables for graphs BV, AS, AG, and AB for the first realization of John Cage’s *Solo for Piano*
+    tags: BV, AS, AG, AB
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_030_mm.jpg
+    width: 7.81
+    height: 10.00
+    figNumber: fig-136-cb
+    title: Tables for graphs K, BB, CF, C, N, and AK for the first realization of John Cage’s *Solo for Piano*
+    tags: K, BB, CF, C, N, AK
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_035_mm.jpg
+    width: 7.81
+    height: 10.00
+    figNumber: fig-136-af
+    title: Tables for graphs B and T for the first realization of John Cage’s *Solo for Piano*
+    tags: B, T
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_036_mm.jpg
+    width: 7.99
+    height: 10.00
+    figNumber: fig-136-ao
+    title: Tables for graphs BN and AL for the first realization of John Cage’s *Solo for Piano*
+    tags: BN, AL
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_037_mm.jpg
+    width: 6.33
+    height: 10.00
+    figNumber: fig-136-a
+    title: Dynamics table for graph A for the first realization of John Cage’s *Solo for Piano*
+    tags: A
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_038_mm.jpg
+    width: 6.28
+    height: 10.00
+    figNumber: fig-136-bl
+    title: Table for graph D for the first realization of John Cage’s *Solo for Piano*
+    tags: D
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_059_mm.jpg
+    width: 8.33
+    height: 10.00
+    figNumber: fig-136-br
+    title: Table for graph F for the first realization of John Cage’s *Solo for Piano*
+    tags: F
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_060_mm.jpg
+    width: 6.67
+    height: 10.00
+    figNumber: fig-136-an
+    title: Tables for graphs BM, BJ, BA, H, N, P, AK, and AI for the first realization of John Cage’s *Solo for Piano*
+    tags: BM, BJ, BA, H, N, P, AK, AI
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_061_mm.jpg
+    width: 6.69
+    height: 10.00
+    figNumber: fig-136-ap
+    title: Sketches of graphs BN, BJ, BA, H, N, P, AK, and AI for the first realization of John Cage’s *Solo for Piano*
+    tags: BN, BJ, BA, H, N, P, AK, AI
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f05_064_mm.jpg
+    width: 6.51
+    height: 10.00
+    figNumber: fig-136-cs
+    title: Tables for graphs Y, Z, X, AG, and AD for the first realization of John Cage’s *Solo for Piano*
+    tags: Y, Z, X, AG, AD
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_065_mm.jpg
+    width: 6.46
+    height: 10.00
+    figNumber: fig-136-ct
+    title: Tables for graphs Y, Z, X, AG, and AD for the first realization of John Cage’s *Solo for Piano*
+    tags: Y, Z, X, AG, AD
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_066_mm.jpg
+    width: 3.03
+    height: 10.00
+    figNumber: fig-136-cu
+    title: Tables for graphs Y, Z, X, AG, and AD for the first realization of John Cage’s *Solo for Piano*
+    tags: Y, Z, X, AG, AD
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_067_mm.jpg
+    width: 8.04
+    height: 10.00
+    figNumber: fig-136-ab
+    title: Table for graph B for the first realization of John Cage’s *Solo for Piano*
+    tags: B
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_071_mm.jpg
+    width: 3.87
+    height: 10.00
+    figNumber: fig-136-e
+    title: Table for graph A for the first realization of John Cage’s *Solo for Piano*
+    tags: A
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_072_mm.jpg
+    width: 3.87
+    height: 10.00
+    figNumber: fig-136-f
+    title: Table for graph A for the first realization of John Cage’s *Solo for Piano*
+    tags: A
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_073_mm.jpg
+    width: 8.01
+    height: 10.00
+    figNumber: fig-136-al
+    title: Tables for graphs BJ, BW, and H for the first realization of John Cage’s *Solo for Piano*
+    tags: BJ, BW, H
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_074_mm.jpg
+    width: 8.12
+    height: 10.00
+    figNumber: fig-136-bh
+    title: Table for graph CC for the first realization of John Cage’s *Solo for Piano*
+    tags: CC
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_076_mm.jpg
+    width: 10.00
+    height: 6.49
+    figNumber: fig-136-by
+    title: Tables for graph K for the first realization of John Cage’s *Solo for Piano*
+    tags: K
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_077_mm.jpg
+    width: 7.80
+    height: 10.00
+    figNumber: fig-136-bz
+    title: Tables for graph K for the first realization of John Cage’s *Solo for Piano*
+    tags: K
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_078_mm.jpg
+    width: 7.82
+    height: 10.00
+    figNumber: fig-136-as
+    title: Table for graphs BR and O for the first realization of John Cage’s *Solo for Piano*
+    tags: BR, O
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_079_mm.jpg
+    width: 6.48
+    height: 10.00
+    figNumber: fig-136-ak
+    title: Table for graphs BJ, BW, and CC for the first realization of John Cage’s *Solo for Piano*
+    tags: BJ, BW, CC
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_080_mm.jpg
+    width: 6.51
+    height: 10.00
+    figNumber: fig-136-bi
+    title: Table for graph CD for the first realization of John Cage’s *Solo for Piano*
+    tags: CD
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_081_mm.jpg
+    width: 8.33
+    height: 10.00
+    figNumber: fig-136-bx
+    title: Table for graphs J and H for the first realization of John Cage’s *Solo for Piano*
+    tags: J, H
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_082_mm.jpg
+    width: 8.27
+    height: 10.00
+    figNumber: fig-136-bg
+    title: Sketches of graphs CB and CA for the first realization of John Cage’s *Solo for Piano*
+    tags: CB, CA
+    secondaryTags: sketch
+-
+    file: gri_980039_b07_f05_083_mm.jpg
+    width: 7.82
+    height: 10.00
+    figNumber: fig-136-p
+    title: Table for graph AR for the first realization of John Cage’s *Solo for Piano*
+    tags: AR
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_084_mm.jpg
+    width: 7.85
+    height: 10.00
+    figNumber: fig-136-cr
+    title: Tables for graphs U, BP, AK, H, AI, and BT for the first realization of John Cage’s *Solo for Piano*
+    tags: U, BP, AK, H, AI, BT
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_085_mm.jpg
+    width: 6.46
+    height: 10.00
+    figNumber: fig-136-ca
+    title: Tables for graph K for the first realization of John Cage’s *Solo for Piano*
+    tags: K
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_086_mm.jpg
+    width: 6.51
+    height: 10.00
+    figNumber: fig-136-s
+    title: Table for graph AX and AT for the first realization of John Cage’s *Solo for Piano*
+    tags: AX, AT
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_087_mm.jpg
+    width: 6.46
+    height: 10.00
+    figNumber: fig-136-t
+    title: Tables for graphs AX and AT for the first realization of John Cage’s *Solo for Piano*
+    tags: AX, AT
+    secondaryTags: table
+-
+    file: gri_980039_b07_f05_088_mm.jpg
+    width: 6.51
+    height: 10.00
+    figNumber: fig-136-ai
+    title: Table for graph BB for the first realization of John Cage’s *Solo for Piano*
+    tags: BB
+    secondaryTags: table
+-
+    file: gri_980039_b07_f07_001_mm.jpg
+    width: 8.98
+    height: 10.00
+    figNumber: fig-136-ah
+    title: Sketch and inventory for graph BB for the first realization of John Cage’s *Solo for Piano*
+    tags: BB
+    secondaryTags: sketch, inventory

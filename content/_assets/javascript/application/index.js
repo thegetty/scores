@@ -26,6 +26,7 @@ import Accordion from './accordion'
 import Search from '../../../../_plugins/search/search.js'
 import scrollToHash from './scroll-to-hash'
 import './iframe-viewer'
+import './sampler'
 
 // array of leaflet instances
 const mapArr = []
@@ -370,6 +371,76 @@ window['toggleDrawer'] = function(event) {
     console.error("Drawer not found");
   }
 }
+
+// Toggle score object page between side-by-side and widecreen view
+window['toggleCardCaption'] = function(event) {
+  const button = event.target
+  const caption = button.nextElementSibling
+
+  if (caption.style.display === "none") {
+    caption.style.display = "inline"
+    button.textContent = '...'
+  } else {
+    caption.style.display = "none";
+    button.textContent = 'Read ...'
+  }
+}
+
+window['showTagged'] = function(tag) {
+  const allCards = document.querySelectorAll('.card')
+  allCards.forEach(card => {
+    if (tag === 'all' || tag === '') {
+      card.style.display = 'block'
+    } else {
+      const tags = card.getAttribute('data-tags').split(', ')
+      card.style.display = tags.includes(tag) ? 'block' : 'none'
+    }
+  })
+
+  if (typeof tag === 'object') {
+    tag = tag.value
+  }
+
+  const dropdown = document.getElementById('tagdropdown')
+  const options = dropdown.options
+  
+  for (let i = 0; i < options.length; i++) {
+    if (options[i].value === tag) {
+      dropdown.selectedIndex = i
+      console.log("dropdown.selectedIndex :: " + dropdown.selectedIndex)
+      console.log("i :: " + i)
+      break
+    }
+  }
+
+  const tagClass = "." + tag.replaceAll(' ', '-') + "-tag"
+  const allTags = document.querySelectorAll('.card-caption__tags li')
+  const matchedTags = document.querySelectorAll(tagClass)
+
+  for (const t of allTags) {
+    t.classList.remove('selected')
+    console.log("t :: " + t)
+  }
+  for (const m of matchedTags) {
+    m.classList.add('selected')
+    console.log("m :: " + m)
+  }
+}
+
+// Toggle score object page between side-by-side and widecreen view
+window['toggleEntryContent'] = () => {
+  const myDiv = document.getElementById('quire-entry-view')
+  const myButton = document.getElementById('quire-entry-view-toggle')
+
+  myDiv.classList.toggle('side-by-side')
+  
+  if (myButton.textContent.includes('Widescreen')) {
+    myButton.textContent = 'Side-by-Side'
+  } else {
+    myButton.textContent = 'Widescreen'
+  }
+}
+
 
 function hideSplash() {
   let splash = document.querySelector('.splash-overlay');

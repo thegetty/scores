@@ -38,7 +38,6 @@ archive:
         - id: "435"
     - heading: "Press clippings"
       objects:
-        - id: "405"
         - id: "430"
         - id: "431"
         - id: "432"

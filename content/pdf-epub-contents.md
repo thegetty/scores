@@ -7,15 +7,80 @@ outputs:
   - pdf
 ---
 
-- [Introduction, Michael Gallope, Natilee Harren, and John Hicks](#intro)
-- [1. Morton Feldman: *Intersection 3* (1953), Michael Gallope](#01-commentary)
-- [2. John Cage: *Concert for Piano and Orchestra* (1958), Michael Gallope and Nancy Perloff](#02-commentary)
-- [3. Sylvano Bussotti: *Five Piano Pieces for David Tudor* (1959), Michael Gallope](#03-commentary)
-- [4. Benjamin Patterson: *Paper Piece* (1960), George E. Lewis](#04-commentary)
-- [5. La Monte Young, Jackson Mac Low, and George Maciunas: *An Anthology of Chance Operations* (1962–63), Benjamin Piekut](#05-commentary)
-- [6. George Brecht: *Drip Music (Drip Event)* (1959–62), from *Water Yam* (1963), Natilee Harren](#06-commentary)
-- [7. Jackson Mac Low: *Three Social Projects* (1963), John Hicks](#07-commentary)
-- [8. Yvonne Rainer: *We Shall Run* (1963), Julia Bryan-Wilson](#08-commentary)
-- [9. Alison Knowles: *The Identical Lunch* (late 1960s–early ’70s), Emily Ruth Capper](#09-commentary)
-- [10. Mieko Shiomi: *Spatial Poem* (1965–75), Natilee Harren](#10-commentary)
-- [11. Allan Kaprow: *Routine* (1973–75), Emily Ruth Capper](#11-commentary)
+<ul>
+  <li>
+    <a href="#intro"><span class="ch-number"></span>Introduction</a>
+    <ul>
+      <li>Michael Gallope</li>
+      <li>Natilee Harren</li>
+      <li>John Hicks</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#01-commentary"><span class="ch-number">1. </span><span class="ch-title">Morton Feldman: <em>Intersection 3</em> (1953)</span></a> 
+    <ul>
+      <li>Michael Gallope</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#02-commentary"><span class="ch-number">2. </span><span class="ch-title">John Cage: <em>Concert for Piano and Orchestra</em> (1958)</span></a>
+    <ul>
+      <li>Michael Gallope</li>
+      <li>Nancy Perloff</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#03-commentary"><span class="ch-number">3. </span><span class="ch-title">Sylvano Bussotti: <em>Five Piano Pieces for David Tudor</em> (1959)</span></a>
+    <ul>
+      <li>Michael Gallope</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#04-commentary"><span class="ch-number">4. </span><span class="ch-title">Benjamin Patterson: <em>Paper Piece</em> (1960)</span></a>
+    <ul>
+      <li>George E. Lewis</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#05-commentary"><span class="ch-number">5. </span><span class="ch-title">La Monte Young, Jackson Mac Low, and George Maciunas: <em>An Anthology of Chance Operations</em> (1962–63)</span></a>
+    <ul>
+      <li>Benjamin Piekut</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#06-commentary"><span class="ch-number">6. </span><span class="ch-title">George Brecht: <em>Drip Music (Drip Event)</em> (1959–62), from <em>Water Yam</em> (1963)</span></a>
+    <ul>
+      <li>Natilee Harren</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#07-commentary"><span class="ch-number">7. </span><span class="ch-title">Jackson Mac Low: <em>Three Social Projects</em> (1963)</span></a>
+    <ul>
+      <li>John Hicks</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#08-commentary"><span class="ch-number">8. </span><span class="ch-title">Yvonne Rainer: <em>We Shall Run</em> (1963)</span></a>
+    <ul>
+      <li>Julia Bryan-Wilson</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#09-commentary"><span class="ch-number">9. </span><span class="ch-title">Alison Knowles: <em>The Identical Lunch</em> (late 1960s–early ’70s)</span></a>
+    <ul>
+      <li>Emily Ruth Capper</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#10-commentary"><span class="ch-number">10. </span><span class="ch-title">Mieko Shiomi: <em>Spatial Poem</em> (1965–75)</span></a>
+    <ul>
+      <li>Natilee Harren</li>
+    </ul>
+  </li>
+  <li>
+    <a href="#11-commentary"><span class="ch-number">11. </span><span class="ch-title">Allan Kaprow: <em>Routine</em> (1973–75)</span></a>
+    <ul>
+      <li>Emily Ruth Capper</li>
+    </ul>
+  </li>
+</ul>

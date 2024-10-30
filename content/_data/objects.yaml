@@ -1706,7 +1706,7 @@ object_list:
     id: "099"
     old_id: "2.15f"
     maker: [ "Ross Parmenter" ]
-    people: [ "Parmenter, Ross", "Cage, John", "Tudor, David", "Cuningham, Merce" ]
+    people: [ "Parmenter, Ross", "Cage, John", "Tudor, David", "Cunningham, Merce" ]
     more_people: [ "Ajemian, Maro" ]
     title: "“Music: Experimenter: Zounds! Sound by John Cage at Town Hall,” *New York Times*, 20"
     date: "16 May 1958"
@@ -6707,7 +6707,7 @@ object_list:
     id: "391"
     old_id: "6.41"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George", "Johnson, Jill" ]
+    people: [ "Brecht, George", "Johnston, Jill" ]
     more_people: ""
     title: "“EVENTS: scores and other occurrences,” typescript, sent to Jill Johnston"
     date: "28 December 1961"

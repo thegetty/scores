@@ -45,10 +45,13 @@
     "#plugins/*": "./_plugins/*"
   },
   "dependencies": {
+    "@maplibre/maplibre-gl-leaflet": "^0.0.22",
     "bulma": "^0.9.3",
     "core-js": "2.5.0",
+    "leaflet": "^1.9.4",
     "lit": "^2.6.1",
     "lunr": "^2.3.9",
+    "maplibre-gl": "^4.7.1",
     "template-polyfill": "^2.0.0"
   },
   "devDependencies": {

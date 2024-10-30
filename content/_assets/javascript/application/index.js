@@ -27,6 +27,7 @@ import Search from '../../../../_plugins/search/search.js'
 import scrollToHash from './scroll-to-hash'
 import './iframe-viewer'
 import './sampler'
+import './leaflet.js'
 
 // array of leaflet instances
 const mapArr = []

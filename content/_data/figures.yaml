@@ -1118,7 +1118,7 @@ figure_list:
 -
     id: "fig-10-7"
     old_id: "10.20"
-    src: figures/ShiomiMieko_SpatialPoem3_falling.jpg
+    src: figures/r2017583_890164_b233_001.jpg
     note: 10.20 is assigned as the sequence image, but maybe we also need an overview shot?
     zoom: true
     poster: 
@@ -10848,7 +10848,7 @@ figure_list:
     alt: "White page with black typewritten text in English. Two columns run the length of the page and bisect it vertically. Title “Variations for Double-Bass” at top of first column followed by seventeen-point list of instructive sentences that continues into the second column. “cologne, 1961. revised Pittsburgh, 1962” at bottom of second column.  "
 -
     id: "fig-218-a"
-    src: placeholder.jpg
+    src: figures/r2012829_890164_b41_f1_001.jpg
     zoom: true
     poster: 
     media_type: 
@@ -10857,7 +10857,7 @@ figure_list:
     alt: "Yellow legal pad page with typewritten text in English. Top fifth contains title and section titled procedure. Bottom four fifths contain two single spaced paragraphs that run the length of the page. Four sets of three numbers on left margin spaced at irregular intervals."
 -
     id: "fig-218-b"
-    src: figures/r2012829_890164_b41_f1_001.jpg
+    src: figures/r2012829_890164_b41_f1_002.jpg
     zoom: true
     poster: 
     media_type: 
@@ -10865,14 +10865,203 @@ figure_list:
     label: ""
     alt: "Yellow legal pad page with typewritten text in English covering the top eighth of the page. The rest of the page is blank."
 -
-    id: "fig-219"
-    src: figures/r2012829_890164_b41_f1_002.jpg
+    id: "fig-219-a"
+    src: figures/r2012829_890164_b41_f2_097.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
     label: ""
     alt: "Binder notebook with white unlined pages and black cover. Pages 1–21 contain loose leaf notes, flyers, and hand drawn diagrams. Most pages contain handwritten English language text in pen or pencil. Pages 22–94 contain two page spreads in bound notebook, most with handwritten pen or pencil notes in English, hand drawn diagrams, lists, and doodles. Most densely packed pages contain around fifteen lines of text, although most pages contain less. Pages 95–138 contain loose leaf white pages with typed or handwritten notes, lined and graph paper with handwritten notes, and pages ripped from books. Some pages contain hand drawn diagrams. "
+-
+    id: "fig-219-b"
+    src: figures/r2012829_890164_b41_f2_007.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-c"
+    src: figures/r2012829_890164_b41_f2_009.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-d"
+    src: figures/r2012829_890164_b41_f2_039.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-e"
+    src: figures/r2012829_890164_b41_f2_111.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-f"
+    src: figures/r2012829_890164_b41_f2_112.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-g"
+    src: figures/r2012829_890164_b41_f2_118.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-h"
+    src: figures/r2012829_890164_b41_f2_119.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-i"
+    src: figures/r2012829_890164_b41_f2_120.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-j"
+    src: figures/r2012829_890164_b41_f2_121.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-k"
+    src: figures/r2012829_890164_b41_f2_127.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-l"
+    src: figures/r2012829_890164_b41_f2_128.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-m"
+    src: figures/r2012829_890164_b41_f2_132.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-n"
+    src: figures/r2012829_890164_b41_f2_133.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-o"
+    src: figures/r2012829_890164_b41_f2_134.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-p"
+    src: figures/r2012829_890164_b41_f2_135.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-q"
+    src: figures/r2012829_890164_b41_f2_145.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-r"
+    src: figures/r2012829_890164_b41_f2_146.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-s"
+    src: figures/r2012829_890164_b41_f2_147.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-t"
+    src: figures/r2012829_890164_b41_f2_148.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-u"
+    src: figures/r2012829_890164_b41_f2_149.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
+    id: "fig-219-v"
+    src: figures/r2012829_890164_b41_f2_150.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
 -
     id: "fig-220-a"
     src: figures/r2012418_890164_b39_f33_018.jpg
@@ -19490,7 +19679,7 @@ figure_list:
     label: ""
     alt: ""
 -
-    id: "fig-527"
+    id: "fig-527-a"
     src: 
     zoom: true
     poster: 
@@ -19506,6 +19695,15 @@ figure_list:
           - sequence
         regex: /gri_890164_b223_\d{3}_mm\.jpg/
         frame_distance: 100
+-
+    id: "fig-527-b"
+    src: figures/r2017583_890164_b233_001.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
 -
     id: "fig-528"
     src: figures/fig-528_AR832708.jpg

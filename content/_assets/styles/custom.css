@@ -682,21 +682,17 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   font-size: .8rem;
   line-height: var(--small-font-line-height);
 }
-.scores-figure-group {
+.scores-figure-group > div {
   display: grid;
   grid-gap: 1rem;
 }
 .scores-figure-group .scores-figure {
   margin: 0 !important;
 }
-.scores-figure-group > figcaption {
-  grid-column: 1/-1;
-  margin-top: -1rem;
-}
-.scores-figure-group-grid--2 {
+.scores-figure-group-grid--2 > div {
   grid-template-columns: 1fr 1fr;
 }
-.scores-figure-group-grid--3 {
+.scores-figure-group-grid--3 > div {
   grid-template-columns: 1fr 1fr;
 }
 

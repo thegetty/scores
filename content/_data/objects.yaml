@@ -4155,7 +4155,7 @@ object_list:
     id: "243"
     old_id: "5.02e"
     maker: [ "Jackson Mac Low (American, 1922–2004)", "Simone Forti (American, b. 1935)" ]
-    people: [ "Mac Low, Jackson ", "Forti, Simone", "Berglund, Phoebe", "Zins-Browne, Andros" ]
+    people: [ "Mac Low, Jackson", "Forti, Simone", "Berglund, Phoebe", "Zins-Browne, Andros" ]
     more_people: [ "Cooper, Sarah", "Paxton, Steve", "Wada, Tashi" ]
     title: "Phoebe Berglund and Andros Zins-Browne performing Simone Forti’s dance realization of Jackson Mac Low’s *Asymmetry 222* (1980) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4551,7 +4551,7 @@ object_list:
     id: "267"
     old_id: "5.11c"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Mac Low, Jackson", "Shiomi, Chieko", "Brecht, George", "Ichiyanagi, Toshi", "Knowles, Alison", "Kaprow, Allan"  ]
+    people: [ "Maciunas, George", "Mac Low, Jackson", "Shiomi, Mieko (Chieko)", "Brecht, George", "Ichiyanagi, Toshi", "Knowles, Alison", "Kaprow, Allan"  ]
     more_people: [ "Paik, Nam June" ]
     title: "Artist index cards"
     date: "1961–64"
@@ -6119,7 +6119,7 @@ object_list:
     id: "358"
     old_id: "6.11"
     maker: 
-    people: [ "Knowles, Alison", "Corner, Philip", "Forti, Simone", "Brecht, George", "Ichiyanagi, Toshi", "Ono, Yoko", "Patterson, Benjamin", "Shiomi, Chieko", "Young, La Monte" ]
+    people: [ "Knowles, Alison", "Corner, Philip", "Forti, Simone", "Brecht, George", "Ichiyanagi, Toshi", "Ono, Yoko", "Patterson, Benjamin", "Shiomi, Mieko (Chieko)", "Young, La Monte" ]
     more_people: [ "Friedman, Ken", "Miller, Larry", "Wada, Yoshi", "Higgins, Dick", "Kosugi, Takehisa", "Paik, Nam June" ]
     title: "Press release for *FLUXUS: Classic ’60’s Performances Plus the Premier of Alison Knowles’ “Natural Assemblages and the True Crow”* at The Kitchen, New York, NY"
     date: "24 March 1979"
@@ -6964,7 +6964,7 @@ object_list:
     id: "406"
     old_id: "7.05"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson", "Patterson, Ben", "Brecht, George" ]
+    people: [ "Mac Low, Jackson", "Patterson, Benjamin", "Brecht, George" ]
     more_people: [ "Flynt, Hery" ]
     title: "Postcards sent by Jackson Mac Low to Benjamin Patterson with various scores composed in 1963, including *Social Projects 1–3*, *Architecture (for GB)*, *Schedule (for George Brecht)*, and *Light Rhythms for Henry Flynt*"
     date: "April 1963"
@@ -7168,7 +7168,7 @@ object_list:
     id: "418"
     old_id: "7.18"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Ben", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi" ]
+    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi" ]
     more_people: [ "Paik, Nam June", "Higgins, Dick", "Vautier, Ben" ]
     title: "*Fluxus News–Policy Letter, no. 6*"
     date: "6 April 1963"
@@ -7219,7 +7219,7 @@ object_list:
     id: "421"
     old_id: "7.21"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi", "Shiomi, Chieko", "Knowles, Alison" ]
+    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi", "Shiomi, Mieko (Chieko)", "Knowles, Alison" ]
     more_people: [ "Paik, Nam June", "Higgins, Dick", "Vautier, Ben", "Ligeti, Gyorgy", "Kosugi, Takehisa" ]
     title: "*Fluxus News—Policy Letter, no. 7*, reprinted in *Fluxus etc., Addenda 1*, ed. Jon Hendricks (New York: Ink &, 1983), 157–59"
     date: "1 May 1963"
@@ -7406,7 +7406,7 @@ object_list:
     id: "432"
     old_id: "7.36"
     maker: [ "Robert Palmer" ]
-    people: [ "Palmer, Robert", "Jackson, Mac Low" ]
+    people: [ "Palmer, Robert", "Mac Low, Jackson" ]
     more_people: ""
     title: "“Music: Perplexities of Fluxus,” *New York Times*"
     date: "2 June 1978"
@@ -8516,7 +8516,7 @@ object_list:
     id: "497"
     old_id: "9.23"
     maker: 
-    people: [ "Knowles, Alison", "Lockwood, Anna", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
+    people: [ "Knowles, Alison", "Lockwood, Anna (Anea)", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
     more_people: [ "Oliveros, Pauline" ]
     title: "Announcement for *Womens Work*, “a magazine of performance scores by contemporary women artists”"
     date: ""

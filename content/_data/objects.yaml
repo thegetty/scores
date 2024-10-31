@@ -3764,7 +3764,7 @@ object_list:
     credit: "© The Estate of Benjamin Patterson."
     featured: 
     type: [ archival materials ]
-    figure: [ id: "fig-219" ]
+    figure: [ id: "fig-219-a", id: "fig-219-b", id: "fig-219-c", id: "fig-219-d", id: "fig-219-e", id: "fig-219-f", id: "fig-219-g", id: "fig-219-h", id: "fig-219-i", id: "fig-219-j", id: "fig-219-k", id: "fig-219-l", id: "fig-219-m", id: "fig-219-n", id: "fig-219-o", id: "fig-219-p", id: "fig-219-q", id: "fig-219-r", id: "fig-219-s", id: "fig-219-t", id: "fig-219-u", id: "fig-219-v" ]
 -
     id: "220"
     old_id: "4.16"
@@ -9121,7 +9121,7 @@ object_list:
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: true
     type: [ artwork ]
-    figure: [ id: "fig-527" ]
+    figure: [ id: "fig-527-a", id: "fig-527-b" ]
 -
     id: "528"
     old_id: "10.21"

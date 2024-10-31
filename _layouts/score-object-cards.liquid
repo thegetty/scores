@@ -60,6 +60,16 @@ Entry content, including entry image and tombstone data
 
     <div class="quire-entry__lightbox{% for object in pageObjects %}{% if object.figures.size > 1 %} quire-entry__lightbox--with-thumbnails{% endif %}{% endfor %}">
 
+    {% if cards == 'water-yam' %}
+    {% if water-yam.config.tag_descriptions %}
+    <div class="card-tag-descriptions">
+    {% for desc in water-yam.config.tag_descriptions %}
+    <p style="display: none;" data-tags="{{ desc.tag }}">{{ desc.description | markdownify }}</p>
+    {% endfor %}
+    </div>
+    {% endif %}
+    {% endif %}
+
     {% assign card_scale = 0.5 %}
     {% assign image_directory = '/_assets/images/figures/' %}
     {% assign card_directory = cards %}

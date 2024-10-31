@@ -19,7 +19,7 @@ var geojsonFeature = [{
   "properties": {
     "address": "965 Hoe Ave, Bronx, NY 10459",
     "heading": "Mac Low Apartment",
-    "description": "Mac Low address in April 1963 when he mailed scores to Patterson. Lived there with hist first wife, Iris Lezak.",
+    "description": "Mac Low address in April 1963 when he mailed scores to Patterson. Lived there with his first wife, Iris Lezak.",
     "featureType": "marker"
   },
   "geometry": {

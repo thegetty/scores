@@ -30,7 +30,7 @@ import './sampler'
 import './leaflet.js'
 
 // array of leaflet instances
-const mapArr = []
+// const mapArr = []
 
 /**
  * toggleMenu

@@ -2,6 +2,68 @@ config:
   tagsHeading: "Theme: "
   secondaryTagsHeading: "Date: "
 
+tag_descriptions:
+
+  - tag: "black"
+    description: "George Brecht frequently referenced specific colors in his scores, including the rainbow of spectral colors (or the visible spectrum). This gesture was meant to cue thinking about the physical properties of light waves within the visual field in ways analogous to experimental music’s rethinking of the audible in terms of sound waves. Brecht wanted the beholder to understand, in other words, that our perception of both sound and light unfold durationally."
+
+  - tag: "cards"
+    description: "Brecht’s early works sometimes employed decks of instruction or playing cards as a way of randomly assigning cues and/or actions to an ensemble of performers."
+
+  - tag: "center"
+    description: "Brecht’s references to a “center” in these scores may have been inspired by conversations with the poet and potter M.C. Richards. Their correspondence, which references the concept, is included in the Archive section of this chapter."
+
+  - tag: "chair"
+    description: "The chair was a particularly important readymade object in Brecht’s oeuvre for its availability, ordinariness, and implicit use-value. Chairs appeared not only in his event scores but also as the main element in a series of sculptural arrangements or “chair events” that Brecht conceived and made in the latter half of the 1960s, including *Chair With a History* (c. 1966), which included a notebook the sitter was invited to write in while seated on the artist’s readymade chair."
+
+  - tag: "colors"
+    description: "George Brecht frequently referenced specific colors in his scores, including the rainbow of spectral colors (or the visible spectrum). This gesture was meant to cue thinking about the physical properties of light waves within the visual field in ways analogous to experimental music’s rethinking of the audible in terms of sound waves. Brecht wanted the beholder to understand, in other words, that our perception of both sound and light unfold durationally."
+
+  - tag: "dedications"
+    description: "Dedicating pieces to one’s peers and mentors was commonplace in the performance culture of Brecht’s milieu. *Water Yam* includes scores dedicated to John Cage, Ray Johnson, La Monte Young, Joseph Cornell, Robert Filliou, and Rrose Selavy, the female alter-ego of Marcel Duchamp."
+
+  - tag: "exercise"
+    description: "Brecht’s event scores exploit slippages and elasticities of thought as language is correlated to one’s perceptual encounter with the world and its objects. This series of “exercises” in particular asks the reader to think about the relative flexibility of the notions of limit, center, object, and other, and reflects the artist’s interest in the Zen belief in the fundamental interconnectedness of all things. Brecht once said of *Exercise*, “I don’t think it would be correct to say that there are no objects or that Fluxus wanted to destroy them. The *Exercise* only shows how one can change one’s attitude to the concept of the object” (Gislind Nabakowski, “An Interview with George Brecht” (1974), in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire* (Milan: Multhipla, 1978), p. 95.)"
+
+  - tag: "Fluxus"
+    description: "These three scores, probably written expressly for inclusion in *Water Yam*, are distinguished from all others included in the collection on multiple accounts. They employ white print on a black background, are the only cards to include mention of Fluxus (as part of Brecht’s address), and propose a subscription model in which individuals would write directly to Brecht in order to activate the work. Notably as well, the language used refers to the “realization” of the work or its being “arranged.” While conceptualizing *Water Yam*, Brecht wrote to Maciunas, “I would like to include in the ‘complete works’ box, a coupon, or coupons, which the subscriber could return to me, and for which I would send him an actual object or event. These coupons could be in de luxe copies of the box (this makes them ‘special’, which I don’t too much care for), or the coupon could be returned to me with some additional fee, for which I would send the work. What are your thoughts on this?” (Letter from George Brecht to George Maciunas, c. January 1963, George Maciunas Correspondence, Hanns Sohm Archive, Staatsgalerie, Stuttgart)."
+
+  - tag: "from object"
+    description: "As with the first so-named event, *Motor Vehicle Sundown (Event)* (1960), inspired by a compelling situation Brecht noticed in his everyday life, the artist composed many event scores to capture phenomena he had already experienced. These scores were all composed “from objects”—that is, after objects or situations that Brecht noticed, found, or arranged. As he explained, “Once in a while I would make an object first and then make a card later….I don’t feel very much one way of the other since every object is an event anyway and every event has [an] object-like quality.” (Michael Nyman, “An Interview with George Brecht” (1976), in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire*, (Milan: Multhipla, 1978), p. 106)"
+
+  - tag: "liquid"
+    description: "Water and other kinds of liquid make frequent appearance in Brecht's collection of scores, a publication itself named *Water Yam*. As a versatile, shape-shifting material that nevertheless behaves certain physical laws, water and liquid are emblematic of the capacious yet succinct nature of the scores' language and possibilities for realization."
+
+  - tag: "musical instrument"
+    description: "While musical instruments feature frequently in Brecht's scores, recalling both his father's career as a professional flautist and the indebtedness of the post-Cagean milieu to musical traditions, the scores almost never indicate to play the instruments in conventional fashion. Brecht's unusual deployment of such objects is meant to disrupt and reset our expectations and perceptions of them, opening our eyes and ears to non-musical sights and sounds."
+
+  - tag: "parentheses"
+    description: "George Brecht’s use of punctuation in his event scores was as carefully considered as his choice of words. Regarding the parentheses that appear enigmatically throughout, Brecht wrote: “Words in parentheses refer to events in one’s experience. (Egg), for example, refers to the actual occurrence of egg in some form in one’s experience” (George Brecht, Notebook no. 9, December 1962-May 1963, Gilbert and Lila Silverman Fluxus Collection Archives, Museum of Modern Art, New York)."
+
+  - tag: "red"
+    description: "George Brecht frequently referenced specific colors in his scores, including the rainbow of spectral colors (or the visible spectrum). This gesture was meant to cue thinking about the physical properties of light waves within the visual field in ways analogous to experimental music’s rethinking of the audible in terms of sound waves. Brecht wanted the beholder to understand, in other words, that our perception of both sound and light unfold durationally."
+
+  - tag: "spectral colors"
+    description: "George Brecht frequently referenced specific colors in his scores, including the rainbow of spectral colors (or the visible spectrum). This gesture was meant to cue thinking about the physical properties of light waves within the visual field in ways analogous to experimental music’s rethinking of the audible in terms of sound waves. Brecht wanted the beholder to understand, in other words, that our perception of both sound and light unfold durationally."
+
+  - tag: "subscription"
+    description: "These three scores, probably written expressly for inclusion in *Water Yam*, are distinguished from all others included in the collection on multiple accounts. They employ white print on a black background, are the only cards to include mention of Fluxus (as part of Brecht’s address), and propose a subscription model in which individuals would write directly to Brecht in order to activate the work. Notably as well, the language used refers to the “realization” of the work or its being “arranged.” While conceptualizing *Water Yam*, Brecht wrote to Maciunas, “I would like to include in the ‘complete works’ box, a coupon, or coupons, which the subscriber could return to me, and for which I would send him an actual object or event. These coupons could be in de luxe copies of the box (this makes them ‘special’, which I don’t too much care for), or the coupon could be returned to me with some additional fee, for which I would send the work. What are your thoughts on this?” (Letter from George Brecht to George Maciunas, c. January 1963, George Maciunas Correspondence, Hanns Sohm Archive, Staatsgalerie, Stuttgart)."
+
+  - tag: "suitcase"
+    description: "These three scores, each titled *Suitcase*, show a progression toward an increasingly distilled event concept. Beholders already familiar with Brecht's practice would know best how to read the most minimal of the instructions, simply “suitcase.” A series of three *Table* scores attempts something similar."
+
+  - tag: "table"
+    description: "The three scores titled *Table* show a progression toward an increasingly distilled event concept. Beholders already familiar with Brecht's practice would know best how to read the most minimal of the instructions, simply “table.” A series of *Suitcase* scores attempts something similar. "
+
+  - tag: "water"
+    description: "Water and other kinds of liquid make frequent appearance in Brecht's collection of scores, a publication itself named *Water Yam*. As a versatile, shape-shifting material that nevertheless behaves certain physical laws, water and liquid are emblematic of the capacious yet succinct nature of the scores' language and possibilities for realization."
+  
+  - tag: "white"
+    description: "George Brecht frequently referenced specific colors in his scores, including the rainbow of spectral colors (or the visible spectrum). This gesture was meant to cue thinking about the physical properties of light waves within the visual field in ways analogous to experimental music’s rethinking of the audible in terms of sound waves. Brecht wanted the beholder to understand, in other words, that our perception of both sound and light unfold durationally."
+  
+  - tag: "yellow"
+    description: "George Brecht frequently referenced specific colors in his scores, including the rainbow of spectral colors (or the visible spectrum). This gesture was meant to cue thinking about the physical properties of light waves within the visual field in ways analogous to experimental music’s rethinking of the audible in terms of sound waves. Brecht wanted the beholder to understand, in other words, that our perception of both sound and light unfold durationally."
+
 card_list:
 
   - title: "Drip Music (Drip Event)"

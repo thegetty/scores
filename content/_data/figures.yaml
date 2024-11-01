@@ -767,7 +767,7 @@ figure_list:
 -
     id: "fig-7-1"
     old_id: "7.01"
-    src: placeholder.jpg
+    src: figures/maclow-map.jpg
     note: 
     zoom: true
     poster: 
@@ -10650,7 +10650,7 @@ figure_list:
 # REMOVED
 # -
 #     id: "fig-211"
-#     src: placeholder.jpg
+#     src: 
 #     zoom: true
 #     poster: 
 #     media_type: 
@@ -14844,15 +14844,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Printed page with large margins and left aligned black text. “DRIP MUSIC (DRIP EVENT)” at top is followed by “For single or multiple performance. A source of dripping water and an empty vessel are arranged so that the water falls into the vessel. Second version: Dripping.” “G. Brecht (1959-62)” printed below."
--
-    id: "fig-347"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Event scores printed on blank cardstock at a scale similar to or smaller than an index card. Many with title in capital letters at top left followed by bulleted or numbered text instructions. Some instructions are only a few words long; a rare few cards include also basic illustrations drawn from vintage instruction manuals."
+# REMOVED
+# -
+#     id: "fig-347"
+#     src: 
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Event scores printed on blank cardstock at a scale similar to or smaller than an index card. Many with title in capital letters at top left followed by bulleted or numbered text instructions. Some instructions are only a few words long; a rare few cards include also basic illustrations drawn from vintage instruction manuals."
 -
     id: "fig-348"
     src: 
@@ -14944,10 +14945,10 @@ figure_list:
     alt: "Black and white video begins with “FLUXUS” title card in stylized font then cuts to concert flyers, and finally the interior of a room with a raised platform on which stands several men and women performing movements like clapping, spitting, pointing, and knocking. Shots of the performers at all angles are shown--diagonal, upside down, and upright. Footage of the performers is interspersed with close-up reactions from the audience that show laughter, surprise, and boredom. The structure of the video continues, documenting other performances, one of a man altering and then playing an upright bass with found objects, a man dipping his tie and then head in a bowl of dark ink and rubbing a line across a long paper scroll on the floor, and finally the entire group attacking a grand piano with objects including a tea kettle, shoe, hammer, and brick. The voiceover is a male newscaster describing the activities in German; audio native to the filmed events can also be heard throughout."
 -
     id: "fig-357"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
+    src: embeds/google-search-brecht.html
+    zoom: 
+    poster: figures/google-search-brecht.jpg
+    media_type: table
     media_id: 
     label: ""
     alt: ""
@@ -15044,7 +15045,7 @@ figure_list:
 # REMOVED
 # -
 #     id: "fig-367"
-#     src: placeholder.jpg
+#     src: 
 #     zoom: true
 #     poster: 
 #     media_type: 
@@ -15631,7 +15632,7 @@ figure_list:
     id: "fig-404"
     src: embeds/map-maclow.html
     zoom:
-    poster: placeholder.jpg
+    poster: figures/maclow-map--full.jpg
     media_type: table
     media_id: 
     label: ""
@@ -17853,7 +17854,7 @@ figure_list:
 # REMOVED DUPLICATE
 # -
 #     id: "fig-474"
-#     src: placeholder.jpg
+#     src: 
 #     zoom: true
 #     poster: 
 #     media_type: 
@@ -17963,7 +17964,7 @@ figure_list:
 # REMOVED
 # -
 #     id: "fig-483"
-#     src: placeholder.jpg
+#     src: 
 #     zoom: true
 #     poster: 
 #     media_type: 
@@ -21030,7 +21031,7 @@ figure_list:
 # REMOVED
 # -
 #     id: "fig-569"
-#     src: placeholder.jpg
+#     src: 
 #     zoom: true
 #     # poster: figures/KaprowRoutineFilmClip_1.jpg
 #     # media_type: vimeo
@@ -21050,7 +21051,7 @@ figure_list:
 # REMOVED    
 # -
 #     id: "fig-571"
-#     src: placeholder.jpg
+#     src: 
 #     zoom: true 
 #     # poster: figures/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
 #     # media_type: vimeo

@@ -5969,23 +5969,24 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-346" ]
--
-    id: "347"
-    old_id: "6.02"
-    maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George" ]
-    more_people: ""
-    title: "Event score included in *Water Yam*"
-    date: "1963"
-    date_sort: "1963-01-01"
-    year_filter: [ "1963" ]
-    medium: "offset print"
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
-    extended_caption: ""
-    credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
-    featured: 
-    type: [ score ]
-    figure: [ id: "fig-347" ]
+# REMOVED: Was dupe of 349 to provide linking to individual cards
+# -
+#     id: "347"
+#     old_id: "6.02"
+#     maker: [ "George Brecht (American, 1926–2008)" ]
+#     people: [ "Brecht, George" ]
+#     more_people: ""
+#     title: "Event score included in *Water Yam*"
+#     date: "1963"
+#     date_sort: "1963-01-01"
+#     year_filter: [ "1963" ]
+#     medium: "offset print"
+#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
+#     extended_caption: ""
+#     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
+#     featured: 
+#     type: [ score ]
+#     figure: [ id: "fig-347" ]
 -
     id: "348"
     old_id: "6.03a"
@@ -6866,7 +6867,7 @@ object_list:
     year_filter: [ "1960" ]
     medium: ""
     location: "Getty Research Institute, item 92-B17341, vol. 5"
-    extended_caption: "After seeing George Brecht’s [*Card-Piece for Voice*](/image-index/347/) (1959) performed at the Living Theatre in March 1960, John Cage wrote this letter to Brecht encouraging him to send some event scores to David Tudor for performance in Germany."
+    extended_caption: "After seeing George Brecht’s [*Card-Piece for Voice*](/image-index/349/#card-096) (1959) performed at the Living Theatre in March 1960, John Cage wrote this letter to Brecht encouraging him to send some event scores to David Tudor for performance in Germany."
     credit: "Courtesy of the John Cage Trust."
     featured: 
     type: [ correspondence ]

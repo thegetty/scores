@@ -516,7 +516,7 @@ object_list:
     old_id: "1.12a"
     maker: [ "George W. Stowe" ]
     people: [ "Stowe, George W.", "Cage, John", "Tudor, David", "Feldman, Morton", "Brown, Earle" ]
-    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Varese, Edgar" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Varèse, Edgard" ]
     title: "“David Tudor Program Opens Sunday Afternoon Series,” *Hartford Times*"
     date: "November 1953"
     date_sort: "1953-11-01"
@@ -1708,7 +1708,7 @@ object_list:
     id: "099"
     old_id: "2.15f"
     maker: [ "Ross Parmenter" ]
-    people: [ "Parmenter, Ross", "Cage, John", "Tudor, David", "Cuningham, Merce" ]
+    people: [ "Parmenter, Ross", "Cage, John", "Tudor, David", "Cunningham, Merce" ]
     more_people: [ "Ajemian, Maro" ]
     title: "“Music: Experimenter: Zounds! Sound by John Cage at Town Hall,” *New York Times*, 20"
     date: "16 May 1958"
@@ -1913,7 +1913,7 @@ object_list:
     old_id: "2.15r"
     maker: [ "A. H." ]
     people: [ "Tudor, David", "Cage, John" ]
-    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Pousseur, Henri", "Messaien, Olivier" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Pousseur, Henri", "Messiaen, Olivier" ]
     title: "“David Tudor in Piano Recital,” *New York Herald Tribune*, 11"
     date: "20 March 1959"
     date_sort: "1959-03-20"
@@ -4163,7 +4163,7 @@ object_list:
     id: "243"
     old_id: "5.02e"
     maker: [ "Jackson Mac Low (American, 1922–2004)", "Simone Forti (American, b. 1935)" ]
-    people: [ "Mac Low, Jackson ", "Forti, Simone", "Berglund, Phoebe", "Zins-Browne, Andros" ]
+    people: [ "Mac Low, Jackson", "Forti, Simone", "Berglund, Phoebe", "Zins-Browne, Andros" ]
     more_people: [ "Cooper, Sarah", "Paxton, Steve", "Wada, Tashi" ]
     title: "Phoebe Berglund and Andros Zins-Browne performing Simone Forti’s dance realization of Jackson Mac Low’s *Asymmetry 222* (1980) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4591,7 +4591,7 @@ object_list:
     id: "267"
     old_id: "5.11c"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Mac Low, Jackson", "Shiomi, Chieko", "Brecht, George", "Ichiyanagi, Toshi", "Knowles, Alison", "Kaprow, Allan"  ]
+    people: [ "Maciunas, George", "Mac Low, Jackson", "Shiomi, Mieko (Chieko)", "Brecht, George", "Ichiyanagi, Toshi", "Knowles, Alison", "Kaprow, Allan"  ]
     more_people: [ "Paik, Nam June" ]
     title: "Artist index cards"
     date: "1961–64"
@@ -4660,7 +4660,7 @@ object_list:
     old_id: "5.11e"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     people: [ "Maciunas, George", "Higgins, Dick", "Knowles, Alison", "Brecht, George", "Patterson, Benjamin", "Mac Low, Jackson", "Ichiyanagi, Toshi" ]
-    more_people: [ "Watts, Robert", "Hanse, Al", "Schmit, Tomas", "Køpcke, Arthur", "Williams, Emmett", "Ligeti, Gyorgy", "Paik, Nam June" ]
+    more_people: [ "Watts, Robert", "Hansen, Al", "Schmit, Tomas", "Køpcke, Arthur", "Williams, Emmett", "Ligeti, Gyorgy", "Paik, Nam June" ]
     title: "Letters from George Maciunas to Dick Higgins"
     date: "18 January 1962 and February 1963"
     date_sort: "1962-01-18"
@@ -6173,7 +6173,7 @@ object_list:
     id: "358"
     old_id: "6.11"
     maker: 
-    people: [ "Knowles, Alison", "Corner, Philip", "Forti, Simone", "Brecht, George", "Ichiyanagi, Toshi", "Ono, Yoko", "Patterson, Benjamin", "Shiomi, Chieko", "Young, La Monte" ]
+    people: [ "Knowles, Alison", "Corner, Philip", "Forti, Simone", "Brecht, George", "Ichiyanagi, Toshi", "Ono, Yoko", "Patterson, Benjamin", "Shiomi, Mieko (Chieko)", "Young, La Monte" ]
     more_people: [ "Friedman, Ken", "Miller, Larry", "Wada, Yoshi", "Higgins, Dick", "Kosugi, Takehisa", "Paik, Nam June" ]
     title: "Press release for *FLUXUS: Classic ’60’s Performances Plus the Premier of Alison Knowles’ “Natural Assemblages and the True Crow”* at The Kitchen, New York, NY"
     date: "24 March 1979"
@@ -6773,7 +6773,7 @@ object_list:
     id: "391"
     old_id: "6.41"
     maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George", "Johnson, Jill" ]
+    people: [ "Brecht, George", "Johnston, Jill" ]
     more_people: ""
     title: "“EVENTS: scores and other occurrences,” typescript, sent to Jill Johnston"
     date: "28 December 1961"
@@ -7037,8 +7037,8 @@ object_list:
     id: "406"
     old_id: "7.05"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson", "Patterson, Ben", "Brecht, George" ]
-    more_people: [ "Flynt, Hery" ]
+    people: [ "Mac Low, Jackson", "Patterson, Benjamin", "Brecht, George" ]
+    more_people: [ "Flynt, Henry" ]
     title: "Postcards sent by Jackson Mac Low to Benjamin Patterson with various scores composed in 1963, including *Social Projects 1–3*, *Architecture (for GB)*, *Schedule (for George Brecht)*, and *Light Rhythms for Henry Flynt*"
     date: "April 1963"
     date_sort: "1963-04-01"
@@ -7241,7 +7241,7 @@ object_list:
     id: "418"
     old_id: "7.18"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Ben", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi" ]
+    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi" ]
     more_people: [ "Paik, Nam June", "Higgins, Dick", "Vautier, Ben" ]
     title: "*Fluxus News–Policy Letter, no. 6*"
     date: "6 April 1963"
@@ -7292,7 +7292,7 @@ object_list:
     id: "421"
     old_id: "7.21"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi", "Shiomi, Chieko", "Knowles, Alison" ]
+    people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi", "Shiomi, Mieko (Chieko)", "Knowles, Alison" ]
     more_people: [ "Paik, Nam June", "Higgins, Dick", "Vautier, Ben", "Ligeti, Gyorgy", "Kosugi, Takehisa" ]
     title: "*Fluxus News—Policy Letter, no. 7*, reprinted in *Fluxus etc., Addenda 1*, ed. Jon Hendricks (New York: Ink &, 1983), 157–59"
     date: "1 May 1963"
@@ -7344,7 +7344,7 @@ object_list:
     old_id: "7.28"
     maker: 
     people: [ "Mac Low, Jackson" ]
-    more_people: [ "Ginsburg, Allen", "Corner, Philip" ]
+    more_people: [ "Ginsberg, Allen", "Corner, Philip" ]
     title: "Poster for a “peace illumination walk” in sympathy with the suffering in Vietnam"
     date: "23 December 1966"
     date_sort: "1966-12-23"
@@ -7479,7 +7479,7 @@ object_list:
     id: "432"
     old_id: "7.36"
     maker: [ "Robert Palmer" ]
-    people: [ "Palmer, Robert", "Jackson, Mac Low" ]
+    people: [ "Palmer, Robert", "Mac Low, Jackson" ]
     more_people: ""
     title: "“Music: Perplexities of Fluxus,” *New York Times*"
     date: "2 June 1978"
@@ -8599,7 +8599,7 @@ object_list:
     id: "497"
     old_id: "9.23"
     maker: 
-    people: [ "Knowles, Alison", "Lockwood, Anna", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
+    people: [ "Knowles, Alison", "Lockwood, Anna (Anea)", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
     more_people: [ "Oliveros, Pauline" ]
     title: "Announcement for *Womens Work*, “a magazine of performance scores by contemporary women artists”"
     date: "ca. 1975"
@@ -8906,7 +8906,7 @@ object_list:
     old_id: "10.01"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
-    more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
+    more_people: [ "Corner, Philip", "Ginsberg, Allen", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "List of participants in *Spatial Poem (Nos. 1–4)*"
     date: "ca. 1972"
     date_sort: "1972-01-01"
@@ -8957,7 +8957,7 @@ object_list:
     old_id: "10.10"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     people: [ "Shiomi, Mieko (Chieko)", "Kaprow, Allan", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
-    more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
+    more_people: [ "Corner, Philip", "Ginsberg, Allen", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "Promotional postcard for *Complete Works: Spatial Poem*"
     date: "ca. 1976"
     date_sort: "1976-01-01"
@@ -9161,7 +9161,7 @@ object_list:
     old_id: "10.22"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     people: [ "Shiomi, Mieko (Chieko)", "Kaprow, Allan", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
-    more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
+    more_people: [ "Corner, Philip", "Ginsberg, Allen", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "Cover of *Spatial Poem* (Osaka: self-published, 1976)"
     date: ""
     date_sort: "1976-01-01"
@@ -10382,7 +10382,7 @@ object_list:
     old_id: "11.30e"
     maker: 
     people: [ "Kaprow, Allan", "Beebe, Mary" ]
-    more_people: [ "Sullivan, Mike" ]
+    more_people: [ "Sullivan, Michael" ]
     title: "Letter from Mary L. Beebe to Allan Kaprow"
     date: "21 November 1973"
     date_sort: "1973-11-21"

@@ -388,6 +388,11 @@ window['toggleCardCaption'] = function(event) {
 }
 
 window['showTagged'] = function(tag) {
+  const hash = window.location.hash
+  if (hash) {
+    history.pushState("", document.title, window.location.pathname + window.location.search);
+  }
+  const lightbox = document.querySelector('.quire-entry__lightbox');
   const allCards = document.querySelectorAll('.card, .card-description')
   allCards.forEach(card => {
     // remove the selected class if the card was previously selected with checkCardHash()
@@ -420,6 +425,10 @@ window['showTagged'] = function(tag) {
     }
   }
 
+  if (lightbox) {
+    lightbox.scrollTop = 0; // Scroll to the top of the .quire-entry__lightbox element
+  }
+
   const tagClass = "." + tag.replaceAll(' ', '-') + "-tag"
   const allTags = document.querySelectorAll('.card-caption__tags li')
   const matchedTags = document.querySelectorAll(tagClass)
@@ -440,6 +449,7 @@ function checkCardHash() {
     const cards = document.querySelectorAll('.card');
     const descriptions = document.querySelectorAll('.card-description');
     const dropdown = document.getElementById('tagdropdown');
+    const lightbox = document.querySelector('.quire-entry__lightbox');
 
     cards.forEach(card => {
       if (card.id === hash) {
@@ -457,6 +467,10 @@ function checkCardHash() {
 
     if (dropdown) {
       dropdown.value = ''; // Set the dropdown to the option with no value
+    }
+    
+    if (lightbox) {
+      lightbox.scrollTop = 0; // Scroll to the top of the .quire-entry__lightbox element
     }
   }
 }

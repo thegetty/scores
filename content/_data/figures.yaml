@@ -7075,6 +7075,15 @@ figure_list:
     label: ""
     alt: ""
 -
+    id: "fig-136"
+    src: figures/tudor-cage-grid.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: ""
+    alt: ""
+-
     id: "fig-136-a"
     src: figures/gri_980039_b07_f05_037_mm.jpg
     zoom: true
@@ -14862,7 +14871,7 @@ figure_list:
         regex: /WaterYam_\d{3}\.jpg/
 -
     id: "fig-349"
-    src: placeholder.jpg
+    src: figures/water-yam-grid.jpg
     zoom: true
     poster: 
     media_type: 

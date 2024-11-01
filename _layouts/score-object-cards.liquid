@@ -75,8 +75,8 @@ Entry content, including entry image and tombstone data
     {% assign image_directory = '/_assets/images/figures/' %}
     {% assign card_directory = cards %}
     {% for card in card_data %}
-    <figure class="card" style="width: {{ 72 | times: card_scale | times: card.width }}px;" data-tags="{{ card.tags }}" id="{{ card.file | replace: ".png" , "" }}">
-      <a href="#{{ card.file | replace: ".png" , "" }}">
+    <figure class="card" style="width: {{ 72 | times: card_scale | times: card.width }}px;" data-tags="{{ card.tags }}" id="{{ card.file | replace: ".png" , "" | replace: ".jpg" , "" | replace: "_" , "-" }}">
+      <a href="#{{ card.file | replace: ".png" , "" | replace: ".jpg" , "" | replace: "_" , "-" }}">
       <img class="card-image" src="{{ image_directory }}/{{ card_directory }}/{{ card.file }}" alt="{{ card.title }}: {{ card.fullText }}" />
       {% if card.additionalImages %}
       {% assign all_images = card.additionalImages  | split: ", " %}

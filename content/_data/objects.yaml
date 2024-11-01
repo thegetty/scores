@@ -514,7 +514,7 @@ object_list:
     old_id: "1.12a"
     maker: [ "George W. Stowe" ]
     people: [ "Stowe, George W.", "Cage, John", "Tudor, David", "Feldman, Morton", "Brown, Earle" ]
-    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Varese, Edgar" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Varèse, Edgard" ]
     title: "“David Tudor Program Opens Sunday Afternoon Series,” *Hartford Times*"
     date: "November 1953"
     date_sort: "1953-11-01"
@@ -1911,7 +1911,7 @@ object_list:
     old_id: "2.15r"
     maker: [ "A. H." ]
     people: [ "Tudor, David", "Cage, John" ]
-    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Pousseur, Henri", "Messaien, Olivier" ]
+    more_people: [ "Wolff, Christian", "Boulez, Pierre", "Pousseur, Henri", "Messiaen, Olivier" ]
     title: "“David Tudor in Piano Recital,” *New York Herald Tribune*, 11"
     date: "20 March 1959"
     date_sort: "1959-03-20"
@@ -4620,7 +4620,7 @@ object_list:
     old_id: "5.11e"
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     people: [ "Maciunas, George", "Higgins, Dick", "Knowles, Alison", "Brecht, George", "Patterson, Benjamin", "Mac Low, Jackson", "Ichiyanagi, Toshi" ]
-    more_people: [ "Watts, Robert", "Hanse, Al", "Schmit, Tomas", "Køpcke, Arthur", "Williams, Emmett", "Ligeti, Gyorgy", "Paik, Nam June" ]
+    more_people: [ "Watts, Robert", "Hansen, Al", "Schmit, Tomas", "Køpcke, Arthur", "Williams, Emmett", "Ligeti, Gyorgy", "Paik, Nam June" ]
     title: "Letters from George Maciunas to Dick Higgins"
     date: "18 January 1962 and February 1963"
     date_sort: "1962-01-18"
@@ -6965,7 +6965,7 @@ object_list:
     old_id: "7.05"
     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
     people: [ "Mac Low, Jackson", "Patterson, Benjamin", "Brecht, George" ]
-    more_people: [ "Flynt, Hery" ]
+    more_people: [ "Flynt, Henry" ]
     title: "Postcards sent by Jackson Mac Low to Benjamin Patterson with various scores composed in 1963, including *Social Projects 1–3*, *Architecture (for GB)*, *Schedule (for George Brecht)*, and *Light Rhythms for Henry Flynt*"
     date: "April 1963"
     date_sort: "1963-04-01"
@@ -7271,7 +7271,7 @@ object_list:
     old_id: "7.28"
     maker: 
     people: [ "Mac Low, Jackson" ]
-    more_people: [ "Ginsburg, Allen", "Corner, Philip" ]
+    more_people: [ "Ginsberg, Allen", "Corner, Philip" ]
     title: "Poster for a “peace illumination walk” in sympathy with the suffering in Vietnam"
     date: "23 December 1966"
     date_sort: "1966-12-23"
@@ -8823,7 +8823,7 @@ object_list:
     old_id: "10.01"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
-    more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
+    more_people: [ "Corner, Philip", "Ginsberg, Allen", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "List of participants in *Spatial Poem (Nos. 1–4)*"
     date: "ca. 1972"
     date_sort: "1972-01-01"
@@ -8874,7 +8874,7 @@ object_list:
     old_id: "10.10"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     people: [ "Shiomi, Mieko (Chieko)", "Kaprow, Allan", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
-    more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
+    more_people: [ "Corner, Philip", "Ginsberg, Allen", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "Promotional postcard for *Complete Works: Spatial Poem*"
     date: "ca. 1976"
     date_sort: "1976-01-01"
@@ -9078,7 +9078,7 @@ object_list:
     old_id: "10.22"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     people: [ "Shiomi, Mieko (Chieko)", "Kaprow, Allan", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
-    more_people: [ "Corner, Philip", "Ginsberg, Allan", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
+    more_people: [ "Corner, Philip", "Ginsberg, Allen", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "Cover of *Spatial Poem* (Osaka: self-published, 1976)"
     date: ""
     date_sort: ""
@@ -10294,7 +10294,7 @@ object_list:
     old_id: "11.30e"
     maker: 
     people: [ "Kaprow, Allan", "Beebe, Mary" ]
-    more_people: [ "Sullivan, Mike" ]
+    more_people: [ "Sullivan, Michael" ]
     title: "Letter from Mary L. Beebe to Allan Kaprow"
     date: "21 November 1973"
     date_sort: "1973-11-21"

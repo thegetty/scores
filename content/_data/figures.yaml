@@ -15620,10 +15620,10 @@ figure_list:
     alt: "Rectangular envelope with handwritten sender and recipient addresses and two faint black stamps at top and bottom."
 -
     id: "fig-404"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
+    src: embeds/map-maclow.html
+    zoom:
+    poster: placeholder.jpg
+    media_type: table
     media_id: 
     label: ""
     alt: "Customized Google map with pins dropped on various locations, mostly in the New York area and Western Europe, showing where Mac Low created and sent his postcard scores."

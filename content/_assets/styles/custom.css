@@ -969,8 +969,8 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   background-color: transparent !important;
   padding: 0 !important;
 }
-.score-object .q-lightbox-ui__zoom-and-fullscreen,
-.score-object .q-lightbox-ui__navigation {
+.score-object .q-lightbox-ui,
+.q-figure-slides__slide-ui {
   display: none !important;
 }
 .score-object .quire-entry div.side-by-side div.quire-entry__content {

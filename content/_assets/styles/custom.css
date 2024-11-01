@@ -1174,6 +1174,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   color: white;
   box-shadow: none;
 }
+.quire-score-object-cards .quire-entry__lightbox .card img {
+  display: none;
+}
+.quire-score-object-cards .quire-entry__lightbox .card img:first-child {
+  display: block;
+}
 .quire-score-object-cards .quire-entry__lightbox .card-caption__button {
   display: inline;
   background-color: transparent;
@@ -1194,6 +1200,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .quire-score-object-cards .quire-entry__lightbox .card.selected {
   width: 100% !important;
+}
+.quire-score-object-cards .quire-entry__lightbox .card.selected img {
+  display: block;
 }
 .quire-score-object-cards .quire-entry__lightbox .card.selected .card-caption__button {
   display: none;

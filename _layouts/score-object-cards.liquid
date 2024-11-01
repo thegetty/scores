@@ -78,6 +78,12 @@ Entry content, including entry image and tombstone data
     <figure class="card" style="width: {{ 72 | times: card_scale | times: card.width }}px;" data-tags="{{ card.tags }}" id="{{ card.file | replace: ".png" , "" }}">
       <a href="#{{ card.file | replace: ".png" , "" }}">
       <img class="card-image" src="{{ image_directory }}/{{ card_directory }}/{{ card.file }}" alt="{{ card.title }}: {{ card.fullText }}" />
+      {% if card.additionalImages %}
+      {% assign all_images = card.additionalImages  | split: ", " %}
+      {% for img in all_images %}
+      <img class="card-image" src="{{ image_directory }}/{{ card_directory }}/{{ img }}" alt="" />
+      {% endfor %}
+      {% endif %}
       </a>
       <figcaption class="card-caption">
         <ul class="card-caption__tags">

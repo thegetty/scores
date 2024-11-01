@@ -1131,10 +1131,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .quire-score-object-cards .quire-entry__lightbox {
   overflow: scroll;
   font-size: var(--small-font-size);
-  height: calc(100% - 7rem);
+  height: calc(100vh - 7rem);
 }
 .quire-score-object-cards #quire-entry-view:not(.side-by-side) .quire-entry__lightbox {
-  margin: 1.25rem 2rem 0;
+  margin: 1.2rem 2rem 0;
+  width: calc(100% - 4rem) !important;
+  height: calc(100vh - 10rem);
 }
 .quire-score-object-cards .card-select {
   font-family: inherit;
@@ -1155,6 +1157,14 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   background-color: transparent;
   display: inline-block;
   padding: 0;
+}
+.quire-score-object-cards .quire-entry__lightbox .card-description {
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+}
+.quire-score-object-cards .quire-entry__lightbox .card-description strong {
+  font-weight: normal;
+  color: var(--accent-color);
 }
 .quire-score-object-cards .quire-entry__lightbox .card {
   float: left;

@@ -388,10 +388,14 @@ window['toggleCardCaption'] = function(event) {
 }
 
 window['showTagged'] = function(tag) {
-  const allCards = document.querySelectorAll('.card')
+  const allCards = document.querySelectorAll('.card, .card-description')
   allCards.forEach(card => {
     if (tag === 'all' || tag === '') {
-      card.style.display = 'block'
+      if (card.classList.contains('card-description')) {
+        card.style.display = 'none'
+      } else {
+        card.style.display = 'block'
+      }
     } else {
       const tags = card.getAttribute('data-tags').split(', ')
       card.style.display = tags.includes(tag) ? 'block' : 'none'

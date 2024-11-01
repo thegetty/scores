@@ -390,6 +390,10 @@ window['toggleCardCaption'] = function(event) {
 window['showTagged'] = function(tag) {
   const allCards = document.querySelectorAll('.card, .card-description')
   allCards.forEach(card => {
+    // remove the selected class if the card was previously selected with checkCardHash()
+    if (card.classList.contains('selected')) {
+      card.classList.remove('selected')
+    }
     if (tag === 'all' ) {
       if (card.classList.contains('card-description')) {
         card.style.display = 'none'
@@ -440,8 +444,10 @@ function checkCardHash() {
     cards.forEach(card => {
       if (card.id === hash) {
         card.style.display = 'block';
+        card.classList.add('selected')
       } else {
         card.style.display = 'none';
+        card.classList.remove('selected')
       }
     });
 

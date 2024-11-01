@@ -1173,7 +1173,6 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   background-color: transparent;
   color: white;
   box-shadow: none;
-  
 }
 .quire-score-object-cards .quire-entry__lightbox .card-caption__button {
   display: inline;
@@ -1192,6 +1191,18 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .quire-score-object-cards .quire-entry__lightbox .card-caption__tags li.selected {
   color: var(--accent-color);
+}
+.quire-score-object-cards .quire-entry__lightbox .card.selected {
+  width: 100% !important;
+}
+.quire-score-object-cards .quire-entry__lightbox .card.selected .card-caption__button {
+  display: none;
+}
+.quire-score-object-cards .quire-entry__lightbox .card.selected .card-caption__text {
+  display: block !important;
+  margin-top: 1rem;
+  font-size: 1rem;
+  max-width: 1000px;
 }
 
 /*  iFRAME VIEWER

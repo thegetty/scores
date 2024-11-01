@@ -390,7 +390,7 @@ window['toggleCardCaption'] = function(event) {
 window['showTagged'] = function(tag) {
   const allCards = document.querySelectorAll('.card, .card-description')
   allCards.forEach(card => {
-    if (tag === 'all' || tag === '') {
+    if (tag === 'all' ) {
       if (card.classList.contains('card-description')) {
         card.style.display = 'none'
       } else {
@@ -412,8 +412,6 @@ window['showTagged'] = function(tag) {
   for (let i = 0; i < options.length; i++) {
     if (options[i].value === tag) {
       dropdown.selectedIndex = i
-      console.log("dropdown.selectedIndex :: " + dropdown.selectedIndex)
-      console.log("i :: " + i)
       break
     }
   }
@@ -424,11 +422,36 @@ window['showTagged'] = function(tag) {
 
   for (const t of allTags) {
     t.classList.remove('selected')
-    console.log("t :: " + t)
   }
   for (const m of matchedTags) {
     m.classList.add('selected')
-    console.log("m :: " + m)
+  }
+}
+
+function checkCardHash() {
+  const cardPage = document.querySelector('.quire-score-object-cards')
+  const hash = window.location.hash.substring(1); // Remove the '#' from the hash
+
+  if (cardPage && hash) {
+    const cards = document.querySelectorAll('.card');
+    const descriptions = document.querySelectorAll('.card-description');
+    const dropdown = document.getElementById('tagdropdown');
+
+    cards.forEach(card => {
+      if (card.id === hash) {
+        card.style.display = 'block';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+
+    descriptions.forEach(description => {
+      description.style.display = 'none';
+    });
+
+    if (dropdown) {
+      dropdown.value = ''; // Set the dropdown to the option with no value
+    }
   }
 }
 
@@ -517,6 +540,7 @@ function pageSetup() {
   objectSize()
   randomImage()
   scrollView()
+  checkCardHash()
 }
 
 function parseQueryParams() {
@@ -566,4 +590,8 @@ window.addEventListener('load', () => {
       },
     })
   }
+})
+
+window.addEventListener('hashchange', () => {
+  checkCardHash()
 })

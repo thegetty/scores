@@ -1632,9 +1632,12 @@ figure_list:
     id: "fig-015"
     src: 
     zoom: 
-    poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    # poster: audio-poster.jpg
+    # media_type: audio
+    # media_id: figures/audio/sample.mp3
+    poster: figures/10_Intersection_3_For_Piano.jpg
+    media_type: vimeo
+    media_id: 1026642398/e26d287d78
     label: ""
     alt: ""
 -
@@ -1650,9 +1653,12 @@ figure_list:
     id: "fig-017"
     src: 
     zoom: 
-    poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    # poster: audio-poster.jpg
+    # media_type: audio
+    # media_id: figures/audio/sample.mp3
+    poster: figures/09-Intersection_3_1953.jpg
+    media_type: vimeo
+    media_id: 1026620819/f828053a54
     label: ""
     alt: ""
 -

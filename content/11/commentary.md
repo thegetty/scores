@@ -1,6 +1,7 @@
 ---
 label: "11"
 title: "Allan Kaprow: *Routine* (1973–75)"
+short_title: "*Routine*"
 order: 111
 layout: essay
 toc: false
@@ -8,6 +9,7 @@ menu: false
 contributor:
   - id: ercapper
 page_pdf_output: true
+pdf_feet_recto: "Capper"
 ---
 
 Between 1958 and 1959, around the same time George Brecht devised his first event scores (see [chapter 6](/06/)), Allan Kaprow developed the “happening.” Kaprow had started out as a painter and then, in the tradition of Cubism and Dada, began to affix everyday materials to his paintings. Inspired by a wide range of sources, from Jackson Pollock’s mural-size paintings to lowbrow funhouses, Kaprow’s work rapidly increased in scale from collages to three-dimensional assemblages to, finally, room-size installations he called “environments.”[^1] Kaprow constructed his environments out of a signature array of everyday objects (for instance, plastic drop cloths, holiday lights, tinfoil, mirrors). In his later happenings, he incorporated human participants and gave them various actions, tasks, and games to perform.

@@ -1685,3 +1685,46 @@ body.iframe-version #quire-entry-view-toggle {
     margin-left: .4375in !important;
   }
 }
+
+/* PDF running feet */ 
+@media print {
+  .pdf-footers__verso,
+  .pdf-footers__recto {
+    font-family: inherit;
+    font-size: inherit;
+  }
+  .pdf-footers__verso {
+    flow: static(pageverso);
+    text-align: right;
+  }
+  .pdf-footers__recto {
+    flow: static(pagerecto);
+    text-align: left;
+  }
+  @page :left {
+    @bottom-right {
+      content: flow(pageverso);
+    }
+  }
+  @page :right {
+    @bottom-left {
+      content: flow(pagerecto);
+    }
+  }
+  @page :first {
+    @bottom-right {
+      content: none;
+    }
+    @bottom-left {
+      content: none;
+    }
+  }
+  @page no-footer {
+    @bottom-right {
+      content: none;
+    }
+    @bottom-left {
+      content: none;
+    }
+  }
+}

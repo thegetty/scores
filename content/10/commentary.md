@@ -1,6 +1,7 @@
 ---
 label: "10"
 title: "Mieko Shiomi: *Spatial Poem* (1965–75)"
+short_title: "*Spatial Poem*"
 order: 101
 layout: essay
 toc: false
@@ -8,6 +9,7 @@ menu: false
 contributor:
   - id: nharren
 page_pdf_output: true
+pdf_feet_recto: "Harren"
 ---
 
 > “Write a word (or words) on the enclosed card and place it somewhere.”

@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Remove download link icon
+// Remove download link icon, added elements for PDF running feet
 //
 const { html } = require('~lib/common-tags')
 const path = require('path')
@@ -14,6 +14,7 @@ const checkFormat = require('../../_plugins/collections/filters/output.js')
  */
 module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
+  const markdownify = eleventyConfig.getFilter('markdownify')
   const pageTitle = eleventyConfig.getFilter('pageTitle')
   const slugify = eleventyConfig.getFilter('slugify')
 
@@ -53,9 +54,11 @@ module.exports = function(eleventyConfig) {
       image,
       label,
       pageContributors,
+      short_title: shortTitle,
       subtitle,
       title,
       outputs,
+      pdf_feet_recto: pagePDFFeetRecto,
       page_pdf_output: pagePDFOutput,
       key,
     } = params
@@ -90,6 +93,8 @@ module.exports = function(eleventyConfig) {
 
     let downloadLink = ''
 
+    const pdfRecto = pagePDFFeetRecto ? markdownify(pagePDFFeetRecto) : ''
+
     if (checkPagePDF(pdfConfig,outputs,pagePDFOutput)) {
       const text = pdfConfig.pagePDF.accessLinks.find((al) => al.header === true).label
       const href = path.join(pdfConfig.outputDir, `${pdfConfig.filename}-${slugify(key)}.pdf`)
@@ -109,6 +114,8 @@ module.exports = function(eleventyConfig) {
           </h1>
           ${contributorsElement}
           ${downloadLink}
+          <span class="pdf-footers__verso" data-outputs-exclude="epub,html">${markdownify(shortTitle || title)}</span>
+          <span class="pdf-footers__recto" data-outputs-exclude="epub,html">${pdfRecto}</span>
         </div>
       </section>
       ${imageElement}

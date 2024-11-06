@@ -1,7 +1,7 @@
 ---
 title: Contents
 layout: page
-order: 5
+order: 6
 outputs:
   - epub
   - pdf
@@ -82,5 +82,11 @@ outputs:
     <ul>
       <li>Emily Ruth Capper</li>
     </ul>
+  </li>
+  <li>
+    <a href="#contributors"><span class="ch-number"></span><span class="ch-title">Contributors</span></a>
+  </li>
+  <li>
+    <a href="#acknowledgments"><span class="ch-number"></span><span class="ch-title">Acknowledgments</span></a>
   </li>
 </ul>

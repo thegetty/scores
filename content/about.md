@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-order: 20000
+order: 20030
 outputs:
   - html
 classes:

@@ -2,7 +2,6 @@
 // CUSTOMIZED FILE
 // Added caption and class parameters that can be fed in from shortcode
 // And simplified HTML markup to remove rows
-// Add links for pdf and epub output
 //
 const { oneLine } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
@@ -19,7 +18,6 @@ const logger = chalkFactory('shortcodes:figureGroup')
  * @return     {String}  An HTML string of the elements to render
  */
 module.exports = function (eleventyConfig, { page }) {
-  const { figure_list: figureList } = eleventyConfig.globalData.figures
 
   return async function (columns, ids=[], caption, classes) {
     columns = parseInt(columns)
@@ -43,18 +41,11 @@ module.exports = function (eleventyConfig, { page }) {
     // }
 
     let figureTags = []
-    let figureLinks = []
     for (let i=0; i < ids.length; i++) {
       figureTags += await fig(eleventyConfig, { page }).bind(this)(ids[i])
-
-      for ( let fig of figureList ) {
-        if (fig.id == ids[i]) {
-          figureLinks += `<a class="scores-figure__link" href="https://getty.edu/publications/scores${fig.link}" data-outputs-exclude="html">getty.edu/publications/scores${fig.link}</a>`
-        }
-      }
     }
 
-    const captionElement = caption ? `<figcaption><div>${caption}</div><div>${figureLinks}</div></figcaption>` : `<figcaption><div>${figureLinks}</div></figcaption>`
+    const captionElement = caption ? `<figcaption>${caption}</figcaption>` : ''
 
     const customClasses = classes ? classes : ''
 

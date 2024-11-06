@@ -16,7 +16,6 @@ score:
   objects:
     - id: "345"
     - id: "346"
-    - id: "347"
     - id: "348"
     - id: "349"
 playback:

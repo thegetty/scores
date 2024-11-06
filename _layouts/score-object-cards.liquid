@@ -55,16 +55,17 @@ Entry content, including entry image and tombstone data
       <option value="{{ tag }}">{{ tag }}</option>
       {% endif %}
       {% endfor %}
+      <option value="">...</option>
     </select>
     </div>
 
     <div class="quire-entry__lightbox{% for object in pageObjects %}{% if object.figures.size > 1 %} quire-entry__lightbox--with-thumbnails{% endif %}{% endfor %}">
 
     {% if cards == 'water-yam' %}
-    {% if water-yam.config.tag_descriptions %}
+    {% if water-yam.tag_descriptions %}
     <div class="card-tag-descriptions">
-    {% for desc in water-yam.config.tag_descriptions %}
-    <p style="display: none;" data-tags="{{ desc.tag }}">{{ desc.description | markdownify }}</p>
+    {% for desc in water-yam.tag_descriptions %}
+    <p class="card-description" style="display: none;" data-tags="{{ desc.tag }}"><strong>{{ desc.tag }}:</strong> {{ desc.description | markdownify }}</p>
     {% endfor %}
     </div>
     {% endif %}
@@ -74,8 +75,16 @@ Entry content, including entry image and tombstone data
     {% assign image_directory = '/_assets/images/figures/' %}
     {% assign card_directory = cards %}
     {% for card in card_data %}
-    <figure class="card" style="width: {{ 72 | times: card_scale | times: card.width }}px;" data-tags="{{ card.tags }}" id="{{ card.file | replace: ".png" , "" }}">
+    <figure class="card" style="width: {{ 72 | times: card_scale | times: card.width }}px;" data-tags="{{ card.tags }}" id="{{ card.file | replace: ".png" , "" | replace: ".jpg" , "" | replace: "_" , "-" }}">
+      <a href="#{{ card.file | replace: ".png" , "" | replace: ".jpg" , "" | replace: "_" , "-" }}">
       <img class="card-image" src="{{ image_directory }}/{{ card_directory }}/{{ card.file }}" alt="{{ card.title }}: {{ card.fullText }}" />
+      {% if card.additionalImages %}
+      {% assign all_images = card.additionalImages  | split: ", " %}
+      {% for img in all_images %}
+      <img class="card-image" src="{{ image_directory }}/{{ card_directory }}/{{ img }}" alt="" />
+      {% endfor %}
+      {% endif %}
+      </a>
       <figcaption class="card-caption">
         <ul class="card-caption__tags">
           {% assign tagGroup = card.tags | split: ", " %}

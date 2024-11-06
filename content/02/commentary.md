@@ -1,6 +1,7 @@
 ---
 label: "2"
 title: "John Cage: *Concert for Piano and Orchestra* (1958)"
+short_title: "*Concert for Piano and Orchestra*"
 order: 21
 layout: essay
 toc: false
@@ -9,6 +10,7 @@ contributor:
   - id: mgallope
   - id: nperloff
 page_pdf_output: true
+pdf_feet_recto: "Gallope and Perloff"
 ---
 
 John Cage’s *Concert for Piano and Orchestra* (1958) is a unique work in his oeuvre because of its association not only with the composer himself but also with David Tudor’s extensive role in realizing and performing the part of the *Concert* intended for the solo pianist, which Cage titled the *Solo for Piano*. What, might we ask, is so unusual and unprecedented about the *Concert*’s *Solo for Piano*, and how do we understand its great appeal for Tudor?

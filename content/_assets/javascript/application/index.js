@@ -388,10 +388,23 @@ window['toggleCardCaption'] = function(event) {
 }
 
 window['showTagged'] = function(tag) {
-  const allCards = document.querySelectorAll('.card')
+  const hash = window.location.hash
+  if (hash) {
+    history.pushState("", document.title, window.location.pathname + window.location.search);
+  }
+  const lightbox = document.querySelector('.quire-entry__lightbox');
+  const allCards = document.querySelectorAll('.card, .card-description')
   allCards.forEach(card => {
-    if (tag === 'all' || tag === '') {
-      card.style.display = 'block'
+    // remove the selected class if the card was previously selected with checkCardHash()
+    if (card.classList.contains('selected')) {
+      card.classList.remove('selected')
+    }
+    if (tag === 'all' ) {
+      if (card.classList.contains('card-description')) {
+        card.style.display = 'none'
+      } else {
+        card.style.display = 'block'
+      }
     } else {
       const tags = card.getAttribute('data-tags').split(', ')
       card.style.display = tags.includes(tag) ? 'block' : 'none'
@@ -408,10 +421,12 @@ window['showTagged'] = function(tag) {
   for (let i = 0; i < options.length; i++) {
     if (options[i].value === tag) {
       dropdown.selectedIndex = i
-      console.log("dropdown.selectedIndex :: " + dropdown.selectedIndex)
-      console.log("i :: " + i)
       break
     }
+  }
+
+  if (lightbox) {
+    lightbox.scrollTop = 0; // Scroll to the top of the .quire-entry__lightbox element
   }
 
   const tagClass = "." + tag.replaceAll(' ', '-') + "-tag"
@@ -420,11 +435,43 @@ window['showTagged'] = function(tag) {
 
   for (const t of allTags) {
     t.classList.remove('selected')
-    console.log("t :: " + t)
   }
   for (const m of matchedTags) {
     m.classList.add('selected')
-    console.log("m :: " + m)
+  }
+}
+
+function checkCardHash() {
+  const cardPage = document.querySelector('.quire-score-object-cards')
+  const hash = window.location.hash.substring(1); // Remove the '#' from the hash
+
+  if (cardPage && hash) {
+    const cards = document.querySelectorAll('.card');
+    const descriptions = document.querySelectorAll('.card-description');
+    const dropdown = document.getElementById('tagdropdown');
+    const lightbox = document.querySelector('.quire-entry__lightbox');
+
+    cards.forEach(card => {
+      if (card.id === hash) {
+        card.style.display = 'block';
+        card.classList.add('selected')
+      } else {
+        card.style.display = 'none';
+        card.classList.remove('selected')
+      }
+    });
+
+    descriptions.forEach(description => {
+      description.style.display = 'none';
+    });
+
+    if (dropdown) {
+      dropdown.value = ''; // Set the dropdown to the option with no value
+    }
+    
+    if (lightbox) {
+      lightbox.scrollTop = 0; // Scroll to the top of the .quire-entry__lightbox element
+    }
   }
 }
 
@@ -513,6 +560,7 @@ function pageSetup() {
   objectSize()
   randomImage()
   scrollView()
+  checkCardHash()
 }
 
 function parseQueryParams() {
@@ -562,4 +610,8 @@ window.addEventListener('load', () => {
       },
     })
   }
+})
+
+window.addEventListener('hashchange', () => {
+  checkCardHash()
 })

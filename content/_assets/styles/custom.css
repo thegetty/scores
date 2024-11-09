@@ -844,7 +844,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   break-inside: avoid;
 }
 
-/* IMAGE INDEX
+/* OBJECT INDEX
 ============================================================================= */
 .objects-page .quire-navbar,
 .quire:not(.no-js).objects-page .quire__primary main  {

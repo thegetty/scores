@@ -6,7 +6,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/001/
+    link: /object-index/001/
     label: "Fig. 0.1a–d"
     caption: "(a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; (c) Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
     credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
@@ -19,7 +19,7 @@ figure_list:
 #     poster: 
 #     media_type: 
 #     media_id: 
-#     link: /image-index/001/
+#     link: /object-index/001/
 #     label: "Fig. 0.1a"
 #     caption: "Four “Indeterminate” Notation Systems. "
 #     credit: ""
@@ -33,7 +33,7 @@ figure_list:
 #     poster: 
 #     media_type: 
 #     media_id: 
-#     link: /image-index/001/#fig-001-b
+#     link: /object-index/001/#fig-001-b
 #     label: "Fig. 0.1b"
 #     caption: "Four “Indeterminate” Notation Systems. "
 #     credit: ""
@@ -47,7 +47,7 @@ figure_list:
 #     poster: 
 #     media_type: 
 #     media_id: 
-#     link: /image-index/001/#fig-001-c
+#     link: /object-index/001/#fig-001-c
 #     label: "Fig. 0.1c"
 #     caption: "Four “Indeterminate” Notation Systems. "
 #     credit: ""
@@ -61,7 +61,7 @@ figure_list:
 #     poster: 
 #     media_type: 
 #     media_id: 
-#     link: /image-index/001/#fig-001-d
+#     link: /object-index/001/#fig-001-d
 #     label: "Fig. 0.1d"
 #     caption: "Four “Indeterminate” Notation Systems. "
 #     credit: ""
@@ -75,7 +75,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/002/
+    link: /object-index/002/
     label: "Fig. 0.2"
     caption: "Luigi Russolo (Italian, 1855–1947). *Risveglio di una Cittá* (Awakening of a City), 1914. From *Lacerba* 2, no. 5 (1914): 72. Getty Research Institute, Jean Brown Collection, item 86-S1483."
     credit: ""
@@ -89,7 +89,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/301/
+    link: /object-index/301/
     label: "Fig. 0.3"
     caption: "Earle Brown (American, 1926–2002). Score for *December 1952*. From *Folio and 4 Systems*, 1952. Getty Research Institute, David Tudor Papers, 980039, box 170, folder 1."
     credit: "Earle Brown Estate."
@@ -103,7 +103,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/004/
+    link: /object-index/004/
     label: "Fig. 0.4"
     caption: "Wadada Leo Smith (American, b. 1941). *The Dream*, a panel from *Kosmic Music* (The Ankhrasmation Symbolic Language Art-Score), acrylic and ink on paper, 2008."
     credit: "Wadada Leo Smith, www.wadadaleosmith.com."
@@ -117,7 +117,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/005/
+    link: /object-index/005/
     label: "Fig. 0.5"
     caption: "Hugo Ball performing *Karawane* at the Cabaret Voltaire, Zürich, 1916. Getty Research Institute, Jean Brown Papers, 890164, box 1, folder 52."
     credit: ""
@@ -131,7 +131,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/006/
+    link: /object-index/006/
     label: "Fig. 0.6"
     caption: "Kurt Schwitters (German, 1887–1948). *Ursonate*, 1922–32. From *Merz*, no. 24 (1932): 157. Getty Research Institute, item 85-S179."
     credit: ""
@@ -145,7 +145,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/007/
+    link: /object-index/007/
     label: "Fig. 0.7"
     caption: "George Brecht (American, 1926–2008). Page of notes from John Cage’s course in experimental composition, July 1959. From *George Brecht Notebooks*, vol. 3, *April–August 1959*, ed. Dieter Daniels with collaboration of Hermann Braun (Cologne: Walther König, 1991), 127. Getty Research Institute, item 92-B17341."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
@@ -159,7 +159,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/008/
+    link: /object-index/008/
     label: "Fig. 0.8"
     caption: "Nam June Paik (Korean, 1932–2006). “Expanded Education for the Paperless Society,” 1968. Reproduced in *Radical Software* 1, no. 1 (1970): 7–8."
     credit: "© Nam June Paik Estate."
@@ -173,7 +173,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/009/
+    link: /object-index/009/
     label: "Fig. 0.9"
     caption: "Sidney Lanier (American, 1842–81). From *Science of English* Verse (New York: Scribner’s, 1880), 216–17."
     credit: "Internet Archive/Trent University Library Donation."
@@ -187,7 +187,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/010/
+    link: /object-index/010/
     label: "Fig. 0.10"
     caption: "Décio Pignatari (Brazilian, 1927–2012). *Beba Coca Cola*, 1957, screen print. From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991), n.p. Getty Research Institute, item 45-13."
     credit: "Estate of Décio Pignatari."
@@ -201,7 +201,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/011/
+    link: /object-index/011/
     label: "Fig. 0.11"
     caption: "Ian Hamilton Finlay (Scottish, 1925–2006). *Star/Steer*, 1965, sandblasted glass in wooden base."
     credit: "By courtesy of the Estate of Ian Hamilton Finlay."
@@ -215,7 +215,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/012/
+    link: /object-index/012/
     label: "Fig. 1.1"
     caption: "Morton Feldman (American, 1926–87). *Intersection 3* with a dedication to David Tudor, 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
     credit: "*Intersection 3* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
@@ -229,7 +229,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/045/
+    link: /object-index/045/
     label: "Fig. 1.2"
     caption: "Morton Feldman (American, 1926–87). Embryonic graph score, likely for Feldman’s, *Projection 1*, early 1950s. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 30."
     credit: "*Projection 1* by Morton Feldman © 1961 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
@@ -243,7 +243,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/014/
+    link: /object-index/014/
     label: "Fig. 1.3"
     caption: "David Tudor (American, 1926–96). Realization of Feldman’s *Intersection 3*, 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
     credit: "*Intersection 3* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
@@ -257,7 +257,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/021/
+    link: /object-index/021/
     label: "Fig. 1.4"
     caption: "Letter from Morton Feldman to David Tudor, 15 June 1953. Getty Research Institute, David Tudor Papers, 980039, box 53, folder 7."
     credit: "Courtesy of the Morton Feldman Estate."
@@ -271,7 +271,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/133/
+    link: /object-index/133/
     label: "Fig. 2.1"
     caption: "John Cage and David Tudor in the Tôkei-ji Temple Garden, Kanazawa, Japan, 1962. Getty Research Institute, David Tudor Papers, 980039, box 160."
     credit: "Photographer: © Matsuzaki Kunitoshi. Courtesy of the John Cage Trust."
@@ -285,7 +285,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/124/
+    link: /object-index/124/
     label: "Fig. 2.2"
     caption: "Letter from John Cage to David Tudor, 1951. Getty Research Institute, David Tudor Papers, 980039, box 7, folder 7."
     credit: "Courtesy of the John Cage Trust."
@@ -299,7 +299,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/060/#fig-060-an
+    link: /object-index/060/#fig-060-an
     label: "Fig. 2.3"
     caption: "David Tudor’s copy of John Cage’s *Solo for Piano* that features Graphs D and Z, from *Concert for Piano and Orchestra*, 1957–58. Getty Research Institute, David Tudor Papers, 980039, box 176, folders 1, 2."
     credit: "Edition Peters."
@@ -313,7 +313,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/134/
+    link: /object-index/134/
     label: "Fig. 2.4"
     caption: "Merce Cunningham conducting John Cage’s *Concert for Piano and Orchestra* at Town Hall, 15 May 1958. "
     credit: ""
@@ -327,7 +327,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/131/
+    link: /object-index/131/
     label: "Fig. 2.5"
     caption: "David Tudor preparing his second realization of John Cage’s *Solo for Piano*, 1958. Getty Research Institute, David Tudor Papers, 980039, box 158."
     credit: ""
@@ -341,7 +341,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/159/#fig-159-am
+    link: /object-index/159/#fig-159-am
     label: "Fig. 3.1"
     caption: "Copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, 1958–60. From Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
@@ -355,7 +355,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/154/#fig-154-e
+    link: /object-index/154/#fig-154-e
     label: "Fig. 3.2"
     caption: "David Tudor’s personal copy of *No. 1* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
@@ -370,7 +370,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/159/#fig-159-aw
+    link: /object-index/159/#fig-159-aw
     label: "Fig. 3.3"
     caption: "Copy of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, 1958–60. From Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
@@ -384,7 +384,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/158/#fig-158-r
+    link: /object-index/158/#fig-158-r
     label: "Fig. 3.4"
     caption: "David Tudor (American, 1926–96). David Tudor’s realization of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
@@ -399,7 +399,7 @@ figure_list:
 #     poster: 
 #     media_type: 
 #     media_id: 
-#     link: /image-index/159/#fig-159-am
+#     link: /object-index/159/#fig-159-am
 #     label: "Fig. 3.5"
 #     caption: "Loose score sheets for Sylvano Bussotti’s *Pièces de chair II* with pencil annotations by David Tudor, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
 #     credit: ""
@@ -413,7 +413,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/157/#fig-157-f
+    link: /object-index/157/#fig-157-f
     label: "Fig. 3.5"
     caption: "David Tudor’s realization of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
@@ -427,7 +427,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/217/
+    link: /object-index/217/
     label: "Fig. 4.1"
     caption: "Benjamin Patterson (American, 1934–2016). *Variations for Double-Bass*, 1961, rev. 1962. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33."
     credit: "© The Estate of Benjamin Patterson."
@@ -441,7 +441,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/232/
+    link: /object-index/232/
     label: "Fig. 4.2"
     caption: "Benjamin Patterson performing *Variations for Double-Bass*, at *Kleinen Sommerfest: Après John Cage*, Galerie Parnass, Wuppertal, West Germany, 9 June 1962."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. © The Estate of Benjamin Patterson. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY."
@@ -455,7 +455,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/215/#fig-215-f
+    link: /object-index/215/#fig-215-f
     label: "Fig. 4.3"
     caption: "Benjamin Patterson (American, 1934–2016). *Duo for Voice and a String Instrument*, 1961. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32."
     credit: "© The Estate of Benjamin Patterson."
@@ -469,7 +469,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/197/
+    link: /object-index/197/
     label: "Fig. 4.4"
     caption: "Benjamin Patterson (American, 1934–2016). Printed score of *Paper Piece* in English, 1960. Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 33."
     credit: "© The Estate of Benjamin Patterson."
@@ -483,7 +483,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-a
+    link: /object-index/238/#fig-238-a
     anthology_links: true
     # label: "Fig. 5.1"
     # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -498,7 +498,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-b
+    link: /object-index/238/#fig-238-b
     anthology_links: true
     # label: "Fig. 5.2"
     # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -513,7 +513,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-c
+    link: /object-index/238/#fig-238-c
     anthology_links: true
     # label: "Fig. 5.3"
     # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -528,7 +528,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-d
+    link: /object-index/238/#fig-238-d
     anthology_links: true
     # label: "Fig. 5.4"
     # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -543,7 +543,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-e
+    link: /object-index/238/#fig-238-e
     anthology_links: true
     # label: "Fig. 5.5"
     # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Artist title page of *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -558,7 +558,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-bj
+    link: /object-index/238/#fig-238-bj
     anthology_links: true
     label: "Fig. 5.6"
     caption: "Terry Riley (American, b.1935). *Concert for Two Pianists*, 1960. From *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -573,7 +573,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-bl
+    link: /object-index/238/#fig-238-bl
     anthology_links: true
     label: "Fig. 5.7"
     caption: "Emmett Williams (American, 1925–2007). *Cellar Song for Five Voices*, ca. 1960. From  *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -588,7 +588,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-aa
+    link: /object-index/238/#fig-238-aa
     anthology_links: true
     label: "Fig. 5.8"
     caption: "Toshi Ichiyanagi (Japanese, b. 1933). *Mudai #1 for La Monte Young, Dec. 1960*, 1960. From *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -603,7 +603,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-m
+    link: /object-index/238/#fig-238-m
     anthology_links: true
     label: "Fig. 5.9"
     caption: "Earle Brown (American, 1926–2002). *December 1952*, 1952. From *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -618,7 +618,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-s
+    link: /object-index/238/#fig-238-s
     anthology_links: true
     label: "Fig. 5.10"
     caption: "John Cage, (American, 1912–92). *45' for a Speaker*, 1954. From *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -633,7 +633,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-al
+    link: /object-index/238/#fig-238-al
     anthology_links: true
     label: "Fig. 5.11"
     caption: "George Maciunas (Lithuanian American, 1931–78). *Ding Dong*, **Date TK**. From *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
@@ -648,7 +648,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/333/
+    link: /object-index/333/
     label: "Fig. 5.12"
     caption: "Henry Flynt (American, b. 1940); George Maciunas (Lithuanian American, 1931–78), *Communists Must Give Revolutionary Leadership in Culture*, 1965, double-sided offset print. Getty Research Institute, Jean Brown Papers, 890164, box 263, folder 1."
     credit: "Courtesy of Billie Maciunas."
@@ -662,7 +662,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/556/
+    link: /object-index/556/
     label: "Fig. 6.1"
     caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958. From Al Hansen, *A Primer of Happenings & Time-Space Art* (New York: Something Else Press, 1965), 101."
     credit: ""
@@ -676,7 +676,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/346/
+    link: /object-index/346/
     label: "Fig. 6.2"
     caption: "George Brecht (American, 1926–2008). *Drip Music (Drip Event)*, 1959–62, offset print. Getty Research Institute, Jean Brown Papers, 890164, box 127 (contained within the compendium *Water Yam*)."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
@@ -690,7 +690,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/359/
+    link: /object-index/359/
     label: "Fig. 6.3"
     caption: "Dick Higgins performing George Brecht's *Drip Music (Drip Event)* at Fluxus–Musik og Anti Musik det Instrumentale Teater, Nikolai Kirke, Copenhagen, 25 November 1962, gelatin silver print. Getty Research Institute, The Kitchen Videos and Records, item K2001845."
     credit: "Photographed by Poul Hansen for Dagbladat AKTUELT newspaper. The Gilbert and Lila Silverman Fluxus Collection Gift, 2008. © 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany. Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY."
@@ -704,7 +704,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/360/
+    link: /object-index/360/
     label: "Fig. 6.4"
     caption: "George Maciunas performing George Brecht’s *Drip Music (Drip Event)* at Festum Fluxorum, Kunstakademie Düsseldorf, Düsseldorf, 2 February 1963."
     credit: "Photograph by Manfred Leve."
@@ -718,7 +718,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/362/
+    link: /object-index/362/
     label: "Fig. 6.5"
     caption: "George Brecht performing *Three Aqueous Events / Drip Music (Drip Event)* at *Happenings, Events, and Advanced Musics*, at Douglass College, Rutgers University, New Brunswick, NJ, 6 April 1963."
     credit: "Photograph by Peter Moore; © Northwestern University."
@@ -732,7 +732,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/345/
+    link: /object-index/345/
     label: "Fig. 6.6"
     caption: "George Brecht (American, 1926–2008). *Event Score*, August 1965, offset print. Getty Research Institute, Jean Brown Papers, 890164, box 3, folder 34."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
@@ -746,7 +746,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/237/
+    link: /object-index/237/
     label: "Fig. 6.7"
     caption: "Manfred Leve, Benjamin Patterson, Hans G. Helms, Ursula Kagel, Khris Helms, David Tudor, and others performing George Brecht’s *Card-Piece for Voice* (1959) as part of the “Contre-Festival,” organized during the IGNM-Weltmusikfestes, Atelier Mary Bauermeister, Cologne, Germany, 15 June 1960. Getty Research Institute, David Tudor Papers, 980039, box 159."
     credit: " Courtesy of the Manfred Leve Estate."
@@ -760,7 +760,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/348/
+    link: /object-index/348/
     label: "Fig. 6.8"
     caption: "George Brecht (American, 1926–2008). *Water Yam*, 1963, wooden box with label containing ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
@@ -774,7 +774,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/404/
+    link: /object-index/404/
     label: "Fig. 7.1"
     caption: "Map showing locations relevant to the creation and distribution of Jackson Mac Low’s postcard scores, spring 1963. "
     credit: ""
@@ -788,7 +788,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/238/#fig-238-an
+    link: /object-index/238/#fig-238-an
     anthology_links: true
     label: "Fig. 7.2"
     caption: "Jackson Mac Low (American, 1922–2004). Pages from Mac Low’s contribution to a unique copy of Mac Low and La Monte Young’s *An Anthology of Chance Operations* (New York: George Maciunas and Jackson Mac Low, 1962), 1962. Getty Research Institute, Jean Brown Collection, item 94-B19099. Courtesy of the Estate of Jackson Mac Low."
@@ -803,7 +803,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/275/
+    link: /object-index/275/
     label: "Fig. 7.3"
     caption: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the organized by La Monte Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY, 8–9 April 1961. Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6."
     credit: ""
@@ -818,7 +818,7 @@ figure_list:
 #     poster: 
 #     media_type: 
 #     media_id: 
-#     link: /image-index/419/
+#     link: /object-index/419/
 #     label: "Fig. 7.4"
 #     caption: "Open letter from Jackson Mac Low to George Maciunas in response to Fluxus News—Policy Letter, no. 6, 25 April 1963. Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 14."
 #     credit: "© Estate of Jackon Mac Low."
@@ -832,7 +832,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/448/
+    link: /object-index/448/
     label: "Fig. 8.1"
     caption: "Yvonne Rainer (American, b. 1934). Notebook page related to *Watering Place*, ca. 1960. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 2."
     credit: "Used with Permission. © Yvonne Rainer."
@@ -846,7 +846,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/470/#fig-470-d
+    link: /object-index/470/#fig-470-d
     label: "Fig. 8.2"
     caption: "Yvonne Rainer (American, b. 1934). Notebook sketches for *Three Satie Spoons*, 1961. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 4."
     credit: "Used with Permission. © Yvonne Rainer."
@@ -860,7 +860,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/470/#fig-470-e
+    link: /object-index/470/#fig-470-e
     label: "Fig. 8.3"
     caption: "Yvonne Rainer (American, b. 1934). Notebook sketch for *The Bells*, 1961. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 4."
     credit: "Used with Permission. © Yvonne Rainer."
@@ -874,7 +874,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/466/
+    link: /object-index/466/
     # label: "Fig. 8.4"
     # caption: "Yvonne Rainer (American, b. 1934). Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
     # credit: "Used with Permission. © Yvonne Rainer."
@@ -888,7 +888,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/466/#fig-466-b
+    link: /object-index/466/#fig-466-b
     # label: "Fig. 8.5"
     # caption: "Yvonne Rainer (American, b. 1934). Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
     # credit: "Used with Permission. © Yvonne Rainer."
@@ -902,7 +902,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/446/
+    link: /object-index/446/
     label: "Fig. 8.6"
     caption: "Yvonne Rainer (American, b. 1934). *We Shall Run* (1963), performed at the Wadsworth Atheneum, Hartford, CT. From left: Yvonne Rainer, Deborah Hay, Robert Rauschenberg, Robert Morris, Sally Gross, Joseph Schlichter, Tony Holder, and Alex Hay, 7 March 1965. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 69."
     credit: "Used with Permission. © Yvonne Rainer."
@@ -916,7 +916,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/436/
+    link: /object-index/436/
     label: ""
     caption: ""
     credit: ""
@@ -930,7 +930,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/436/#fig-436-b
+    link: /object-index/436/#fig-436-b
     label: ""
     caption: ""
     credit: ""
@@ -944,7 +944,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/436/#fig-436-c
+    link: /object-index/436/#fig-436-c
     label: ""
     caption: ""
     credit: ""
@@ -958,7 +958,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/454/
+    link: /object-index/454/
     label: "Fig. 8.10"
     caption: "Yvonne Rainer (American, b. 1934). Graphic scores related to *Trio B*, from *The Mind is a Muscle* (1966–68), ca. 1966–68. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 3."
     credit: "Used with Permission. © Yvonne Rainer."
@@ -972,7 +972,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/558/
+    link: /object-index/558/
     label: "Fig. 9.1"
     caption: "Dick Higgins and Jackson Mac Low participating in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958."
     credit: "Photo: Harvey Y. Gross. Harvey Y. Gross/John Cage Trust."
@@ -986,7 +986,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/475/
+    link: /object-index/475/
     label: "Fig. 9.2"
     caption: "Alison Knowles (American, b. 1933). Score for *#2—Proposition (October, 1962) (Make a Salad)*. From Alison Knowles, *By Alison Knowles*, A Great Bear Pamphlet (New York: Something Else Press, 1965), 2. Getty Research Institute, item 94-B22032."
     credit: "© Alison Knowles."
@@ -1000,7 +1000,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/476/
+    link: /object-index/476/
     label: "Fig. 9.3"
     caption: "Alison Knowles performing *#2—Proposition (October, 1962) (Make a Salad)*, at Festival of Misfits, Institute of Contemporary Arts, London, 24 October 1962, gelatin silver print."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY; © Alison Knowles."
@@ -1014,7 +1014,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/477/
+    link: /object-index/477/
     label: "Fig. 9.4"
     caption: "Alison Knowles (American, b. 1933). *Bean Rolls from Fluxkit*, 1965, metal tin with offset label, containing nine beans and fourteen offset scrolls. Museum of Modern Art, item 2182.2008.10."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art / Licensed by SCALA / Art Resource, NY; © Alison Knowles."
@@ -1028,7 +1028,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/478/
+    link: /object-index/478/
     label: "Fig. 9.5"
     caption: "Tom Wasmuth (American, b. 1941). Diagram, 24 June 1969. From Alison Knowles’s *Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971), 35. Getty Research Institute, Jean Brown Collection, item 91-B35085."
     credit: "Courtesy of Nova Broadcast Press. © Alison Knowles."
@@ -1042,7 +1042,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/515/
+    link: /object-index/515/
     label: "Fig. 10.1"
     caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938). List of participants in *Spatial Poem (Nos. 1–4)*, ca. 1972, offset print. Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3."
     credit: "Used by permission of Mieko Shiomi."
@@ -1056,7 +1056,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/516/
+    link: /object-index/516/
     label: "Fig. 10.2"
     caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938). *Direction Music for Fingers*, September 1964, photocopy of handwritten score on lined paper. Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3."
     credit: "Used by permission of Mieko Shiomi."
@@ -1070,7 +1070,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/517/
+    link: /object-index/517/
     label: "Fig. 10.3"
     caption: "Mieko Shiomi (left, arms raised) performing *Direction Music for Fingers* at Washington Square Gallery (Allan Kaprow is at right, foreground), New York, NY, 30 October 1964."
     credit: "Photograph by Peter Moore; © Northwestern University."
@@ -1084,7 +1084,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/536/
+    link: /object-index/536/
     label: "Fig. 10.4"
     caption: "Letter from Mieko (Chieko) Shiomi to George Maciunas, ca. 1965, photocopy of typewritten text on paper. Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30."
     credit: "Used by permission of Mieko Shiomi."
@@ -1098,7 +1098,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/525/
+    link: /object-index/525/
     label: "Fig. 10.5"
     caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938); George Maciunas (Lithuanian American, 1931–78). Object edition of *Spatial Poem No. 1 (Word Event)*, 1965, clear plastic box with hinged lid and cork-covered bottom with paper-flag pins. Getty Research Institute, Jean Brown Papers, 890164, box 225."
     credit: "Used by permission of Mieko Shiomi and Billie Maciunas."
@@ -1112,7 +1112,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/526/
+    link: /object-index/526/
     label: "Fig. 10.6"
     caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938); George Maciunas (Lithuanian American, 1931–78). Object edition of *Spatial Poem No. 2 (Direction Event)*, 1966, offset print. Getty Research Institute, Jean Brown Papers, 890164, flat file 37**."
     credit: "Used by permission of Mieko Shiomi and Billie Maciunas."
@@ -1126,7 +1126,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/527/
+    link: /object-index/527/
     label: "Fig. 10.7"
     caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938); George Maciunas (Lithuanian American, 1931–78). Object edition of *Spatial Poem No. 3 (a fluxcalender)*, 1968, two sets of printed calendar pages (14 × 10.8 cm), one housed loose inside a wood box with a hinged lid and metal clasp, the other bolted into book form on a strap of leather. Getty Research Institute, Jean Brown Papers, 890164, box 223."
     credit: "Used by permission of Mieko Shiomi and Billie Maciunas."
@@ -1140,7 +1140,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/528/
+    link: /object-index/528/
     label: "Fig. 10.8"
     caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938); George Maciunas (Lithuanian American, 1931–78). Object edition of *Spatial Poem No. 4 (a fluxmovie)*, 1973, white plastic box with a hinged lid containing a roll of microfilm mounted on a miniature green plastic viewer. Getty Research Institute, Jean Brown Papers, 890164, box 219."
     credit: "Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. The Gilbert and Lila Silverman Fluxus Collection Gift. © 2024 Mieko Shiomi."
@@ -1154,7 +1154,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/530/
+    link: /object-index/530/
     label: "Fig. 10.9"
     caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938). Cover of *Complete Works: Spatial Poem* (Osaka, Japan: self-published, 1976), artist’s book. Getty Research Institute, item 91-B36111."
     credit: "Used by permission of Mieko Shiomi."
@@ -1168,7 +1168,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/518/
+    link: /object-index/518/
     label: "Fig. 10.10"
     caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938). Promotional postcard for *Complete Works: Spatial Poem*, ca. 1976, offset print. Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3."
     credit: "Used by permission of Mieko Shiomi."
@@ -1182,7 +1182,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/557/
+    link: /object-index/557/
     label: "Fig. 11.1"
     caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958. From Al Hansen, *A Primer of Happenings & Time-Space Art* (New York: Something Else Press, 1965), 100."
     credit: ""
@@ -1196,7 +1196,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/579/#fig-579-h
+    link: /object-index/579/#fig-579-h
     label: "Fig. 11.2"
     caption: "Allan Kaprow (American, 1927–2006). *Tape Score*, 1957. Getty Research Institute, Allan Kaprow Papers, 980063, box 4, folder 7."
     credit: ""
@@ -1210,7 +1210,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/561/
+    link: /object-index/561/
     label: "Fig. 11.3"
     caption: "Allan Kaprow (American, 1927–2006). Detail of part 4 of the printed program for *Routine*, 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
     credit: ""
@@ -1224,7 +1224,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/562/
+    link: /object-index/562/
     label: "Fig. 11.4"
     caption: "George Brecht (American, 1926–2008). *Three Telephone Events*, spring 1961. From *Water Yam* (1963), wooden box with label, containing ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
@@ -1238,7 +1238,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/563/
+    link: /object-index/563/
     label: "Fig. 11.5"
     caption: "Allan Kaprow (American, 1927–2006). Detail of page 2 of the program for *Routine*, with notes handwritten by a participant during Kaprow’s residency at the Portland Center for the Visual Arts, Portland, OR, December 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
     credit: ""
@@ -1252,7 +1252,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/564/
+    link: /object-index/564/
     label: "Fig. 11.6"
     caption: "Allan Kaprow (American, 1927–2006). Drawing on the handwritten draft of the program for *Routine*, 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
     credit: "Image © Alvin Comiter."
@@ -1266,7 +1266,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/565/
+    link: /object-index/565/
     label: "Fig. 11.7"
     caption: "Allan Kaprow (American, 1927–2006). Detail of page 3 of the activity booklet for *Routine*, 1975. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
     credit: ""
@@ -1280,7 +1280,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/566/
+    link: /object-index/566/
     label: "Fig. 11.8"
     caption: "Allan Kaprow filming performers Sue Johnson (left) and David Hauck for the film version of *Routine*, 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
     credit: ""
@@ -1294,7 +1294,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/567/
+    link: /object-index/567/
     label: "Fig. 11.9"
     caption: "Michael Sullivan (front, center) and the crew for the activity film for *Routine* (1973), photographed at the Portland Center for the Visual Arts, 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
     credit: ""
@@ -1308,7 +1308,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/568/
+    link: /object-index/568/
     label: "Fig. 11.10"
     caption: "Allan Kaprow (American, 1927–2006). Film still from *Routine*, 1973, 1 film reel: 16mm, SD, b&w. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46."
     credit: ""
@@ -1322,7 +1322,7 @@ figure_list:
     poster: figures/Copy_of_gri_980063_f46.jpg
     media_type: vimeo
     media_id: 935592356/d14609b942
-    link: /image-index/574/
+    link: /object-index/574/
     label: "Fig. 11.11"
     caption: "Allan Kaprow (American, 1927–2006). *Routine*, 1973, 1 film reel: 16mm, SD, b&w. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46."
     credit: ""
@@ -1336,7 +1336,7 @@ figure_list:
     poster: figures/fig-570-poster-image.jpg
     media_type: vimeo
     media_id: 998453851/6c7d5b4a7d
-    link: /image-index/570/
+    link: /object-index/570/
     label: "Fig. 11.12"
     caption: "Allan Kaprow (American, 1927–2006). *Warm-ups*, 1975, 1 film reel: 16mm, SD, color. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F47."
     credit: ""
@@ -1350,7 +1350,7 @@ figure_list:
     poster: figures/1_Copy_of_11_3Playback_2_Kaprow_Comfort_Zones_1.jpg
     media_type: vimeo
     media_id: 935589832/3271b8e7cf
-    link: /image-index/575/
+    link: /object-index/575/
     label: "Fig. 11.13"
     caption: "Allan Kaprow (American, 1927–2006). *Comfort Zones*, 1975, 1 film reel: 16mm, SD, b&w. Produced by Galería Vandrés, SA., Madrid, Spain. Photographed and edited by David Seaton, with performers Esther Llordén and Mario Costas. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F48."
     credit: ""
@@ -1364,7 +1364,7 @@ figure_list:
     poster: figures/Copy_of_11_3Playback_3_Kaprow_7KindsofSympathy.jpg
     media_type: vimeo
     media_id: 935626898/ab7a197d03
-    link: /image-index/576/
+    link: /object-index/576/
     label: "Fig. 11.14"
     caption: "Allan Kaprow (American, 1927–2006). *7 Kinds of Sympathy*, 1976, U-matic videocassette, SD, color, ¾-inch tape. Produced by Peter Kirby and Anna Canepa Video Distribution, with performers Julie Steiny and Bryan Jones. Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V37."
     credit: ""

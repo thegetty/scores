@@ -57,7 +57,7 @@ module.exports = function(eleventyConfig, { page }) {
         propertyValue = []
         propertyArray = object[property].toString().split(',')
         for ( let item of propertyArray ) {
-          typeLink = oneLine`<a href="/image-index/?type=${item.replace(' ', '%2520')}">${item}</a>`
+          typeLink = oneLine`<a href="/object-index/?type=${item.replace(' ', '%2520')}">${item}</a>`
           propertyValue.push(typeLink)
         }
         propertyValue = propertyValue.join(', ')

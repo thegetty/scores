@@ -1,5 +1,5 @@
 ---
-title: Image Index
+title: Object Index
 layout: objects-page
 order: 10000
 outputs: [ html ]

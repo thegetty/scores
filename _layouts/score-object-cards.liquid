@@ -138,7 +138,7 @@ Entry content, including entry image and tombstone data
         {%- accordion 'Related' -%}
         <div class="score-section__objects">
         {%- for thisObj in related_objects -%}
-          <a href="/image-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+          <a href="/object-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
           {%- obj thisObj.id -%}
           </a>
         {%- endfor -%}

@@ -76,7 +76,7 @@ In tandem with Knowles’s rising status in the history of art, *The Identical L
 
 [^11]: Knowles cited the New York Mycological Society, cofounded by Cage in 1962, as an important influence. Knowles, “Curriculum Vitae,” 117.
 
-[^12]: See David Tudor, Recipes for [Rum Coconut](/image-index/507/), [Milk au Diable](/image-index/508/), [Lime Pickle](/image-index/509/), and [Buttermilk](/image-index/510/) (nos. 507–10 in this volume’s online image index), David Tudor Papers, 980039, box 39, folders 1–2, Getty Research Institute, Los Angeles.
+[^12]: See David Tudor, Recipes for [Rum Coconut](/image-index/507/), [Milk au Diable](/image-index/508/), [Lime Pickle](/image-index/509/), and [Buttermilk](/image-index/510/), ca. 1960s, David Tudor Papers, 980039, box 39, folders 1–2, Getty Research Institute, Los Angeles.
 
 [^13]: On cooking as meditation, see Montano, *Performance Artists Talking in the Eighties*, 175. On the score as recipe, see Milman, “Road Shows,” 104; and Dumett, “Alison Knowles: Ritual and Routine,” 281. Knowles makes explicit the latent connection we might observe in the Getty Research Institute’s David Tudor archive between his secondary realizations and his hand-copied recipes (see [chapter 2](/02/)).
 

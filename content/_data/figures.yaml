@@ -7,9 +7,9 @@ figure_list:
     media_type: 
     media_id: 
     link: /image-index/001/
-    label: "Fig. 0.1"
-    caption: "Four “Indeterminate” Notation Systems."
-    credit: "*Off Minor* by Thelonious Monk © 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured All Rights Reserved, Reprinted by permission of Hal Leonard LLC (c); Courtesy of Jonathan K. Riggs."
+    label: "Fig. 0.1a–d"
+    caption: "(a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; (c) Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
+    credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
 # -
 #     id: "fig-0-1a"
 #     old_id: "0.01-a"
@@ -91,7 +91,7 @@ figure_list:
     media_id: 
     link: /image-index/301/
     label: "Fig. 0.3"
-    caption: "Earle Brown (American, 1926–2002). Score for *December 1952*, published in *Folio and 4 Systems*, 1952. Getty Research Institute, David Tudor Papers, 980039, box 170, folder 1."
+    caption: "Earle Brown (American, 1926–2002). Score for *December 1952*. From *Folio and 4 Systems*, 1952. Getty Research Institute, David Tudor Papers, 980039, box 170, folder 1."
     credit: "Earle Brown Estate."
     alt: "White page with sparse field of hand drawn black line segments and rectangles of varying thicknesses. Lines and shapes oriented either vertically or horizontally. Majority concentrated around central two thirds of the page with top and bottom blank."
 -
@@ -133,7 +133,7 @@ figure_list:
     media_id: 
     link: /image-index/006/
     label: "Fig. 0.6"
-    caption: "Kurt Schwitters (German, 1887–1948). *Ursonate*, 1922–32. From *Merz*, no. 24 (1932): 156–86. Getty Research Institute, item 85-S179."
+    caption: "Kurt Schwitters (German, 1887–1948). *Ursonate*, 1922–32. From *Merz*, no. 24 (1932): 157. Getty Research Institute, item 85-S179."
     credit: ""
     alt: "Two pages of typed repeated nonsense words, some featuring repeated letters or syllables, with instructive titles in German."
 -
@@ -175,7 +175,7 @@ figure_list:
     media_id: 
     link: /image-index/009/
     label: "Fig. 0.9"
-    caption: "Sidney Lanier (American, 1842–81). Pages from *Science of English* Verse (New York: Scribner’s, 1880), 216–17."
+    caption: "Sidney Lanier (American, 1842–81). From *Science of English* Verse (New York: Scribner’s, 1880), 216–17."
     credit: "Internet Archive/Trent University Library Donation."
     alt: "Two-page spread of text interspersed with lines of unpitched musical notes paired with English syllables."
 -
@@ -189,7 +189,7 @@ figure_list:
     media_id: 
     link: /image-index/010/
     label: "Fig. 0.10"
-    caption: "Décio Pignatari (Brazilian, 1927–2012). *Beba Coca Cola*, 1957, screen print. From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991). Getty Research Institute, item 45-13."
+    caption: "Décio Pignatari (Brazilian, 1927–2012). *Beba Coca Cola*, 1957, screen print. From *Poesia concreta in Brasile* (Milan: Archivio della Grazia di Nuova Scrittura, 1991), n.p. Getty Research Institute, item 45-13."
     credit: "Estate of Décio Pignatari."
     alt: "Red square at center of a white page containing all-lowercase, center-justified text."
 -
@@ -251,7 +251,7 @@ figure_list:
 -
     id: "fig-1-4"
     old_id: "1.08-a"
-    src: figures/tudor33.jpg
+    src: figures/tudor33-crop.jpg
     note: 
     zoom: true
     poster: 
@@ -273,7 +273,7 @@ figure_list:
     media_id: 
     link: /image-index/133/
     label: "Fig. 2.1"
-    caption: "John Cage and David Tudor in the Tôkei-ji Temple Garden (Kanazawa, Japan), 1962. Getty Research Institute, David Tudor Papers, 980039, box 160."
+    caption: "John Cage and David Tudor in the Tôkei-ji Temple Garden, Kanazawa, Japan, 1962. Getty Research Institute, David Tudor Papers, 980039, box 160."
     credit: "Photographer: © Matsuzaki Kunitoshi. Courtesy of the John Cage Trust."
     alt: "Portrait-oriented black-and-white photograph of two men under a pavilion. The man at right stands with his head inside a large bell, and the man at left moves to hit the bell with a mounted wood hammer."
 -
@@ -334,18 +334,18 @@ figure_list:
     alt: "Landscape-oriented black-and-white photograph of a man, at center, with his face visible to the camera while he sits behind a table covered with staff sheets. The man’s hands are on table, one holding a pen, the other flipping through the sheets."
 -
     id: "fig-3-1"
-    old_id: "3.01-k"
-    src: figures/gri_980039_b174_f02_011_mm.jpg
-    note: needs to be cropped to No. 4 
+    old_id: "3.05-am"
+    src: figures/gri_980039_b174_f03_055_mm.jpg
+    note: 
     zoom: true
     poster: 
     media_type: 
     media_id: 
-    link: /image-index/154/#fig-154-k
+    link: /image-index/159/#fig-159-am
     label: "Fig. 3.1"
-    caption: "David Tudor’s personal copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    caption: "Copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, 1958–60. From Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
-    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive. "
+    alt: ""
 -
     id: "fig-3-2"
     old_id: "3.01-e"
@@ -359,7 +359,7 @@ figure_list:
     label: "Fig. 3.2"
     caption: "David Tudor’s personal copy of *No. 1* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
-    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive. "
+    alt: ""
 -
     id: "fig-3-3"
     old_id: "3.01-i"
@@ -372,9 +372,9 @@ figure_list:
     media_id: 
     link: /image-index/159/#fig-159-aw
     label: "Fig. 3.3"
-    caption: "David Tudor’s personal copy of No. 3 from Sylvano Bussotti’s Five Piano Pieces for David Tudor, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    caption: "Copy of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, 1958–60. From Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
-    alt: "Gray cover of bound book with “Sylvano busotti” at center in red handwritten cursive. "
+    alt: ""
 -
     id: "fig-3-4"
     old_id: "3.04-r"
@@ -389,22 +389,23 @@ figure_list:
     caption: "David Tudor (American, 1926–96). David Tudor’s realization of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
     alt: "Blue front cover of bound book. “Composer’s Notebook” at top left in blue with short section of staff printed below."
+# REMOVED: Used as fig. 3.1 instead
+# -
+#     id: "fig-3-5"
+#     old_id: "3.05-am"
+#     src: figures/gri_980039_b174_f03_055_mm.jpg
+#     note: 
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     link: /image-index/159/#fig-159-am
+#     label: "Fig. 3.5"
+#     caption: "Loose score sheets for Sylvano Bussotti’s *Pièces de chair II* with pencil annotations by David Tudor, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
+#     credit: ""
+#     alt: "Cream page with rectangular field of horizontal black lines interrupted by line breaks, sweeping abstract line segments, stippled groupings of dots, and small polygons. Top margin contains title of piece at left, otherwise, blank."
 -
     id: "fig-3-5"
-    old_id: "3.05-am"
-    src: figures/gri_980039_b174_f03_055_mm.jpg
-    note: 
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    link: /image-index/159/#fig-159-am
-    label: "Fig. 3.5"
-    caption: "Loose score sheets for Sylvano Bussotti’s *Pièces de chair II* with pencil annotations by David Tudor, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
-    credit: ""
-    alt: "Cream page with rectangular field of horizontal black lines interrupted by line breaks, sweeping abstract line segments, stippled groupings of dots, and small polygons. Top margin contains title of piece at left, otherwise, blank."
--
-    id: "fig-3-6"
     old_id: "3.03b-f"
     src: figures/gri_980039_b174_f02_032_mm.jpg
     note: 
@@ -413,7 +414,7 @@ figure_list:
     media_type: 
     media_id: 
     link: /image-index/157/#fig-157-f
-    label: "Fig. 3.6"
+    label: "Fig. 3.5"
     caption: "David Tudor’s realization of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
     alt: "White page with six black horizontal printed staves containing dense pencil notation consisting of vertical rectangles, diamonds, letters and vertical arrows, all centered on bottom half of page. Some rectangles in blue pen. All shapes the scale of traditional staff-based notation. Pink pen brackets on bottom staff grouping sections of pencil and blue pen notation above."
@@ -484,9 +485,9 @@ figure_list:
     media_id: 
     link: /image-index/238/#fig-238-a
     anthology_links: true
-    label: "Fig. 5.1"
-    caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
-    credit: "© Estate of Jackson Mac Low."
+    # label: "Fig. 5.1"
+    # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
+    # credit: "© Estate of Jackson Mac Low."
     alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind."
 -
     id: "fig-5-2"
@@ -499,9 +500,9 @@ figure_list:
     media_id: 
     link: /image-index/238/#fig-238-b
     anthology_links: true
-    label: "Fig. 5.2"
-    caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
-    credit: "© Estate of Jackson Mac Low."
+    # label: "Fig. 5.2"
+    # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
+    # credit: "© Estate of Jackson Mac Low."
     alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind."
 -
     id: "fig-5-3"
@@ -514,9 +515,9 @@ figure_list:
     media_id: 
     link: /image-index/238/#fig-238-c
     anthology_links: true
-    label: "Fig. 5.3"
-    caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
-    credit: "© Estate of Jackson Mac Low."
+    # label: "Fig. 5.3"
+    # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
+    # credit: "© Estate of Jackson Mac Low."
     alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind."
 -
     id: "fig-5-4"
@@ -529,9 +530,9 @@ figure_list:
     media_id: 
     link: /image-index/238/#fig-238-d
     anthology_links: true
-    label: "Fig. 5.4"
-    caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
-    credit: "© Estate of Jackson Mac Low."
+    # label: "Fig. 5.4"
+    # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
+    # credit: "© Estate of Jackson Mac Low."
     alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind."
 -
     id: "fig-5-5"
@@ -544,9 +545,9 @@ figure_list:
     media_id: 
     link: /image-index/238/#fig-238-e
     anthology_links: true
-    label: "Fig. 5.5"
-    caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Artist title page of *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
-    credit: "© Estate of Jackson Mac Low."
+    # label: "Fig. 5.5"
+    # caption: "Jackson Mac Low (American, 1922–2004); George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Artist title page of *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, item 94-B19099."
+    # credit: "© Estate of Jackson Mac Low."
     alt: "Green paper cover of square-shaped book bound at left edge with exposed black thread. “An” printed in black twice at center, one on top of the other, covering one half of the page. Slight lift at corners revealing cream pages behind."
 -
     id: "fig-5-6"
@@ -663,7 +664,7 @@ figure_list:
     media_id: 
     link: /image-index/556/
     label: "Fig. 6.1"
-    caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958. From *Al Hansen, A Primer of Happenings & Time-Space Art* (New York: Something Else Press, 1965), **TK**."
+    caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958. From Al Hansen, *A Primer of Happenings & Time-Space Art* (New York: Something Else Press, 1965), 101."
     credit: ""
     alt: "Black-and-white photograph of eight men in a classroom, each sat at a chair desk. Photograph shot at eye level of sitting figures."
 -
@@ -761,7 +762,7 @@ figure_list:
     media_id: 
     link: /image-index/348/
     label: "Fig. 6.8"
-    caption: "George Brecht (American, 1926–2008). *Water Yam*, 1963, wooden box with label; box cogntains ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
+    caption: "George Brecht (American, 1926–2008). *Water Yam*, 1963, wooden box with label containing ninety-one scores printed on various sizes and colors of card stock. Getty Research Institute, Jean Brown Papers, 890164, box 127."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     alt: "Top view of wooden box dominated by a white label with large black letters that read “Water Yam.” Smaller text surrounding reads “FLUXUS C” and “ARRANGED BY GEORGE BRECHT.” Hinged wooden box open to reveal stacked cardstock. Top page is white cardstock printed with “Drip Music” event score."
 -
@@ -804,23 +805,24 @@ figure_list:
     media_id: 
     link: /image-index/275/
     label: "Fig. 7.3"
-    caption: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY, 8–9 April 1961. Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6."
+    caption: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the organized by La Monte Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY, 8–9 April 1961. Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6."
     credit: ""
     alt: "White page with blue typewritten text in English. Title at top center reads “Poetry, Music & Theatre Works Jackson Mac Low,” followed by time, date, and location of performances. Middle two quarters of page contains numerical list of the titles of works to be performed in succession, their performers, and their original date of composition. Bottom quarter of page contains paragraph of information on other performances. All text single spaced with thin margins."
--
-    id: "fig-7-4"
-    # old_id: "7.04"
-    src: figures/r33521_890164_b31_f14_001.jpg
-    note: 
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    link: /image-index/419/
-    label: "Fig. 7.4"
-    caption: "Open letter from Jackson Mac Low to George Maciunas in response to Fluxus News—Policy Letter, no. 6, 25 April 1963. Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 14."
-    credit: "© Estate of Jackon Mac Low."
-    alt: "White page with black typewritten text in English. Top margin blank except for recipient address at left and sender address at right. “Dear George” on first line at top left followed by one column of all-capitalized text that uses thin margins and runs the length of the page. Several words underlined in black pen throughout."
+# REMOVED: Quoted in commentary text
+# -
+#     id: "fig-7-4"
+#     # old_id: "7.04"
+#     src: figures/r33521_890164_b31_f14_001.jpg
+#     note: 
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     link: /image-index/419/
+#     label: "Fig. 7.4"
+#     caption: "Open letter from Jackson Mac Low to George Maciunas in response to Fluxus News—Policy Letter, no. 6, 25 April 1963. Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 14."
+#     credit: "© Estate of Jackon Mac Low."
+#     alt: "White page with black typewritten text in English. Top margin blank except for recipient address at left and sender address at right. “Dear George” on first line at top left followed by one column of all-capitalized text that uses thin margins and runs the length of the page. Several words underlined in black pen throughout."
 -
     id: "fig-8-1"
     old_id: "8.14"
@@ -972,7 +974,7 @@ figure_list:
     media_id: 
     link: /image-index/558/
     label: "Fig. 9.1"
-    caption: "Dick Higgins and Jackson Mac Low participating in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958, photograph."
+    caption: "Dick Higgins and Jackson Mac Low participating in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958."
     credit: "Photo: Harvey Y. Gross. Harvey Y. Gross/John Cage Trust."
     alt: "In introduction"
 -
@@ -1141,7 +1143,7 @@ figure_list:
     link: /image-index/528/
     label: "Fig. 10.8"
     caption: "Mieko (Chieko) Shiomi (Japanese, b. 1938); George Maciunas (Lithuanian American, 1931–78). Object edition of *Spatial Poem No. 4 (a fluxmovie)*, 1973, white plastic box with a hinged lid containing a roll of microfilm mounted on a miniature green plastic viewer. Getty Research Institute, Jean Brown Papers, 890164, box 219."
-    credit: "Used by permission of Mieko Shiomi and Billie Maciunas."
+    credit: "Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. The Gilbert and Lila Silverman Fluxus Collection Gift. © 2024 Mieko Shiomi."
     alt: ""
 -
     id: "fig-10-9"
@@ -1182,7 +1184,7 @@ figure_list:
     media_id: 
     link: /image-index/557/
     label: "Fig. 11.1"
-    caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958. From Al Hansen, *A Primer of Happenings & Time-Space Art* (New York: Something Else Press, 1965), **TK**."
+    caption: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY, summer 1958. From Al Hansen, *A Primer of Happenings & Time-Space Art* (New York: Something Else Press, 1965), 100."
     credit: ""
     alt: "Landscape-oriented black and white photograph of three men, two sitting at desks on left, and one standing at right, all conversing indoors."
 -
@@ -1336,7 +1338,7 @@ figure_list:
     media_id: 998453851/6c7d5b4a7d
     link: /image-index/570/
     label: "Fig. 11.12"
-    caption: "Allan Kaprow (American, 1927–2006). Opening shot of *Warm-ups*, 1975, 1 film reel: 16mm, SD, color. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F47."
+    caption: "Allan Kaprow (American, 1927–2006). *Warm-ups*, 1975, 1 film reel: 16mm, SD, color. Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F47."
     credit: ""
     alt: ""
 -

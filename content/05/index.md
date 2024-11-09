@@ -1,6 +1,6 @@
 ---
 label: 5
-title: La Monte Young, Jackson Mac Low, and George Maciunas
+title: La Monte Young, ed.
 subtitle: "*An Anthology of Chance Operations* (1962–63)"
 order: 50
 outputs: 

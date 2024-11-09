@@ -42,7 +42,7 @@ outputs:
     </ul>
   </li>
   <li>
-    <a href="#05-commentary"><span class="ch-number">5. </span><span class="ch-title">La Monte Young, Jackson Mac Low, and George Maciunas: <em>An Anthology of Chance Operations</em> (1962–63)</span></a>
+    <a href="#05-commentary"><span class="ch-number">5. </span><span class="ch-title">La Monte Young, ed.: <em>An Anthology of Chance Operations</em> (1962–63)</span></a>
     <ul>
       <li>Benjamin Piekut</li>
     </ul>

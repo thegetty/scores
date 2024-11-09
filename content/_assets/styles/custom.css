@@ -686,6 +686,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   font-size: .8rem;
   line-height: var(--small-font-line-height);
 }
+.scores-figure figcaption .scores-figure__label {
+  margin-right: .5em;
+}
 .scores-figure-group > div {
   display: grid;
   grid-gap: 1rem;
@@ -698,6 +701,15 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .scores-figure-group-grid--3 > div {
   grid-template-columns: 1fr 1fr;
+}
+.scores-figure-group.scores-figure-group-grid--1 > div {
+  display: block;
+}
+.scores-figure-group.scores-figure-group-grid--1 > div .scores-figure:not(:last-child) {
+  margin-bottom: .5rem !important;
+}
+.scores-figure-group.scores-figure-group-grid--1 > div .scores-figure figcaption {
+  display: none;
 }
 
 /* Style for special page links that appear below An Anthology figures in chapter 5 and 7 commentaries */
@@ -790,10 +802,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-bottom: 0;
 }
 .scores-copyright-page .quire-page__content .container .content .cip-data ul {
-  margin-left: 1.5em;
+  margin-left: 0;
 }
 .scores-copyright-page .quire-page__content .container .content .cip-data ul li {
-  text-indent: -1.5em;
+  text-indent: -1.5rem;
+  padding-left: 1.5rem;
 }
 
 /* BACKMATTER PAGES
@@ -1512,14 +1525,11 @@ body.iframe-version #quire-entry-view-toggle {
   .content .scores-figure-group.pdf-grid-of-4  figcaption {
     flex-direction: column-reverse;
   }
-  .content .scores-figure-group.pdf-grid-of-4-over-two-pages > figcaption {
-    display: none;
-  }
-  .scores-figure-group.scores-figure-group-grid--2.pdf-grid-of-4-over-two-pages .scores-figure:nth-child(-n+4) {
-    margin-top: 0 !important;
-  }
   .scores-figure-group > figcaption {
     margin-top: 0;
+  }
+  .scores-figure-group.scores-figure-group-grid--1 div figure:first-child {
+    margin-bottom: .25rem !important;
   }
   .scores-figure-group.scores-figure-group-grid--2 .scores-figure,
   .scores-figure-group.scores-figure-group-grid--3 .scores-figure,
@@ -1672,8 +1682,7 @@ body.iframe-version #quire-entry-view-toggle {
   .scores-title-page .scores-contributor {
     margin-top: 1rem;
   }
-  .scores-copyright-page .quire-page__header,
-  #page-pdf-epub-contents .quire-page__header {
+  .scores-copyright-page .quire-page__header {
     display: none;
   }
   #page-pdf-epub-contents .quire-page__content .container .content {
@@ -1685,6 +1694,9 @@ body.iframe-version #quire-entry-view-toggle {
   #page-pdf-epub-contents .quire-page__content .container .content ul li {
     margin-bottom: 0;
     margin-left: 0;
+  }
+  #page-pdf-epub-contents .quire-page__content .container .content > ul > li {
+    margin-bottom: 1rem;
   }
   #page-pdf-epub-contents .quire-page__content .container .content ul li::before {
     content: "";

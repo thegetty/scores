@@ -77,7 +77,7 @@ Beyond the newspaper reviews, we have included a variety of other materials pert
 
 [^7]: John Cage, preface to *Music of Changes* (New York: Henmar Press, 1961).
 
-[^8]: [John Cage to David Tudor](/image-index/124/) (no. 124 in this volume's online image index). David Tudor Papers, 980039, box 7, folder 7, Getty Research Institute, Los Angeles.
+[^8]: [John Cage to David Tudor](/image-index/124/), 1952, David Tudor Papers, 980039, box 7, folder 7, Getty Research Institute, Los Angeles.
 
 [^9]: See Pritchett, *Music of John Cage*, 108.
 

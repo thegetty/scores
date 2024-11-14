@@ -3376,6 +3376,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-196" ]
+    related_objects: [ id: "237", id: "397", id: "398" ]
 -
     id: "197"
     old_id: "4.01"
@@ -4079,7 +4080,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-237" ]
-    related_objects: [ id: "397", id: "398" ]
+    related_objects: [ id: "196", id: "397", id: "398" ]
 -
     id: "238"
     old_id: "5.01"
@@ -6012,7 +6013,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-347" ]
-    related_objects: [ id: "388" ]
 -
     id: "348"
     old_id: "6.03a"
@@ -6745,7 +6745,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-388-a", id: "fig-388-b" ]
-    related_objects: [ id: "347" ]
 -
     id: "389"
     old_id: "6.39"
@@ -6924,7 +6923,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-397" ]
-    related_objects: [ id: "237", id: "398" ]
+    related_objects: [ id: "196", id: "237", id: "398" ]
 -
     id: "398"
     old_id: "6.48"
@@ -6942,7 +6941,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-398" ]
-    related_objects: [ id: "237", id: "397" ]
+    related_objects: [ id: "196", id: "237", id: "397" ]
 -
     id: "399"
     old_id: "6.49"

@@ -69,6 +69,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-003" ]
+    related_objects: [ id: "246", id: "247", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "004"
     old_id: "0.04"
@@ -784,6 +785,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-045" ]
+    related_objects: [ id: "046" ]
 -
     id: "046"
     old_id: "1.14"
@@ -801,6 +803,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-046-b", id: "fig-046-c", id: "fig-046-d", id: "fig-046-e", id: "fig-046-a" ]
+    related_objects: [ id: "045" ]
 -
     id: "047"
     old_id: "1.15a"
@@ -3373,6 +3376,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-196" ]
+    related_objects: [ id: "237", id: "397", id: "398" ]
 -
     id: "197"
     old_id: "4.01"
@@ -3731,6 +3735,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-217" ]
+    related_objects: [ id: "232" ]
 -
     id: "218"
     old_id: "4.14"
@@ -3935,6 +3940,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-229" ]
+    related_objects: [ id: "230", id: "356", id: "368" ]
 -
     id: "230"
     old_id: "4.23"
@@ -3952,6 +3958,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-230" ]
+    related_objects: [ id: "229", id: "356", id: "368" ]
 -
     id: "231"
     old_id: "4.24a"
@@ -3986,6 +3993,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-232-a", id: "fig-232-b" ]
+    related_objects: [ id: "217", id: "236" ]
 -
     id: "233"
     old_id: "4.24c"
@@ -4054,6 +4062,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-236" ]
+    related_objects: [ id: "232" ]
 -
     id: "237"
     old_id: "4.27"
@@ -4071,6 +4080,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-237" ]
+    related_objects: [ id: "196", id: "397", id: "398" ]
 -
     id: "238"
     old_id: "5.01"
@@ -4219,6 +4229,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-246" ]
+    related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "247"
     old_id: "5.02i"
@@ -4239,6 +4250,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-247" ]
+    related_objects: [ id: "003", id: "246", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "248"
     old_id: "5.02j"
@@ -4259,6 +4271,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-248" ]
+    related_objects: [ id: "003", id: "246", id: "247", id: "255", id: "301", id: "302" ]
 -
     id: "249"
     old_id: "5.02k"
@@ -4341,6 +4354,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-252" ]
+    related_objects: [ id: "253" ]
 -
     id: "253"
     old_id: "5.02p"
@@ -4361,6 +4375,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-253" ]
+    related_objects: [ id: "252" ]
 -
     id: "254"
     old_id: "5.02q"
@@ -4398,6 +4413,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-255" ]
+    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "256", id: "301", id: "302" ]
 -
     id: "256"
     old_id: "5.04"
@@ -4415,6 +4431,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-256" ]
+    related_objects: [ id: "255" ]
 -
     id: "257"
     old_id: "5.05a"
@@ -4432,6 +4449,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-257" ]
+    related_objects: [ id: "258", id: "259", id: "275", id: "282", id: "283" ]
 -
     id: "258"
     old_id: "5.05b"
@@ -4450,6 +4468,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-258" ]
+    related_objects: [ id: "257", id: "259", id: "275", id: "282", id: "283" ]
 -
     id: "259"
     old_id: "5.05c"
@@ -4468,6 +4487,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-259" ]
+    related_objects: [ id: "257", id: "258", id: "275", id: "282", id: "283" ]
 -
     id: "260"
     old_id: "5.06"
@@ -4740,6 +4760,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-275" ]
+    related_objects: [ id: "257", id: "258", id: "259", id: "282", id: "283" ]
 -
     id: "276"
     old_id: "5.12e"
@@ -4861,6 +4882,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-282" ]
+    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "283" ]
 -
     id: "283"
     old_id: "5.13h"
@@ -4878,6 +4900,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-283" ]
+    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "282" ]
 -
     id: "284"
     old_id: "5.13i"
@@ -4895,6 +4918,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-284" ]
+    related_objects: [ id: "339" ]
 -
     id: "285"
     old_id: "5.13j"
@@ -5185,6 +5209,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-301-a", id: "fig-301-b" ]
+    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "255", id: "302" ]
 -
     id: "302"
     old_id: "5.17b"
@@ -5202,6 +5227,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-302-a", id: "fig-302-b", id: "fig-302-c", id: "fig-302-d", id: "fig-302-e", id: "fig-302-f", id: "fig-302-g", id: "fig-302-h", id: "fig-302-i", id: "fig-302-j", id: "fig-302-k", id: "fig-302-l", id: "fig-302-m", id: "fig-302-n", id: "fig-302-o", id: "fig-302-p", id: "fig-302-q", id: "fig-302-r", id: "fig-302-s", id: "fig-302-t", id: "fig-302-u", id: "fig-302-v", id: "fig-302-w", id: "fig-302-x", id: "fig-302-y", id: "fig-302-z", id: "fig-302-aa", id: "fig-302-ab", id: "fig-302-ac", id: "fig-302-ad", id: "fig-302-ae", id: "fig-302-af" ]
+    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "255", id: "301" ]
 -
     id: "303"
     old_id: "5.18a"
@@ -5840,6 +5866,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-339" ]
+    related_objects: [ id: "284" ]
 -
     id: "340"
     old_id: "5.34g"
@@ -6055,6 +6082,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-351" ]
+    related_objects: [ id: "352", id: "383" ]
 -
     id: "352"
     old_id: "6.05"
@@ -6075,6 +6103,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-352" ]
+    related_objects: [ id: "351", id: "383" ]
 -
     id: "353"
     old_id: "6.06"
@@ -6092,6 +6121,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-353" ]
+    related_objects: [ id: "358" ]
 -
     id: "354"
     old_id: "6.07"
@@ -6153,6 +6183,7 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-356" ]
+    related_objects: [ id: "229", id: "230", id: "368" ]
 -
     id: "357"
     old_id: "6.10"
@@ -6187,6 +6218,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-358-a", id: "fig-358-b" ]
+    related_objects: [ id: "353" ]
 -
     id: "359"
     old_id: "6.12"
@@ -6627,6 +6659,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-383-a", id: "fig-383-b" ]
+    related_objects: [ id: "351", id: "352" ]
 -
     id: "384"
     old_id: "6.34"
@@ -6838,6 +6871,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-394" ]
+    related_objects: [ id: "395" ]
 -
     id: "395"
     old_id: "6.45"
@@ -6855,6 +6889,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-395" ]
+    related_objects: [ id: "394" ]
 -
     id: "396"
     old_id: "6.46"
@@ -6889,6 +6924,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-397" ]
+    related_objects: [ id: "196", id: "237", id: "398" ]
 -
     id: "398"
     old_id: "6.48"
@@ -6906,6 +6942,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-398" ]
+    related_objects: [ id: "196", id: "237", id: "397" ]
 -
     id: "399"
     old_id: "6.49"
@@ -7085,6 +7122,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-408-a", id: "fig-408-b", id: "fig-408-c" ]
+    related_objects: [ id: "409" ]
 -
     id: "409"
     old_id: "7.09"
@@ -7102,6 +7140,7 @@ object_list:
     featured: 
     type: [ manuscript ]
     figure: [ id: "fig-409-a", id: "fig-409-b", id: "fig-409-c", id: "fig-409-d", id: "fig-409-e", id: "fig-409-f", id: "fig-409-g", id: "fig-409-h", id: "fig-409-i", id: "fig-409-j" ]
+    related_objects: [ id: "408" ]
 -
     id: "410"
     old_id: "7.10"
@@ -7119,6 +7158,7 @@ object_list:
     featured: true
     type: [ correspondence ]
     figure: [ id: "fig-410" ]
+    related_objects: [ id: "411", id: "412", id: "413", id: "414", id: "415" ]
 -
     id: "411"
     old_id: "7.11"
@@ -7136,6 +7176,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-411-a", id: "fig-411-b" ]
+    related_objects: [ id: "410", id: "412", id: "413", id: "414", id: "415" ]
 -
     id: "412"
     old_id: "7.12"
@@ -7153,6 +7194,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-412-a", id: "fig-412-b" ]
+    related_objects: [ id: "410", id: "411", id: "413", id: "414", id: "415" ]
 -
     id: "413"
     old_id: "7.13"
@@ -7170,6 +7212,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-413-a", id: "fig-413-b" ]
+    related_objects: [ id: "410", id: "411", id: "412", id: "414", id: "415" ]
 -
     id: "414"
     old_id: "7.14"
@@ -7187,6 +7230,7 @@ object_list:
     featured: 
     type: [ manuscript ]
     figure: [ id: "fig-414-a", id: "fig-414-b", id: "fig-414-c", id: "fig-414-d", id: "fig-414-e", id: "fig-414-f", id: "fig-414-g", id: "fig-414-h", id: "fig-414-i", id: "fig-414-j", id: "fig-414-k", id: "fig-414-l", id: "fig-414-m", id: "fig-414-n", id: "fig-414-o" ]
+    related_objects: [ id: "410", id: "411", id: "412", id: "413", id: "415" ]
 -
     id: "415"
     old_id: "7.23"
@@ -7204,6 +7248,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-415" ]
+    related_objects: [ id: "410", id: "411", id: "412", id: "413", id: "414" ]
 -
     id: "416"
     old_id: "7.16"
@@ -7255,6 +7300,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-418" ]
+    related_objects: [ id: "419", id: "421" ]
 -
     id: "419"
     old_id: "7.19"
@@ -7272,6 +7318,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-419-a", id: "fig-419-b" ]
+    related_objects: [ id: "418", id: "421" ]
 -
     id: "420"
     old_id: "7.20"
@@ -7306,6 +7353,7 @@ object_list:
     featured: true
     type: [ correspondence ]
     figure: [ id: "fig-421-a", id: "fig-421-b", id: "fig-421-c" ]
+    related_objects: [ id: "418", id: "419" ]
 -
     id: "422"
     old_id: "7.25"
@@ -7374,6 +7422,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-425" ]
+    related_objects: [ id: "426" ]
 -
     id: "426"
     old_id: "7.30"
@@ -7391,6 +7440,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-426" ]
+    related_objects: [ id: "425" ]
 -
     id: "427"
     old_id: "7.31"
@@ -7612,6 +7662,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-439" ]
+    related_objects: [ id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "440"
     old_id: "8.06"
@@ -7805,6 +7856,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-450-a", id: "fig-450-b", id: "fig-450-c", id: "fig-450-d", id: "fig-450-e", id: "fig-450-f", id: "fig-450-g", id: "fig-450-h", id: "fig-450-i", id: "fig-450-j", id: "fig-450-k", id: "fig-450-l", id: "fig-450-m", id: "fig-450-n", id: "fig-450-o", id: "fig-450-p", id: "fig-450-q" ]
+    related_objects: [ id: "439", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "451"
     old_id: "8.17"
@@ -7839,6 +7891,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-452-b", id: "fig-452-a" ]
+    related_objects: [ id: "467", id: "470" ]
 -
     id: "453"
     old_id: "8.19"
@@ -7856,6 +7909,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-453-a", id: "fig-453-b", id: "fig-453-c", id: "fig-453-d" ]
+    related_objects: [ id: "439", id: "450", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "454"
     old_id: "8.20"
@@ -7873,6 +7927,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-454-a", id: "fig-454-b" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "455"
     old_id: "8.21a"
@@ -7907,6 +7962,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-456-a", id: "fig-456-b" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "457"
     old_id: "8.21c"
@@ -7924,6 +7980,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-457" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "458"
     old_id: "8.21d"
@@ -7941,6 +7998,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-458" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "459", id: "460", id: "472" ]
 -
     id: "459"
     old_id: "8.21e"
@@ -7958,6 +8016,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-459" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "460", id: "472" ]
 -
     id: "460"
     old_id: "8.21f"
@@ -7975,6 +8034,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-460" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "472" ]
 -
     id: "461"
     old_id: "8.21g"
@@ -8095,6 +8155,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-467-a", id: "fig-467-b", id: "fig-467-c" ]
+    related_objects: [ id: "452", id: "470" ]
 -
     id: "468"
     old_id: "8.26"
@@ -8146,6 +8207,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-470-a", id: "fig-470-b", id: "fig-470-c", id: "fig-470-d", id: "fig-470-e", id: "fig-470-f", id: "fig-470-g", id: "fig-470-h", id: "fig-470-i" ]
+    related_objects: [ id: "452", id: "467" ]
 -
     id: "471"
     old_id: "8.30"
@@ -8180,6 +8242,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-472-a", id: "fig-472-b", id: "fig-472-c", id: "fig-472-d", id: "fig-472-e", id: "fig-472-f", id: "fig-472-g", id: "fig-472-h", id: "fig-472-i", id: "fig-472-j" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460" ]
 -
     id: "473"
     old_id: "8.32"
@@ -8477,6 +8540,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-489" ]
+    related_objects: [ id: "497" ]
 -
     id: "490"
     old_id: "9.14"
@@ -8562,6 +8626,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-494-a", id: "fig-494-b", id: "fig-494-c" ]
+    related_objects: [ id: "498" ]
 -
     id: "495"
     old_id: "9.21"
@@ -8613,6 +8678,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-497" ]
+    related_objects: [ id: "489" ]
 -
     id: "498"
     old_id: "9.24"
@@ -8630,6 +8696,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-498" ]
+    related_objects: [ id: "494" ]
 -
     id: "499"
     old_id: "9.25"
@@ -8936,6 +9003,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-516" ]
+    related_objects: [ id: "517" ]
 -
     id: "517"
     old_id: "10.03"
@@ -8953,6 +9021,7 @@ object_list:
     featured: true
     type: [ photograph ]
     figure: [ id: "fig-517" ]
+    related_objects: [ id: "516" ]
 -
     id: "518"
     old_id: "10.10"
@@ -9140,6 +9209,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-528" ]
+    related_objects: [ id: "529" ]
 -
     id: "529"
     old_id: "10.21a"
@@ -9157,6 +9227,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-529" ]
+    related_objects: [ id: "528" ]
 -
     id: "530"
     old_id: "10.22"
@@ -9623,6 +9694,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-556" ]
+    related_objects: [ id: "557", id: "558", id: "559", id: "560" ]
 -
     id: "557"
     old_id: "11.01b"
@@ -9640,6 +9712,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-557" ]
+    related_objects: [ id: "556", id: "558", id: "559", id: "560" ]
 -
     id: "558"
     old_id: "11.01c"
@@ -9657,6 +9730,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-558" ]
+    related_objects: [ id: "556", id: "557", id: "559", id: "560" ]
 -
     id: "559"
     old_id: "11.01d"
@@ -9674,6 +9748,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-559" ]
+    related_objects: [ id: "556", id: "557", id: "558", id: "560" ]
 -
     id: "560"
     old_id: "11.01e"
@@ -9691,6 +9766,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-560" ]
+    related_objects: [ id: "556", id: "557", id: "558", id: "559" ]
 -
     id: "561"
     old_id: "11.03"
@@ -9950,6 +10026,7 @@ object_list:
     featured: 
     type: [ score, video ]
     figure: [ id: "fig-575" ]
+    related_objects: [ id: "626", id: "627", id: "628", id: "629" ]
 -
     id: "576"
     old_id: "11.19"
@@ -9970,6 +10047,7 @@ object_list:
     featured: 
     type: [ score, video ]
     figure: [ id: "fig-576" ]
+    related_objects: [ id: "577", id: "630", id: "631", id: "632" ]
 -
     id: "577"
     old_id: "11.20"
@@ -9987,6 +10065,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-577" ]
+    related_objects: [ id: "576", id: "630", id: "631", id: "632" ]
 -
     id: "578"
     old_id: "11.21"
@@ -10004,6 +10083,7 @@ object_list:
     featured: 
     type: [ score, video ]
     figure: [ id: "fig-578" ]
+    related_objects: [ id: "634" ]
 -
     id: "579"
     old_id: "11.22a"
@@ -10055,6 +10135,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-581-a", id: "fig-581-b", id: "fig-581-c", id: "fig-581-d", id: "fig-581-e", id: "fig-581-f" ]
+    related_objects: [ id: "582", id: "583" ]
 -
     id: "582"
     old_id: "11.23b"
@@ -10072,6 +10153,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-582-a", id: "fig-582-b" ]
+    related_objects: [ id: "581", id: "583" ]
 -
     id: "583"
     old_id: "11.24"
@@ -10089,6 +10171,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-583" ]
+    related_objects: [ id: "581", id: "582" ]
 -
     id: "584"
     old_id: "11.25"
@@ -10123,6 +10206,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-585-a", id: "fig-585-b", id: "fig-585-c" ]
+    related_objects: [ id: "586", id: "587", id: "588", id: "589", id: "590", id: "591", id: "592", id: "616" ]
 -
     id: "586"
     old_id: "11.26b"
@@ -10140,6 +10224,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-586" ]
+    related_objects: [ id: "585", id: "587", id: "588", id: "589", id: "590", id: "591", id: "592", id: "616" ]
 -
     id: "587"
     old_id: "11.26c"
@@ -10157,6 +10242,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-587" ]
+    related_objects: [ id: "585", id: "586", id: "588", id: "589", id: "590", id: "591", id: "592", id: "616" ]
 -
     id: "588"
     old_id: "11.26d"
@@ -10174,6 +10260,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-588" ]
+    related_objects: [ id: "585", id: "586", id: "587", id: "589", id: "590", id: "591", id: "592", id: "616" ]
 -
     id: "589"
     old_id: "11.26e"
@@ -10191,6 +10278,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-589-a", id: "fig-589-b", id: "fig-589-c" ]
+    related_objects: [ id: "585", id: "586", id: "587", id: "588", id: "590", id: "591", id: "592", id: "616" ]
 -
     id: "590"
     old_id: "11.26f"
@@ -10208,6 +10296,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-590" ]
+    related_objects: [ id: "585", id: "586", id: "587", id: "588", id: "589", id: "591", id: "592", id: "616" ]
 -
     id: "591"
     old_id: "11.26g"
@@ -10225,6 +10314,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-591-a", id: "fig-591-b" ]
+    related_objects: [ id: "585", id: "586", id: "587", id: "588", id: "589", id: "590", id: "592", id: "616" ]
 -
     id: "592"
     old_id: "11.26h"
@@ -10242,6 +10332,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-592" ]
+    related_objects: [ id: "585", id: "586", id: "587", id: "588", id: "589", id: "590", id: "591", id: "616" ]
 -
     id: "593"
     old_id: "11.27a"
@@ -10259,6 +10350,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-593" ]
+    related_objects: [ id: "594", id: "595", id: "596" ]
 -
     id: "594"
     old_id: "11.27b"
@@ -10276,6 +10368,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-594" ]
+    related_objects: [ id: "593", id: "595", id: "596" ]
 -
     id: "595"
     old_id: "11.28"
@@ -10293,6 +10386,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-595-a", id: "fig-595-b" ]
+    related_objects: [ id: "593", id: "594", id: "596" ]
 -
     id: "596"
     old_id: "11.29"
@@ -10310,6 +10404,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-596-a", id: "fig-596-b" ]
+    related_objects: [ id: "593", id: "594", id: "595" ]
 -
     id: "597"
     old_id: "11.30a"
@@ -10651,6 +10746,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-616-a", id: "fig-616-b", id: "fig-616-c", id: "fig-616-d", id: "fig-616-e" ]
+    related_objects: [ id: "585", id: "586", id: "587", id: "588", id: "589", id: "590", id: "591", id: "592" ]
 -
     id: "617"
     old_id: "11.34a"
@@ -10668,6 +10764,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-617-a", id: "fig-617-b", id: "fig-617-c", id: "fig-617-d", id: "fig-617-e", id: "fig-617-f" ]
+    related_objects: [ id: "618", id: "619", id: "620", id: "622", id: "623", id: "624", id: "625" ]
 -
     id: "618"
     old_id: "11.34aa"
@@ -10685,6 +10782,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-618" ]
+    related_objects: [ id: "617", id: "619", id: "620", id: "622", id: "623", id: "624", id: "625" ]
 -
     id: "619"
     old_id: "11.34b"
@@ -10702,6 +10800,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-619" ]
+    related_objects: [ id: "617", id: "618", id: "620", id: "622", id: "623", id: "624", id: "625" ]
 -
     id: "620"
     old_id: "11.34c"
@@ -10719,6 +10818,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-620-a", id: "fig-620-b" ]
+    related_objects: [ id: "617", id: "618", id: "619", id: "622", id: "623", id: "624", id: "625" ]
 -
     id: "621"
     old_id: "11.34d"
@@ -10753,6 +10853,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-622-a", id: "fig-622-b" ]
+    related_objects: [ id: "617", id: "618", id: "619", id: "620", id: "623", id: "624", id: "625" ]
 -
     id: "623"
     old_id: "11.34f"
@@ -10770,6 +10871,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-623-a", id: "fig-623-b", id: "fig-623-c", id: "fig-623-d", id: "fig-623-e" ]
+    related_objects: [ id: "617", id: "618", id: "619", id: "620", id: "622", id: "624", id: "625" ]
 -
     id: "624"
     old_id: "11.34g"
@@ -10787,6 +10889,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-624" ]
+    related_objects: [ id: "617", id: "618", id: "619", id: "620", id: "622", id: "623", id: "625" ]
 -
     id: "625"
     old_id: "11.34h"
@@ -10804,6 +10907,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-625" ]
+    related_objects: [ id: "617", id: "618", id: "619", id: "620", id: "622", id: "623", id: "624" ]
 -
     id: "626"
     old_id: "11.35a"
@@ -10821,6 +10925,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-626-a", id: "fig-626-b", id: "fig-626-c", id: "fig-626-d", id: "fig-626-e", id: "fig-626-f", id: "fig-626-g", id: "fig-626-h", id: "fig-626-i", id: "fig-626-j", id: "fig-626-k", id: "fig-626-l", id: "fig-626-m", id: "fig-626-n", id: "fig-626-o", id: "fig-626-p" ]
+    related_objects: [ id: "575", id: "627", id: "628", id: "629" ]
 -
     id: "627"
     old_id: "11.35b"
@@ -10838,6 +10943,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-627-a", id: "fig-627-b", id: "fig-627-c", id: "fig-627-d" ]
+    related_objects: [ id: "575", id: "626", id: "628", id: "629" ]
 -
     id: "628"
     old_id: "11.35c"
@@ -10855,6 +10961,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-628-a", id: "fig-628-b", id: "fig-628-c", id: "fig-628-d", id: "fig-628-e", id: "fig-628-f", id: "fig-628-g", id: "fig-628-h", id: "fig-628-i", id: "fig-628-j", id: "fig-628-k" ]
+    related_objects: [ id: "575", id: "626", id: "627", id: "629" ]
 -
     id: "629"
     old_id: "11.35d"
@@ -10872,6 +10979,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-629" ]
+    related_objects: [ id: "575", id: "626", id: "627", id: "628" ]
 -
     id: "630"
     old_id: "11.36a"
@@ -10889,6 +10997,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-630-a", id: "fig-630-b", id: "fig-630-c", id: "fig-630-d", id: "fig-630-e", id: "fig-630-f", id: "fig-630-g", id: "fig-630-h", id: "fig-630-i", id: "fig-630-j" ]
+    related_objects: [ id: "576", id: "577", id: "631", id: "632" ]
 -
     id: "631"
     old_id: "11.36b"
@@ -10906,6 +11015,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-631" ]
+    related_objects: [ id: "576", id: "577", id: "630", id: "632" ]
 -
     id: "632"
     old_id: "11.36c"
@@ -10923,6 +11033,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-632-a", id: "fig-632-b", id: "fig-632-c" ]
+    related_objects: [ id: "576", id: "577", id: "630", id: "631" ]
 -
     id: "633"
     old_id: "11.36d"
@@ -10957,6 +11068,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-634-a", id: "fig-634-b", id: "fig-634-c", id: "fig-634-d", id: "fig-634-e", id: "fig-634-f", id: "fig-634-g" ]
+    related_objects: [ id: "578" ]
 -
     id: "348-sequence"
     old_id: "6.03a"

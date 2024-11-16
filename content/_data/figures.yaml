@@ -8,7 +8,7 @@ figure_list:
     media_id: 
     link: /object-index/001/
     label: "Fig. 0.1a–d"
-    caption: "(a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; (c) Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
+    caption: "Left to right, starting from top left: (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; (c) Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
     credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
 # -
 #     id: "fig-0-1a"
@@ -69,7 +69,7 @@ figure_list:
 -
     id: "fig-0-2"
     old_id: "0.02-a"
-    src: figures/r34134_86_s1483_annoiii_n5_001-002.jpg
+    src: figures/r34134_86_s1483_annoiii_n5_002.jpg
     note: 
     zoom: true
     poster: 
@@ -151,7 +151,7 @@ figure_list:
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     alt: "Notebook page with writing at top (some crossed out) and a star-shaped diagram at bottom with nodes labeled “Composer,” “Notation,” “Performer,” “Sound,” and “Listener,” when read clockwise beginning at the top center."
 -
-    id: "fig-0-8"
+    id: "fig-0-8-a"
     old_id: "0.08-a"
     src: figures/VOLUME1NR1_full_0008.jpg
     note: 
@@ -164,6 +164,16 @@ figure_list:
     caption: "Nam June Paik (Korean, 1932–2006). “Expanded Education for the Paperless Society,” 1968. Reproduced in *Radical Software* 1, no. 1 (1970): 7–8."
     credit: "© Nam June Paik Estate."
     alt: "Long rectangular page with a curving flowchart of text boxes surrounded by short text columns titled “Music,” “Great Thinkers,” “Philosophy,” “Instant Global University,” “Reading Aids,” and “Singing Lessons.”"
+-
+    id: "fig-0-8-b"
+    old_id: "0.08-a"
+    src: figures/VOLUME1NR1_full_0009.jpg
+    note: 
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    link: /object-index/008/
 -
     id: "fig-0-9"
     old_id: "0.09-a"
@@ -343,7 +353,7 @@ figure_list:
     media_id: 
     link: /object-index/159/#fig-159-am
     label: "Fig. 3.1"
-    caption: "Copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, 1958–60. From Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
+    caption: "David Tudor’s personal copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
     alt: ""
 -
@@ -372,7 +382,7 @@ figure_list:
     media_id: 
     link: /object-index/159/#fig-159-aw
     label: "Fig. 3.3"
-    caption: "Copy of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, 1958–60. From Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
+    caption: "David Tudor’s personal copy of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
     alt: ""
 -
@@ -5580,11 +5590,11 @@ figure_list:
     alt: ""
 -
     id: "fig-073"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
+    src: 
+    zoom: 
+    poster: figures/cage-flipbook.jpg
+    media_type: vimeo
+    media_id: 1030181101/77cec2b0ce
     label: ""
     alt: ""
 # Original fig. 074 was replaced with this one

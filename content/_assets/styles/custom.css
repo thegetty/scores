@@ -14,13 +14,13 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "PROTOTYPE";
+    content: "UNCORRECTED";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
   }
   .quire::after {
-    content: "";
+    content: "PROOF";
     bottom: -130px;
     right: -130px;
   }
@@ -77,6 +77,13 @@ body {
   font-weight: 400;
   text-transform: none;
 }
+@media screen {
+  .quire-page h2 {
+    margin-top: 2rem !important;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+  }
+}
 .quire-page__content .container .content a,
 .quire-page__content .container .content a:hover {
   color: black !important;
@@ -94,6 +101,9 @@ body {
   line-height: 1.3;
   letter-spacing: 0.02rem;
   -webkit-font-smoothing: antialiased;
+}
+.quire-page__header .hero-body .label::after {
+  content: ".";
 }
 /* Table of contents */
 .quire-contents-list .menu-list a {
@@ -666,6 +676,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   line-height: var(--small-font-line-height);
   margin-top: 2rem;
 }
+@media screen {
+  .quire-essay h2.notes-heading {
+    margin-left: 1em;
+  }
+}
 .quire-essay .quire-page__content .container .content .footnotes * {
   font-size: var(--small-font-size);
   line-height: var(--small-font-line-height);
@@ -695,6 +710,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .scores-figure-group .scores-figure {
   margin: 0 !important;
+}
+@media screen {
+  .scores-figure.scores-figure-group.shared-caption > div figcaption {
+    display: none;
+  }
 }
 .scores-figure-group-grid--2 > div {
   grid-template-columns: 1fr 1fr;

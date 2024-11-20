@@ -885,9 +885,9 @@ figure_list:
     media_type: 
     media_id: 
     link: /object-index/466/
-    # label: "Fig. 8.4"
-    # caption: "Yvonne Rainer (American, b. 1934). Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
-    # credit: "Used with Permission. © Yvonne Rainer."
+    label: "Fig. 8.4"
+    caption: "Yvonne Rainer (American, b. 1934). Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
+    credit: "Used with Permission. © Yvonne Rainer."
     alt: "White page with black handwritten text in English and one diagram annotated with red pencil just above center of page. Top center titled “Instructions for Ruth” followed by short paragraph, radial diagram on faint at center, and more text spanning the length of the page."
 -
     id: "fig-8-5"
@@ -899,9 +899,9 @@ figure_list:
     media_type: 
     media_id: 
     link: /object-index/466/#fig-466-b
-    # label: "Fig. 8.5"
-    # caption: "Yvonne Rainer (American, b. 1934). Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
-    # credit: "Used with Permission. © Yvonne Rainer."
+    label: "Fig. 8.5"
+    caption: "Yvonne Rainer (American, b. 1934). Notes on arms, hands, legs, and feet, from Rainer’s dance scripts notebook, ca. 1962. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 30, folder 10."
+    credit: "Used with Permission. © Yvonne Rainer."
     alt: "White page with black handwritten text in English and one diagram annotated with red pencil just above center of page. Top center titled “Instructions for Ruth” followed by short paragraph, radial diagram on faint at center, and more text spanning the length of the page."
 -
     id: "fig-8-6"
@@ -928,7 +928,7 @@ figure_list:
     media_id: 
     link: /object-index/436/
     label: "Fig. 8."
-    caption: "Yv7onne Rainer (American, b. 1934). Notebook sketch related to *We Shall Run*, ca. 1963. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 5."
+    caption: "Yvonne Rainer (American, b. 1934). Notebook sketch related to *We Shall Run*, ca. 1963. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 5."
     credit: "Used with Permission. © Yvonne Rainer."
     alt: "Lined page in spiral notebook containing four pencil drawings of looping lines labeled with circles, boxes and arrows. “We Shall Run” handwritten at center of the right margin, “Running Dance” handwritten at top center."
 -

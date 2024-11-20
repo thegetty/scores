@@ -30,7 +30,7 @@ outputs:
     </ul>
   </li>
   <li>
-    <a href="#03-commentary"><span class="ch-number">3. </span><span class="ch-title">Sylvano Bussotti: <em>Five Piano Pieces for David Tudor</em> (1959)</span></a>
+    <a href="#03-commentary"><span class="ch-number">3. </span><span class="ch-title">Sylvano Bussotti: <em>Five Piano Pieces for David&nbsp;Tudor</em> (1959)</span></a>
     <ul>
       <li>Michael Gallope</li>
     </ul>

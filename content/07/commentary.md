@@ -94,7 +94,7 @@ The author wishes to thank to Benjamin Bishop, Alexis Briley, Aaron Hodges, and 
 
 [^4]: Zurbrugg, “Jackson Mac Low Interviewed by Nicholas Zurbrugg,” 264–65.
 
-[^5]: Mac Low’s script consists of an “action pack” of approximately fourteen hundred playing cards containing single-line instructions for the play’s nine performers. Cards are distributed to the actors by a silent “dice player” who also manipulates the playback of Cage’s tape-loop score. See Jackson Mac Low, *Representative Works: 1938–1985* (New York: Roof, 1986), 44–51. For Cage’s tape-loop score and a nine-minute recording, see John Cage, *Music for* “*The Marrying Maiden”* (New York: Henmar Press, 1960), Edition Peters nos. 6737 (score) and 6737a (tape)*.*
+[^5]: Mac Low’s script consists of an “action pack” of approximately fourteen hundred playing cards containing single-line instructions for the play’s nine performers. Cards are distributed to the actors by a silent “dice player” who also manipulates the playback of Cage’s tape-loop score. See Jackson Mac Low, *Representative Works: 1938–1985* (New York: Roof, 1986), 44–51. For Cage’s tape-loop score and a nine-minute recording, see John Cage, *Music for “The Marrying Maiden”* (New York: Henmar Press, 1960), Edition Peters nos. 6737 (score) and 6737a (tape)*.*
 
 [^6]: For the version of [*X for Henry Flynt*](/object-index/322/) that Young sent to Tudor, see David Tudor Papers, 980039, box 14, folder 9, and the recording in box 34A, item R325, Getty Research Institute, Los Angeles.
 

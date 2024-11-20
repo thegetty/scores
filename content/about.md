@@ -83,6 +83,11 @@ Mary E. Miller, *Director, Getty Research Institute*
 {% endfor %}
 
 </div>
+<div class="colophon">
+
+Type composed in U001
+
+</div>
 <div class="cip-data">
 
 {{ publication.library_of_congress_cip | markdownify }}

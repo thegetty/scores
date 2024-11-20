@@ -118,7 +118,7 @@ Thus, as the saxophonist and composer Eric Dolphy remarked in the concluding son
 
 [^1]: Valerie Cassel Oliver, ed., *Radical Presence: Black Performance in Contemporary Art* (Houston: Contemporary Arts Museum Houston, 2013), 121.
 
-[^2]: Benjamin Patterson, “Lecture at Columbia University,” video recording, 20 March 2011. Private collection of George E. Lewis. For a similar account from Patterson about the origins of *Paper Piece*, see Kathy Goncharov and Benjamin Patterson, "Oral History Interview with Benjamin Patterson, 2009 May 22," Smithsonian Archives of American Art, [https://www.aaa.si.edu/collections/interviews/oral-history-interview-benjamin-patterson-15685](https://www.aaa.si.edu/collections/interviews/oral-history-interview-benjamin-patterson-15685), accessed May 21, 2024.
+[^2]: Benjamin Patterson, “Lecture at Columbia University,” video recording, 20 March 2011. Private collection of George E. Lewis. For a similar account from Patterson about the origins of *Paper Piece*, see Kathy Goncharov and Benjamin Patterson, "Oral History Interview with Benjamin Patterson, 2009 May 22," Smithsonian Archives of American Art, [https://www.aaa.si.edu/collections/interviews/oral-history-interview-benjamin-patterson-15685](https://www.aaa.si.edu/collections/interviews/oral-history-interview-benjamin-patterson-15685), accessed 21 May 2024.
 
 [^3]: Benjamin Patterson, *Methods and Processes* (Paris: self-published, 1962). For a historical and analytical account of the emergence and poetics of event scores, see Liz Kotz, “Post-Cagean Aesthetics and the ‘Event’ Score,” *October* 95 (Winter 2001): 55–89.
 

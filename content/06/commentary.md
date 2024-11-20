@@ -62,7 +62,7 @@ As a notational format positioned between music, poetry, performance, and visual
 
 [^4]: Nyman, “Interview with George Brecht,” 110.
 
-[^5]: George Brecht, quoting George Maciunas in a letter to Brecht, early 1963, George Maciunas correspondence, Hanns Sohm Archive, Staatsgalerie Stuttgart.
+[^5]: George Brecht, quoting George Maciunas in a letter to Brecht, early 1963, George Maciunas Correspondence, Hanns Sohm Archive, Staatsgalerie Stuttgart, Stuttgart, Germany.
 
 [^6]: Julia Robinson, “From Abstraction to Model: In the Event of George Brecht & the Conceptual Turn in the Art of the 1960s” (PhD diss., Princeton University, 2008), 111–13. See also Julia Robinson, “From Abstraction to Model: George Brecht’s Events and the Conceptual Turn in Art of the 1960s,” *October* 127 (Winter 2009): 77–108; and Julia Robinson, *George Brecht: Events: A Heterospective* (Cologne: Walther König, 2005).
 

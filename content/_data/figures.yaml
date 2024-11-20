@@ -8,7 +8,7 @@ figure_list:
     media_id: 
     link: /object-index/001/
     label: "Fig. 0.1a–d"
-    caption: "Left to right, starting from top left: (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; (c) Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
+    caption: "*Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; (c) Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
     credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
 # -
 #     id: "fig-0-1a"
@@ -69,7 +69,7 @@ figure_list:
 -
     id: "fig-0-2"
     old_id: "0.02-a"
-    src: figures/r34134_86_s1483_annoiii_n5_002.jpg
+    src: figures/r34134_86_s1483_annoiii_n5_002_crop.jpg
     note: 
     zoom: true
     poster: 
@@ -77,7 +77,7 @@ figure_list:
     media_id: 
     link: /object-index/002/
     label: "Fig. 0.2"
-    caption: "Luigi Russolo (Italian, 1855–1947). *Risveglio di una Cittá* (Awakening of a City), 1914. From *Lacerba* 2, no. 5 (1914): 72. Getty Research Institute, Jean Brown Collection, item 86-S1483."
+    caption: "Luigi Russolo (Italian, 1855–1947). *Risveglio di una Cittá* (Awakening of a City). From *Lacerba* 2, no. 5 (1914): 72. Getty Research Institute, Jean Brown Collection, item 86-S1483."
     credit: ""
     alt: "Two-page spread of dark black lines gradually rising and falling over treble and bass staves."
 -
@@ -105,7 +105,7 @@ figure_list:
     media_id: 
     link: /object-index/004/
     label: "Fig. 0.4"
-    caption: "Wadada Leo Smith (American, b. 1941). *The Dream*, a panel from *Kosmic Music* (The Ankhrasmation Symbolic Language Art-Score), acrylic and ink on paper, 2008."
+    caption: "Wadada Leo Smith (American, b. 1941). *The Dream*, a panel from *Kosmic Music* (The Ankhrasmation Symbolic Language Art-Score), 2008, acrylic and ink on paper."
     credit: "Wadada Leo Smith, www.wadadaleosmith.com."
     alt: "Four multicolor rectangles marked with esoteric annotations including brackets and musical symbols. The leftmost three rectangles are connected by a sweeping gold band."
 -
@@ -139,7 +139,7 @@ figure_list:
 -
     id: "fig-0-7"
     old_id: "0.07"
-    src: figures/r2017427_92_b17341_v3_001.jpg
+    src: figures/r2017427_92_b17341_v3_001_crop.jpg
     note: 
     zoom: true
     poster: 
@@ -185,7 +185,7 @@ figure_list:
     media_id: 
     link: /object-index/009/
     label: "Fig. 0.9"
-    caption: "Sidney Lanier (American, 1842–81). From *Science of English* Verse (New York: Scribner’s, 1880), 216–17."
+    caption: "Sidney Lanier (American, 1842–81). *The Science of English Verse* (New York: Scribner’s, 1880), 216–17."
     credit: "Internet Archive/Trent University Library Donation."
     alt: "Two-page spread of text interspersed with lines of unpitched musical notes paired with English syllables."
 -
@@ -241,7 +241,7 @@ figure_list:
     media_id: 
     link: /object-index/045/
     label: "Fig. 1.2"
-    caption: "Morton Feldman (American, 1926–87). Embryonic graph score, likely for Feldman’s, *Projection 1*, early 1950s. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 30."
+    caption: "Morton Feldman (American, 1926–87). Embryonic graph score, likely for Feldman’s *Projection 1*, early 1950s. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 30."
     credit: "*Projection 1* by Morton Feldman © 1961 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     alt: "Horizontal cream paper with orange printed grid. Three black horizontal marks evenly divide the top third of the page into three sections, with a larger fourth section on bottom. Each section is sparsely populated with squares and rectangles made from outlining one or more of the printed grid boxes. Key at bottom left reads: diamond shape, “Lowest Harmonic”; P, “Lowest pizz (played pizz)”; A, “Lowest Open sound (Played Arco)”; and outlined pen square, “= one beat.” Lines from top to bottom correspond to the O, P, and A key."
 -
@@ -255,7 +255,7 @@ figure_list:
     media_id: 
     link: /object-index/014/
     label: "Fig. 1.3"
-    caption: "David Tudor (American, 1926–96). Realization of Feldman’s *Intersection 3*, 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
+    caption: "David Tudor (American, 1926–96). Realization of Morton Feldman’s *Intersection 3*, 1953. Getty Research Institute, David Tudor Papers, 980039, box 9, folder 1."
     credit: "*Intersection 3* by Morton Feldman © 1962 by C.F. Peters Corporation, New York. Permission by C.F. Peters Corporation. All rights reserved."
     alt: "Page printed with twelve staves containing pencil notation. Beginning at the top, the staves are grouped two together into a grand staff, with treble on top and bass on bottom, followed by an empty stave, all of this repeated four times for a total of four grand staves. Clusters of notes and other musical notations fill staves at irregular intervals, yet the page is balanced with a roughly equal disruption of notations throughout."
 -
@@ -353,7 +353,7 @@ figure_list:
     media_id: 
     link: /object-index/159/#fig-159-am
     label: "Fig. 3.1"
-    caption: "David Tudor’s personal copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
+    caption: "David Tudor’s personal copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, 1958—60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
     alt: ""
 -
@@ -382,7 +382,7 @@ figure_list:
     media_id: 
     link: /object-index/159/#fig-159-aw
     label: "Fig. 3.3"
-    caption: "David Tudor’s personal copy of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by David Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
+    caption: "David Tudor’s personal copy of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, 1958—60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
     alt: ""
 -
@@ -396,7 +396,7 @@ figure_list:
     media_id: 
     link: /object-index/158/#fig-158-r
     label: "Fig. 3.4"
-    caption: "David Tudor (American, 1926–96). David Tudor’s realization of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
+    caption: "David Tudor (American, 1926–96). Tudor’s realization of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: ""
     alt: "Blue front cover of bound book. “Composer’s Notebook” at top left in blue with short section of staff printed below."
 # REMOVED: Used as fig. 3.1 instead
@@ -660,7 +660,7 @@ figure_list:
     media_id: 
     link: /object-index/333/
     label: "Fig. 5.12"
-    caption: "Henry Flynt (American, b. 1940); George Maciunas (Lithuanian American, 1931–78), *Communists Must Give Revolutionary Leadership in Culture*, 1965, double-sided offset print. Getty Research Institute, Jean Brown Papers, 890164, box 263, folder 1."
+    caption: "Henry Flynt (American, b. 1940); George Maciunas (Lithuanian American, 1931–78). *Communists Must Give Revolutionary Leadership in Culture*, 1965, double-sided offset print. Getty Research Institute, Jean Brown Papers, 890164, box 263, folder 1."
     credit: "Courtesy of Billie Maciunas."
     alt: "Square-shaped newspaper-like sheet with four columns of black print in English covering entire page. “Communists Must Give Revolutionary Leadership in Culture” in top left corner across leftmost two columns. “By Henry Flynt” to right of graphic in smaller text. Three lines made from consecutive numbers 1, 2, or 3 near top rightmost two columns."
 -
@@ -801,7 +801,7 @@ figure_list:
     link: /object-index/238/#fig-238-an
     anthology_links: true
     label: "Fig. 7.2"
-    caption: "Jackson Mac Low (American, 1922–2004). Pages from Mac Low’s contribution to a unique copy of Mac Low and La Monte Young’s *An Anthology of Chance Operations* (New York: George Maciunas and Jackson Mac Low, 1962), 1962. Getty Research Institute, Jean Brown Collection, item 94-B19099. Courtesy of the Estate of Jackson Mac Low."
+    caption: "Jackson Mac Low (American, 1922–2004; George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from Mac Low’s contribution to a unique copy of Mac Low and La Monte Young’s *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, Jean Brown Collection, item 94-B19099. Courtesy of the Estate of Jackson Mac Low."
     credit: ""
     alt: "Two-page spread in bound book. Left, blank salmon page. Right, white page with black all-text graphic oriented in off center cross pattern. Horizontal text reads, from top to bottom “Story Music Jackson Mac Low Chance Operations” Vertical text reads from right to left “Essays Poetry Indeterminacy.” Graphic covers three quarters of page, with bottom left mostly empty."
 -
@@ -815,7 +815,7 @@ figure_list:
     media_id: 
     link: /object-index/275/
     label: "Fig. 7.3"
-    caption: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the organized by La Monte Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY, 8–9 April 1961. Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6."
+    caption: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by La Monte Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY, 8–9 April 1961. Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6."
     credit: ""
     alt: "White page with blue typewritten text in English. Title at top center reads “Poetry, Music & Theatre Works Jackson Mac Low,” followed by time, date, and location of performances. Middle two quarters of page contains numerical list of the titles of works to be performed in succession, their performers, and their original date of composition. Bottom quarter of page contains paragraph of information on other performances. All text single spaced with thin margins."
 # REMOVED: Quoted in commentary text
@@ -836,7 +836,7 @@ figure_list:
 -
     id: "fig-8-1"
     old_id: "8.14"
-    src: figures/gri_2006_m_24_241_1_b1_f2_349357ds.jpg
+    src: figures/gri_2006_m_24_241_1_b1_f2_349357ds_crop.jpg
     note: 
     zoom: true
     poster: 
@@ -914,7 +914,7 @@ figure_list:
     media_id: 
     link: /object-index/446/
     label: "Fig. 8.6"
-    caption: "Yvonne Rainer (American, b. 1934). *We Shall Run* (1963), performed at the Wadsworth Atheneum, Hartford, CT. From left: Yvonne Rainer, Deborah Hay, Robert Rauschenberg, Robert Morris, Sally Gross, Joseph Schlichter, Tony Holder, and Alex Hay, 7 March 1965. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 69."
+    caption: "Yvonne Rainer (American, b. 1934). *We Shall Run* (1963), performed at the Wadsworth Atheneum, Hartford, CT, 7 March 1965. From left: Rainer, Deborah Hay, Robert Rauschenberg, Robert Morris, Sally Gross, Joseph Schlichter, Tony Holder, and Alex Hay. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 69."
     credit: "Used with Permission. © Yvonne Rainer."
     alt: "Horizontal black and white photograph of eight spot-lit people running barefoot in an otherwise empty room."
 -
@@ -927,9 +927,9 @@ figure_list:
     media_type: 
     media_id: 
     link: /object-index/436/
-    label: ""
-    caption: ""
-    credit: ""
+    label: "Fig. 8."
+    caption: "Yv7onne Rainer (American, b. 1934). Notebook sketch related to *We Shall Run*, ca. 1963. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 5."
+    credit: "Used with Permission. © Yvonne Rainer."
     alt: "Lined page in spiral notebook containing four pencil drawings of looping lines labeled with circles, boxes and arrows. “We Shall Run” handwritten at center of the right margin, “Running Dance” handwritten at top center."
 -
     id: "fig-8-8"
@@ -941,9 +941,9 @@ figure_list:
     media_type: 
     media_id: 
     link: /object-index/436/#fig-436-b
-    label: ""
-    caption: ""
-    credit: ""
+    label: "Fig. 8.8"
+    caption: "Yvonne Rainer (American, b. 1934). Notebook sketch related to *We Shall Run*, ca. 1963. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 5."
+    credit: "Used with Permission. © Yvonne Rainer."
     alt: "Lined page in spiral notebook containing four pencil drawings of looping lines labeled with circles, boxes and arrows. “We Shall Run” handwritten at center of the right margin, “Running Dance” handwritten at top center."
 -
     id: "fig-8-9"
@@ -955,9 +955,9 @@ figure_list:
     media_type: 
     media_id: 
     link: /object-index/436/#fig-436-c
-    label: ""
-    caption: ""
-    credit: ""
+    label: "Fig. 8.9"
+    caption: "Yvonne Rainer (American, b. 1934). Notebook sketch related to *We Shall Run*, ca. 1963. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 5."
+    credit: "Used with Permission. © Yvonne Rainer."
     alt: "Lined page in spiral notebook containing four pencil drawings of looping lines labeled with circles, boxes and arrows. “We Shall Run” handwritten at center of the right margin, “Running Dance” handwritten at top center."
 -
     id: "fig-8-10"

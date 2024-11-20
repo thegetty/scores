@@ -1,7 +1,7 @@
 ---
 label: "5"
-title: "La Monte Young, ed.: *An Anthology of Chance Operations* (1962–63)"
-short_title: "*An Anthology of Chance Operations*"
+title: "La Monte Young, ed.: *An&nbsp;Anthology of Chance Operations* (1962–63)"
+short_title: "*An&nbsp;Anthology of Chance Operations*"
 order: 51
 layout: essay
 toc: false

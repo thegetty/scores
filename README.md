@@ -77,6 +77,9 @@ In addition to changes in `content/_assets/styles/custom.css` and `content/_asse
 **_layouts/base.11ty.js**
 Added Google Analytics 4
 
+**_includes/components/copyright/licensing.js**
+Updated language of `text-only` license to current Getty standard
+
 **_includes/components/figure/audio/element.js**
 **_includes/components/lightbox/slides.js**
 **_plugins/shortcodes/figure.js**

@@ -1390,11 +1390,14 @@ body.iframe-version #quire-entry-view-toggle {
 /* PRINT
 ============================================================================= */
 @media print {
-  body {
-    /* letter-spacing: .1pt !important; */
+  body,
+  .quire-page h1,
+  .quire-page h2,
+  .quire-page h3,
+  .quire-page h4,
+  .quire-page h5,
+  .quire-page h6 {
     letter-spacing: .05pt !important;
-    /* letter-spacing: 0 !important; */
-
   }
   strong {
     font-weight: 400 !important;
@@ -1429,13 +1432,8 @@ body.iframe-version #quire-entry-view-toggle {
     margin: 0;
   }
   .hero-body {
-    height: 1.25in;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: space-between; */
+    height: 9.8rem;
     text-align: left;
-    /* margin-left: 0.4375in;
-    margin-bottom: 0.25in; */
     padding: 0 !important;
   }
   .hero-body .quire-page h1,
@@ -1445,6 +1443,7 @@ body.iframe-version #quire-entry-view-toggle {
   }
   .hero-body .quire-page__header__title {
     width: 1.875in;
+    /* width: 2.6958in; This makes them the same width as the titles in the TOC, but I don't think they look as good */
   }
   .hero-body .quire-page__header__contributor {
     font-style: normal;
@@ -1474,9 +1473,13 @@ body.iframe-version #quire-entry-view-toggle {
   .quire-page h2 {
     margin-left: 0.4375in;
   }
+  .quire-page h2.notes-heading {
+    margin-left: 1.5em;
+  }
+  /* When margins add up to multiples of the line height, the bsaeline of the lines to follow will line up with the baseline on the reverse page */
   .quire-page__content .content h2 {
     margin-bottom: 1rem;
-    margin-top: 2rem;
+    margin-top: 1.8rem;
   }
   /* Figures */
   .content figure.scores-figure {
@@ -1495,8 +1498,9 @@ body.iframe-version #quire-entry-view-toggle {
     max-width: 100%;
     max-height: 4.25in;
   }
+  .content figure.scores-figure figcaption,
   .content figure.scores-figure figcaption .scores-figure__link {
-    margin-top: .25rem;
+    margin-top: 2pt;
     display: block;
   }
   .content figure.scores-figure.scores-figure-group {
@@ -1537,23 +1541,23 @@ body.iframe-version #quire-entry-view-toggle {
     margin-bottom: .25rem !important;
   }
   .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) .scores-figure,
-  .scores-figure-group.scores-figure-group-grid--3 .scores-figure,
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) .scores-figure,
   .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) > figcaption div:last-child a,
-  .scores-figure-group.scores-figure-group-grid--3 > figcaption div:last-child a {
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) > figcaption div:last-child a {
     width: calc(50% - 0.4rem);
     display: inline-block;
     margin-top: 1rem !important;
   }
   .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) .scores-figure:nth-child(-n+2),
-  .scores-figure-group.scores-figure-group-grid--3 .scores-figure:nth-child(-n+2),
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) .scores-figure:nth-child(-n+2),
   .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) > figcaption div:last-child a:nth-child(-n+2),
-  .scores-figure-group.scores-figure-group-grid--3 > figcaption div:last-child a:nth-child(-n+2)  {
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) > figcaption div:last-child a:nth-child(-n+2)  {
     margin-top: 0 !important;
   }
   .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) .scores-figure:nth-child(odd),
-  .scores-figure-group.scores-figure-group-grid--3 .scores-figure:nth-child(odd), 
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) .scores-figure:nth-child(odd), 
   .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) > figcaption div:last-child a:nth-child(odd),
-  .scores-figure-group.scores-figure-group-grid--3 > figcaption div:last-child a:nth-child(odd) {
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) > figcaption div:last-child a:nth-child(odd) {
     margin-right: 0.75rem !important;
   }
   .content .scores-figure-group figure.scores-figure img {
@@ -1561,7 +1565,7 @@ body.iframe-version #quire-entry-view-toggle {
   }
   /* Blockquotes */
   .quire-essay .quire-page__content .container .content blockquote {
-    margin: 1rem 0 1rem 0.4375in;
+    margin: .7rem 0 .7rem 0.4375in;
   }
   .quire-essay .quire-page__content .container .content blockquote p {
     text-indent: 0;
@@ -1748,13 +1752,14 @@ body.iframe-version #quire-entry-view-toggle {
   }
 }
 
-/* PDF running feet */ 
+/* PDF running feet */
 @media print {
   .pdf-footers__verso,
   .pdf-footers__recto,
   .pdf-footers__url {
     font-family: inherit;
     font-size: inherit;
+    word-spacing: -0.15rem;
   }
   .pdf-footers__verso {
     flow: static(pageverso);
@@ -1767,6 +1772,17 @@ body.iframe-version #quire-entry-view-toggle {
   .pdf-footers__url {
     flow: static(pageurl);
     text-align: left;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: -28pt;
+  }
+  .pdf-footers__url::before {
+    content: "................"; /* 16 at 1.5em == 2x large indent */
+    position: absolute;
+    top: -17pt;
+    left: -1pt;
+    font-size: 1.5em;
   }
   @page :left {
     @bottom-right {
@@ -1778,15 +1794,18 @@ body.iframe-version #quire-entry-view-toggle {
       content: flow(pagerecto);
     }
   }
-  @page :right:first {
+  /* This makes for a shorter text area on the first page in order to give some space between the text and URL */
+  @page essay :right:first {
+    margin-bottom: 40pt;
     @bottom-left {
       content: flow(pageurl);
     }
-  }
-  @page :left:first {
     @bottom-right {
-      content: flow(pageurl);
+      margin-top: 4pt;
     }
+  }
+  .quire-essay {
+    page: essay;
   }
   @page no-footer {
     @bottom-right {
@@ -1796,7 +1815,6 @@ body.iframe-version #quire-entry-view-toggle {
       content: none;
     }
   }
-
   @page backmatter :right:first {
     @bottom-left {
       content: none;
@@ -1807,11 +1825,20 @@ body.iframe-version #quire-entry-view-toggle {
       content: none;
     }
   }
+  @page frontmatter :right:first {
+    @bottom-left {
+      content: none;
+    }
+  }
   .quire-page.scores-acknowledgments-page,
   .quire-page.scores-contributors-page {
     page: backmatter;
   }
-
+  .quire-page.frontmatter .pdf-footers__url,
+  .quire-page.scores-acknowledgments-page .pdf-footers__url,
+  .quire-page.scores-contributors-page .pdf-footers__url {
+    display: none;
+  }
   .quire-essay {
     page-break-before: right;
   }

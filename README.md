@@ -57,13 +57,15 @@ git clone --recursive https://github.com/thegetty/scores.git
 
 2. Run `quire build`
 
-3. If the PDF will be sent to digital printer, run the following command to ensure color profiles are correct:
+3. In `_site/pdf.css` correct the four `@font-face` paths at the top of the file by prepending `_assets/fonts/`. For example:
 
-    ```
-    magick mogrify -profile bin/adobe-rgb-1998.icm _site/iiif/**/print-image.jpg
-    ```
+```
+src: url("_assets/fonts/u001/u001-reg.woff2")
+```
 
-4. With PrinceXML 14.2 installed, run `quire pdf --lib prince`
+4. In `_site/pdf.html` add the SVG Creative Commons license icon elements directly at the top `<body>` element, copied from another file like `_site/intro/index.html`, to ensure that the CC icons appear on the copyright page in the PDF.
+
+5. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 

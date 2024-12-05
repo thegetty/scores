@@ -1443,7 +1443,7 @@ body.iframe-version #quire-entry-view-toggle {
     word-spacing: -.15rem; 
   }
   .quire-essay .quire-page__content .container .content figcaption {
-    word-spacing: -0.05rem;
+    word-spacing: -0.15em;
   }
   .quire-essay .quire-page__content .container .content sup,
   .quire-essay .quire-page__content .container .content sup a {

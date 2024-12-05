@@ -21,9 +21,6 @@ Any revisions or corrections made to this publication after the first edition da
 
 <div class="publisher">
 
-**Getty Research Institute Publications Program**
-Mary E. Miller, *Director, Getty Research Institute*
-
 {% for press in publication.publisher %}
 {{ press.address | markdownify }}
 {% endfor %}

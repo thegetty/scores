@@ -8,7 +8,7 @@ figure_list:
     media_id: 
     link: /object-index/001/
     label: "Fig. 0.1a–d"
-    caption: "*Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; (c) Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
+    caption: "*Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; &#40;c&#41; Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
     credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
 # -
 #     id: "fig-0-1a"
@@ -325,7 +325,7 @@ figure_list:
     media_id: 
     link: /object-index/134/
     label: "Fig. 2.4"
-    caption: "Merce Cunningham conducting John Cage’s *Concert for Piano and Orchestra* at Town Hall, 15 May 1958. "
+    caption: "Merce Cunningham conducting John Cage’s *Concert for Piano and Orchestra* at Town Hall, New York, NY, 15 May 1958. "
     credit: ""
     alt: "Square-shaped black-and-white photograph of a man on a stage turned away from the camera and conducting an orchestra. The photo was shot from the audience."
 -
@@ -353,7 +353,7 @@ figure_list:
     media_id: 
     link: /object-index/159/#fig-159-am
     label: "Fig. 3.1"
-    caption: "David Tudor’s personal copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, 1958—60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
+    caption: "David Tudor’s personal copy of *No. 4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
     alt: ""
 -
@@ -382,7 +382,7 @@ figure_list:
     media_id: 
     link: /object-index/159/#fig-159-aw
     label: "Fig. 3.3"
-    caption: "David Tudor’s personal copy of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, 1958—60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
+    caption: "David Tudor’s personal copy of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, with pencil annotations by Tudor, as found in loose pages from Bussotti’s *Pièces de chair II*, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
     credit: ""
     alt: ""
 -
@@ -801,7 +801,7 @@ figure_list:
     link: /object-index/238/#fig-238-an
     anthology_links: true
     label: "Fig. 7.2"
-    caption: "Jackson Mac Low (American, 1922–2004; George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from Mac Low’s contribution to a unique copy of Mac Low and La Monte Young’s *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, Jean Brown Collection, item 94-B19099. Courtesy of the Estate of Jackson Mac Low."
+    caption: "Jackson Mac Low (American, 1922–2004; George Maciunas (Lithuanian American, 1931–78); La Monte Young (American, b. 1935). Pages from Mac Low’s contribution to a unique copy of *AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*, 1962, offset printed. Getty Research Institute, Jean Brown Collection, item 94-B19099. Courtesy of the Estate of Jackson Mac Low."
     credit: ""
     alt: "Two-page spread in bound book. Left, blank salmon page. Right, white page with black all-text graphic oriented in off center cross pattern. Horizontal text reads, from top to bottom “Story Music Jackson Mac Low Chance Operations” Vertical text reads from right to left “Essays Poetry Indeterminacy.” Graphic covers three quarters of page, with bottom left mostly empty."
 -
@@ -914,7 +914,7 @@ figure_list:
     media_id: 
     link: /object-index/446/
     label: "Fig. 8.6"
-    caption: "Yvonne Rainer (American, b. 1934). *We Shall Run* (1963), performed at the Wadsworth Atheneum, Hartford, CT, 7 March 1965. From left: Rainer, Deborah Hay, Robert Rauschenberg, Robert Morris, Sally Gross, Joseph Schlichter, Tony Holder, and Alex Hay. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 69."
+    caption: "Yvonne Rainer (American, b. 1934). *We Shall Run* (1963), performed at the Wadsworth Atheneum, Hartford, CT, 7 March 1965. *From left:* Rainer, Deborah Hay, Robert Rauschenberg, Robert Morris, Sally Gross, Joseph Schlichter, Tony Holder, and Alex Hay. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 69."
     credit: "Used with Permission. © Yvonne Rainer."
     alt: "Horizontal black and white photograph of eight spot-lit people running barefoot in an otherwise empty room."
 -
@@ -927,7 +927,7 @@ figure_list:
     media_type: 
     media_id: 
     link: /object-index/436/
-    label: "Fig. 8."
+    label: "Fig. 8.7"
     caption: "Yvonne Rainer (American, b. 1934). Notebook sketch related to *We Shall Run*, ca. 1963. Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 1, folder 5."
     credit: "Used with Permission. © Yvonne Rainer."
     alt: "Lined page in spiral notebook containing four pencil drawings of looping lines labeled with circles, boxes and arrows. “We Shall Run” handwritten at center of the right margin, “Running Dance” handwritten at top center."

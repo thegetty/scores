@@ -78,7 +78,7 @@ body {
   text-transform: none;
 }
 @media screen {
-  .quire-page h2 {
+  .quire-page.quire-essay h2 {
     margin-top: 2rem !important;
     margin-bottom: 1rem;
     margin-left: 4rem;
@@ -796,9 +796,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   padding: 0;
   line-height: inherit;
 }
-.scores-copyright-page .copyright__publisher-logo, 
-.scores-copyright-page .quire-copyright__icon__link {
+.scores-copyright-page .copyright__publisher-logo {
   display: none;
+}
+.scores-copyright-page .quire-copyright__icon__link svg {
+  margin-right: -.25rem;
 }
 .scores-copyright-page .quire-page__content .container .content .publisher {
   margin-bottom: 1rem;

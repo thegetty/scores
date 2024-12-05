@@ -54,7 +54,7 @@ As a notational format positioned between music, poetry, performance, and visual
 
 ## Notes {.notes-heading}
 
-[^1]: George Brecht, notebook of late June 1958, reprinted as *George Brecht—Notebooks*, vol. 1, June–September 1958, ed. Dieter Daniels and Hermann Braun (Cologne: Walther König, 1991), 4.
+[^1]: George Brecht, notebook of late June 1958, reprinted as *George Brecht—Notebooks*, vol. 1, *June–September 1958*, ed. Dieter Daniels and Hermann Braun (Cologne: Walther König, 1991), 4.
 
 [^2]: Liz Kotz, “Post-Cagean Aesthetics and the Event Score,” in *Words to Be Looked At: Language in 1960s Art* (Cambridge, MA: MIT Press, 2007), 59–98.
 
@@ -64,13 +64,13 @@ As a notational format positioned between music, poetry, performance, and visual
 
 [^5]: George Brecht, quoting George Maciunas in a letter to Brecht, early 1963, George Maciunas Correspondence, Hanns Sohm Archive, Staatsgalerie Stuttgart, Stuttgart, Germany.
 
-[^6]: Julia Robinson, “From Abstraction to Model: In the Event of George Brecht & the Conceptual Turn in the Art of the 1960s” (PhD diss., Princeton University, 2008), 111–13. See also Julia Robinson, “From Abstraction to Model: George Brecht’s Events and the Conceptual Turn in Art of the 1960s,” *October* 127 (Winter 2009): 77–108; and Julia Robinson, *George Brecht: Events: A Heterospective* (Cologne: Walther König, 2005).
+[^6]: Julia Robinson, “From Abstraction to Model: In the Event of George Brecht & the Conceptual Turn in the Art of the 1960s” (PhD diss., Princeton University, 2008), 111–13. See also Julia Robinson, “From Abstraction to Model: George Brecht’s Events and the Conceptual Turn in Art of the 1960s,” *October* 127 (Winter 2009): 77–108; and Julia Robinson, *George Brecht: Events; A Heterospective* (Cologne: Walther König, 2005).
 
 [^7]: Nyman, “Interview with George Brecht,” 110.
 
-[^8]: George Brecht, “Chance-Imagery,” A Great Bear Pamphlet (New York: Something Else Press, 1966). Republished in 2004 on UbuWeb, [https://www.ubu.com/historical/gb/brecht_chance.pdf](https://www.ubu.com/historical/gb/brecht_chance.pdf).
+[^8]: George Brecht, “Chance-Imagery,” A Great Bear Pamphlet (New York: Something Else Press, 1966), republished in 2004 on UbuWeb, [https://www.ubu.com/historical/gb/brecht_chance.pdf](https://www.ubu.com/historical/gb/brecht_chance.pdf).
 
-[^9]: George Brecht, *George Brecht—Notebooks*, vol. 3, April–August 1959, ed. Dieter Daniels and Hermann Braun (Cologne: Walther König, 1991), 123.
+[^9]: George Brecht, *George Brecht—Notebooks*, vol. 3, *April–August 1959*, ed. Dieter Daniels and Hermann Braun (Cologne: Walther König, 1991), 123.
 
 [^10]: George Brecht, “The Origin of ‘Events’” (August 1970), in *Happening & Fluxus*, ed. Harald Szeemann and Hanns Sohm (Cologne: Kölnischer Kunstverein, 1970), n.p.
 

@@ -138,7 +138,7 @@ Young’s other word scores constitute a set of investigations into the limits a
 
 [^12]: Natilee Harren, *Fluxus Forms: Scores, Multiples, and the Eternal Network* (Chicago: University of Chicago Press, 2020), 138.
 
-[^13]: As Kotz notes about the multiple, “It risks turning Minimalism into a toy, something that one would pick up and play with.” Liz Kotz, “Make an Object to Be Lost: Multiples and Minimalism,” in *The Small Utopia: Ars multiplicata* (Milan: Prada Foundation, 2012), 181–89.
+[^13]: As Kotz notes about the multiple, “It risks turning Minimalism into a toy, something that one would pick up and play with.” Liz Kotz, “Make an Object to Be Lost: Multiples and Minimalism,” in *The Small Utopia: Ars Multiplicata* (Milan: Prada Foundation, 2012), 181–89.
 
 [^14]: Flynt, “La Monte Young in New York,” 67–68.
 

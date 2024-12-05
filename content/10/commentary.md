@@ -81,7 +81,7 @@ Concluding in 1975, *Spatial Poem* may be understood as an emblematic final book
 
 [^2]: Mieko Shiomi, quoted in Kakinuma Toshie and Takeuchi Nao, “Oral History Interview with Shiomi Mieko,” 1 December 2014, trans. Reiko Tomii, Archival Research Center, Kyoto University of Arts, [https://www.kcua.ac.jp/arc/ar/shiomi_eg_1/](https://www.kcua.ac.jp/arc/ar/shiomi_eg_1/).
 
-[^3]: Mieko Shiomi, quoted in Michelle Elligott, “Interview with artist Mieko Shiomi: Chapter 3,” 27 October 2011, Post: Notes on Modern & Contemporary Art around the Globe, website of the Contemporary and Modern Art Perspectives (C-MAP) program at the Museum of Modern Art, New York, [https://post.at.moma.org/content_items/22-interview-with-shiomi-mieko](https://post.at.moma.org/content_items/22-interview-with-shiomi-mieko).
+[^3]: Mieko Shiomi, quoted in Michelle Elligott, “Interview with Artist Mieko Shiomi: Chapter 3,” 27 October 2011, Post: Notes on Modern & Contemporary Art around the Globe, website of the Contemporary and Modern Art Perspectives (C-MAP) program at the Museum of Modern Art, New York, [https://post.at.moma.org/content_items/22-interview-with-shiomi-mieko](https://post.at.moma.org/content_items/22-interview-with-shiomi-mieko).
 
 [^4]: Mieko Shiomi, quoted in Sally Kawamura, “Appreciating the Incidental: Mieko Shiomi’s ‘Events,’” *Women & Performance: A Journal of Feminist Theory* 19, no. 3 (November 2009): 313.
 

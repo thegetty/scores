@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Changed thumbnail and static-inline size
+// Changed thumbnail and static-inline size, made print-image bw
 //
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
@@ -110,6 +110,8 @@ module.exports = (eleventyConfig) => {
        */
       {
         name: 'print-image',
+        colorspace: 'b-w',
+        grayscale: true,
         resize: {
           width: 2025,
           withoutEnlargement: true

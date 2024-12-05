@@ -16,7 +16,7 @@ The primary content pieces of the book can be found in the `content` directory. 
 
 This project was last built with the following software versions:
 
-- Node 18.16.0
+- Node 18.20.5
 - Quire CLI 1.0.0-rc.11
 
 ### Branches
@@ -134,6 +134,12 @@ A custom layout based on `quire-entry` that adds figure thumbnails for lightbox 
 
 **_layouts/score-object-cards.liquid**
 A custom layout based on `score-object` but displays an array of filterable cards in the lightbox
+
+**_plugins/figures/iiif/config.js**
+**_plugins/figures/image/transformer.js**
+**_plugins/shortcodes/objFigure.js**
+**package.json**
+Allow for images to be transformed to single-channel bw
 
 **_plugins/shortcodes/contributors.js**
 Parse contributor info passed in as JSON string, for `score.liquid` layout

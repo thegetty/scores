@@ -69,13 +69,26 @@ module.exports = function (eleventyConfig, { page }) {
         } else if (fig.media_type == 'vimeo' || 'soundcloud' || 'audio' ) {
           figImagePath = `/_assets/images/${fig.poster}`
         } 
+
+        // figPDFImagePath
+        if (fig.thumb) {
+          figPDFImagePath = `/_assets/images/${fig.thumb}`
+        } else if (fig.annotations) {
+          figPDFImagePath = `/iiif/${figId}/base/print-image.jpg`
+        } else if (fig.zoom) {
+          const figFilename = fig.src.replace('figures/', '').replace('.jpg', '')
+          figPDFImagePath = `/iiif/${figId}/${figFilename}/print-image.jpg`
+        } else if (fig.media_type == 'vimeo' || 'soundcloud' || 'audio' ) {
+          figPDFImagePath = `/_assets/images/${fig.poster}`
+        } 
       }
     } 
 
     return html`
       <figure class="scores-figure" id="${figId}">
         <a class="scores-figure__link" href="${objLink}" target="object-iframe" class="object-link">
-        <img class="scores-figure__class" src="${figImagePath}" alt="${figAlt}" />
+        <img class="scores-figure__class" src="${figImagePath}" alt="${figAlt}" data-outputs-include="html" />
+        <img class="scores-figure__class" src="${figPDFImagePath}" alt="${figAlt}" data-outputs-include="pdf,epub" />
         </a>
         ${anthologyLinks}
         <figcaption>

@@ -16,7 +16,7 @@ The primary content pieces of the book can be found in the `content` directory. 
 
 This project was last built with the following software versions:
 
-- Node 18.16.0
+- Node 18.20.5
 - Quire CLI 1.0.0-rc.11
 
 ### Branches
@@ -77,6 +77,9 @@ In addition to changes in `content/_assets/styles/custom.css` and `content/_asse
 **_layouts/base.11ty.js**
 Added Google Analytics 4
 
+**_includes/components/copyright/licensing.js**
+Updated language of `text-only` license to current Getty standard
+
 **_includes/components/figure/audio/element.js**
 **_includes/components/lightbox/slides.js**
 **_plugins/shortcodes/figure.js**
@@ -132,6 +135,12 @@ A custom layout based on `quire-entry` that adds figure thumbnails for lightbox 
 **_layouts/score-object-cards.liquid**
 A custom layout based on `score-object` but displays an array of filterable cards in the lightbox
 
+**_plugins/figures/iiif/config.js**
+**_plugins/figures/image/transformer.js**
+**_plugins/shortcodes/objFigure.js**
+**package.json**
+Allow for images to be transformed to single-channel bw
+
 **_plugins/shortcodes/contributors.js**
 Parse contributor info passed in as JSON string, for `score.liquid` layout
 
@@ -142,6 +151,9 @@ Added caption and class parameters that can be fed in from shortcode, and simpli
 **_plugins/shortcodes/objFigure.js**
 **_plugins/shortcodes/index.js**
 Add custom shortcodes for displaying figures/objects
+
+**_plugins/transforms/outputs/pdf/transform.js**
+Fixed transform that was converting external links to slugified anchor links
 
 **content/_assets/fonts/index.scss**
 **content/_assets/fonts/u001**

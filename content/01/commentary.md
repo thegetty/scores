@@ -52,9 +52,19 @@ The visuality of Feldman’s Greenbergian formalism could have philosophical sig
 
 Feldman’s creative method may have been allied with a metaphysical drive toward quiescence, but the surrounding social world was loud. During performances of avant-garde works like *Intersection 3*, audiences and critics could become irate at the loss of reliability, and at the looming threat of fraudulence, at the general threat of abstract techniques, technologies, and new forms of art eliminating traditionally expressive goals and any shared criteria for judging good from bad. Scores such as *Intersection 3* (alongside the occasional explanatory program note) confronted audiences and critics with a shocking emptiness: the impersonal yet idiosyncratic language of formalism. As a result, many people publicly debated what was left of the score’s normative boundaries. In the process, the thoughts expressed by these observers became much less perfunctory. Those with a conservative orientation toward music, such as the critic and musicologist Paul Henry Lang—who once described a 1960 concert by Tudor of avant-garde works as an “outrageous travesty”—could find themselves in an outright moral panic.[^9]
 
-This confrontational reception was far from an accidental by-product of Feldman’s notational experiments. In a letter to Tudor, Feldman describes his compositional thinking around *Intersection 3* in stark terms: he writes that it embodies an Artaud-like “blackness”—“like violently boiling water in some monstrous kettle” ([fig. 1.4](#fig-1-4)). If by “violently boiling water” Feldman is intentionally referring to the clamor he heard in Tudor’s legendary American premiere of Boulez’s wildly aggressive and dissonant *Second Sonata* (1948), one certainly hears echoes of it in *Intersection 3*. Like Boulez’s music, Feldman’s is impersonally formalized and disciplined, almost as if one is disciplining oneself into insanity. Maintaining those tensions—violence and impersonal order fused together in the form of a prestigious and sober event—captures a key theme of their aesthetic. It makes plain why Tudor was so important to the history of the midcentury avant-garde. His pianism kept the ship moving, and the legitimacy of his performances steadied it in a hurricane of norm-breaking. Composers, critics, and audiences came to trust him amid the chaos.
+<div data-outputs-exclude="html,epub">
 
 {% fig 'fig-1-4' %}
+
+</div>
+
+This confrontational reception was far from an accidental by-product of Feldman’s notational experiments. In a letter to Tudor, Feldman describes his compositional thinking around *Intersection 3* in stark terms: he writes that it embodies an Artaud-like “blackness”—“like violently boiling water in some monstrous kettle” ([fig. 1.4](#fig-1-4)). If by “violently boiling water” Feldman is intentionally referring to the clamor he heard in Tudor’s legendary American premiere of Boulez’s wildly aggressive and dissonant *Second Sonata* (1948), one certainly hears echoes of it in *Intersection 3*. Like Boulez’s music, Feldman’s is impersonally formalized and disciplined, almost as if one is disciplining oneself into insanity. Maintaining those tensions—violence and impersonal order fused together in the form of a prestigious and sober event—captures a key theme of their aesthetic. It makes plain why Tudor was so important to the history of the midcentury avant-garde. His pianism kept the ship moving, and the legitimacy of his performances steadied it in a hurricane of norm-breaking. Composers, critics, and audiences came to trust him amid the chaos.
+
+<div data-outputs-exclude="pdf">
+
+{% fig 'fig-1-4' %}
+
+</div>
 
 ## Notes {.notes-heading}
 

@@ -17,12 +17,9 @@ toc: false
 {% copyright %}
 
 First edition {{ publication.pub_date | date: "%Y" }}
-[{{ publication.repository_url | replace: "https://", "" }}]({{ publication.repository_url }})
+Any revisions or corrections made to this publication after the first edition date will be listed in detail in the project repository at [{{ publication.repository_url }}]({{ publication.repository_url }}). The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here.
 
 <div class="publisher">
-
-**Getty Research Institute Publications Program**
-Mary E. Miller, *Director, Getty Research Institute*
 
 {% for press in publication.publisher %}
 {{ press.address | markdownify }}
@@ -41,6 +38,10 @@ Mary E. Miller, *Director, Getty Research Institute*
 Distributed in the United States and Canada by the University of Chicago Press
 
 Distributed outside the United States and Canada by Yale University Press, London
+
+Type composed in U001
+
+Printed in China
 
 </div>
 <div class="cip-data">

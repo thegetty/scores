@@ -14,13 +14,13 @@
     padding-top: 1rem;
   }
   .quire::before {
-    content: "PROTOTYPE";
+    content: "UNCORRECTED";
     background-color: yellow;
     bottom: -115px;
     right: -115px;
   }
   .quire::after {
-    content: "";
+    content: "PROOF";
     bottom: -130px;
     right: -130px;
   }
@@ -77,6 +77,13 @@ body {
   font-weight: 400;
   text-transform: none;
 }
+@media screen {
+  .quire-page.quire-essay h2 {
+    margin-top: 2rem !important;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+  }
+}
 .quire-page__content .container .content a,
 .quire-page__content .container .content a:hover {
   color: black !important;
@@ -94,6 +101,9 @@ body {
   line-height: 1.3;
   letter-spacing: 0.02rem;
   -webkit-font-smoothing: antialiased;
+}
+.quire-page__header .hero-body .label::after {
+  content: ".";
 }
 /* Table of contents */
 .quire-contents-list .menu-list a {
@@ -666,6 +676,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   line-height: var(--small-font-line-height);
   margin-top: 2rem;
 }
+@media screen {
+  .quire-essay h2.notes-heading {
+    margin-left: 1em;
+  }
+}
 .quire-essay .quire-page__content .container .content .footnotes * {
   font-size: var(--small-font-size);
   line-height: var(--small-font-line-height);
@@ -686,6 +701,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   font-size: .8rem;
   line-height: var(--small-font-line-height);
 }
+.scores-figure figcaption .scores-figure__label {
+  margin-right: .5em;
+}
 .scores-figure-group > div {
   display: grid;
   grid-gap: 1rem;
@@ -693,11 +711,25 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .scores-figure-group .scores-figure {
   margin: 0 !important;
 }
+@media screen {
+  .scores-figure.scores-figure-group.shared-caption > div figcaption {
+    display: none;
+  }
+}
 .scores-figure-group-grid--2 > div {
   grid-template-columns: 1fr 1fr;
 }
 .scores-figure-group-grid--3 > div {
   grid-template-columns: 1fr 1fr;
+}
+.scores-figure-group.scores-figure-group-grid--1 > div {
+  display: block;
+}
+.scores-figure-group.scores-figure-group-grid--1.shared-caption > div .scores-figure:not(:last-child) {
+  margin-bottom: .5rem !important;
+}
+.scores-figure-group.scores-figure-group-grid--1.shared-caption > div .scores-figure figcaption {
+  display: none;
 }
 
 /* Style for special page links that appear below An Anthology figures in chapter 5 and 7 commentaries */
@@ -764,9 +796,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   padding: 0;
   line-height: inherit;
 }
-.scores-copyright-page .copyright__publisher-logo, 
-.scores-copyright-page .quire-copyright__icon__link {
+.scores-copyright-page .copyright__publisher-logo {
   display: none;
+}
+.scores-copyright-page .quire-copyright__icon__link svg {
+  margin-right: -.25rem;
 }
 .scores-copyright-page .quire-page__content .container .content .publisher {
   margin-bottom: 1rem;
@@ -790,10 +824,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-bottom: 0;
 }
 .scores-copyright-page .quire-page__content .container .content .cip-data ul {
-  margin-left: 1.5em;
+  margin-left: 0;
 }
-.scores-copyright-page .quire-page__content .container .content .cip-data ul li {
-  text-indent: -1.5em;
+.scores-copyright-page .quire-page__content .container .content .cip-data ul li p {
+  text-indent: -1rem;
+  padding-left: 1rem;
 }
 
 /* BACKMATTER PAGES
@@ -831,7 +866,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   break-inside: avoid;
 }
 
-/* IMAGE INDEX
+/* OBJECT INDEX
 ============================================================================= */
 .objects-page .quire-navbar,
 .quire:not(.no-js).objects-page .quire__primary main  {
@@ -1377,11 +1412,14 @@ body.iframe-version #quire-entry-view-toggle {
 /* PRINT
 ============================================================================= */
 @media print {
-  body {
-    /* letter-spacing: .1pt !important; */
+  body,
+  .quire-page h1,
+  .quire-page h2,
+  .quire-page h3,
+  .quire-page h4,
+  .quire-page h5,
+  .quire-page h6 {
     letter-spacing: .05pt !important;
-    /* letter-spacing: 0 !important; */
-
   }
   strong {
     font-weight: 400 !important;
@@ -1400,7 +1438,12 @@ body.iframe-version #quire-entry-view-toggle {
   .quire-essay .quire-page__content .container .content p,
   .quire-essay .quire-page__content .container .content * {
     line-height: 1.4;
-    word-spacing: -.15rem;
+  }
+  .quire-essay .quire-page__content .container .content p {
+    word-spacing: -.15rem; 
+  }
+  .quire-essay .quire-page__content .container .content figcaption {
+    word-spacing: -0.05rem;
   }
   .quire-essay .quire-page__content .container .content sup,
   .quire-essay .quire-page__content .container .content sup a {
@@ -1411,13 +1454,8 @@ body.iframe-version #quire-entry-view-toggle {
     margin: 0;
   }
   .hero-body {
-    height: 1.25in;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: space-between; */
+    height: 9.8rem;
     text-align: left;
-    /* margin-left: 0.4375in;
-    margin-bottom: 0.25in; */
     padding: 0 !important;
   }
   .hero-body .quire-page h1,
@@ -1427,6 +1465,7 @@ body.iframe-version #quire-entry-view-toggle {
   }
   .hero-body .quire-page__header__title {
     width: 1.875in;
+    /* width: 2.6958in; This makes them the same width as the titles in the TOC, but I don't think they look as good */
   }
   .hero-body .quire-page__header__contributor {
     font-style: normal;
@@ -1456,9 +1495,13 @@ body.iframe-version #quire-entry-view-toggle {
   .quire-page h2 {
     margin-left: 0.4375in;
   }
+  .quire-page h2.notes-heading {
+    margin-left: 1.5em;
+  }
+  /* When margins add up to multiples of the line height, the bsaeline of the lines to follow will line up with the baseline on the reverse page */
   .quire-page__content .content h2 {
     margin-bottom: 1rem;
-    margin-top: 2rem;
+    margin-top: 1.8rem;
   }
   /* Figures */
   .content figure.scores-figure {
@@ -1473,12 +1516,12 @@ body.iframe-version #quire-entry-view-toggle {
     flex-direction: column;
   }
   .content figure.scores-figure img {
-    filter: grayscale(100%);
     max-width: 100%;
     max-height: 4.25in;
   }
+  .content figure.scores-figure figcaption,
   .content figure.scores-figure figcaption .scores-figure__link {
-    margin-top: .25rem;
+    margin-top: 2pt;
     display: block;
   }
   .content figure.scores-figure.scores-figure-group {
@@ -1512,33 +1555,30 @@ body.iframe-version #quire-entry-view-toggle {
   .content .scores-figure-group.pdf-grid-of-4  figcaption {
     flex-direction: column-reverse;
   }
-  .content .scores-figure-group.pdf-grid-of-4-over-two-pages > figcaption {
-    display: none;
-  }
-  .scores-figure-group.scores-figure-group-grid--2.pdf-grid-of-4-over-two-pages .scores-figure:nth-child(-n+4) {
-    margin-top: 0 !important;
-  }
   .scores-figure-group > figcaption {
     margin-top: 0;
   }
-  .scores-figure-group.scores-figure-group-grid--2 .scores-figure,
-  .scores-figure-group.scores-figure-group-grid--3 .scores-figure,
-  .scores-figure-group.scores-figure-group-grid--2 > figcaption div:last-child a,
-  .scores-figure-group.scores-figure-group-grid--3 > figcaption div:last-child a {
+  .scores-figure-group.scores-figure-group-grid--1 div figure:first-child {
+    margin-bottom: .25rem !important;
+  }
+  .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) .scores-figure,
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) .scores-figure,
+  .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) > figcaption div:last-child a,
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) > figcaption div:last-child a {
     width: calc(50% - 0.4rem);
     display: inline-block;
     margin-top: 1rem !important;
   }
-  .scores-figure-group.scores-figure-group-grid--2 .scores-figure:nth-child(-n+2),
-  .scores-figure-group.scores-figure-group-grid--3 .scores-figure:nth-child(-n+2),
-  .scores-figure-group.scores-figure-group-grid--2 > figcaption div:last-child a:nth-child(-n+2),
-  .scores-figure-group.scores-figure-group-grid--3 > figcaption div:last-child a:nth-child(-n+2)  {
+  .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) .scores-figure:nth-child(-n+2),
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) .scores-figure:nth-child(-n+2),
+  .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) > figcaption div:last-child a:nth-child(-n+2),
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) > figcaption div:last-child a:nth-child(-n+2)  {
     margin-top: 0 !important;
   }
-  .scores-figure-group.scores-figure-group-grid--2 .scores-figure:nth-child(odd),
-  .scores-figure-group.scores-figure-group-grid--3 .scores-figure:nth-child(odd), 
-  .scores-figure-group.scores-figure-group-grid--2 > figcaption div:last-child a:nth-child(odd),
-  .scores-figure-group.scores-figure-group-grid--3 > figcaption div:last-child a:nth-child(odd) {
+  .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) .scores-figure:nth-child(odd),
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) .scores-figure:nth-child(odd), 
+  .scores-figure-group.scores-figure-group-grid--2:not(.pdf-full-page) > figcaption div:last-child a:nth-child(odd),
+  .scores-figure-group.scores-figure-group-grid--3:not(.pdf-full-page) > figcaption div:last-child a:nth-child(odd) {
     margin-right: 0.75rem !important;
   }
   .content .scores-figure-group figure.scores-figure img {
@@ -1546,7 +1586,7 @@ body.iframe-version #quire-entry-view-toggle {
   }
   /* Blockquotes */
   .quire-essay .quire-page__content .container .content blockquote {
-    margin: 1rem 0 1rem 0.4375in;
+    margin: .7rem 0 .7rem 0.4375in;
   }
   .quire-essay .quire-page__content .container .content blockquote p {
     text-indent: 0;
@@ -1613,7 +1653,6 @@ body.iframe-version #quire-entry-view-toggle {
   }
   .quire-entry .quire-entry__image-wrap .q-figure img {
     height: auto !important;
-    filter: grayscale(100%);
     width: 60%;
   }
   .quire-entry .quire-page__content .container .content p.object-credit {
@@ -1672,8 +1711,7 @@ body.iframe-version #quire-entry-view-toggle {
   .scores-title-page .scores-contributor {
     margin-top: 1rem;
   }
-  .scores-copyright-page .quire-page__header,
-  #page-pdf-epub-contents .quire-page__header {
+  .scores-copyright-page .quire-page__header {
     display: none;
   }
   #page-pdf-epub-contents .quire-page__content .container .content {
@@ -1685,6 +1723,9 @@ body.iframe-version #quire-entry-view-toggle {
   #page-pdf-epub-contents .quire-page__content .container .content ul li {
     margin-bottom: 0;
     margin-left: 0;
+  }
+  #page-pdf-epub-contents .quire-page__content .container .content > ul > li {
+    margin-bottom: 1rem;
   }
   #page-pdf-epub-contents .quire-page__content .container .content ul li::before {
     content: "";
@@ -1731,12 +1772,14 @@ body.iframe-version #quire-entry-view-toggle {
   }
 }
 
-/* PDF running feet */ 
+/* PDF running feet */
 @media print {
   .pdf-footers__verso,
-  .pdf-footers__recto {
+  .pdf-footers__recto,
+  .pdf-footers__url {
     font-family: inherit;
     font-size: inherit;
+    word-spacing: -0.15rem;
   }
   .pdf-footers__verso {
     flow: static(pageverso);
@@ -1745,6 +1788,21 @@ body.iframe-version #quire-entry-view-toggle {
   .pdf-footers__recto {
     flow: static(pagerecto);
     text-align: left;
+  }
+  .pdf-footers__url {
+    flow: static(pageurl);
+    text-align: left;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: -28pt;
+  }
+  .pdf-footers__url::before {
+    content: "................"; /* 16 at 1.5em == 2x large indent */
+    position: absolute;
+    top: -17pt;
+    left: -1pt;
+    font-size: 1.5em;
   }
   @page :left {
     @bottom-right {
@@ -1756,13 +1814,18 @@ body.iframe-version #quire-entry-view-toggle {
       content: flow(pagerecto);
     }
   }
-  @page :first {
-    @bottom-right {
-      content: none;
-    }
+  /* This makes for a shorter text area on the first page in order to give some space between the text and URL */
+  @page essay :right:first {
+    margin-bottom: 40pt;
     @bottom-left {
-      content: none;
+      content: flow(pageurl);
     }
+    @bottom-right {
+      margin-top: 4pt;
+    }
+  }
+  .quire-essay {
+    page: essay;
   }
   @page no-footer {
     @bottom-right {
@@ -1771,5 +1834,32 @@ body.iframe-version #quire-entry-view-toggle {
     @bottom-left {
       content: none;
     }
+  }
+  @page backmatter :right:first {
+    @bottom-left {
+      content: none;
+    }
+  }
+  @page backmatter :left:first {
+    @bottom-right {
+      content: none;
+    }
+  }
+  @page frontmatter :right:first {
+    @bottom-left {
+      content: none;
+    }
+  }
+  .quire-page.scores-acknowledgments-page,
+  .quire-page.scores-contributors-page {
+    page: backmatter;
+  }
+  .quire-page.frontmatter .pdf-footers__url,
+  .quire-page.scores-acknowledgments-page .pdf-footers__url,
+  .quire-page.scores-contributors-page .pdf-footers__url {
+    display: none;
+  }
+  .quire-essay {
+    page-break-before: right;
   }
 }

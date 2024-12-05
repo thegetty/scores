@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://third-pages--scores-project.netlify.app'
+url: 'https://final-pages--scores-project.netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -22,7 +22,7 @@ short_title:
 description:
   one_line: A unique digital compilation of experimental scores, audiovisual materials, and source documents from the postwar avant-gardes, interpreted by experts on art, music, dance, and poetry.
   full: Artists working in and across the fields of visual art, music, poetry, theater, and dance at midcentury began to use experimental scores in ways that revolutionized artistic practice and opened up new forms of interdisciplinary collaboration. Their experimental practices—associated with the neo-avant-garde, neo-Dadaism, intermedia, Fluxus, and postmodernism—exploded in notoriety during the 1960s in locales from New York to Europe, East Asia, and Latin America, becoming foundational to global trends in contemporary art and performance. *The Scores Project* is a unique digital publication that provides a comprehensive view of this historical moment through a series of experimental scores and complete edition of the groundbreaking *An Anthology of Chance Operations* (1963). The featured scores by John Cage, George Brecht, Sylvano Bussotti, Morton Feldman, Allan Kaprow, Alison Knowles, Jackson Mac Low, Benjamin Patterson, Yvonne Rainer, Mieko Shiomi, David Tudor, and La Monte Young include expert commentaries from an interdisciplinary team of scholars and are accompanied by a digitized archive of over 2,000 ephemera and audiovisual materials. Ambitious, provocative, and playful, *The Scores Project* fosters a renewed sense of wonder at this innovative and historically complex moment in the history of art.
-  online_edition: The free online edition of this open-access publication is available at [getty.edu/publications/scores/](https://www.getty.edu/publications/scores/) and includes video, audio, and more than 2,000 zoomable illustrations. Free PDF and EPUB downloads of the book are also available.
+  online_edition: The free online edition of this open-access publication is available at [getty.edu/publications/scores/](https://www.getty.edu/publications/scores/) and includes video, audio, and zoomable illustrations. Free PDF and EPUB downloads of the book are also available.
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -125,7 +125,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2025 Getty Research Institute
+copyright: © 2025 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution-NonCommercial 4.0 International License
@@ -181,14 +181,22 @@ subject:
     name: ART / Performance
     identifer: ART060000
 
+# The line spacing in the CIP data below is necessary so that list formats with <p> tags inside the <li> 
+# to enable proper styling in PDF output in PrinceXML, I don't know why
 library_of_congress_cip: |
   **Library of Congress Cataloging-in-Publication Data**
-  - Names:
-  - Title: 
-  - Description:  
-  - Identifiers:  
-  - Subjects: 
-  - Classification: 
+
+  - Names: Gallope, Michael, editor. | Harren, Natilee, editor. | Hicks, John (John Andrew), editor. | Getty Research Institute, issuing body. 
+  
+  - Title: The scores project : essays on experimental notation in music, art, poetry, and dance, 1950–1975 / edited by Michael Gallope, Natilee Harren, and John Hicks. 
+  
+  - Description: Los Angeles : Getty Research Institute, [2025] | Includes bibliographical references. | Summary: “A collection of essays examining experimental scores and source documents from the postwar avant-gardes, interpreted by experts on art, music, dance, and poetry”— Provided by publisher. 
+  
+  - Identifiers: LCCN 2024032747 | ISBN 9781606069332 (paperback) | ISBN 9781606069356 (pdf) | ISBN 9781606069349 (epub) 
+  
+  - Subjects: LCSH: Avant-garde (Aesthetics)—History—20th century. | Arts—Experimental methods—History—20th century. | Performance art—History—20th century. | Musical notation—History—20th century. | Movement notation—History—20th century.
+  
+  - Classification: LCC NX458 .S37 2025 | DDC 700/.41109045—dc23/eng/20240926 LC record available at https://lccn.loc.gov/2024032747
 
 # ------------------------------------------------------------------------------
 # Revision History

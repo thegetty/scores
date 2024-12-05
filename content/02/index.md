@@ -1,7 +1,7 @@
 ---
 label: 2
 title: John Cage
-subtitle: "*Concert for Piano and Orchestra* (1968)"
+subtitle: "*Concert for Piano and Orchestra* (1958)"
 order: 20
 outputs: 
   - html

@@ -30,7 +30,7 @@ outputs:
     </ul>
   </li>
   <li>
-    <a href="#03-commentary"><span class="ch-number">3. </span><span class="ch-title">Sylvano Bussotti: <em>Five Piano Pieces for David Tudor</em> (1959)</span></a>
+    <a href="#03-commentary"><span class="ch-number">3. </span><span class="ch-title">Sylvano Bussotti: <em>Five Piano Pieces for David&nbsp;Tudor</em> (1959)</span></a>
     <ul>
       <li>Michael Gallope</li>
     </ul>
@@ -42,7 +42,7 @@ outputs:
     </ul>
   </li>
   <li>
-    <a href="#05-commentary"><span class="ch-number">5. </span><span class="ch-title">La Monte Young, Jackson Mac Low, and George Maciunas: <em>An Anthology of Chance Operations</em> (1962–63)</span></a>
+    <a href="#05-commentary"><span class="ch-number">5. </span><span class="ch-title">La Monte Young, ed.: <em>An Anthology of Chance Operations</em> (1962–63)</span></a>
     <ul>
       <li>Benjamin Piekut</li>
     </ul>

@@ -95,6 +95,8 @@ module.exports = function(eleventyConfig) {
 
     const pdfRecto = pagePDFFeetRecto ? markdownify(pagePDFFeetRecto) : ''
 
+    const pdfURL = key ? `getty.edu/publications/scores/${key.replace(/\/commentary/g,'')}/` : ''
+
     if (checkPagePDF(pdfConfig,outputs,pagePDFOutput)) {
       const text = pdfConfig.pagePDF.accessLinks.find((al) => al.header === true).label
       const href = path.join(pdfConfig.outputDir, `${pdfConfig.filename}-${slugify(key)}.pdf`)
@@ -116,6 +118,7 @@ module.exports = function(eleventyConfig) {
           ${downloadLink}
           <span class="pdf-footers__verso" data-outputs-exclude="epub,html">${markdownify(shortTitle || title)}</span>
           <span class="pdf-footers__recto" data-outputs-exclude="epub,html">${pdfRecto}</span>
+          <span class="pdf-footers__url" data-outputs-exclude="epub,html">${pdfURL}</span>
         </div>
       </section>
       ${imageElement}

@@ -3,6 +3,7 @@ title: Acknowledgments
 layout: page
 order: 20020
 classes:
+  - backmatter-page
   - scores-acknowledgments-page
 ---
 

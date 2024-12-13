@@ -40,7 +40,7 @@
 
   --toc-indent-unit: 1.5rem;
 
-  --accent-color: #bbd1af;
+  --accent-color: #adcab8;
 }
 @media screen and (min-width: 700px) {
   :root {
@@ -89,6 +89,41 @@ body {
   color: black !important;
   border-bottom-width: 0 !important;
 }
+
+@media screen {
+/* Add arrow icon to select links 
+  Icon: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:north_east:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=arrow&icon.size=24&icon.color=%235f6368 
+  Encoder: https://yoksel.github.io/url-encoder/ */
+  .quire-page.quire-essay .quire-page__header a.quire-download__link::after,
+  .quire-page.quire-entry .quire-entry__tombstone a::after,
+  .quire-page:not(.scores-copyright-page) .quire-page__content .container .content a:not(.object-link, .footnote-ref-anchor, .footnote-backref, .scores-figure__link, [href^='#fig'])::after {
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='%23000'%3E%3Cpath d='M215.52-152.35 151.87-216l460.89-460.89H356.41v-91h411v411h-91v-256.35L215.52-152.35Z'/%3E%3C/svg%3E");
+    position: relative;
+    top: 5px;
+    left: 2px;
+    margin-right: 2px;
+  }
+  /* Remove arrow icon in some instances */
+  .quire-page .quire-page__content .container .content .iframe_viewer__nav-buttons a::after,
+  .quire-page .quire-page__content .container .content .iframe_viewer__controls a::after,
+  .quire-page .quire-page__content .container .content .score-section__link a::after {
+    content: none;
+  }
+  /* Use smaller arrow icon in footnotes 
+    Icon: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:north_east:FILL@0;wght@400;GRAD@0;opsz@20&icon.query=arrow&icon.size=16&icon.color=%235f6368 */
+  .quire-page .quire-page__content .container .content .footnotes a:not(.footnote-backref)::after {
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='20px' viewBox='0 -960 960 960' width='20px' fill='%235f6368'%3E%3Cpath d='m243-192-51-51 429-429H384v-72h360v360h-72v-237L243-192Z'/%3E%3C/svg%3E");
+    top: 4px;
+    left: 0;
+    margin-right: 1px;
+  }
+  /* Use white arrow icon on object pages */
+  .quire-page.quire-entry .quire-entry__tombstone a::after,
+  .quire-page.quire-entry .quire-page__content .container .content a::after {
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='%23fff'%3E%3Cpath d='m216-160-56-56 464-464H360v-80h400v400h-80v-264L216-160Z'/%3E%3C/svg%3E") !important;
+  }
+}
+
 .quire-page__content .container .content ul, 
 .quire-page__content .container .content ul li {
   margin-top: 0;
@@ -830,9 +865,38 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   text-indent: -1rem;
   padding-left: 1rem;
 }
+@media screen {
+  .scores-copyright-page .quire-page__content .container .content p {
+    text-indent: 0;
+  }
+
+  .scores-copyright-page .quire-page__content .container .content h2 {
+    margin-top: 2.5rem;
+  }
+  .scores-copyright-page .quire-page__content .container .content h3 {
+    margin-bottom: 0;
+  }
+  .scores-copyright-page .quire-page__content .container .content .colophon p,
+  .scores-copyright-page .quire-page__content .container .content .copyright p, 
+  .scores-copyright-page .quire-page__content .container .content .pub-info p {
+    margin-bottom: 1rem;
+  }
+}
 
 /* BACKMATTER PAGES
 ============================================================================= */
+@media screen {
+  .quire-page.backmatter-page .quire-page__content .container .content {
+    padding: 0;
+    margin: 0 auto;
+    max-width: 36rem;
+    line-height: 1.3;
+    margin-bottom: 4rem;
+  }
+  .quire-page.backmatter-page .quire-page__content .container .content p {
+    line-height: 1.3;
+  }
+}
 .scores-pdf-about-page .quire-page__content .container .content,
 .scores-acknowledgments-page .quire-page__content .container .content,
 .scores-contributors-page .quire-page__content .container .content {

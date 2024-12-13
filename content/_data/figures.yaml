@@ -14876,7 +14876,7 @@ figure_list:
     id: "fig-348"
     src: 
     zoom: true
-    poster: 
+    poster: figures/sequences/348/WaterYam_076.jpg
     media_type: 
     media_id: 
     label: ""
@@ -19676,10 +19676,10 @@ figure_list:
     id: "fig-525-a"
     src: 
     zoom: true
-    poster: 
+    poster: figures/sequences/525/SpatialPoem_001.jpg
     media_type: 
     media_id: 
-    label: ""
+    label: "360°"
     alt: ""
     sequences:
       - id: "figures/sequences/525/"
@@ -19695,7 +19695,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Main"
     alt: ""
 -
     id: "fig-526"
@@ -19710,7 +19710,7 @@ figure_list:
     id: "fig-527-a"
     src: 
     zoom: true
-    poster: 
+    poster: figures/sequences/527/gri_890164_b223_001_mm.jpg
     media_type: 
     media_id: 
     label: ""
@@ -19745,7 +19745,7 @@ figure_list:
     id: "fig-529"
     src: 
     zoom: true
-    poster: 
+    poster: figures/sequences/529/r2014928_890164_b219_001.jpg
     media_type: 
     media_id: 
     label: ""
@@ -20539,7 +20539,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "1"
     alt: "Photocopy of white paper with black handwritten text in English addressed “Dear George” at top left, followed by one paragraph that spans the length of the page. Paginated 1 at top left."
 -
     id: "fig-534-b"
@@ -20548,7 +20548,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "2"
     alt: "Photocopy of white paper with black handwritten text in English. One wide column of text spans the length of the page. Paginated 2 at top left."
 -
     id: "fig-534-c"
@@ -20557,7 +20557,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "3"
     alt: "Photocopy of white paper with black handwritten text in English. One wide column of text spans the length of the page. Paginated 3 at top left."
 -
     id: "fig-534-d"
@@ -20566,7 +20566,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "4"
     alt: "Photocopy of white paper with black handwritten text in English. One wide column of text spans the length of the page. Paginated 4 at top left."
 -
     id: "fig-534-e"
@@ -20575,7 +20575,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "5"
     alt: "Photocopy of white paper with black handwritten text in English. One wide column of text covers top third of page, signed “love Chieko” below body text, aligned right. Paginated 5 at top left."
 -
     id: "fig-535-a"
@@ -20773,7 +20773,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Front"
     alt: ""
 -
     id: "fig-545-b"
@@ -20782,7 +20782,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Back"
     alt: "Recto, Postcard to George Maciunas from Mieko Shiomi. Handwritten sender and recipient addresses on top half along with postage stamps in English and Japanese. Bottom half contains a handwritten note consisting of three short paragraphs. Verso, Postcard with color photograph of Buddhist temple featuring kondo on left and pagoda on right, framed by a clear blue sky."
 -
     id: "fig-546"

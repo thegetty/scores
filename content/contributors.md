@@ -1,8 +1,9 @@
 ---
 title: Contributors
-layout: page
+layout: essay
 order: 20010
 classes:
+  - backmatter-page
   - scores-contributors-page
 ---
 

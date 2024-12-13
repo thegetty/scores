@@ -60,7 +60,11 @@ Entry content, including entry image and tombstone data
         {%- if thisFig.id == figure.id -%}
           <a class="ref thumbnail{% if firstThumb == true %} current-thumbnail{%- endif -%}" data-annotation-ids="" data-figure-id="{{ figure.id }}">
           <figure>
+          {%- if figure.poster -%}
+          <img src="/_assets/images/{{ figure.poster }}" alt="thumb">
+          {%- else -%}
           <img src="/iiif/{{ figure.id }}/{{ figure.src | replace: "figures/", "" | replace: ".jpg", "/thumbnail.jpg" }}" alt="thumb">
+          {%- endif -%}
           <figcaption>{{ figure.label }}</figcaption>
           </figure>
           </a>

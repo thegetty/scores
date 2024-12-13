@@ -1,4 +1,5 @@
 object_filters:
+  - maker
   - people
   - more_people
   - field: year_filter

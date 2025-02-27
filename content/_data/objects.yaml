@@ -4830,7 +4830,6 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
     extended_caption: ""
     credit: "Remy Charlip Estate."
-    related_objects: [ id: "286" ]
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-277" ]
@@ -4992,7 +4991,6 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
     extended_caption: ""
     credit: "Remy Charlip Estate."
-    related_objects: [ id: "277" ]
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-286-a", id: "fig-286-b" ]
@@ -5568,7 +5566,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-318-a", id: "fig-318-b" ]
-    [ id: "315", id: "316", id: "317", id: "314", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
+    related_objects: [ id: "315", id: "316", id: "317", id: "314", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "319"
     old_id: "5.27f"
@@ -5586,7 +5584,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-319-a", id: "fig-319-b" ]
-    [ id: "315", id: "316", id: "317", id: "318", id: "314", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
+    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "314", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "320"
     old_id: "5.27g"
@@ -6717,7 +6715,7 @@ object_list:
     type: [ score ]
     figure: [ id: "fig-380" ]
     related_objects: [ id: "397", id: "400", id: "375", id: "374", id: "376", id: "378", id: "379", id: "396", id: "381", id: "391", id: "345", id: "349", id: "262", id: "402", id: "384", id: "348", id: "401", id: "377", id: "346", id: "362", id: "387" ]
-
+-
     id: "381"
     old_id: "6.31"
     maker: [ "George Brecht (American, 1926–2008)" ]

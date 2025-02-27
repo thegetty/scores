@@ -139,6 +139,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-007" ]
+    related_objects: [ id: "379", id: "249", id: "391", id: "384", id: "378", id: "262", id: "390", id: "385", id: "386", id: "389" ]
 -
     id: "008"
     old_id: "0.08"
@@ -156,6 +157,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-008-a", id: "fig-008-b" ]
+    related_objects: [ id: "266" ]
 -
     id: "009"
     old_id: "0.09"
@@ -1043,6 +1045,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-060-a", id: "fig-060-b", id: "fig-060-c", id: "fig-060-d", id: "fig-060-e", id: "fig-060-f", id: "fig-060-g", id: "fig-060-h", id: "fig-060-i", id: "fig-060-j", id: "fig-060-k", id: "fig-060-l", id: "fig-060-m", id: "fig-060-n", id: "fig-060-o", id: "fig-060-p", id: "fig-060-q", id: "fig-060-r", id: "fig-060-s", id: "fig-060-t", id: "fig-060-u", id: "fig-060-v", id: "fig-060-w", id: "fig-060-x", id: "fig-060-y", id: "fig-060-z", id: "fig-060-aa", id: "fig-060-ab", id: "fig-060-ac", id: "fig-060-ad", id: "fig-060-ae", id: "fig-060-af", id: "fig-060-ag", id: "fig-060-ah", id: "fig-060-ai", id: "fig-060-aj", id: "fig-060-ak", id: "fig-060-al", id: "fig-060-am", id: "fig-060-an", id: "fig-060-ao", id: "fig-060-ap", id: "fig-060-aq", id: "fig-060-ar", id: "fig-060-as", id: "fig-060-at", id: "fig-060-au", id: "fig-060-av", id: "fig-060-aw", id: "fig-060-ax", id: "fig-060-ay", id: "fig-060-az", id: "fig-060-ba", id: "fig-060-bb", id: "fig-060-bc", id: "fig-060-bd", id: "fig-060-be", id: "fig-060-bf", id: "fig-060-bg", id: "fig-060-bh", id: "fig-060-bi", id: "fig-060-bj", id: "fig-060-bk", id: "fig-060-bl", id: "fig-060-bm", id: "fig-060-bn", id: "fig-060-bo", id: "fig-060-bp", id: "fig-060-bq", id: "fig-060-br", id: "fig-060-bs", id: "fig-060-bt" ]
+    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "314", id: "154", id: "343" ]
 -
     id: "061"
     old_id: "2.01b"
@@ -2303,6 +2306,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-133" ]
+    related_objects: [ id: "520", id: "528", id: "552", id: "343" ]
 -
     id: "134"
     old_id: "2.20"
@@ -2660,6 +2664,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-154-a", id: "fig-154-b", id: "fig-154-c", id: "fig-154-d", id: "fig-154-e", id: "fig-154-f", id: "fig-154-g", id: "fig-154-h", id: "fig-154-i", id: "fig-154-j", id: "fig-154-k", id: "fig-154-l", id: "fig-154-m", id: "fig-154-n", id: "fig-154-o", id: "fig-154-p" ]
+    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "314", id: "343" ]
 -
     id: "155"
     old_id: "3.02"
@@ -2742,10 +2747,10 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3"
     extended_caption: "David Tudor’s copy of Sylvano Bussotti’s score contains spare but important pencil annotations that reveal key choices of his in developing realizations of the score."
     credit: "Used by permission of Hal Leonard."
-    related_objects: [ id: "165", id: "166" ]
     featured: 
     type: [ score ]
     figure: [ id: "fig-159-a", id: "fig-159-b", id: "fig-159-c", id: "fig-159-d", id: "fig-159-e", id: "fig-159-f", id: "fig-159-g", id: "fig-159-h", id: "fig-159-i", id: "fig-159-j", id: "fig-159-k", id: "fig-159-l", id: "fig-159-m", id: "fig-159-n", id: "fig-159-o", id: "fig-159-p", id: "fig-159-q", id: "fig-159-r", id: "fig-159-s", id: "fig-159-t", id: "fig-159-u", id: "fig-159-v", id: "fig-159-w", id: "fig-159-x", id: "fig-159-y", id: "fig-159-z", id: "fig-159-aa", id: "fig-159-ab", id: "fig-159-ac", id: "fig-159-ad", id: "fig-159-ae", id: "fig-159-af", id: "fig-159-ag", id: "fig-159-ah", id: "fig-159-ai", id: "fig-159-aj", id: "fig-159-ak", id: "fig-159-al", id: "fig-159-am", id: "fig-159-an", id: "fig-159-ao", id: "fig-159-ap", id: "fig-159-aq", id: "fig-159-ar", id: "fig-159-as", id: "fig-159-at", id: "fig-159-au", id: "fig-159-av", id: "fig-159-aw", id: "fig-159-ax", id: "fig-159-ay", id: "fig-159-az", id: "fig-159-ba", id: "fig-159-bb", id: "fig-159-bc", id: "fig-159-bd", id: "fig-159-be", id: "fig-159-bf", id: "fig-159-bg" ]
+    related_objects: [ id: "165", id: "166" ]
 -
     id: "160"
     old_id: "3.06"
@@ -2845,10 +2850,10 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3"
     extended_caption: "These are the broader performance notes for the entirety of *Pièces de chair II*. Page one shows the way the larger work contains *Piano Pieces for David Tudor* nested inside the larger cycle. They are distributed throughout the cycle, placed out of order, while also being prominently featured: *No. 5* opens the cycle, and *No. 4* serves as the finale."
     credit: "Used by permission of Hal Leonard."
-    related_objects: [ id: "159", id: "166" ]
     featured: 
     type: [ score ]
     figure: [ id: "fig-165-a", id: "fig-165-b", id: "fig-165-c", id: "fig-165-d", id: "fig-165-e", id: "fig-165-f", id: "fig-165-g", id: "fig-165-h", id: "fig-165-i", id: "fig-165-j", id: "fig-165-k", id: "fig-165-l", id: "fig-165-m" ]
+    related_objects: [ id: "159", id: "166" ]
 -
     id: "166"
     old_id: "3.11a"
@@ -2863,10 +2868,10 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: "This diagram shows a 1961 “postscript” version of *Pièces de chair II* (1958–60) that reworks elements of the original cycle."
     credit: "Used by permission of Hal Leonard."
-    related_objects: [ id: "159", id: "165" ]
     featured: 
     type: [ score ]
     figure: [ id: "fig-166" ]
+    related_objects: [ id: "159", id: "165" ]
 -
     id: "167"
     old_id: "3.11b"
@@ -3463,6 +3468,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-201-a", id: "fig-201-b" ]
+    related_objects: [ id: "341", id: "362", id: "226", id: "214", id: "216" ]
 -
     id: "202"
     old_id: "4.06"
@@ -3582,6 +3588,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-208" ]
+    related_objects: [ id: "214", id: "217" ]
 -
     id: "209"
     old_id: "4.10d"
@@ -3651,6 +3658,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-212-a", id: "fig-212-b" ]
+    related_objects: [ id: "224", id: "213" ]
 -
     id: "213"
     old_id: "4.13b"
@@ -3668,6 +3676,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-213-a", id: "fig-213-b", id: "fig-213-c", id: "fig-213-d", id: "fig-213-e" ]
+    related_objects: [ id: "224", id: "212" ]
 -
     id: "214"
     old_id: "4.13c"
@@ -3685,6 +3694,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-214" ]
+    related_objects: [ id: "217", id: "356", id: "341", id: "362", id: "226", id: "216", id: "201", id: "208", id: "225" ]
 -
     id: "215"
     old_id: "4.13d"
@@ -3719,6 +3729,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-216-a", id: "fig-216-b", id: "fig-216-c" ]
+    related_objects: [ id: "341", id: "362", id: "226", id: "214", id: "201" ]
 -
     id: "217"
     old_id: "4.13f"
@@ -3736,7 +3747,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-217" ]
-    related_objects: [ id: "232" ]
+    related_objects: [ id: "232", id: "356", id: "214", id: "225", id: "208" ]
 -
     id: "218"
     old_id: "4.14"
@@ -3856,6 +3867,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-224" ]
+    related_objects: [ id: "212", id: "213" ]
 -
     id: "225"
     old_id: "4.19"
@@ -3873,6 +3885,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-225-a", id: "fig-225-b" ]
+    related_objects: [ id: "214", id: "217" ]
 -
     id: "226"
     old_id: "4.20a"
@@ -3890,6 +3903,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-226-a", id: "fig-226-b", id: "fig-226-c", id: "fig-226-d", id: "fig-226-e", id: "fig-226-f", id: "fig-226-g", id: "fig-226-h", id: "fig-226-i", id: "fig-226-j" ]
+    related_objects: [ id: "341", id: "362", id: "214", id: "216", id: "201" ]
 -
     id: "227"
     old_id: "4.20b"
@@ -3994,7 +4008,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-232-a", id: "fig-232-b" ]
-    related_objects: [ id: "217", id: "236" ]
+    related_objects: [ id: "217", id: "236", id: "356" ]
 -
     id: "233"
     old_id: "4.24c"
@@ -4099,6 +4113,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-238-a", id: "fig-238-b", id: "fig-238-c", id: "fig-238-d", id: "fig-238-e", id: "fig-238-f", id: "fig-238-g", id: "fig-238-h", id: "fig-238-i", id: "fig-238-j", id: "fig-238-k", id: "fig-238-l", id: "fig-238-m", id: "fig-238-n", id: "fig-238-o", id: "fig-238-p", id: "fig-238-q", id: "fig-238-r", id: "fig-238-s", id: "fig-238-t", id: "fig-238-u", id: "fig-238-v", id: "fig-238-w", id: "fig-238-x", id: "fig-238-y", id: "fig-238-z", id: "fig-238-aa", id: "fig-238-ab", id: "fig-238-ac", id: "fig-238-ad", id: "fig-238-ae", id: "fig-238-af", id: "fig-238-ag", id: "fig-238-ah", id: "fig-238-ai", id: "fig-238-aj", id: "fig-238-ak", id: "fig-238-al", id: "fig-238-am", id: "fig-238-an", id: "fig-238-ao", id: "fig-238-ap", id: "fig-238-aq", id: "fig-238-ar", id: "fig-238-as", id: "fig-238-at", id: "fig-238-au", id: "fig-238-av", id: "fig-238-aw", id: "fig-238-ax", id: "fig-238-ay", id: "fig-238-az", id: "fig-238-ba", id: "fig-238-bb", id: "fig-238-bc", id: "fig-238-bd", id: "fig-238-be", id: "fig-238-bf", id: "fig-238-bg", id: "fig-238-bh", id: "fig-238-bi", id: "fig-238-bj", id: "fig-238-bk", id: "fig-238-bl", id: "fig-238-bm", id: "fig-238-bn", id: "fig-238-bo", id: "fig-238-bp", id: "fig-238-bq", id: "fig-238-br", id: "fig-238-bs", id: "fig-238-bt" ]
+    related_objects: [ id: "255", id: "256", id: "260", id: "252", id: "253", id: "276", id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "298", id: "296", id: "272", id: "265" ]
 -
     id: "239"
     old_id: "5.02a"
@@ -4116,6 +4131,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-239" ]
+    related_objects: [ id: "244" ]
 -
     id: "240"
     old_id: "5.02b"
@@ -4133,6 +4149,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-240" ]
+    related_objects: [ id: "254", id: "243", id: "250" ]
 -
     id: "241"
     old_id: "5.02c"
@@ -4190,6 +4207,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-243" ]
+    related_objects: [ id: "251", id: "254", id: "240", id: "250" ]
 -
     id: "244"
     old_id: "5.02f"
@@ -4207,6 +4225,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-244" ]
+    related_objects: [ id: "239" ]
 # REMOVED
 # -
 # id: "245"
@@ -4293,6 +4312,7 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-249" ]
+    related_objects: [ id: "379", id: "007", id: "391", id: "384", id: "378", id: "262" ]
 -
     id: "250"
     old_id: "5.02l"
@@ -4313,6 +4333,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-250" ]
+    related_objects: [ id: "240", id: "243", id: "254" ]
 -
     id: "251"
     old_id: "5.02m"
@@ -4335,6 +4356,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-251" ]
+    related_objects: [ id: "243" ]
 -
     id: "252"
     old_id: "5.02o"
@@ -4355,7 +4377,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-252" ]
-    related_objects: [ id: "253" ]
+    related_objects: [ id: "253", id: "238", id: "276" ]
 -
     id: "253"
     old_id: "5.02p"
@@ -4376,7 +4398,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-253" ]
-    related_objects: [ id: "252" ]
+    related_objects: [ id: "252", id: "238", id: "276" ]
 -
     id: "254"
     old_id: "5.02q"
@@ -4397,6 +4419,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-254" ]
+    related_objects: [ id: "240", id: "243", id: "250" ]
 -
     id: "255"
     old_id: "5.03"
@@ -4414,7 +4437,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-255" ]
-    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "256", id: "301", id: "302" ]
+    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "256", id: "301", id: "302", id: "238", id: "260", id: "325", id: "275", id: "328" ]
 -
     id: "256"
     old_id: "5.04"
@@ -4432,7 +4455,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-256" ]
-    related_objects: [ id: "255" ]
+    related_objects: [ id: "255", id: "238", id: "260" ]
 -
     id: "257"
     old_id: "5.05a"
@@ -4450,7 +4473,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-257" ]
-    related_objects: [ id: "258", id: "259", id: "275", id: "282", id: "283" ]
+    related_objects: [ id: "258", id: "259", id: "275", id: "282", id: "283", id: "332" ]
 -
     id: "258"
     old_id: "5.05b"
@@ -4469,7 +4492,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-258" ]
-    related_objects: [ id: "257", id: "259", id: "275", id: "282", id: "283" ]
+    related_objects: [ id: "257", id: "259", id: "275", id: "282", id: "283", id: "527", id: "544" ]
 -
     id: "259"
     old_id: "5.05c"
@@ -4488,7 +4511,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-259" ]
-    related_objects: [ id: "257", id: "258", id: "275", id: "282", id: "283" ]
+    related_objects: [ id: "257", id: "258", id: "275", id: "282", id: "283", id: "300", id: "260", id: "342", id: "322", id: "299" ]
 -
     id: "260"
     old_id: "5.06"
@@ -4506,6 +4529,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-260-a", id: "fig-260-b" ]
+    related_objects: [ id: "255", id: "256", id: "238", id: "259", id: "342" ]
 -
     id: "261"
     old_id: "5.07"
@@ -4523,6 +4547,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-261-a", id: "fig-261-b", id: "fig-261-c", id: "fig-261-d", id: "fig-261-e" ]
+    related_objects: [ id: "455" ]
 -
     id: "262"
     old_id: "5.08"
@@ -4540,6 +4565,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-262" ]
+    related_objects: [ id: "379", id: "007", id: "391", id: "384", id: "378", id: "249", id: "345", id: "349", id: "381", id: "402", id: "380" ]
 -
     id: "263"
     old_id: "5.09"
@@ -4591,6 +4617,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-265" ]
+    related_objects: [ id: "238" ]
 -
     id: "266"
     old_id: "5.11b"
@@ -4608,6 +4635,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-266-a", id: "fig-266-b", id: "fig-266-c", id: "fig-266-d", id: "fig-266-e", id: "fig-266-f" ]
+    related_objects: [ id: "008" ]
 -
     id: "267"
     old_id: "5.11c"
@@ -4625,6 +4653,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-267-a", id: "fig-267-b", id: "fig-267-c", id: "fig-267-d", id: "fig-267-e", id: "fig-267-f", id: "fig-267-g", id: "fig-267-h", id: "fig-267-i", id: "fig-267-j", id: "fig-267-k", id: "fig-267-l", id: "fig-267-m", id: "fig-267-n", id: "fig-267-o", id: "fig-267-p", id: "fig-267-q", id: "fig-267-r", id: "fig-267-s", id: "fig-267-t", id: "fig-267-u", id: "fig-267-v", id: "fig-267-w", id: "fig-267-x", id: "fig-267-y", id: "fig-267-z", id: "fig-267-aa", id: "fig-267-ab", id: "fig-267-ac", id: "fig-267-ad" ]
+    related_objects: [ id: "272", id: "356", id: "271" ]
 -
     id: "268"
     old_id: "5.11da"
@@ -4642,6 +4671,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-268-a", id: "fig-268-b", id: "fig-268-c" ]
+    related_objects: [ id: "273", id: "269", id: "270", id: "500", id: "543", id: "501" ]
 -
     id: "269"
     old_id: "5.11db"
@@ -4659,6 +4689,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-269-a", id: "fig-269-b" ]
+    related_objects: [ id: "273", id: "268", id: "270", id: "500", id: "543", id: "501" ]
 -
     id: "270"
     old_id: "5.11dc"
@@ -4676,6 +4707,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-270-a", id: "fig-270-b" ]
+    related_objects: [ id: "273", id: "268", id: "269", id: "500" ]
 -
     id: "271"
     old_id: "5.11e"
@@ -4693,6 +4725,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-271-a", id: "fig-271-b", id: "fig-271-c", id: "fig-271-d", id: "fig-271-e", id: "fig-271-f", id: "fig-271-g", id: "fig-271-h", id: "fig-271-i", id: "fig-271-j", id: "fig-271-l" ]
+    related_objects: [ id: "356", id: "272", id: "267" ]
 -
     id: "272"
     old_id: "5.11f"
@@ -4710,6 +4743,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-272-a", id: "fig-272-b", id: "fig-272-c", id: "fig-272-d", id: "fig-272-e" ]
+    related_objects: [ id: "356", id: "271", id: "298", id: "296", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "297", id: "267" ]
 -
     id: "273"
     old_id: "5.11g"
@@ -4727,6 +4761,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-273" ]
+    related_objects: [ id: "543", id: "421", id: "269", id: "268", id: "270", id: "500" ]
 -
     id: "274"
     old_id: "5.12a"
@@ -4761,7 +4796,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-275" ]
-    related_objects: [ id: "257", id: "258", id: "259", id: "282", id: "283" ]
+    related_objects: [ id: "257", id: "258", id: "259", id: "282", id: "283", id: "342", id: "255", id: "325", id: "328" ]
 -
     id: "276"
     old_id: "5.12e"
@@ -4779,6 +4814,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-276-a", id: "fig-276-b", id: "fig-276-c" ]
+    related_objects: [ id: "253", id: "238", id: "252" ]
 -
     id: "277"
     old_id: "5.13a"
@@ -4794,10 +4830,10 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
     extended_caption: ""
     credit: "Remy Charlip Estate."
-    related_objects: [ id: "286" ]
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-277" ]
+    related_objects: [ id: "286", id: "278", id: "279", id: "280", id: "303" ]
 -
     id: "278"
     old_id: "5.13b"
@@ -4815,6 +4851,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-278" ]
+    related_objects: [ id: "286", id: "277", id: "279", id: "280", id: "303" ]
 -
     id: "279"
     old_id: "5.13c"
@@ -4832,6 +4869,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-279" ]
+    related_objects: [ id: "286", id: "278", id: "277", id: "280", id: "303" ]
 -
     id: "280"
     old_id: "5.13d"
@@ -4849,6 +4887,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-280" ]
+    related_objects: [ id: "286", id: "278", id: "279", id: "277", id: "303" ]
 -
     id: "281"
     old_id: "5.13f"
@@ -4883,7 +4922,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-282" ]
-    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "283" ]
+    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "283", id: "303", id: "305", id: "304", id: "306", id: "308", id: "394", id: "395", id: "399", id: "342", id: "384", id: "400", id: "339", id: "284" ] 
 -
     id: "283"
     old_id: "5.13h"
@@ -4901,7 +4940,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-283" ]
-    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "282" ]
+    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "282", id: "306", id: "305", id: "304", id: "399", id: "342", id: "384", id: "400", id: "339", id: "284" ]
 -
     id: "284"
     old_id: "5.13i"
@@ -4919,7 +4958,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-284" ]
-    related_objects: [ id: "339" ]
+    related_objects: [ id: "339", id: "282", id: "283", id: "342", id: "384", id: "400", id: "399" ]
 -
     id: "285"
     old_id: "5.13j"
@@ -4937,6 +4976,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-285" ]
+    related_objects: [ id: "340" ]
 -
     id: "286"
     old_id: "5.13k"
@@ -4951,10 +4991,10 @@ object_list:
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
     extended_caption: ""
     credit: "Remy Charlip Estate."
-    related_objects: [ id: "277" ]
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-286-a", id: "fig-286-b" ]
+    related_objects: [ id: "277", id: "278", id: "279", id: "280", id: "303" ]
 -
     id: "287"
     old_id: "5.13l"
@@ -4989,6 +5029,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-288-a", id: "fig-288-b", id: "fig-288-c", id: "fig-288-d" ]
+    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "298", id: "238", id: "296", id: "272" ]
 -
     id: "289"
     old_id: "5.14b"
@@ -5006,6 +5047,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-289" ]
+    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "298", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "290"
     old_id: "5.14c"
@@ -5023,6 +5065,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-290-a", id: "fig-290-b" ]
+    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "298", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "291"
     old_id: "5.14d"
@@ -5040,6 +5083,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-291" ]
+    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "298", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "292"
     old_id: "5.14e"
@@ -5057,6 +5101,7 @@ object_list:
     featured: true
     type: [ correspondence ]
     figure: [ id: "fig-292-a", id: "fig-292-b", id: "fig-292-c" ]
+    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "298", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "293"
     old_id: "5.14f"
@@ -5074,6 +5119,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-293" ]
+    related_objects: [ id: "297", id: "295", id: "294", id: "298", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "294"
     old_id: "5.14g"
@@ -5091,6 +5137,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-294" ]
+    related_objects: [ id: "297", id: "295", id: "298", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "295"
     old_id: "5.14h"
@@ -5108,6 +5155,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-295" ]
+    related_objects: [ id: "297", id: "298", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "272", id: "296" ]
 -
     id: "296"
     old_id: "5.14i"
@@ -5125,6 +5173,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-296" ]
+    related_objects: [ id: "298", id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "272" ]
 -
     id: "297"
     old_id: "5.14j"
@@ -5142,6 +5191,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-297-a", id: "fig-297-b" ]
+    related_objects: [ id: "298", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "298"
     old_id: "5.14k"
@@ -5159,6 +5209,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-298-a", id: "fig-298-b", id: "fig-298-c" ]
+    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "299"
     old_id: "5.16a"
@@ -5176,6 +5227,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-299-a", id: "fig-299-b" ]
+    related_objects: [ id: "342", id: "322", id: "300", id: "259" ]
 -
     id: "300"
     old_id: "5.16b"
@@ -5193,6 +5245,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-300-a", id: "fig-300-b", id: "fig-300-c", id: "fig-300-d", id: "fig-300-e", id: "fig-300-f", id: "fig-300-g" ]
+    related_objects: [ id: "259", id: "322", id: "299" ]
 -
     id: "301"
     old_id: "5.17a"
@@ -5246,6 +5299,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-303-a", id: "fig-303-b", id: "fig-303-c", id: "fig-303-d", id: "fig-303-e", id: "fig-303-f", id: "fig-303-g" ]
+    related_objects: [ id: "282", id: "305", id: "304", id: "306", id: "308", id: "309", id: "307", id: "277", id: "280", id: "286", id: "278", id: "279" ]
 -
     id: "304"
     old_id: "5.18b"
@@ -5263,6 +5317,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-304" ]
+    related_objects: [ id: "282", id: "305", id: "303", id: "306", id: "308", id: "283", id: "309", id: "307" ]
 -
     id: "305"
     old_id: "5.18c"
@@ -5280,6 +5335,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-305-a", id: "fig-305-b", id: "fig-305-c", id: "fig-305-d" ]
+    related_objects: [ id: "282", id: "303", id: "304", id: "306", id: "308", id: "283" ]
 -
     id: "306"
     old_id: "5.18d"
@@ -5297,6 +5353,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-306-a", id: "fig-306-b" ]
+    related_objects: [ id: "282", id: "305", id: "304", id: "303", id: "308", id: "283", id: "307", id: "309", id: "336" ]
 -
     id: "307"
     old_id: "5.18e"
@@ -5314,6 +5371,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-307-a", id: "fig-307-b", id: "fig-307-c", id: "fig-307-d", id: "fig-307-e", id: "fig-307-f", id: "fig-307-g" ]
+    related_objects: [ id: "306", id: "303", id: "304", id: "308", id: "309" ]
 -
     id: "308"
     old_id: "5.18f"
@@ -5331,6 +5389,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-308-a", id: "fig-308-b" ]
+    related_objects: [ id: "282", id: "305", id: "304", id: "306", id: "303", id: "309", id: "307" ]
 -
     id: "309"
     old_id: "5.18g"
@@ -5348,6 +5407,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-309" ]
+    related_objects: [ id: "304", id: "306", id: "303", id: "308", id: "307" ]
 -
     id: "310"
     old_id: "5.18h"
@@ -5433,6 +5493,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-314-a", id: "fig-314-b", id: "fig-314-c", id: "fig-314-d" ]
+    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "315"
     old_id: "5.27b"
@@ -5450,6 +5511,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-315-a", id: "fig-315-b" ]
+    related_objects: [ id: "314", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "316"
     old_id: "5.27c"
@@ -5467,6 +5529,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-316-a", id: "fig-316-b" ]
+    related_objects: [ id: "315", id: "314", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "317"
     old_id: "5.27d"
@@ -5485,6 +5548,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-317-a", id: "fig-317-b" ]
+    related_objects: [ id: "315", id: "316", id: "314", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "318"
     old_id: "5.27e"
@@ -5502,6 +5566,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-318-a", id: "fig-318-b" ]
+    related_objects: [ id: "315", id: "316", id: "317", id: "314", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "319"
     old_id: "5.27f"
@@ -5519,6 +5584,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-319-a", id: "fig-319-b" ]
+    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "314", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "320"
     old_id: "5.27g"
@@ -5536,6 +5602,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-320" ]
+    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "314", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "321"
     old_id: "5.27h"
@@ -5553,6 +5620,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-321-a", id: "fig-321-b" ]
+    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "314", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "322"
     old_id: "5.28"
@@ -5570,6 +5638,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-322-a", id: "fig-322-b", id: "fig-322-c", id: "fig-322-d", id: "fig-322-e", id: "fig-322-f", id: "fig-322-g", id: "fig-322-h" ]
+    related_objects: [ id: "300", id: "259", id: "299", id: "320", id: "314", id: "315", id: "316", id: "317", id: "318", id: "319", id: "321", id: "343" ]
 # REMOVED
 # -
 #     id: "323"
@@ -5624,6 +5693,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-325-a", id: "fig-325-b", id: "fig-325-c", id: "fig-325-d", id: "fig-325-e" ]
+    related_objects: [ id: "255", id: "275", id: "328" ]
 # REMOVED
 # -
 #     id: "326"
@@ -5677,6 +5747,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-328" ]
+    related_objects: [ id: "255", id: "275", id: "325" ]
 # REMOVED
 # -
 #     id: "329"
@@ -5748,6 +5819,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-332" ]
+    related_objects: [ id: "257" ]
 -
     id: "333"
     old_id: "5.33"
@@ -5765,6 +5837,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-333-a", id: "fig-333-b", id: "fig-333-c", id: "fig-333-d", id: "fig-333-e", id: "fig-333-f" ]
+    related_objects: [ id: "418", id: "421", id: "419" ]
 -
     id: "334"
     old_id: "5.34a"
@@ -5782,6 +5855,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-334" ]
+    related_objects: [ id: "335", "338" ]
 -
     id: "335"
     old_id: "5.34b"
@@ -5799,6 +5873,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-335" ]
+    related_objects: [ id: "334", id: "338" ]
 -
     id: "336"
     old_id: "5.34c"
@@ -5816,6 +5891,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-336" ]
+    related_objects: [ id: "306" ]
 -
     id: "337"
     old_id: "5.34d"
@@ -5850,6 +5926,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-338" ]
+    related_objects: [ id: "334", id: "335" ]
 -
     id: "339"
     old_id: "5.34f"
@@ -5867,7 +5944,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-339" ]
-    related_objects: [ id: "284" ]
+    related_objects: [ id: "284", id: "282", id: "283", id: "342", id: "384", id: "400", id: "399" ]
 -
     id: "340"
     old_id: "5.34g"
@@ -5885,6 +5962,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-340" ]
+    related_objects: [ id: "385", id: "285" ]
 -
     id: "341"
     old_id: "5.35"
@@ -5902,6 +5980,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-341" ]
+    related_objects: [ id: "226", id: "214", id: "216", id: "201", id: "362", id: "346", id: "359", id: "360", id: "361", id: "363", id: "366", id: "353" ]
 -
     id: "342"
     old_id: "5.36"
@@ -5919,6 +5998,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-342-a", id: "fig-342-b" ]
+    related_objects: [ id: "275", id: "282", id: "283", id: "399", id: "384", id: "400", id: "339", id: "284", id: "259", id: "260", id: "299" ]
 -
     id: "343"
     old_id: "5.37"
@@ -5936,6 +6016,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-343" ]
+    related_objects: [ id: "520", id: "528", id: "133", id: "552", id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "314", id: "398", id: "322", id: "376" ]
 # REMOVED DUPLICATE
 # -
 #     id: "344"
@@ -5980,6 +6061,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-345" ]
+    related_objects: [ id: "381", id: "348", id: "349", id: "391", id: "378", id: "357", id: "346", id: "379", id: "262", id: "402", id: "380", id: "384"  ]
 -
     id: "346"
     old_id: "6.01c"
@@ -5997,6 +6079,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-346" ]
+    related_objects: [ id: "358", id: "353", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "357", id: "345", id: 380", id: "377", id: "391", id: "352" ]
 # REMOVED: Was dupe of 349 to provide linking to individual cards
 # -
 #     id: "347"
@@ -6032,6 +6115,7 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-348" ]
+    related_objects: [ id: "381", id: "345", id: "349", id: "391", id: "378", id: "369", id: "350", id: "403", id: "401", id: "374", id: "376", id: "380", id: "393", id: "388", id: "384", id: "556" ]
 -
     id: "349"
     old_id: "6.03b"
@@ -6049,6 +6133,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-349" ]
+    related_objects: [ id: "381", id: "348", id: "345", id: "391", id: "378", id: "369", id: "350", id: "401", id: "403", id: "379", id: "262", id: "402", id: "380", id: "384", id: "374", id: "376", id: "377", id: "393", id: "388", id: "556" ]
 -
     id: "350"
     old_id: "6.03c"
@@ -6066,6 +6151,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-350" ]
+    related_objects: [ id: "348", id: "349" ]
 -
     id: "351"
     old_id: "6.04"
@@ -6104,7 +6190,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-352" ]
-    related_objects: [ id: "351", id: "383" ]
+    related_objects: [ id: "351", id: "383", id: "387", id: "363", id: "366", id: "346" ]
 -
     id: "353"
     old_id: "6.06"
@@ -6122,7 +6208,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-353" ]
-    related_objects: [ id: "358" ]
+    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341" ]
 -
     id: "354"
     old_id: "6.07"
@@ -6145,6 +6231,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-354" ]
+    related_objects: [ id: "357", id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "353", id: "355" ]
 -
     id: "355"
     old_id: "6.08"
@@ -6162,6 +6249,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-355" ]
+    related_objects: [ id: "357", id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "353" ]
 -
     id: "356"
     old_id: "6.09"
@@ -6184,7 +6272,7 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-356" ]
-    related_objects: [ id: "229", id: "230", id: "368" ]
+    related_objects: [ id: "229", id: "230", id: "368", id: "271", id: "272", id: "214", id: "217", id: "232", id: "360", id: "346", id: "359", id: "361", id: "362", id: "363", id: "366", id: "353", id: "267" ]
 -
     id: "357"
     old_id: "6.10"
@@ -6202,6 +6290,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-357" ]
+    related_objects: [ id: "354", id: "353", id: "355", id: "359", id: "362", id: "345", id: "346" ]
 -
     id: "358"
     old_id: "6.11"
@@ -6219,7 +6308,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-358-a", id: "fig-358-b" ]
-    related_objects: [ id: "353" ]
+    related_objects: [ id: "353", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355" ]
 -
     id: "359"
     old_id: "6.12"
@@ -6237,6 +6326,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-359" ]
+    related_objects: [ id: "357", id: "358", id: "346", id: "353", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "356", id: "383", id: "384", id: "341" ]
 -
     id: "360"
     old_id: "6.13"
@@ -6254,6 +6344,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-360" ]
+    related_objects: [ id: "358", id: "346", id: "359", id: "353", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341" ]
 -
     id: "361"
     old_id: "6.14"
@@ -6271,6 +6362,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-361" ]
+    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "353", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341" ]
 -
     id: "362"
     old_id: "6.15"
@@ -6288,6 +6380,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-362" ]
+    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "361", id: "353", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "226", id: "214", id: "216", id: "201", id: "380", id: "377", id: "391" ]
 -
     id: "363"
     old_id: "6.16"
@@ -6305,6 +6398,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-363" ]
+    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "353", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "352" ]
 -
     id: "364"
     old_id: "6.17"
@@ -6322,6 +6416,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-364" ]
+    related_objects: [ id: "365" ]
 -
     id: "365"
     old_id: "6.18"
@@ -6339,6 +6434,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-365" ]
+    related_objects: [ id: "364" ]
 -
     id: "366"
     old_id: "6.19"
@@ -6356,6 +6452,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-366" ]
+    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "353", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "352" ]
 # REMOVED (Dupe of 007)
 # -
 #     id: "367"
@@ -6395,6 +6492,7 @@ object_list:
     featured: true
     type: [ press clipping ]
     figure: [ id: "fig-368-a", id: "fig-368-b", id: "fig-368-c", id: "fig-368-d" ]
+    related_objects: [ id: "356", id: "229", id: "230" ]
 -
     id: "369"
     old_id: "6.22a"
@@ -6421,6 +6519,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-369-a", id: "fig-369-b", id: "fig-369-c", id: "fig-369-d", id: "fig-369-e", id: "fig-369-f" ]
+    related_objects: [ id: "349", id: "348", id: "403", id: "402", id: "416" ]
 # REMOVED (370–373 were combined into 369) 
 # -
 #     id: "370"
@@ -6507,6 +6606,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-374-a", id: "fig-374-b", id: "fig-374-c", id: "fig-374-d", id: "fig-374-e", id: "fig-374-f", id: "fig-374-g", id: "fig-374-h", id: "fig-374-i" ]
+    related_objects: [ id: "397", id: "400", id: "375", id: "396", id: "376", id: "378", id: "379", id: "380", id: "381", id: "348", id: "349", id: "401", id: "377" ]
 -
     id: "375"
     old_id: "6.25"
@@ -6524,6 +6624,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-375" ]
+    related_objects: [ id: "382", id: "376", id: "397", id: "400", id: "396", id: "374", id: "378", id: "379", id: "380", id: "381", id: "377", id: "399" ]
 -
     id: "376"
     old_id: "6.26"
@@ -6541,6 +6642,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-376" ]
+    related_objects: [ id: "382", id: "375", id: "397", id: "400", id: "374", id: "396", id: "378", id: "379", id: "380", id: "381", id: "348", id: "349", id: "401", id: "377", id: "343", id: "320", id: "319", id: "318", id: "317", id: "316", id: "315", id: "314", id: "321" ]
 -
     id: "377"
     old_id: "6.27"
@@ -6558,6 +6660,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-377-a", id: "fig-377-b" ]
+    related_objects: [ id: "349", id: "381", id: "376", id: "374", id: "380", id: "401", id: "346", id: "362", id: "387", id: "391", id: "375" ]
 -
     id: "378"
     old_id: "6.28"
@@ -6575,6 +6678,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-378" ]
+    related_objects: [ id: "381", id: "348", id: "349", id: "391", id: "345", id: "379", id: "007", id: "384", id: "249", id: "262", id: "397", id: "400", id: "375", id: "374", id: "376", id: "396", id: "380", id: "401", id: "403", id: "402" ]
 -
     id: "379"
     old_id: "6.29"
@@ -6592,6 +6696,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-379" ]
+    related_objects: [ id: "249", id: "007", id: "391", id: "384", id: "378", id: "262", id: "397", id: "400", id: "375", id: "374", id: "376", id: "396", id: "380", id: "381", id: "345", id: "349", id: "402" ]
 -
     id: "380"
     old_id: "6.30"
@@ -6609,6 +6714,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-380" ]
+    related_objects: [ id: "397", id: "400", id: "375", id: "374", id: "376", id: "378", id: "379", id: "396", id: "381", id: "391", id: "345", id: "349", id: "262", id: "402", id: "384", id: "348", id: "401", id: "377", id: "346", id: "362", id: "387" ]
 -
     id: "381"
     old_id: "6.31"
@@ -6626,6 +6732,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-381" ]
+    related_objects: [ id: "345", id: "348", id: "349", id: "391", id: "378", id: "397", id: "400", id: "375", id: "374", id: "376", id: "379", id: "380", id: "396", id: "262", id: "402", id: "384", id: "377", id: "401" ]
 -
     id: "382"
     old_id: "6.32"
@@ -6643,6 +6750,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-382" ]
+    related_objects: [ id: "376", id: "375" ]
 -
     id: "383"
     old_id: "6.33"
@@ -6660,7 +6768,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-383-a", id: "fig-383-b" ]
-    related_objects: [ id: "351", id: "352" ]
+    related_objects: [ id: "351", id: "352", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "353", id: "384", id: "387" ]
 -
     id: "384"
     old_id: "6.34"
@@ -6678,6 +6786,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-384-a", id: "fig-384-b" ]
+    related_objects: [ id: "379", id: "007", id: "391", id: "249", id: "378", id: "262", id: "390", id: "385", id: "386", id: "389", id: "346", id: "387", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "353", id: "383", id: "345", id: "349", id: "381", id: "402", id: "380", id: "282", id: "283", id: "342", id: "399", id: "400", id: "339", id: "284", id: "393", id: "348", id: "388", id: "556" ]
 -
     id: "385"
     old_id: "6.35"
@@ -6696,6 +6805,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-385-a", id: "fig-385-b", id: "fig-385-c" ]
+    related_objects: [ id: "007", id: "384", id: "390", id: "386", id: "389" ]
 -
     id: "386"
     old_id: "6.36"
@@ -6713,6 +6823,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-386" ]
+    related_objects: [ id: "007", id: "384", id: "385", id: "390", id: "389" ]
 -
     id: "387"
     old_id: "6.37"
@@ -6730,6 +6841,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-387" ]
+    related_objects: [ id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "353", id: "383", id: "384", id: "380", id: "377", id: "391", id: "352" ] 
 -
     id: "388"
     old_id: "6.38"
@@ -6747,6 +6859,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-388-a", id: "fig-388-b" ]
+    related_objects: [ id: "393", id: "348", id: "349", id: "384", id: "556", id: "580", id: "557" ]
 -
     id: "389"
     old_id: "6.39"
@@ -6776,6 +6889,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-389" ]
+    related_objects: [ id: "007", id: "384", id: "385", id: "386", id: "390" ]
 -
     id: "390"
     old_id: "6.40"
@@ -6804,6 +6918,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-390" ]
+    related_objects: [ id: "007", id: "384", id: "385", id: "386", id: "389" ]
 -
     id: "391"
     old_id: "6.41"
@@ -6821,6 +6936,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-391-a", id: "fig-391-b" ]
+    related_objects: [ id: "381", id: "348", id: "349", id: "345", id: "378", id: "379", id: "007", id: "249", id: "384", id: "262", id: "380", id: "402", id: "346", id: "362", id: "387", id: "377" ]
 -
     id: "392"
     old_id: "6.42"
@@ -6838,6 +6954,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-392" ]
+    related_objects: [ id: "393" ]
 -
     id: "393"
     old_id: "6.43"
@@ -6855,6 +6972,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-393-a", id: "fig-393-b", id: "fig-393-c", id: "fig-393-d", id: "fig-393-e" ]
+    related_objects: [ id: "392", id: "388", id: "348", id: "349", id: "384", id: "556" ]
 -
     id: "394"
     old_id: "6.44"
@@ -6872,7 +6990,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-394" ]
-    related_objects: [ id: "395" ]
+    related_objects: [ id: "395", id: "282" ]
 -
     id: "395"
     old_id: "6.45"
@@ -6890,7 +7008,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-395" ]
-    related_objects: [ id: "394" ]
+    related_objects: [ id: "394", id: "282" ]
 -
     id: "396"
     old_id: "6.46"
@@ -6908,6 +7026,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-396" ]
+    related_objects: [ id: "397", id: "400", id: "375", id: "374", id: "376", id: "378", id: "379", id: "380", id: "381", id: "398" ]
 -
     id: "397"
     old_id: "6.47"
@@ -6925,7 +7044,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-397" ]
-    related_objects: [ id: "196", id: "237", id: "398" ]
+    related_objects: [ id: "196", id: "237", id: "398", id: "396", id: "400", id: "375", id: "374", id: "376", id: "378", id: "379", id: "380", id: "381" ]
 -
     id: "398"
     old_id: "6.48"
@@ -6943,7 +7062,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-398" ]
-    related_objects: [ id: "196", id: "237", id: "397" ]
+    related_objects: [ id: "196", id: "237", id: "397", id: "396", id: "317", id: "314", id: "315", id: "316", id: "318", id: "319", id: "320", id: "321", id: "343" ]
 -
     id: "399"
     old_id: "6.49"
@@ -6961,6 +7080,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-399-a", id: "fig-399-b" ]
+    related_objects: [ id: "282", id: "283", id: "342", id: "384", id: "400", id: "339", id: "284", id: "375" ]
 -
     id: "400"
     old_id: "6.50"
@@ -6978,6 +7098,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-400" ]
+    related_objects: [ id: "397", id: "396", id: "375", id: "374", id: "376", id: "378", id: "379", id: "380", id: "381", id: "282", id: "283", id: "342", id: "384", id: "399", id: "339", id: "284" ]
 -
     id: "401"
     old_id: "6.51"
@@ -6995,6 +7116,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-401-a", id: "fig-401-b" ]
+    related_objects: [ id: "378", id: "349", id: "403", id: "348", id: "374", id: "376", id: "380", id: "381", id: "377" ]
 -
     id: "402"
     old_id: "6.52"
@@ -7019,6 +7141,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-402-b", id: "fig-402-a", id: "fig-402-c" ]
+    related_objects: [ id: "403", id: "369", id: "416", id: "391", id: "345", id: "349", id: "379", id: "378", id: "262", id: "381", id: "380", id: "384" ]
 -
     id: "403"
     old_id: "6.53"
@@ -7036,6 +7159,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-403-a", id: "fig-403-b" ]
+    related_objects: [ id: "402", id: "369", id: "416", id: "378", id: "349", id: "401", id: "348" ]
 -
     id: "404"
     old_id: "7.01"
@@ -7267,6 +7391,7 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-416-a", id: "fig-416-b" ]
+    related_objects: [ id: "403", id: "369", id: "402" ]
 -
     id: "417"
     old_id: "7.17"
@@ -7301,7 +7426,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-418" ]
-    related_objects: [ id: "419", id: "421" ]
+    related_objects: [ id: "419", id: "421", id: "333" ]
 -
     id: "419"
     old_id: "7.19"
@@ -7319,7 +7444,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-419-a", id: "fig-419-b" ]
-    related_objects: [ id: "418", id: "421" ]
+    related_objects: [ id: "418", id: "421", id: "333" ]
 -
     id: "420"
     old_id: "7.20"
@@ -7354,7 +7479,7 @@ object_list:
     featured: true
     type: [ correspondence ]
     figure: [ id: "fig-421-a", id: "fig-421-b", id: "fig-421-c" ]
-    related_objects: [ id: "418", id: "419" ]
+    related_objects: [ id: "418", id: "419", id: "273", id: "543", id: "333" ]
 -
     id: "422"
     old_id: "7.25"
@@ -7510,6 +7635,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-430" ]
+    related_objects: [ id: "431", id: "432", id: "433" ]
 -
     id: "431"
     old_id: "7.35"
@@ -7527,6 +7653,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-431" ]
+    related_objects: [ id: "430", id: "432", id: "433" ]
 -
     id: "432"
     old_id: "7.36"
@@ -7544,6 +7671,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-432" ]
+    related_objects: [ id: "431", id: "430", id: "433" ]
 -
     id: "433"
     old_id: "7.37"
@@ -7561,6 +7689,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-433-a", id: "fig-433-b" ]
+    related_objects: [ id: "431", id: "432", id: "430" ]
 -
     id: "434"
     old_id: "7.38"
@@ -7612,6 +7741,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-436-a", id: "fig-436-b", id: "fig-436-c", id: "fig-436-d" ]
+    related_objects: [ id: "438", id: "447", id: "438" ]
 -
     id: "437"
     old_id: "8.03"
@@ -7629,6 +7759,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-437" ]
+    related_objects: [ id: "468", id: "463", id: "469", id: "472", id: "464", id: "466", id: "449" ]
 -
     id: "438"
     old_id: "8.04"
@@ -7646,6 +7777,7 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-438" ]
+    related_objects: [ id: "446", id: "447", id: "436" ]
 -
     id: "439"
     old_id: "8.05"
@@ -7663,7 +7795,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-439" ]
-    related_objects: [ id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "440", id: "441", id: "442", id: "444", id: "445", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
 -
     id: "440"
     old_id: "8.06"
@@ -7681,6 +7813,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-440" ]
+    related_objects: [ id: "439", id: "441", id: "445", id: "442", id: "444", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473", id: "450" ]
 -
     id: "441"
     old_id: "8.07"
@@ -7695,10 +7828,10 @@ object_list:
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 116, item V85a-b"
     extended_caption: ""
     credit: "Video copyright of the artist. Used courtesy of Video Data Bank, School of the Art Institute of Chicago. Used courtesy of Charles Atlas."
-    related_objects: [ id: "442", id: "443" ]
     featured: 
     type: [ video ]
     figure: [ id: "fig-441" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "443", id: "444", id: "445" ]
 -
     id: "442"
     old_id: "8.08"
@@ -7713,10 +7846,10 @@ object_list:
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 116, item V86a-b"
     extended_caption: "This excerpt from video artist Charles Atlas’s longer work *Rainer Variations* (other excerpts of which are included in [chapter 8](/08/)) shows a bemused Yvonne Rainer attempting to teach [*Trio A*](/object-index/440/) (1966) to famed modern dance artist Martha Graham, who is played by the choreographer Richard Move in drag. This dynamic collaboration between Rainer, Atlas, and Move brings together Rainer’s interest in both dance and the moving image as well as melodrama and humor, queer aesthetics and critique, dance history, and the practice of revisiting and remixing her past works. Describing Atlas’s *Rainer Variations* as a “faux Rainer portrait,” Rainer has remarked: “At play here is a skepticism about the conventions of the documentary form that purports to reveal the ‘real’ artist who ultimately remains a persona or crafty impersonator of her own idealized self-image” (liner notes to Charles Atlas, *Rainer Variations*, DVD, Electronic Arts Intermix, New York, 2002, n.p.)."
     credit: "Video copyright of the artist. Used courtesy of Video Data Bank, School of the Art Institute of Chicago. Used courtesy of Charles Atlas."
-    related_objects: [ id: "441", id: "443" ]
     featured: true
     type: [ video ]
     figure: [ id: "fig-442" ]
+    related_objects: [ id: "439", id: "440", id: "441", id: "443", id: "445", id: "444", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
 -
     id: "443"
     old_id: "8.09"
@@ -7731,10 +7864,10 @@ object_list:
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 116, item V87a-b"
     extended_caption: ""
     credit: "Video copyright of the artist. Used courtesy of Video Data Bank, School of the Art Institute of Chicago. Used courtesy of Charles Atlas."
-    related_objects: [ id: "441", id: "442" ]
     featured: 
     type: [ video ]
     figure: [ id: "fig-443" ]
+    related_objects: [ id: "441", id: "442" ]
 -
     id: "444"
     old_id: "8.10"
@@ -7752,6 +7885,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-444" ]
+    related_objects: [ id: "439", id: "440", id: "441", id: "442", id: "445", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
 -
     id: "445"
     old_id: "8.11"
@@ -7772,6 +7906,7 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-445" ]
+    related_objects: [ id: "439", id: "440", id: "441", id: "442", id: "444", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
 -
     id: "446"
     old_id: "8.12"
@@ -7789,6 +7924,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-446" ]
+    related_objects: [ id: "438", id: "447", id: "436" ]
 -
     id: "447"
     old_id: "8.13"
@@ -7806,6 +7942,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-447-a", id: "fig-447-b", id: "fig-447-c", id: "fig-447-d", id: "fig-447-e", id: "fig-447-f" ]
+    related_objects: [ id: "438", id: "438", id: "436" ]
 -
     id: "448"
     old_id: "8.14"
@@ -7823,6 +7960,7 @@ object_list:
     featured: true
     type: [ sketches and materials ]
     figure: [ id: "fig-448" ]
+    related_objects: [ id: "451" ]
 -
     id: "449"
     old_id: "8.15"
@@ -7840,6 +7978,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-449-a", id: "fig-449-b" ]
+    related_objects: [ id: "469", id: "472", id: "463", id: "464", id: "466", id: "437", id: "468" ]
 -
     id: "450"
     old_id: "8.16"
@@ -7857,7 +7996,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-450-a", id: "fig-450-b", id: "fig-450-c", id: "fig-450-d", id: "fig-450-e", id: "fig-450-f", id: "fig-450-g", id: "fig-450-h", id: "fig-450-i", id: "fig-450-j", id: "fig-450-k", id: "fig-450-l", id: "fig-450-m", id: "fig-450-n", id: "fig-450-o", id: "fig-450-p", id: "fig-450-q" ]
-    related_objects: [ id: "439", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
 -
     id: "451"
     old_id: "8.17"
@@ -7875,6 +8014,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-451-a", id: "fig-451-b", id: "fig-451-c", id: "fig-451-d" ]
+    related_objects: [ id: "448" ]
 -
     id: "452"
     old_id: "8.18"
@@ -7910,7 +8050,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-453-a", id: "fig-453-b", id: "fig-453-c", id: "fig-453-d" ]
-    related_objects: [ id: "439", id: "450", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "471" ]
 -
     id: "454"
     old_id: "8.20"
@@ -7928,7 +8068,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-454-a", id: "fig-454-b" ]
-    related_objects: [ id: "439", id: "450", id: "453", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "471" ]
 -
     id: "455"
     old_id: "8.21a"
@@ -7946,6 +8086,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-455" ]
+    related_objects: [ id: "261" ]
 -
     id: "456"
     old_id: "8.21b"
@@ -7963,7 +8104,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-456-a", id: "fig-456-b" ]
-    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "457", id: "458", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "454", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "457"
     old_id: "8.21c"
@@ -7981,7 +8122,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-457" ]
-    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "458", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "454", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "458"
     old_id: "8.21d"
@@ -7999,7 +8140,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-458" ]
-    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "454", id: "459", id: "460", id: "472" ]
 -
     id: "459"
     old_id: "8.21e"
@@ -8017,7 +8158,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-459" ]
-    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "458", id: "454", id: "460", id: "472" ]
 -
     id: "460"
     old_id: "8.21f"
@@ -8035,7 +8176,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-460" ]
-    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "472" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "458", id: "459", id: "454", id: "472" ]
 -
     id: "461"
     old_id: "8.21g"
@@ -8088,6 +8229,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-463" ]
+    related_objects: [ id: "437", id: "468", id: "469", id: "472", id: "449", id: "464", id: "466" ]
 -
     id: "464"
     old_id: "8.22b"
@@ -8105,6 +8247,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-464-a", id: "fig-464-b", id: "fig-464-c" ]
+    related_objects: [ id: "469", id: "472", id: "463", id: "449", id: "466", id: "437", id: "468" ]
 -
     id: "465"
     old_id: "8.23"
@@ -8122,6 +8265,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-465-a", id: "fig-465-b", id: "fig-465-c", id: "fig-465-d", id: "fig-465-e", id: "fig-465-f", id: "fig-465-g", id: "fig-465-h", id: "fig-465-i", id: "fig-465-j", id: "fig-465-k", id: "fig-465-l", id: "fig-465-m", id: "fig-465-n", id: "fig-465-o", id: "fig-465-p", id: "fig-465-q", id: "fig-465-r", id: "fig-465-s" ]
+    related_objects: [ id: "473", id: "439", id: "440", id: "444", id: "445", id: "442", id: "472", id: "450" ]
 -
     id: "466"
     old_id: "8.24"
@@ -8139,6 +8283,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-466-a", id: "fig-466-b" ]
+    related_objects: [ id: "469", id: "472", id: "463", id: "464", id: "449", id: "437" ]
 -
     id: "467"
     old_id: "8.25"
@@ -8174,6 +8319,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-468-a", id: "fig-468-b", id: "fig-468-c" ]
+    related_objects: [ id: "437", id: "463", id: "464", id: "469", id: "472" ]
 -
     id: "469"
     old_id: "8.28"
@@ -8191,6 +8337,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-469" ]
+    related_objects: [ id: "449", id: "472", id: "463", id: "464", id: "466", id: "437", id: "468" ]
 -
     id: "470"
     old_id: "8.29"
@@ -8226,6 +8373,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-471-a", id: "fig-471-b" ]
+    related_objects: [ id: "454", id: "453" ]
 -
     id: "472"
     old_id: "8.31"
@@ -8243,7 +8391,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-472-a", id: "fig-472-b", id: "fig-472-c", id: "fig-472-d", id: "fig-472-e", id: "fig-472-f", id: "fig-472-g", id: "fig-472-h", id: "fig-472-i", id: "fig-472-j" ]
-    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460" ]
+    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "458", id: "459", id: "460", id: "454", id: "465", id: "473", id: "469", id: "449", id: "463", id: "464", id: "466", id: "437", id: "468" ]
 -
     id: "473"
     old_id: "8.32"
@@ -8261,6 +8409,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-473-a", id: "fig-473-b", id: "fig-473-c", id: "fig-473-d", id: "fig-473-e", id: "fig-473-f", id: "fig-473-g", id: "fig-473-h", id: "fig-473-i", id: "fig-473-j", id: "fig-473-k", id: "fig-473-l", id: "fig-473-m", id: "fig-473-n", id: "fig-473-o", id: "fig-473-p", id: "fig-473-q", id: "fig-473-r", id: "fig-473-s", id: "fig-473-t", id: "fig-473-u", id: "fig-473-v", id: "fig-473-w", id: "fig-473-x", id: "fig-473-y", id: "fig-473-z", id: "fig-473-aa", id: "fig-473-ab", id: "fig-473-ac", id: "fig-473-ad", id: "fig-473-ae", id: "fig-473-af", id: "fig-473-ag", id: "fig-473-ah", id: "fig-473-ai", id: "fig-473-aj", id: "fig-473-ak" ]
+    related_objects: [ id: "465", id: "439", id: "440", id: "444", id: "445", id: "442", id: "472", id: "450" ]
 # REMOVED DUPLICATE
 # -
 #     id: "474"
@@ -8296,6 +8445,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-475" ]
+    related_objects: [ id: "476" ]
 -
     id: "476"
     old_id: "9.03a"
@@ -8313,6 +8463,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-476" ]
+    related_objects: [ id: "475" ]
 -
     id: "477"
     old_id: "9.03b"
@@ -8330,6 +8481,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-477" ]
+    related_objects: [ id: "491", id: "493", id: "499" ]
 -
     id: "478"
     old_id: "9.04"
@@ -8364,6 +8516,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-479-a", id: "fig-479-b", id: "fig-479-c" ]
+    related_objects: [ id: "511", id: "512", id: "482", id: "484", id: "485", id: "486", id: "487", id: "481", id: "513" ]
 # REMOVED (Cover of 511)
 # -
 #     id: "480"
@@ -8399,6 +8552,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-481" ]
+    related_objects: [ id: "482", id: "484", id: "485", id: "486", id: "487", id: "479", id: "511" ]
 -
     id: "482"
     old_id: "9.07b"
@@ -8416,6 +8570,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-482" ]
+    related_objects: [ id: "481", id: "484", id: "485", id: "486", id: "487", id: "479", id: "511" ]
 # REMOVED
 # -
 #     id: "483"
@@ -8448,10 +8603,10 @@ object_list:
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/object-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. © Alison Knowles."
-    related_objects: [ id: "485", id: "486", id: "487" ]
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-484" ]
+    related_objects: [ id: "482", id: "481", id: "485", id: "486", id: "487", id: "479", id: "511", id: "488", id: "489", id: "490", id: "512", id: "513" ]
 -
     id: "485"
     old_id: "9.09"
@@ -8466,10 +8621,10 @@ object_list:
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/object-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. © Alison Knowles."
-    related_objects: [ id: "484", id: "486", id: "487" ]
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-485" ]
+    related_objects: [ id: "482", id: "484", id: "481", id: "486", id: "487", id: "479", id: "511", id: "488", id: "489", id: "490", id: "512", id: "513" ]
 -
     id: "486"
     old_id: "9.10"
@@ -8484,10 +8639,10 @@ object_list:
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/object-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. © Alison Knowles."
-    related_objects: [ id: "484", id: "485", id: "487" ]
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-486" ]
+    related_objects: [ id: "484", id: "485", id: "487", id: "482", id: "481", id: "479", id: "511", id: "488", id: "489", id: "490", id: "512", id: "513" ]
 -
     id: "487"
     old_id: "9.11"
@@ -8502,10 +8657,10 @@ object_list:
     location: ""
     extended_caption: "Alison Knowles made these photo-silkscreen portraits in the early 1970s based on a series of Polaroids she had taken of her friends and audience members performing [*The Identical Lunch*](/object-index/479/) at the New Year’s Eve Flux-Feast at the Fluxhouse Cooperative in SoHo in 1969. Knowles recalled in a 2008 interview with the art historian Jessica Santone, “I got a shower curtain and I isolated a little space in the corner of the room and then I invited particular people to come and I served them a lunch. I had a toaster in there, and I’d mixed up the tuna fish and I had the lettuce. They’d sit down and eat the lunch there and I’d take a Polaroid of them eating and then they could talk to me about whatever” (Alison Knowles, in discussion with Jessica Lynne Santone, 22 October 2008, in Jessica Lynne Santone, “Circulating the Event: The Social Life of Performance Documentation, 1965–1975” [PhD diss., McGill University, 2010], 102). Overall, the portraits strike a balance between individual difference and sameness: the poses are distinctive, while the colors are fairly uniform, and the same corporate logo is stamped across them all—“Compliments of Star-Kist Foods, Inc.” Knowles’s suggestion of official sponsorship by the leading tuna brand StarKist was fraudulent, but she came much closer than one might expect. While teaching at CalArts, a student filmmaker told her that his father was the president of StarKist Foods, and his uncle was the manager of StarKist in California. Through this student, Knowles managed to get a complimentary crate of cans of tuna for another realization of *The Identical Lunch* at the University of California, Irvine."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY. © Alison Knowles."
-    related_objects: [ id: "484", id: "485", id: "486" ]
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-487" ]
+    related_objects: [ id: "484", id: "485", id: "481", id: "482", id: "479", id: "511", id: "486", id: "488", id: "489", id: "490", id: "512", id: "513" ]
 -
     id: "488"
     old_id: "9.12"
@@ -8524,6 +8679,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-488" ]
+    related_objects: [ id: "489", id: "490", id: "484", id: "485", id: "486", id: "487" ]
 -
     id: "489"
     old_id: "9.13"
@@ -8541,7 +8697,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-489" ]
-    related_objects: [ id: "497" ]
+    related_objects: [ id: "497", id: "490", id: "488", id: "484", id: "485", id: "486", id: "487" ]
 -
     id: "490"
     old_id: "9.14"
@@ -8559,6 +8715,7 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-490-a", id: "fig-490-b", id: "fig-490-c", id: "fig-490-d", id: "fig-490-e", id: "fig-490-f", id: "fig-490-g", id: "fig-490-h", id: "fig-490-i", id: "fig-490-j", id: "fig-490-k", id: "fig-490-l", id: "fig-490-m", id: "fig-490-n" ]
+    related_objects: [ id: "497", id: "489", id: "488", id: "484", id: "485", id: "486", id: "487" ]
 -
     id: "491"
     old_id: "9.15"
@@ -8576,6 +8733,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-491" ]
+    related_objects: [ id: "499", id: "493", id: "477" ]
 -
     id: "492"
     old_id: "9.16"
@@ -8593,6 +8751,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-492-a", id: "fig-492-b", id: "fig-492-c", id: "fig-492-d", id: "fig-492-e", id: "fig-492-f", id: "fig-492-g", id: "fig-492-h", id: "fig-492-i", id: "fig-492-j", id: "fig-492-k", id: "fig-492-l", id: "fig-492-m" ]
+    related_objects: [ id: "506", id: "495" ]
 -
     id: "493"
     old_id: "9.17"
@@ -8610,6 +8769,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-493-a", id: "fig-493-b", id: "fig-493-c", id: "fig-493-d", id: "fig-493-e", id: "fig-493-f", id: "fig-493-g", id: "fig-493-h", id: "fig-493-i", id: "fig-493-j", id: "fig-493-k", id: "fig-493-l" ]
+    related_objects: [ id: "491", id: "499", id: "477" ]
 -
     id: "494"
     old_id: "9.19"
@@ -8627,7 +8787,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-494-a", id: "fig-494-b", id: "fig-494-c" ]
-    related_objects: [ id: "498" ]
+    related_objects: [ id: "498", id: "499", id: "497" ]
 -
     id: "495"
     old_id: "9.21"
@@ -8645,6 +8805,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-495" ]
+    related_objects: [ id: "506", id: "492" ]
 -
     id: "496"
     old_id: "9.22"
@@ -8662,6 +8823,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-496-a", id: "fig-496-b" ]
+    related_objects: [ id: "512" ]
 -
     id: "497"
     old_id: "9.23"
@@ -8679,7 +8841,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-497" ]
-    related_objects: [ id: "489" ]
+    related_objects: [ id: "489", id: "494", id: "490" ]
 -
     id: "498"
     old_id: "9.24"
@@ -8697,7 +8859,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-498" ]
-    related_objects: [ id: "494" ]
+    related_objects: [ id: "494", id: "499" ]
 -
     id: "499"
     old_id: "9.25"
@@ -8715,6 +8877,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-499" ]
+    related_objects: [ id: "494", id: "498", id: "491", id: "493", id: "477" ]
 -
     id: "500"
     old_id: "9.26"
@@ -8732,6 +8895,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-500-b", id: "fig-500-a" ]
+    related_objects: [ id: "273", id: "268", id: "270", id: "269", id: "543", id: "501" ]
 -
     id: "501"
     old_id: "9.27"
@@ -8749,6 +8913,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-501" ]
+    related_objects: [ id: "500", id: "268", id: "269", id: "543" ]
 -
     id: "502"
     old_id: "9.28"
@@ -8766,6 +8931,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-502-a", id: "fig-502-b" ]
+    related_objects: [ id: "503", id: "504", id: "505" ]
 -
     id: "503"
     old_id: "9.29a"
@@ -8783,6 +8949,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-503-a", id: "fig-503-b" ]
+    related_objects: [ id: "502", id: "504", id: "505" ]
 -
     id: "504"
     old_id: "9.29b"
@@ -8800,6 +8967,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-504-a", id: "fig-504-b" ]
+    related_objects: [ id: "503", id: "502", id: "505" ]
 -
     id: "505"
     old_id: "9.29c"
@@ -8817,6 +8985,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-505-a", id: "fig-505-b" ]
+    related_objects: [ id: "503", id: "504", id: "502" ]
 -
     id: "506"
     old_id: "9.30"
@@ -8834,6 +9003,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-506" ]
+    related_objects: [ id: "495", id: "492" ]
 -
     id: "507"
     old_id: "9.31"
@@ -8851,6 +9021,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-507" ]
+    related_objects: [ id: "508", id: "509", id: "510" ]
 -
     id: "508"
     old_id: "9.32"
@@ -8868,6 +9039,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-508" ]
+    related_objects: [ id: "507", id: "509", id: "510" ]
 -
     id: "509"
     old_id: "9.33"
@@ -8885,6 +9057,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-509" ]
+    related_objects: [ id: "508", id: "507", id: "510" ]
 -
     id: "510"
     old_id: "9.34"
@@ -8902,6 +9075,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-510" ]
+    related_objects: [ id: "508", id: "509", id: "507" ]
 -
     id: "511"
     old_id: "9.35"
@@ -8919,6 +9093,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-511-a", id: "fig-511-b", id: "fig-511-c", id: "fig-511-d", id: "fig-511-e", id: "fig-511-f", id: "fig-511-g", id: "fig-511-h", id: "fig-511-i", id: "fig-511-j", id: "fig-511-k", id: "fig-511-l", id: "fig-511-m", id: "fig-511-n", id: "fig-511-o", id: "fig-511-p", id: "fig-511-q", id: "fig-511-r", id: "fig-511-s", id: "fig-511-t", id: "fig-511-u", id: "fig-511-v", id: "fig-511-w", id: "fig-511-x", id: "fig-511-y", id: "fig-511-z", id: "fig-511-aa", id: "fig-511-ab", id: "fig-511-ac", id: "fig-511-ad", id: "fig-511-ae", id: "fig-511-af", id: "fig-511-ag", id: "fig-511-ah", id: "fig-511-ai", id: "fig-511-aj", id: "fig-511-ak", id: "fig-511-al" ]
+    related_objects: [ id: "512", id: "479", id: "482", id: "484", id: "485", id: "486", id: "487", id: "481", id: "513" ]
 -
     id: "512"
     old_id: "9.36"
@@ -8936,6 +9111,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-512-a", id: "fig-512-b", id: "fig-512-c", id: "fig-512-d", id: "fig-512-e", id: "fig-512-f", id: "fig-512-g", id: "fig-512-h", id: "fig-512-i", id: "fig-512-j", id: "fig-512-k", id: "fig-512-l", id: "fig-512-m", id: "fig-512-n", id: "fig-512-o", id: "fig-512-p", id: "fig-512-q", id: "fig-512-r", id: "fig-512-s", id: "fig-512-t", id: "fig-512-u", id: "fig-512-v", id: "fig-512-w", id: "fig-512-x", id: "fig-512-y", id: "fig-512-z", id: "fig-512-aa", id: "fig-512-ab", id: "fig-512-ac", id: "fig-512-ad", id: "fig-512-ae", id: "fig-512-af", id: "fig-512-ag", id: "fig-512-ah", id: "fig-512-ai", id: "fig-512-aj", id: "fig-512-ak", id: "fig-512-al", id: "fig-512-am", id: "fig-512-an", id: "fig-512-ao", id: "fig-512-ap", id: "fig-512-aq", id: "fig-512-ar", id: "fig-512-as", id: "fig-512-at", id: "fig-512-au", id: "fig-512-av", id: "fig-512-aw", id: "fig-512-ax", id: "fig-512-ay", id: "fig-512-az", id: "fig-512-ba", id: "fig-512-bb", id: "fig-512-bc", id: "fig-512-bd", id: "fig-512-be", id: "fig-512-bf", id: "fig-512-bg", id: "fig-512-bh", id: "fig-512-bi", id: "fig-512-bj", id: "fig-512-bk", id: "fig-512-bl", id: "fig-512-bm" ]
+    related_objects: [ id: "511", id: "479", id: "484", id: "485", id: "486", id: "487", id: "513", id: "496" ]
 -
     id: "513"
     old_id: "9.37"
@@ -8953,6 +9129,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-513" ]
+    related_objects: [ id: "511", id: "479", id: "484", id: "485", id: "486", id: "487", id: "512" ]
 -
     id: "514"
     old_id: "9.39"
@@ -8987,6 +9164,7 @@ object_list:
     featured: true
     type: [ correspondence ]
     figure: [ id: "fig-515" ]
+    related_objects: [ id: "553", id: "518" ]
 -
     id: "516"
     old_id: "10.02"
@@ -9004,7 +9182,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-516" ]
-    related_objects: [ id: "517" ]
+    related_objects: [ id: "517", id: "519" ]
 -
     id: "517"
     old_id: "10.03"
@@ -9040,6 +9218,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-518-a", id: "fig-518-b" ]
+    related_objects: [ id: "515", id: "553", id: "525", id: "526", id: "527", id: "528", id: "530", id: "524", id: "532" ]
 -
     id: "519"
     old_id: "10.12"
@@ -9057,6 +9236,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-519" ]
+    related_objects: [ id: "526", id: "525", id: "538", id: "516" ]
 -
     id: "520"
     old_id: "10.13"
@@ -9074,6 +9254,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-520" ]
+    related_objects: [ id: "552", id: "528", id: "133", id: "343", id: "553", id: "554" ]
 -
     id: "521"
     old_id: "10.14"
@@ -9142,6 +9323,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-524" ]
+    related_objects: [ id: "530", id: "532", id: "518" ]
 -
     id: "525"
     old_id: "10.18"
@@ -9159,6 +9341,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-525-a", id: "fig-525-b" ]
+    related_objects: [ id: "530", id: "526", id: "527", id: "528", id: "518", id: "519", id: "538" ]
 -
     id: "526"
     old_id: "10.19"
@@ -9176,6 +9359,7 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-526" ]
+    related_objects: [ id: "525", id: "530", id: "527", id: "528", id: "518", id: "519", id: "538", id: "539", id: "540", id: "541", id: "546" ]
 -
     id: "527"
     old_id: "10.20"
@@ -9193,6 +9377,7 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-527-a", id: "fig-527-b" ]
+    related_objects: [ id: "525", id: "526", id: "530", id: "528", id: "518", id: "541", id: "542", id: "544", id: "258", id: "545", id: "546", id: "549", id: "550", id: "551" ]
 -
     id: "528"
     old_id: "10.21"
@@ -9210,7 +9395,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-528" ]
-    related_objects: [ id: "529" ]
+    related_objects: [ id: "529", id: "525", id: "526", id: "527", id: "530", id: "518", id: "545", id: "548", id: "547", id: "549", id: "550", id: "551", id: "520", id: "552", id: "133", id: "343", id: "553", id: "554" ]
 -
     id: "529"
     old_id: "10.21a"
@@ -9246,6 +9431,7 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-530-a", id: "fig-530-b", id: "fig-530-c", id: "fig-530-d", id: "fig-530-e", id: "fig-530-f", id: "fig-530-g", id: "fig-530-h", id: "fig-530-i", id: "fig-530-j", id: "fig-530-k", id: "fig-530-l", id: "fig-530-m", id: "fig-530-n", id: "fig-530-o", id: "fig-530-p", id: "fig-530-q", id: "fig-530-r", id: "fig-530-s", id: "fig-530-t", id: "fig-530-u", id: "fig-530-v", id: "fig-530-w", id: "fig-530-x", id: "fig-530-y", id: "fig-530-z", id: "fig-530-aa", id: "fig-530-ab", id: "fig-530-ac", id: "fig-530-ad", id: "fig-530-ae", id: "fig-530-af", id: "fig-530-ag", id: "fig-530-ah", id: "fig-530-ai", id: "fig-530-aj", id: "fig-530-ak", id: "fig-530-al", id: "fig-530-am", id: "fig-530-an", id: "fig-530-ao", id: "fig-530-ap", id: "fig-530-aq", id: "fig-530-ar", id: "fig-530-as", id: "fig-530-at", id: "fig-530-au", id: "fig-530-av", id: "fig-530-aw", id: "fig-530-ax", id: "fig-530-ay", id: "fig-530-az", id: "fig-530-ba", id: "fig-530-bb", id: "fig-530-bc", id: "fig-530-bd", id: "fig-530-be", id: "fig-530-bf", id: "fig-530-bg", id: "fig-530-bh", id: "fig-530-bi", id: "fig-530-bj", id: "fig-530-bk", id: "fig-530-bl", id: "fig-530-bm", id: "fig-530-bn", id: "fig-530-bo", id: "fig-530-bp", id: "fig-530-bq", id: "fig-530-br", id: "fig-530-bs", id: "fig-530-bt", id: "fig-530-bu", id: "fig-530-bv", id: "fig-530-bw", id: "fig-530-bx", id: "fig-530-by", id: "fig-530-bz", id: "fig-530-ca", id: "fig-530-cb" ]
+    related_objects: [ id: "525", id: "526", id: "527", id: "528", id: "518", id: "532", id: "524", id: "547", id: "548", id: "549", id: "550", id: "551" ]
 -
     id: "531"
     old_id: "10.23"
@@ -9280,6 +9466,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-532" ]
+    related_objects: [ id: "530", id: "524", id: "518" ]
 -
     id: "533"
     old_id: "10.25"
@@ -9382,6 +9569,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-538-a", id: "fig-538-b" ]
+    related_objects: [ id: "526", id: "519", id: "525" ]
 -
     id: "539"
     old_id: "10.31"
@@ -9399,6 +9587,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-539" ]
+    related_objects: [ id: "526" ]
 -
     id: "540"
     old_id: "10.32"
@@ -9416,6 +9605,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-540-a", id: "fig-540-b" ]
+    related_objects: [ id: "526" ]
 -
     id: "541"
     old_id: "10.33"
@@ -9433,6 +9623,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-541" ]
+    related_objects: [ id: "526", id: "527" ]
 -
     id: "542"
     old_id: "10.34"
@@ -9450,6 +9641,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-542" ]
+    related_objects: [ id: "527" ]
 -
     id: "543"
     old_id: "10.35"
@@ -9467,6 +9659,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-543-a", id: "fig-543-b", id: "fig-543-c" ]
+    related_objects: [ id: "273", id: "421", id: "500", id: "268", id: "269", id: "501" ]
 -
     id: "544"
     old_id: "10.36"
@@ -9484,6 +9677,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-544-a", id: "fig-544-b", id: "fig-544-c", id: "fig-544-d" ]
+    related_objects: [ id: "527", id: "258" ]
 -
     id: "545"
     old_id: "10.37"
@@ -9501,6 +9695,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-545-a", id: "fig-545-b" ]
+    related_objects: [ id: "527", id: "528" ]
 -
     id: "546"
     old_id: "10.38"
@@ -9518,6 +9713,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-546" ]
+    related_objects: [ id: "526", id: "527" ]
 -
     id: "547"
     old_id: "10.39"
@@ -9535,6 +9731,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-547-a", id: "fig-547-b" ]
+    related_objects: [ id: "530", id: "548", id: "528" ]
 -
     id: "548"
     old_id: "10.40"
@@ -9552,6 +9749,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-548-b", id: "fig-548-a" ]
+    related_objects: [ id: "547", id: "530", id: "528" ]
 -
     id: "549"
     old_id: "10.41"
@@ -9569,6 +9767,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-549-a", id: "fig-549-b" ]
+    related_objects: [ id: "527", id: "528", id: "550", id: "551", id: "530" ]
 -
     id: "550"
     old_id: "10.42"
@@ -9586,6 +9785,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-550-a", id: "fig-550-b" ]
+    related_objects: [ id: "549", id: "527", id: "528", id: "551", id: "530" ]
 -
     id: "551"
     old_id: "10.43"
@@ -9603,6 +9803,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-551-a", id: "fig-551-b" ]
+    related_objects: [ id: "549", id: "550", id: "527", id: "528", id: "530" ]
 -
     id: "552"
     old_id: "10.44"
@@ -9620,6 +9821,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-552-a", id: "fig-552-b" ]
+    related_objects: [ id: "520", id: "528", id: "133", id: "343" ]
 -
     id: "553"
     old_id: "10.45"
@@ -9637,6 +9839,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-553" ]
+    related_objects: [ id: "515", id: "518", id: "520", id: "528" ]
 -
     id: "554"
     old_id: "10.46"
@@ -9654,6 +9857,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-554" ]
+    related_objects: [ id: "520", id: "528" ]
 -
     id: "555"
     old_id: "10.47"
@@ -9695,7 +9899,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-556" ]
-    related_objects: [ id: "557", id: "558", id: "559", id: "560" ]
+    related_objects: [ id: "557", id: "558", id: "559", id: "560", id: "393", id: "348", id: "349", id: "384", id: "388", id: "580", id: "579" ]
 -
     id: "557"
     old_id: "11.01b"
@@ -9713,7 +9917,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-557" ]
-    related_objects: [ id: "556", id: "558", id: "559", id: "560" ]
+    related_objects: [ id: "556", id: "558", id: "559", id: "560", id: "580", id: "579", id: "388" ]
 -
     id: "558"
     old_id: "11.01c"
@@ -9767,7 +9971,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-560" ]
-    related_objects: [ id: "556", id: "557", id: "558", id: "559" ]
+    related_objects: [ id: "556", id: "557", id: "558", id: "559", id: "579", id: "580" ]
 -
     id: "561"
     old_id: "11.03"
@@ -9785,6 +9989,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-561" ]
+    related_objects: [ id: "563", id: "564", id: "572", id: "597", id: "602", id: "603", id: "604" ]
 -
     id: "562"
     old_id: "11.04"
@@ -9819,6 +10024,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-563" ]
+    related_objects: [ id: "561", id: "564", id: "572", id: "597", id: "602", id: "603", id: "604" ]
 -
     id: "564"
     old_id: "11.06"
@@ -9836,6 +10042,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-564" ]
+    related_objects: [ id: "563", id: "561", id: "572", id: "597", id: "602", id: "603", id: "604" ]
 -
     id: "565"
     old_id: "11.07"
@@ -9870,6 +10077,7 @@ object_list:
     featured: true
     type: [ photograph ]
     figure: [ id: "fig-566" ]
+    related_objects: [ id: "605", id: "607", id: "608", id: "609", id: "610", id: "611", id: "612" ]
 # REMOVED (Dupe of 607)
 # -
 #     id: "567"
@@ -9905,6 +10113,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-568" ]
+    related_objects: [ id: "573", id: "574" ]
 # REMOVED -- Dupe of 574
 # -
 #     id: "569"
@@ -9976,6 +10185,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-572-a", id: "fig-572-b", id: "fig-572-c", id: "fig-572-d", id: "fig-572-e" ]
+    related_objects: [ id: "573", id: "574", id: "606", id: "600", id: "601", id: "598", id: "599", id: "563", id: "564", id: "561", id: "597", id: "602", id: "603", id: "604" ]
 -
     id: "573"
     old_id: "11.16"
@@ -9993,6 +10203,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-573-a", id: "fig-573-b", id: "fig-573-c", id: "fig-573-d", id: "fig-573-e", id: "fig-573-f", id: "fig-573-g", id: "fig-573-h" ]
+    related_objects: [ id: "615", id: "629", id: "626", id: "630", id: "613", id: "614", id: "568", id: "574", id: "572", id: "606", id: "598", id: "574", id: "600", id: "601" ]
 -
     id: "574"
     old_id: "11.17"
@@ -10010,6 +10221,7 @@ object_list:
     featured: 
     type: [ score, video ]
     figure: [ id: "fig-574" ]
+    related_objects: [ id: "573", id: "568", id: "572", id: "606", id: "598", id: "600", id: "601" ]
 -
     id: "575"
     old_id: "11.18"
@@ -10102,6 +10314,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-579-a", id: "fig-579-b", id: "fig-579-c", id: "fig-579-d", id: "fig-579-e", id: "fig-579-f", id: "fig-579-g", id: "fig-579-h" ]
+    related_objects: [ id: "580", id: "560", id: "557", id: "556" ]
 -
     id: "580"
     old_id: "11.22b"
@@ -10119,6 +10332,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-580" ]
+    related_objects: [ id: "579", id: "560", id: "557", id: "556", id: "388" ]
 -
     id: "581"
     old_id: "11.23a"
@@ -10423,6 +10637,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-597-a", id: "fig-597-b", id: "fig-597-c", id: "fig-597-d", id: "fig-597-e", id: "fig-597-f", id: "fig-597-g" ]
+    related_objects: [ id: "563", id: "564", id: "572", id: "561", id: "602", id: "603", id: "604" ]
 -
     id: "598"
     old_id: "11.30b"
@@ -10440,6 +10655,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-598-a", id: "fig-598-b" ]
+    related_objects: [ id: "573", id: "574", id: "600", id: "601", id: "599", id: "572" ]
 -
     id: "599"
     old_id: "11.30c"
@@ -10457,6 +10673,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-599" ]
+    related_objects: [ id: "598", id: "600", id: "601", id: "572" ]
 -
     id: "600"
     old_id: "11.30d"
@@ -10474,6 +10691,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-600" ]
+    related_objects: [ id: "573", id: "574", id: "598", id: "601", id: "599", id: "572" ]
 -
     id: "601"
     old_id: "11.30e"
@@ -10491,6 +10709,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-601" ]
+    related_objects: [ id: "573", id: "574", id: "598", id: "600", id: "599", id: "572" ]
 -
     id: "602"
     old_id: "11.30fa"
@@ -10508,6 +10727,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-602-a", id: "fig-602-b", id: "fig-602-c", id: "fig-602-d", id: "fig-602-e" ]
+    related_objects: [ id: "563", id: "564", id: "572", id: "597", id: "561", id: "603", id: "604" ]
 -
     id: "603"
     old_id: "11.30fb"
@@ -10525,6 +10745,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-603-a", id: "fig-603-b", id: "fig-603-c", id: "fig-603-d", id: "fig-603-e" ]
+    related_objects: [ id: "563", id: "564", id: "572", id: "597", id: "602", id: "561", id: "604" ]
 -
     id: "604"
     old_id: "11.30fc"
@@ -10542,6 +10763,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-604-a", id: "fig-604-b", id: "fig-604-c", id: "fig-604-d", id: "fig-604-e" ]
+    related_objects: [ id: "563", id: "564", id: "572", id: "597", id: "602", id: "603", id: "561" ]
 -
     id: "605"
     old_id: "11.30g"
@@ -10560,6 +10782,7 @@ object_list:
     featured: true
     type: [ photograph ]
     figure: [ id: "fig-605" ]
+    related_objects: [ id: "566", id: "607", id: "608", id: "609", id: "610", id: "611", id: "612" ]
 -
     id: "606"
     old_id: "11.30h"
@@ -10577,6 +10800,7 @@ object_list:
     featured: true
     type: [ photograph ]
     figure: [ id: "fig-606-a", id: "fig-606-b", id: "fig-606-c", id: "fig-606-d", id: "fig-606-e", id: "fig-606-f", id: "fig-606-g" ]
+    related_objects: [ id: "573", id: "572", id: "574" ]
 -
     id: "607"
     old_id: "11.30i"
@@ -10594,6 +10818,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-607" ]
+    related_objects: [ id: "605", id: "566", id: "608", id: "609", id: "610", id: "611", id: "612" ]
 -
     id: "608"
     old_id: "11.30j"
@@ -10611,6 +10836,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-608-a", id: "fig-608-b" ]
+    related_objects: [ id: "605", id: "607", id: "566", id: "609", id: "610", id: "611", id: "612" ]
 -
     id: "609"
     old_id: "11.30l"
@@ -10628,6 +10854,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-609" ]
+    related_objects: [ id: "605", id: "607", id: "608", id: "566", id: "610", id: "611", id: "612" ]
 -
     id: "610"
     old_id: "11.30m"
@@ -10645,6 +10872,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-610" ]
+    related_objects: [ id: "605", id: "607", id: "608", id: "609", id: "566", id: "611", id: "612" ]
 -
     id: "611"
     old_id: "11.30n"
@@ -10662,6 +10890,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-611" ]
+    related_objects: [ id: "605", id: "607", id: "608", id: "609", id: "610", id: "566", id: "612" ]
 -
     id: "612"
     old_id: "11.30o"
@@ -10679,6 +10908,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-612" ]
+    related_objects: [ id: "605", id: "607", id: "608", id: "609", id: "610", id: "611", id: "566" ]
 -
     id: "613"
     old_id: "11.38"
@@ -10696,6 +10926,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-613-a", id: "fig-613-b" ]
+    related_objects: [ id: "573", id: "629", id: "626", id: "630", id: "615", id: "614" ]
 -
     id: "614"
     old_id: "11.31"
@@ -10713,6 +10944,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-614-a", id: "fig-614-b", id: "fig-614-c", id: "fig-614-d", id: "fig-614-e", id: "fig-614-f", id: "fig-614-g", id: "fig-614-h", id: "fig-614-i", id: "fig-614-j", id: "fig-614-k", id: "fig-614-l", id: "fig-614-m", id: "fig-614-n", id: "fig-614-o", id: "fig-614-p", id: "fig-614-q" ]
+    related_objects: [ id: "573", id: "629", id: "626", id: "630", id: "613", id: "615" ]
 -
     id: "615"
     old_id: "11.32"
@@ -10730,6 +10962,7 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-615-a", id: "fig-615-b" ]
+    related_objects: [ id: "573", id: "629", id: "626", id: "630", id: "613", id: "614" ]
 -
     id: "616"
     old_id: "11.33"
@@ -10926,7 +11159,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-626-a", id: "fig-626-b", id: "fig-626-c", id: "fig-626-d", id: "fig-626-e", id: "fig-626-f", id: "fig-626-g", id: "fig-626-h", id: "fig-626-i", id: "fig-626-j", id: "fig-626-k", id: "fig-626-l", id: "fig-626-m", id: "fig-626-n", id: "fig-626-o", id: "fig-626-p" ]
-    related_objects: [ id: "575", id: "627", id: "628", id: "629" ]
+    related_objects: [ id: "575", id: "627", id: "628", id: "573", id: "629", id: "626", id: "630", id: "613", id: "614", id: "615" ]
 -
     id: "627"
     old_id: "11.35b"
@@ -10980,7 +11213,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-629" ]
-    related_objects: [ id: "575", id: "626", id: "627", id: "628" ]
+    related_objects: [ id: "575", id: "626", id: "627", id: "628", id: "573", id: "615", id: "630", id: "613", id: "614" ]
 -
     id: "630"
     old_id: "11.36a"
@@ -10998,7 +11231,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-630-a", id: "fig-630-b", id: "fig-630-c", id: "fig-630-d", id: "fig-630-e", id: "fig-630-f", id: "fig-630-g", id: "fig-630-h", id: "fig-630-i", id: "fig-630-j" ]
-    related_objects: [ id: "576", id: "577", id: "631", id: "632" ]
+    related_objects: [ id: "576", id: "577", id: "631", id: "632", id: "573", id: "629", id: "626", id: "613", id: "614", id: "615" ]
 -
     id: "631"
     old_id: "11.36b"

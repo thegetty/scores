@@ -1916,15 +1916,15 @@ figure_list:
     media_id: 
     label: ""
     alt: "Horizontal rectangular press clipping the width of three columns completely filled with text in English. Title “‘Magnetic Music’ Not Ready” in large, bold sans serif typeface above all columns of text. Black-and-white photograph of a man with short hair at bottom of first column and captioned “John Cage . . . A New Sound.” All text in clipping is part of the article. "
--
-    id: "fig-035"
-    src: figures/r2014402_980039_b62_f5_006.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Front page of the *Daily Illini*showing all articles above the fold. Headline reads “Reds Protest German Action.” Paper creased vertically at center. "
+# -
+#     id: "fig-035"
+#     src: figures/r2014402_980039_b62_f5_006.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Front page of the *Daily Illini*showing all articles above the fold. Headline reads “Reds Protest German Action.” Paper creased vertically at center. "
 -
     id: "fig-036-a"
     src: figures/r2014402_980039_b62_f5_007.jpg

@@ -601,23 +601,23 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-034" ]
--
-    id: "035"
-    old_id: "1.12f"
-    maker: 
-    people: [ "Defibaugh, Duffy", "Cage, John", "Brown, Earle" ]
-    more_people: [ "Barron, Bebe and Louis", "Henry, Pierre" ]
-    title: "Front page of the *Daily Illini*"
-    date: "March 1953"
-    date_sort: "1953-03-01"
-    year_filter: [ "1953" ]
-    medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
-    extended_caption: ""
-    credit: ""
-    featured: 
-    type: [ press clipping ]
-    figure: [ id: "fig-035" ]
+# -
+#     id: "035"
+#     old_id: "1.12f"
+#     maker: 
+#     people: [ "Defibaugh, Duffy", "Cage, John", "Brown, Earle" ]
+#     more_people: [ "Barron, Bebe and Louis", "Henry, Pierre" ]
+#     title: "Front page of the *Daily Illini*"
+#     date: "March 1953"
+#     date_sort: "1953-03-01"
+#     year_filter: [ "1953" ]
+#     medium: ""
+#     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
+#     extended_caption: ""
+#     credit: ""
+#     featured: 
+#     type: [ press clipping ]
+#     figure: [ id: "fig-035" ]
 -
     id: "036"
     old_id: "1.12g"
@@ -2135,7 +2135,7 @@ object_list:
     credit: "Courtesy of the John Cage Trust."
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-123-a", id: "fig-123-b" ]
+    figure: [ id: "fig-123-b", id: "fig-123-a" ]
 -
     id: "124"
     old_id: "2.16b"
@@ -6288,7 +6288,7 @@ object_list:
     extended_caption: "New performances of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) are appearing all the time, adding to the historical record of how the piece is understood over time. Clicking this link will take you to a Google video search of the terms “George Brecht” and “Drip Music” where you can observe the latest turns in how the score is interpreted."
     credit: ""
     featured: 
-    type: [ video ]
+    type: [ "video", "digital feature" ]
     figure: [ id: "fig-357" ]
     related_objects: [ id: "354", id: "353", id: "355", id: "359", id: "362", id: "345", id: "346" ]
 -
@@ -8003,7 +8003,7 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     people: [ "Rainer, Yvonne" ]
     more_people: [ "Dunn, Robert" ]
-    title: "Pages from the score for *Watering Place* (ca. 1960)"
+    title: "Pages from the score for *Watering Place*"
     date: "ca. 1960"
     date_sort: "1960-01-01"
     year_filter: [ "1960" ]
@@ -8135,7 +8135,7 @@ object_list:
     year_filter: [ "1966" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "In this sympathetic review of Yvonne Rainer’s [*The Mind is a Muscle*](/object-index/456/) (1966–68), Jill Johnston insightfully captures one of the hallmarks of Rainer’s choreography: “Like certain objects, there is no ‘presentational’ concession to the audience. The dance has no eye, doesn’t look at anybody. I got this idea from noticing that the innumerable focal changes are always, with maybe one or two exceptions, up, down, side, diagonal or back, never directly at the audience, as though consciously designed to withdraw that contact which is the performer’s traditional trade-tool of seductive involvement. It is suggested the audience find the eye in the dance, not on the faces of performers.”"
+    extended_caption: "In this sympathetic review of Yvonne Rainer’s evolving, multipart work, [*The Mind is a Muscle*](/object-index/456/) (1966–68), Jill Johnston insightfully captures one of the hallmarks of Rainer’s choreography: “Like certain objects, there is no ‘presentational’ concession to the audience. The dance has no eye, doesn’t look at anybody. I got this idea from noticing that the innumerable focal changes are always, with maybe one or two exceptions, up, down, side, diagonal or back, never directly at the audience, as though consciously designed to withdraw that contact which is the performer’s traditional trade-tool of seductive involvement. It is suggested the audience find the eye in the dance, not on the faces of performers.”"
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -8153,7 +8153,7 @@ object_list:
     year_filter: [ "1968" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "Jill Johnston, a dedicated and sympathetic critic of the New York avant-garde, provides one of the first published accounts of the complete version of Yvonne Rainer’s multipart dance, [*The Mind Is a Muscle*](/object-index/456/) (1966–68) (in particular the section titled [*Trio A*](/object-index/440/)). Johnston already seems aware that it will be regarded as a canonical work of postmodern dance. The article is not only a review of a specific evening of the performance but it is also a historically informed effort to take stock of Rainer’s trajectory and to spell out the implications of her work on the fields of dance and performance broadly speaking. Johnston notes that *Trio A*’s “innumerable discrete parts” are “assimilated by a smooth unaccented continuity” that departs from the hierarchical and “plot-like” structure of conventional dance phrasing seen in ballet and modern dance. She notes Rainer’s hybridization of dance and everyday movement; the neutrality and matter-of-factness of the performers; and their disengagement from the audience in a kind of “tactical withdrawal.” Personal, melodramatic, and comedic materials are presented in a deadpan way, and there are provocative juxtapositions of contradictory movements and sounds. Johnston calls Rainer’s work “the first magnitude (…since Cunningham’s radical alterations) in advancing the medium within a context of movement still understood as ‘dance.’” While the review is celebratory overall, Johnston does seem to agree with other critics that the multitude of props and set pieces amounts to a distraction. The dance critic [Deborah Jowitt’s take on *The Mind Is a Muscle*](/object-index/460/), also included in the Archive section of [chapter 8](/08/), appeared in the same issue of *The Village Voice* as Johnston’s review."
+    extended_caption: "Jill Johnston, a dedicated and sympathetic critic of the New York avant-garde, provides one of the first published accounts of the complete version of Yvonne Rainer’s multipart dance, [*The Mind Is a Muscle*](/object-index/456/) (1966–68) (in particular the section titled [*Trio A*](/object-index/440/)). Johnston already seems aware that it will be regarded as a canonical work of postmodern dance. The article is not only a review of a specific evening of the performance but it is also a historically informed effort to take stock of Rainer’s trajectory and to spell out the implications of her work on the fields of dance and performance broadly speaking. Johnston notes that *Trio A*’s “innumerable discrete parts” are “assimilated by a smooth unaccented continuity” that departs from the hierarchical and “plot-like” structure of conventional dance phrasing seen in ballet and modern dance. She notes Rainer’s hybridization of dance and everyday movement; the neutrality and matter-of-factness of the performers; and their disengagement from the audience in a kind of “tactical withdrawal.” Personal, melodramatic, and comedic materials are presented in a deadpan way, and there are provocative juxtapositions of contradictory movements and sounds. Johnston calls Rainer’s work “of the first magnitude (…since Cunningham’s radical alterations) in advancing the medium within a context of movement still understood as ‘dance.’” While the review is celebratory overall, Johnston does seem to agree with other critics that the multitude of props and set pieces amounts to a distraction. The dance critic [Deborah Jowitt’s take on *The Mind Is a Muscle*](/object-index/460/), also included in the Archive section of [chapter 8](/08/), appeared in the same issue of *The Village Voice* as Johnston’s review."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -8190,7 +8190,7 @@ object_list:
     date_end: 31 23 May 1963 and 6 June 1963
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "The cultural critic Jill Johnston’s extensive two-part review of Yvonne Rainer’s multi-part dance *Terrain*, performed at Judson Memorial Church on 28 and 29 April 1963, provides a devoted close-read of a complex work. In part one, Johnston writes, “the total event is like stringing beads, or putting panels together, the way some painters do.” She focuses on the work’s basis in an algorithmic, game-like play of following rules and signals. Rainer’s strategy, which produces slightly differing results with each performance, is informed by John Cage and Merce Cunningham’s engagements with indeterminacy and also resonates with the operations of Fluxus event scores. In part two of the review, Johnston focuses on the outcomes of Rainer’s interest in play, relating her work to that of Cunningham, James Waring, and Aileen Passloff. Rainer’s dances *Play* and *Diagonal* appear “like watching any kids’ game on the street,” Johnston writes. “The whole idea of play was here treated with respect for its real sense.” Rainer also delivered a shocking duet on the theme of lovemaking that hewed unusually close to the real act, inspiring Johnston to pose deep questions about the proximity of art and life, and the role of the viewer between them. Crucial to the success of Rainer’s work, she concludes, are the sensitive talents of the dancers working alongside her: Trisha Brown, Judith Dunn, William Davis, Steve Paxton, and Albert Reid. Rather than completely sublimating their individual way of moving to a choreographic standard, “They looked like themselves even while rendering the material accurately.”"
+    extended_caption: "The cultural critic Jill Johnston’s extensive two-part review of Yvonne Rainer’s multi-part dance *Terrain*, performed at Judson Memorial Church on 28 and 29 April 1963, provides a devoted close-read of a complex work. In part one, Johnston writes, “the total event is like stringing beads, or putting panels together, the way some painters do.” She focuses on the work’s basis in an algorithmic, game-like play of following rules and signals. Rainer’s strategy, which produces slightly differing results with each performance, is informed by John Cage and Merce Cunningham’s engagements with indeterminacy and also resonates with the operations of Fluxus event scores. [In part two](/object-index/461/#fig-461-b/) of the review, Johnston focuses on the outcomes of Rainer’s interest in play, relating her work to that of Cunningham, James Waring, and Aileen Passloff. Rainer’s dances *Play* and *Diagonal* appear “like watching any kids’ game on the street,” Johnston writes. “The whole idea of play was here treated with respect for its real sense.” Rainer also delivered a shocking duet on the theme of lovemaking that hewed unusually close to the real act, inspiring Johnston to pose deep questions about the proximity of art and life, and the role of the viewer between them. Crucial to the success of Rainer’s work, she concludes, are the sensitive talents of the dancers working alongside her: Trisha Brown, Judith Dunn, William Davis, Steve Paxton, and Albert Reid. Rather than completely sublimating their individual way of moving to a choreographic standard, “They looked like themselves even while rendering the material accurately.”"
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -8207,7 +8207,7 @@ object_list:
     year_filter: [ "1968" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "This hostile review by the dance critic Joan B. Cass contrasts with the generous, attentive takes of [Jill Johnston](/object-index/459/) and [Deborah Jowitt](/object-index/460/) also included in [chapter 8](/08/). Unable to perceive and appreciate the dedication, concentration, and skill required to execute Rainer’s choreography, Cass describes it as vapid, tedious non-dance, while revealing her own rigid expectation and standard of “attenuated, proudly presented bodies,” which she did not see in evidence despite the real talents of Rainer’s collaborators. Cass’s review is emblematic of a reactionary modernist response to emerging postmodern dance currents of the time."
+    extended_caption: "This hostile review of Yvonne Rainer's work by the dance critic Joan B. Cass contrasts with the generous, attentive takes of [Jill Johnston](/object-index/459/) and [Deborah Jowitt](/object-index/460/) also included in [chapter 8](/08/). Unable to perceive and appreciate the dedication, concentration, and skill required to execute Rainer’s choreography, Cass describes it as vapid, tedious non-dance, while revealing her own rigid expectation and standard of “attenuated, proudly presented bodies,” which she did not see in evidence despite the real talents of Rainer’s collaborators. Cass’s review is emblematic of a reactionary modernist response to emerging postmodern dance currents of the time."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -8254,7 +8254,7 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     people: [ "Rainer, Yvonne", "Katz, Barbara" ]
     more_people: ""
-    title: "Pages from the Labanotation score for Yvonne Rainer’s dances *Chair-Pillow* and *Couples,* from the larger project *Continuous Project Altered Daily* (1970), as performed at George Washington University, Washington, D.C."
+    title: "Labanotation score for Yvonne Rainer’s dances *Chair-Pillow* and *Couples,* from the larger project *Continuous Project Altered Daily* (1970), as performed at George Washington University, Washington, D.C."
     date: "1970"
     date_sort: "1970-01-01"
     year_filter: [ "1970" ]
@@ -8505,13 +8505,13 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     people: [ "Knowles, Alison" ]
     more_people: [ "Williams, Emmett" ]
-    title: "“Journal of the Identical Lunch,” *The Outsider* 2, no. 4/5 (Winter 1968/69): 182–84"
+    title: "“Journal of the Identical Lunch”"
     date: "1968–69"
     date_sort: "1968-01-01"
     year_filter: [ "1968", "1969" ]
     medium: ""
     location: ""
-    extended_caption: "Alison Knowles first published the score for *The Identical Lunch* in the last issue of *The Outsider*, a primarily Beat literary magazine published in small batches by Gypsy Lou and Jon Edgar Webb of the Loujon Press in New Orleans. Knowles’s text is joined by the work of colleagues Allan Kaprow, Dick Higgins, Jackson Mac Low, and Emmett Williams, but the more numerous texts by Beat writers in the issue strike an instructive counterpoint to Knowles’s quasi-objective and seemingly systematic reporting. While the Beat writers similarly dwell on everyday life in artist enclaves and working-class neighborhoods, they do so in a lyrical and markedly subjective way."
+    extended_caption: "Alison Knowles first published the score for *The Identical Lunch* in the last issue of *The Outsider*, a primarily Beat literary magazine published in small batches by Gypsy Lou and Jon Edgar Webb of the Loujon Press in New Orleans. Knowles’s text is joined by the work of colleagues Allan Kaprow, Dick Higgins, Jackson Mac Low, and Emmett Williams, but the more numerous texts by Beat writers in the issue strike an instructive counterpoint to Knowles’s quasi-objective and seemingly systematic reporting. While the Beat writers similarly dwell on everyday life in artist enclaves and working-class neighborhoods, they do so in a lyrical and markedly subjective way. See “Journal of the Identical Lunch,” *The Outsider* 2, no. 4/5 (Winter 1968/69): 182–84."
     credit: "© Alison Knowles."
     featured: true
     type: [ score ]
@@ -8704,7 +8704,7 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)", "Pauline Oliveros (American, 1932–2016)" ]
     people: [ "Knowles, Alison", "Oliveros, Pauline" ]
     more_people: ""
-    title: "*Postcard Theatre*"
+    title: "*Postcard Theatre* (addressed to Jean Brown)"
     date: "ca. 1970s"
     date_sort: "1970-01-01"
     year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
@@ -9159,7 +9159,7 @@ object_list:
     year_filter: [ "1972" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
-    extended_caption: "This flyer was mailed to [*Spatial Poem*](/object-index/530/#fig-530-g) (1965–75) participants after the completion of the fourth event, probably sometime in 1972. It shows that Mieko Shiomi was at the time based in Osaka and that George Maciunas had committed to designing “special issues” of each event’s collected reports. One hundred sixty-seven visual artists, musicians, composers, dancers, poets, filmmakers, gallerists, and other interlocutors are named. By listing out the names of all Shiomi’s collaborators up to that point, the document served to reflect the artist’s expansive international network back to itself."
+    extended_caption: "This flyer was mailed to [*Spatial Poem*](/object-index/530/) (1965–75) participants after the completion of the fourth event, probably sometime in 1972. It shows that Mieko Shiomi was at the time based in Osaka and that George Maciunas had committed to designing “special issues” of each event’s collected reports. One hundred sixty-seven visual artists, musicians, composers, dancers, poets, filmmakers, gallerists, and other interlocutors are named. By listing out the names of all Shiomi’s collaborators up to that point, the document served to reflect the artist’s expansive international network back to itself."
     credit: "Used by permission of Mieko Shiomi."
     featured: true
     type: [ correspondence ]
@@ -9177,7 +9177,7 @@ object_list:
     year_filter: [ "1964" ]
     medium: "photocopy of handwritten score on lined paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
-    extended_caption: "Mieko Shiomi performed her score *Direction Music for Fingers* in New York as part of a solo presentation in October 1964, at Washington Square Gallery, which coincided with a yearlong Perpetual Fluxfest. The piece was not only a response to her growing concerns about spatiotemporal limitations on creative activity; it anticipated her discovery of a broader solution to this problem, in [*Spatial Poem*](/530/#fig-530-g). The score invites participants to write a real or imagined location on a card and then attach it to a string, one end of which is tied to the performer’s fingers. The participant then affixes the string’s loose end to a point reaching toward the chosen direction."
+    extended_caption: "Mieko Shiomi performed her score *Direction Music for Fingers* in New York as part of a solo presentation in October 1964, at Washington Square Gallery, which coincided with a yearlong Perpetual Fluxfest. The piece was not only a response to her growing concerns about spatiotemporal limitations on creative activity; it anticipated her discovery of a broader solution to this problem, in [*Spatial Poem*](/object-index/530/#fig-530-g). The score invites participants to write a real or imagined location on a card and then attach it to a string, one end of which is tied to the performer’s fingers. The participant then affixes the string’s loose end to a point reaching toward the chosen direction."
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ score ]
@@ -9195,7 +9195,7 @@ object_list:
     year_filter: [ "1964" ]
     medium: "gelatin silver print"
     location: ""
-    extended_caption: "This photograph of Mieko Shiomi performing her [*Direction Music for Fingers*](/object-index/516/) at Washington Square Gallery shows Allan Kaprow (right foreground) consulting a map of Manhattan while Shiomi, arms raised, sits at the center of a new, provisional spatial network. Later taking up the notion of direction again for her [*Spatial Poem No. 2 (Direction Event)*](/object-index/519/) in 1965, [Shiomi explained her poetic intent](/object-index/536/) to George Maciunas: “I meant ‘direction’ not only direction on compass [*sic*], in this poem it is rather the state of consciousness of the relation between yourself and the outside world” ([Shiomi to Maciunas](/object-index/536/), ca. 1965, Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30)."
+    extended_caption: "This photograph of Mieko Shiomi performing her [*Direction Music for Fingers*](/object-index/516/) at Washington Square Gallery shows Allan Kaprow (right foreground) consulting a map of Manhattan while Shiomi, arms raised, sits at the center of a new, provisional spatial network. Later taking up the notion of direction again for her [*Spatial Poem No. 2 (Direction Event)*](/object-index/519/) in 1965, Shiomi explained her poetic intent to George Maciunas: “I meant ‘direction’ not only direction on compass [*sic*], in this poem it is rather the state of consciousness of the relation between yourself and the outside world” ([Shiomi to Maciunas](/object-index/536/), ca. 1965, Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30)."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Photograph by Peter Moore; © Northwestern University."
     featured: true
     type: [ photograph ]
@@ -9213,7 +9213,7 @@ object_list:
     year_filter: [ "1976" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
-    extended_caption: ""
+    extended_caption: "Mieko Shiomi created this postcard to advertise her self-published artist book chronicling the entirety of her *Spatial Poem* project. It lists the titles of her nine events along with the names of all 232 global contributors."
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ programs and flyers ]
@@ -9318,7 +9318,7 @@ object_list:
     year_filter: [ "1975" ]
     medium: "offset print on white paper with annotations"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
-    extended_caption: ""
+    extended_caption: "Shiomi added the handwritten word “July” to this copy of *Spatial Poem No. 9*, extending the life of the piece and suggesting a hope to net more responses to her final work in the *Spatial Poem* series."
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ score ]
@@ -9336,7 +9336,7 @@ object_list:
     year_filter: [ "1965" ]
     medium: "clear plastic box with hinged lid and cork-covered bottom with paper-flag pins"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 225"
-    extended_caption: "This multiple, a collaborative design effort between Mieko Shiomi and George Maciunas, was among the first object editions made to represent the collected “reports” for the first event in Shiomi's multi-part *Spatial Poem* project: [*Spatial Poem No. 1 (Word Event)*](/object-index/530/#fig-530-g) (1965). Each paper flag is printed with the text of one participant’s report, and the pin has been placed on the map at the approximate location where the event was performed. The stenciled cork sheet, probably made by Maciunas, is the second iteration of a design that initially featured a simple black line drawing of the Earth’s continents printed on white foam board, with numbers indicating where flags should be placed. In some cases, the numbered flags were housed in a separate box, allowing recipients to assemble the work themselves."
+    extended_caption: "This multiple, a collaborative design effort between Mieko Shiomi and George Maciunas, was among the first object editions made to represent the collected “reports” for the first event in Shiomi's multi-part *Spatial Poem* project: [*Spatial Poem No. 1 (Word Event)*](/object-index/530/#fig-530-h) (1965). Each paper flag is printed with the text of one participant’s report, and the pin has been placed on the map at the approximate location where the event was performed. The stenciled cork sheet, probably made by Maciunas, is the second iteration of a design that initially featured a simple black line drawing of the Earth’s continents printed on [white foam board](/object-index/531/#fig-531-c), with numbers indicating where flags should be placed. In some cases, the numbered flags were housed in a separate box, allowing recipients to assemble the work themselves."
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: 
     type: [ artwork ]
@@ -9372,7 +9372,7 @@ object_list:
     year_filter: [ "1968" ]
     medium: "two sets of printed calendar pages (14 x 10.8 cm), one housed loose inside a wood box with a hinged lid and metal clasp, the other bolted into book form on a strap of leather"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 223"
-    extended_caption: "Departing from the map-based designs of [*Spatial Poem No. 1*](/object-index/525/) (1965) and [*Spatial Poem No. 2*](/object-index/526/) (1965), George Maciunas designed for [*No. 3 (Falling Event)*](/530/#fig-530-g) a day calendar made of four simple bolts driven through a piece of leather to be mounted on a wall. The more than one hundred individual pages of the calendar, hung on the top two bolts, could then “fall” down to the bottom two bolts, or off the calendar altogether. Each page represents one realization of Mieko Shiomi’s event, originally performed between June and August of 1966. This calendar would surely be an erratic way to mark time, as many days are either repeated or missing."
+    extended_caption: "Departing from the map-based designs of [*Spatial Poem No. 1*](/object-index/525/) (1965) and [*Spatial Poem No. 2*](/object-index/526/) (1965), George Maciunas designed for [*No. 3 (Falling Event)*](/object-index/530/#fig-530-t) a day calendar made of four simple bolts driven through a piece of leather to be mounted on a wall. The more than one hundred individual pages of the calendar, hung on the top two bolts, could then “fall” down to the bottom two bolts, or off the calendar altogether. Each page represents one realization of Mieko Shiomi’s event, originally performed between June and August of 1966. This calendar would surely be an erratic way to mark time, as many days are either repeated or missing."
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: true
     type: [ artwork ]
@@ -9390,7 +9390,7 @@ object_list:
     year_filter: [ "1973" ]
     medium: "white plastic box with a hinged lid containing a roll of microfilm mounted on a miniature green plastic viewer"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 219"
-    extended_caption: "The score Mieko Shiomi sent out for [*Spatial Poem No. 4 (Shadow Event)*](/object-index/530/#fig-530-g) (1971) included a piece of film printed with the word “SHADOW” that participants were asked to use in their realizations. As such, many of the reports she received included photographs of the resulting arrangement. To accommodate the heighted visual nature of the reports, this object edition, designed by George Maciunas, utilized inexpensive handheld film viewers similar to those he first incorporated into the Fluxus anthology *Flux Year Box 2* in 1966. Here, both photographs and textual reports are reproduced on the individual cells of a microfilm reel, and the label refers to the work as a “fluxmovie.” This object edition was the final design Maciunas was able to complete for Shiomi’s larger *Spatial Poem* project."
+    extended_caption: "The score Mieko Shiomi sent out for [*Spatial Poem No. 4 (Shadow Event)*](/object-index/530/#fig-530-ah) (1971) included a piece of film printed with the word “SHADOW” that participants were asked to use in their realizations. As such, many of the reports she received included photographs of the resulting arrangement. To accommodate the heightened visual nature of the reports, this object edition, designed by George Maciunas, utilized inexpensive handheld film viewers similar to those he first incorporated into the Fluxus anthology *Flux Year Box 2* in 1966. Here, both photographs and textual reports are reproduced on the individual cells of a microfilm reel, and the label refers to the work as a “fluxmovie.” This object edition was the final design Maciunas was able to complete for Shiomi’s larger *Spatial Poem* project."
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: 
     type: [ artwork ]
@@ -9420,7 +9420,7 @@ object_list:
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     people: [ "Shiomi, Mieko (Chieko)", "Kaprow, Allan", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
     more_people: [ "Corner, Philip", "Ginsberg, Allen", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
-    title: "Cover of *Spatial Poem* (Osaka: self-published, 1976)"
+    title: "*Spatial Poem* (Osaka: self-published, 1976)"
     date: ""
     date_sort: "1976-01-01"
     year_filter: [ "1976" ]
@@ -9496,7 +9496,7 @@ object_list:
     year_filter: [ "1965" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
-    extended_caption: "Mieko Shiomi wrote this letter to George Maciunas after returning to Japan after her year in New York. She reports on a Fluxus week of exhibitions and performances organized in September 1965 in Tokyo. Shiomi also weighs in on Maciunas’s growing conflict with Takahisa Kosugi, Nam June Paik, and Charlotte Moorman over their independent event organizing, particularly Moorman’s Avant-Garde Festival series, which Maciunas felt to be in competition with his Fluxus efforts. Shiomi advocates a nonhierarchical and expansive notion of collective avant-garde membership, since, as she explains, “our pieces contain almost endless possibilityies [*sic*] of performance.”"
+    extended_caption: "Mieko Shiomi wrote this letter to George Maciunas after returning to Japan from her year in New York. She reports on a Fluxus week of exhibitions and performances organized in September 1965 in Tokyo. Shiomi also weighs in on Maciunas’s growing conflict with Takahisa Kosugi, Nam June Paik, and Charlotte Moorman over their independent event organizing, particularly Moorman’s Avant-Garde Festival series, which Maciunas felt to be in competition with his Fluxus efforts. Shiomi advocates a nonhierarchical and expansive notion of collective avant-garde membership, since, as she explains, “our pieces contain almost endless possibilityies [*sic*] of performance.”"
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ correspondence ]
@@ -9564,7 +9564,7 @@ object_list:
     year_filter: [ "1966" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
-    extended_caption: "In this letter, Mieko Shiomi responds to George Maciunas’s proposed design for the object edition of [*Spatial Poem No. 2 (Direction Event)*](/object-index/519/) (1965). She expresses misgivings about his expressive design choices, writing, “I’d like to show the people’s direction as transparently and exactly as possible. I’m afraid that too strong power of design’s image can weaken the contents.”"
+    extended_caption: "In this letter, Mieko Shiomi responds to George Maciunas’s proposed design for the object edition of [*Spatial Poem No. 2 (Direction Event)*](/object-index/519/) (1965). She conveys misgivings about his expressive design choices, writing, “I’d like to show the people’s direction as transparently and exactly as possible. I’m afraid that too strong power of design’s image can weaken the contents.”"
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ correspondence ]
@@ -9672,7 +9672,7 @@ object_list:
     year_filter: [ "1968" ]
     medium: "handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
-    extended_caption: "Following the completion of [*Spatial Poem No. 3 (Falling Event)*](/object-index/527/), Mieko Shiomi sent George Maciunas a list of additional contributors who had been incorporated into the project by the time [*Spatial Poem No. 4 (Shadow Event)*](/object-index/530/#fig-530-g) launched. The letter also includes mention of the Massachusetts-based collector of Dada and Surrealist ephemera Jean Brown, who recognized the importance of Fluxus among other contemporaneous neo-avant-garde tendencies and was beginning to collect works directly from artists. "
+    extended_caption: "Following the completion of [*Spatial Poem No. 3 (Falling Event)*](/object-index/527/), Mieko Shiomi sent George Maciunas a list of additional contributors who had been incorporated into the project by the time [*Spatial Poem No. 4 (Shadow Event)*](/object-index/530/#fig-530-ah) launched. The letter also includes mention of the Massachusetts-based collector of Dada and Surrealist ephemera Jean Brown, who recognized the importance of Fluxus among other contemporaneous neo-avant-garde tendencies and was beginning to collect works directly from artists. "
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ correspondence ]
@@ -10174,7 +10174,7 @@ object_list:
     people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Printed program for *Routine*, presented at the Portland Center for the Visual Arts, Portland, Oregon"
-    date: "29 November– 2 December 1973"
+    date: "29 November–2 December 1973"
     date_sort: "1973-11-29"
     year_filter: [ "1973" ]
     date_end: 31 29 November– 2 December 1973
@@ -10216,7 +10216,7 @@ object_list:
     year_filter: [ "1973" ]
     medium: "1 film reel (16mm), SD, b&w"
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46"
-    extended_caption: "Produced by the Portland Center for the Visual Arts in cooperation with the National Endowment for the Arts. Directed by Michael Sullivan, with performers Sue Johnson and David Hauck."
+    extended_caption: "Produced by the Portland Center for the Visual Arts in cooperation with the National Endowment for the Arts. Directed by Michael Sullivan, with performers Sue Johnson and David Hauck. Scripted, storyboarded, and rehearsed, Kaprow's activity films simultaneously function as performance documents and scorelike instructional films addressed to an audience of potential participants."
     credit: ""
     featured: 
     type: [ score, video ]
@@ -10234,7 +10234,7 @@ object_list:
     year_filter: [ "1975" ]
     medium: "1 film reel (16mm), SD, b/w"
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F48"
-    extended_caption: "The program for *Comfort Zones* (produced by Galería Vandrés, S. A., Madrid, Spain; photographed and edited by David Seaton; and peformed by Esther Llordén and Mario Costas) makes it seem difficult to film, since so many of Allan Kaprow’s instructions call for actions that are radically internal, such as thinking and sensing. When the program has the performers communicate their thoughts and feelings, they say only “now”—a word that expresses little and yet emphasizes the non-coincidence of the “now” of the recording and the “now” of the screening. At the same time, *Comfort Zones* has an intensity and visceral quality due to Kaprow’s deliberately stylized film grammar, which includes extreme close-ups and slow motion. [Kaprow’s detailed shooting script](/object-index/628/) can be viewed in the [Archive section of chapter 11](/11/#archive), along with the [activity booklet](/object-index/626/) and the programs, in Spanish and [English](/object-index/627/), that were used in this Madrid realization."
+    extended_caption: "The program for *Comfort Zones* (produced by Galería Vandrés, S. A., Madrid, Spain; photographed and edited by David Seaton; and peformed by Esther Llordén and Mario Costas) makes it seem difficult to film, since so many of Allan Kaprow’s instructions call for actions that are radically internal, such as thinking and sensing. When the program has the performers communicate their thoughts and feelings, they say only “now”—a word that expresses little and yet emphasizes the non-coincidence of the “now” of the recording and the “now” of the screening. At the same time, *Comfort Zones* has an intensity and visceral quality due to Kaprow’s deliberately stylized film grammar, which includes extreme close-ups and slow motion. [Kaprow’s detailed shooting script](/object-index/628/) can be viewed in the [Archive section of chapter 11](/11/#archive), along with the [activity booklet](/object-index/626/) and the program in [English](/object-index/627/), that was used in this Madrid realization."
     credit: ""
     featured: 
     type: [ score, video ]
@@ -10276,7 +10276,7 @@ object_list:
     extended_caption: "Participants: Peter Kirby, Allan Kaprow, Nancy Buchanan, Sylvia and Jerry Simpson, and Vaughn Rachel at Video Transitions, Hollywood."
     credit: ""
     featured: 
-    type: [ press clipping ]
+    type: [ audio ]
     figure: [ id: "fig-577" ]
     related_objects: [ id: "576", id: "630", id: "631", id: "632" ]
 -
@@ -10327,7 +10327,7 @@ object_list:
     year_filter: [ "1957", "1958" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 4, folder 13"
-    extended_caption: "Kaprow composed this score while he was attending John Cage’s experimental composition course at the New School for Social Research. By taxonomizing and then scoring behavior that is ordinarily involuntary (coughing, clearing one’s throat), Kaprow explores Cage’s ideal of non-intentionality in a comic mode. Cage himself could sometimes be a subtly comic performer, making use of puns and deadpan in some of his performance lectures."
+    extended_caption: "Kaprow composed this score while he was attending [John Cage’s experimental composition course](/object-index/557/) at the New School for Social Research. By taxonomizing and then scoring behavior that is ordinarily involuntary (coughing, clearing one’s throat), Kaprow explores Cage’s ideal of non-intentionality in a comic mode. Cage himself could sometimes be a subtly comic performer, making use of puns and deadpan in some of his performance lectures."
     credit: ""
     featured: 
     type: [ score ]
@@ -10686,7 +10686,7 @@ object_list:
     year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-    extended_caption: "As late as November 1973, Allan Kaprow referred to [the film or video he would make for *Routine*](/object-index/574/) as a “document.” This letter also indicates how systematic Kaprow’s activity form had become by that year. For example, he confidently predicts that 25 percent of those who attend his briefing will return the next day to participate in the realization. This systematic quality of activities is further reflected in Kaprow’s use of standardized, uniformly available materials in his programs, such as “pocket mirrors (3” × 4” @ 12c ea.).”"
+    extended_caption: "The Portland Center for the Visual Arts had assumed that Kaprow would use film or video to document the performance of the activity. Here Kaprow suggests that they will make two different kinds of photographic texts—one a documentary “record,” the other “the actual film, photos, or tapes,” by which he means a scorelike instructional film, video, or booklet. This letter also indicates how systematic Kaprow’s activity form had become by that year. For example, he confidently predicts that 25 percent of those who attend his briefing will return the next day to participate in the realization. This systematic quality of activities is further reflected in Kaprow’s use of standardized, uniformly available materials in his programs, such as “pocket mirrors (3” × 4” @ 12c ea.).”"
     credit: ""
     featured: 
     type: [ correspondence ]
@@ -10957,7 +10957,7 @@ object_list:
     year_filter: [ "1986" ]
     medium: ""
     location: "Collection of Emily Ruth Capper"
-    extended_caption: "In a [1989 interview with Richard Wood Massi](/object-index/614/), Allan Kaprow claimed to be modeling his activity booklets and films on the evolving form of airplane [“escape instructions.”](/object-index/614/#fig-614-b) He was something of an expert on the genre, given his frequent trips as a visiting professor, and the comparison is remarkably apt. The aircraft safety card uses photographs in a highly abstract way—not least because too much realism might cause passengers to panic. In this example, a man and boy float serenely in a swimming pool."
+    extended_caption: "In a [1989 interview with Richard Wood Massi](/object-index/614/), Allan Kaprow claimed to be modeling his activity booklets and films on the evolving form of airplane [“escape instructions.”](/object-index/614/#fig-614-i) He was something of an expert on the genre, given his frequent trips as a visiting professor, and the comparison is remarkably apt. The aircraft safety card uses photographs in a highly abstract way—not least because too much realism might cause passengers to panic. In this example, a woman floats serenely in a swimming pool."
     credit: ""
     featured: 
     type: [ archival materials ]
@@ -10998,7 +10998,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-617-a", id: "fig-617-b", id: "fig-617-c", id: "fig-617-d", id: "fig-617-e", id: "fig-617-f" ]
-    related_objects: [ id: "618", id: "619", id: "620", id: "622", id: "623", id: "624", id: "625" ]
+    related_objects: [ id: "618", id: "619", id: "620", id: "622", id: "623", id: "624", id: "625", id: "621" ]
 -
     id: "618"
     old_id: "11.34aa"
@@ -11065,11 +11065,12 @@ object_list:
     year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 20, folder 13"
-    extended_caption: ""
+    extended_caption: "Kaprow saved this set of instructions for using an anti-itch medication in his project file for the activity [Loss](/object-index/617/) (Jan 1973). Viewed through the lens of the avant-garde, the instruction sheet looks like a readymade score, and this is far from incidental in a practice like Kaprow’s, which tends to model his artistic forms on vernacular references."
     credit: ""
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-621-a", id: "fig-621-b" ]
+    related_objects: [ id: "617" ]
 -
     id: "622"
     old_id: "11.34e"

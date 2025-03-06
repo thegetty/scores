@@ -2797,7 +2797,7 @@ object_list:
     year_filter: [ "1959" ]
     medium: ""
     location: ""
-    extended_caption: "*Nos. 2* and *5* of Bussotti’s *Five Pieces for David Tudor* are in traditional music notation."
+    extended_caption: "Tudor regarded his realization of *No. 3* as a personal breakthrough. After all, in providing a score that is more of a drawing and provides little of any guidance to the performer, Bussotti effectively prompted Tudor to take a greater creative role in deciding what to play. This animation provides what we consider to be a reasonably accurate estimate as to how Tudor went about realizing the score for *No. 3*. On the left is Bussotti’s score, on the right is Tudor’s realization. We are fairly certain Tudor tried to play each element of Bussotti’s drawing, and loosely travelled from the left / top of the page to the bottom right, though with plenty of bouncing around the page in between. In many instances, Tudor’s penciled realization visually resembles various “events” or “objects” in Bussotti’s score (some of which Tudor circled in his own copy of Bussotti’s score). The wide variety of extended techniques Tudor used are largely a product of his own imagination as a performer; nothing in Bussotti’s score specifies that various kinds of sounds be made."
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -4229,27 +4229,27 @@ object_list:
 # REMOVED
 # -
 # id: "245"
--
-    id: "246"
-    old_id: "5.02h"
-    maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: [ "Brown, Earle", "Buchla, Ezra" ]
-    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
-    title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
-    date: "4 December 2021"
-    date_sort: "2021-12-04"
-    year_filter: [ "2021" ]
-    medium: ""
-    location: "Getty Center, Los Angeles"
-    extended_caption: |
-      The [score for Earle Brown’s *December 1952*](/object-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. It stands among the more pictorial contributions to *An Anthology of Chance Operations*. 
+# -
+#     id: "246"
+#     old_id: "5.02h"
+#     maker: [ "Earle Brown (American, 1926–2002)" ]
+#     people: [ "Brown, Earle", "Buchla, Ezra" ]
+#     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
+#     title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
+#     date: "4 December 2021"
+#     date_sort: "2021-12-04"
+#     year_filter: [ "2021" ]
+#     medium: ""
+#     location: "Getty Center, Los Angeles"
+#     extended_caption: |
+#       The [score for Earle Brown’s *December 1952*](/object-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. It stands among the more pictorial contributions to *An Anthology of Chance Operations*. 
       
-      [*December 1952*](/object-index/238/?region=3500,200,2600,2600#fig-238-m) can be found in the Getty Research Institute’s unique copy of An Anthology of Chance Operations (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
-    credit: "Used by permission of the Earle Brown Estate."
-    featured: 
-    type: [ video ]
-    figure: [ id: "fig-246" ]
-    related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301", id: "302" ]
+#       [*December 1952*](/object-index/238/?region=3500,200,2600,2600#fig-238-m) can be found in the Getty Research Institute’s unique copy of An Anthology of Chance Operations (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
+#     credit: "Used by permission of the Earle Brown Estate."
+#     featured: 
+#     type: [ video ]
+#     figure: [ id: "fig-246" ]
+#     related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "247"
     old_id: "5.02i"
@@ -5258,7 +5258,7 @@ object_list:
     year_filter: [ "1952" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 170, folder 1"
-    extended_caption: "The score for Earle Brown’s *December 1952* is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afromodernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation."
+    extended_caption: "The score for Earle Brown’s *December 1952* is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afromodernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation.<br><br>This score also appears in the Getty Research Institute’s unique copy of [*An Anthology of Chance Operations*](/object-index/238/#fig-238-m) (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young."
     credit: "Earle Brown Estate."
     featured: 
     type: [ score ]
@@ -5458,7 +5458,7 @@ object_list:
     credit: "Toshi Ichiyanagi Estate."
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-312-a", id: "fig-312-b", id: "fig-312-c", id: "fig-312-d", id: "fig-312-e" ]
+    figure: [ id: "fig-312-a", id: "fig-312-b", id: "fig-312-c", id: "fig-312-d" ]
 -
     id: "313"
     old_id: "5.19"
@@ -6051,7 +6051,6 @@ object_list:
       After George Brecht’s intensive period of composing event scores had ceased, he wrote this piece, titled *Event Score*, in August of 1965. As a reflection on the meaning and function of the intermedial format he had developed and honed, it considers the event score’s relationship to conscious and unconscious perception. Around the same time, one finds the following reflection in his notebook: 
       
       > These notices are thoughts that came from zero. Very few of the hundred or so that were written down came directly from a specific experience. Though they are simply what they are (appropriately poems for some), they are connected in my mind with musical scores; they have so far seemed to me scores for events. (Why only listen?) They are thoughts that can float around in your head, and then sometime perhaps 
-      > 
       > There is a woman with a yellow hat sitting on a white chair.
       > There is steam on top of my ice water.
       > A phone rings rooms away.
@@ -7212,7 +7211,7 @@ object_list:
     credit: "© Estate of Jackson Mac Low."
     featured: true
     type: [ correspondence ]
-    figure: [ id: "fig-406-a", id: "fig-406-b", id: "fig-406-c", id: "fig-406-d", id: "fig-406-e", id: "fig-406-f", id: "fig-406-g", id: "fig-406-h", id: "fig-406-i", id: "fig-406-j", id: "fig-406-k", id: "fig-406-l" ]
+    figure: [ id: "fig-406-a", id: "fig-406-b", id: "fig-406-g", id: "fig-406-h", id: "fig-406-e", id: "fig-406-f", id: "fig-406-c", id: "fig-406-d", id: "fig-406-i", id: "fig-406-j", id: "fig-406-k", id: "fig-406-l" ]
 -
     id: "407"
     old_id: "7.07"
@@ -7937,7 +7936,7 @@ object_list:
     year_filter: [ "1980", "1981", "1982", "1983", "1984" ]
     medium: "photograph contact sheets"
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 82"
-    extended_caption: "These photographic contact sheets created by the French photographer and experimental filmmaker Babette Mangolte of a 1980 performance of *We Shall Run* invite reflection on how different modes of documentation impact the reception of a dance. While some photographs of Rainer’s dances have become iconic stand-ins for performances that are in reality irreducibly complex, these cinematic contact sheets offer a more textured representation of the dance that enables us to dwell on otherwise ephemeral, quick-shifting movements. This performance of *We Shall Run* was also [captured in a video](/object-index/438/), included in [chapter 8](/08/)."
+    extended_caption: "These photographic contact sheets created by the French photographer and experimental filmmaker Babette Mangolte of an early 1980s performance of *We Shall Run* invite reflection on how different modes of documentation impact the reception of a dance. While some photographs of Rainer’s dances have become iconic stand-ins for performances that are in reality irreducibly complex, these cinematic contact sheets offer a more textured representation of the dance that enables us to dwell on otherwise ephemeral, quick-shifting movements. This performance of *We Shall Run* was also [captured in a video](/object-index/438/), included in [chapter 8](/08/)."
     credit: ""
     featured: 
     type: [ photograph ]
@@ -8264,7 +8263,7 @@ object_list:
     credit: "Used with Permission. © Yvonne Rainer."
     featured: 
     type: [ score ]
-    figure: [ id: "fig-465-a", id: "fig-465-b", id: "fig-465-c", id: "fig-465-d", id: "fig-465-e", id: "fig-465-f", id: "fig-465-g", id: "fig-465-h", id: "fig-465-i", id: "fig-465-j", id: "fig-465-k", id: "fig-465-l", id: "fig-465-m", id: "fig-465-n", id: "fig-465-o", id: "fig-465-p", id: "fig-465-q", id: "fig-465-r", id: "fig-465-s" ]
+    figure: [ id: "fig-465-a", id: "fig-465-b", id: "fig-465-c", id: "fig-465-d", id: "fig-465-e", id: "fig-465-f", id: "fig-465-g", id: "fig-465-h", id: "fig-465-i", id: "fig-465-j", id: "fig-465-k", id: "fig-465-l", id: "fig-465-m", id: "fig-465-n", id: "fig-465-o", id: "fig-465-p", id: "fig-465-q", id: "fig-465-r" ]
     related_objects: [ id: "473", id: "439", id: "440", id: "444", id: "445", id: "442", id: "472", id: "450" ]
 -
     id: "466"
@@ -8372,7 +8371,7 @@ object_list:
     credit: "Used with Permission. © Yvonne Rainer."
     featured: true
     type: [ score ]
-    figure: [ id: "fig-471-a", id: "fig-471-b" ]
+    figure: [ id: "fig-471-a" ]
     related_objects: [ id: "454", id: "453" ]
 -
     id: "472"
@@ -9376,7 +9375,7 @@ object_list:
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: true
     type: [ artwork ]
-    figure: [ id: "fig-527-a", id: "fig-527-b" ]
+    figure: [ id: "fig-527-b", id: "fig-527-a" ]
     related_objects: [ id: "525", id: "526", id: "530", id: "528", id: "518", id: "541", id: "542", id: "544", id: "258", id: "545", id: "546", id: "549", id: "550", id: "551" ]
 -
     id: "528"
@@ -10349,7 +10348,7 @@ object_list:
     credit: ""
     featured: 
     type: [ sketches and materials ]
-    figure: [ id: "fig-581-a", id: "fig-581-b", id: "fig-581-c", id: "fig-581-d", id: "fig-581-e", id: "fig-581-f" ]
+    figure: [ id: "fig-581-a", id: "fig-581-b", id: "fig-581-c", id: "fig-581-f", id: "fig-581-d", id: "fig-581-e" ]
     related_objects: [ id: "582", id: "583" ]
 -
     id: "582"
@@ -10636,7 +10635,7 @@ object_list:
     credit: ""
     featured: true
     type: [ score ]
-    figure: [ id: "fig-597-a", id: "fig-597-b", id: "fig-597-c", id: "fig-597-d", id: "fig-597-e", id: "fig-597-f", id: "fig-597-g" ]
+    figure: [ id: "fig-597-e", id: "fig-597-f", id: "fig-597-g", id: "fig-597-b", id: "fig-597-c", id: "fig-597-d", id: "fig-597-a" ]
     related_objects: [ id: "563", id: "564", id: "572", id: "561", id: "602", id: "603", id: "604" ]
 -
     id: "598"
@@ -11177,7 +11176,7 @@ object_list:
     credit: ""
     featured: 
     type: [ programs and flyers ]
-    figure: [ id: "fig-627-a", id: "fig-627-b", id: "fig-627-c", id: "fig-627-d" ]
+    figure: [ id: "fig-627-b", id: "fig-627-a", id: "fig-627-c", id: "fig-627-d" ]
     related_objects: [ id: "575", id: "626", id: "628", id: "629" ]
 -
     id: "628"

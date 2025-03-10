@@ -113,7 +113,6 @@ if (!window.customElements.get('image-sequence')) {
   justify-content: center;
   max-width: 100vw;
   max-height: 100vh;
-  height: 100%;
 }
 
 .${overlay} {

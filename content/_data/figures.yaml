@@ -1644,9 +1644,7 @@ figure_list:
     id: "fig-015"
     src: 
     zoom: 
-    # poster: audio-poster.jpg
-    # media_type: audio
-    # media_id: figures/audio/sample.mp3
+    audio: true
     poster: figures/10_Intersection_3_For_Piano.jpg
     media_type: vimeo
     media_id: 1026642398/e26d287d78
@@ -1656,18 +1654,17 @@ figure_list:
     id: "fig-016"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
     id: "fig-017"
     src: 
     zoom: 
-    # poster: audio-poster.jpg
-    # media_type: audio
-    # media_id: figures/audio/sample.mp3
+    audio: true
     poster: figures/09-Intersection_3_1953.jpg
     media_type: vimeo
     media_id: 1026620819/f828053a54
@@ -1677,9 +1674,10 @@ figure_list:
     id: "fig-018"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
@@ -5611,63 +5609,70 @@ figure_list:
     id: "fig-075"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
     id: "fig-076"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
     id: "fig-077"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
     id: "fig-078"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
     id: "fig-079"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
     id: "fig-080"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
     id: "fig-081"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/081_gri_980039_c060_a.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
@@ -9562,18 +9567,20 @@ figure_list:
     id: "fig-160"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
     id: "fig-161"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -
@@ -10534,9 +10541,10 @@ figure_list:
     id: "fig-203"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: "Delicate rustling sounds made with paper are joined by occasional, distinct thuds, rips, abrasive scraping, and loud pops (also made with paper) until the sounds calm again to soft rustling."
 -
@@ -12310,18 +12318,20 @@ figure_list:
     id: "fig-252"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: "Audio recording of a man and a woman reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. "
 -
     id: "fig-253"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: "Audio recording of male and female voices reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. Two original voices have been duplicated and layered electronically so that it sounds as if eight performers are speaking simultaneously, making it difficult to focus attention on any one voice for long. At times the voices are lowered in pitch. The final moments of the recording become quiet and feature only the original, single male and female voices, heard clearly."
 -
@@ -14911,9 +14921,10 @@ figure_list:
     id: "fig-351"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: "Audio recording that begins with a brief sound of rushing water and then settles into the repeated sounding of two or three overlapping and/or alternating tones of a hollow, wooden, knocking nature. Their rhythm evokes the sound of dripping water but the tones are hard and percussive. The frequency of the sounds continuously slows over the duration of the recording until there are significant silences between sounds."
 -
@@ -15317,9 +15328,10 @@ figure_list:
     id: "fig-382"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: "Audio recording that begins with ambient noises of a seated audience settling into a room. Then long periods of silence are interrupted by gentle giggles, murmurs, single piano tones, footsteps, and outbreaks of uproarious laughter and clapping."
 -
@@ -16533,9 +16545,10 @@ figure_list:
     id: "fig-437"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/gri_2006_m_24_r26.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: "Audio recording of woman giving movement instructions to a group of people."
 -
@@ -21224,9 +21237,10 @@ figure_list:
     id: "fig-577"
     src: 
     zoom: 
+    audio: true
     poster: audio-poster.jpg
-    media_type: audio
-    media_id: figures/audio/sample.mp3
+    media_type: vimeo
+    media_id: 1111111/000000
     label: ""
     alt: ""
 -

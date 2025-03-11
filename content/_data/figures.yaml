@@ -1916,15 +1916,15 @@ figure_list:
     media_id: 
     label: ""
     alt: "Horizontal rectangular press clipping the width of three columns completely filled with text in English. Title “‘Magnetic Music’ Not Ready” in large, bold sans serif typeface above all columns of text. Black-and-white photograph of a man with short hair at bottom of first column and captioned “John Cage . . . A New Sound.” All text in clipping is part of the article. "
--
-    id: "fig-035"
-    src: figures/r2014402_980039_b62_f5_006.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Front page of the *Daily Illini*showing all articles above the fold. Headline reads “Reds Protest German Action.” Paper creased vertically at center. "
+# -
+#     id: "fig-035"
+#     src: figures/r2014402_980039_b62_f5_006.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Front page of the *Daily Illini*showing all articles above the fold. Headline reads “Reds Protest German Action.” Paper creased vertically at center. "
 -
     id: "fig-036-a"
     src: figures/r2014402_980039_b62_f5_007.jpg
@@ -12247,15 +12247,15 @@ figure_list:
     aspect_ratio: widescreen
     label: ""
     alt: "Color video showing man wearing all black sitting outdoors at a table with electronic sound equipment on it. He wraps lengths of butcher paper around his head so that eventually he cannot see, while around his neck drapes a contact microphone that amplifies the sounds in a grating manner. Once his head is completely wrapped, he sits in near silence."
--
-    id: "fig-246"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Color video showing a man wearing all black and holding a violin. He stands outdoors on a museum plaza, in the center of a square performance area demarcated by lines of red tape on the ground. Around him and inside the square area appear randomly placed shorter lengths of red tape positioned perpendicularly to one another. He plays a series of brief yet sustained tones on the violin, many with overtones, and occasionally moves to other parts of the performance area."
+# -
+#     id: "fig-246"
+#     src: placeholder.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Color video showing a man wearing all black and holding a violin. He stands outdoors on a museum plaza, in the center of a square performance area demarcated by lines of red tape on the ground. Around him and inside the square area appear randomly placed shorter lengths of red tape positioned perpendicularly to one another. He plays a series of brief yet sustained tones on the violin, many with overtones, and occasionally moves to other parts of the performance area."
 -
     id: "fig-247"
     src: 
@@ -14107,15 +14107,15 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
--
-    id: "fig-312-e"
-    src: figures/r2012558_980039_b10_f5_008.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Yellow page with black handwritten text in English. “Greetings!” at top left followed by two short sections, one titled “Note to David” and the Other “Note to Pauline.” “Hi Alvin & May!” below text. Text at center and covers half of page. Wide margins. "
+# -
+#     id: "fig-312-e"
+#     src: figures/r2012558_980039_b10_f5_008.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: "Yellow page with black handwritten text in English. “Greetings!” at top left followed by two short sections, one titled “Note to David” and the Other “Note to Pauline.” “Hi Alvin & May!” below text. Text at center and covers half of page. Wide margins. "
 -
     id: "fig-313-a"
     src: figures/r2013738_980039_b12_f24_001.jpg
@@ -15077,7 +15077,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Recto 1"
     alt: "Black and white collage of newspaper articles in English, German, Italian, and Danish featuring text columns, documentary photographs, article headlines, and newspaper titles on two leaves printed on both sides."
 -
     id: "fig-368-b"
@@ -15086,7 +15086,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Recto 2"
     alt: "Black and white collage of newspaper articles in English, German, Italian, and Danish featuring text columns, documentary photographs, article headlines, and newspaper titles."
 -
     id: "fig-368-c"
@@ -15095,7 +15095,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Verso 1"
     alt: "Black and white collage of newspaper articles in English, German, Italian, and Danish featuring text columns, documentary photographs, article headlines, and newspaper titles."
 -
     id: "fig-368-d"
@@ -15104,7 +15104,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Verso 2"
     alt: "Black and white collage of newspaper articles in English, German, Italian, and Danish featuring text columns, documentary photographs, article headlines, and newspaper titles."
 -
     id: "fig-369-a"
@@ -15608,7 +15608,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "1.1"
     alt: "Typewritten letter on white page consisting of three lengthy paragraphs and sentences separated by carriage returns. Formatted with large margins. Above first paragraph, aligned right read the words “(day of last council).” "
 -
     id: "fig-402-b"
@@ -15617,7 +15617,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "1.2"
     alt: "Handwritten letter in blue ink consisting of three sentences covering one full page. Signed “George” at bottom right. "
 -
     id: "fig-402-c"
@@ -15626,7 +15626,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "2"
     alt: "Typewritten letter on white page consisting of three lengthy paragraphs and sentences separated by carriage returns. Formatted with large margins. Signed “George” below last paragraph."
 -
     id: "fig-403-a"
@@ -17257,15 +17257,15 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
--
-    id: "fig-465-s"
-    src: figures/r2015842_2006_m_24_b22_f17_049.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
+# -
+#     id: "fig-465-s"
+#     src: figures/r2015842_2006_m_24_b22_f17_049.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: ""
 -
     id: "fig-466-a"
     src: figures/gri_2006_m_24_61_a_330511ds.jpg
@@ -17437,15 +17437,15 @@ figure_list:
     media_id: 
     label: ""
     alt: "Graph paper divided with red ink lines into 38 x 31 table, columns labeled with numbers, rows labeled with short phrases, and cells filled with numbers, all text handwritten in pencil. Roughly ten percent of cells filled with numbers."
--
-    id: "fig-471-b"
-    src: figures/r83687_2013_m_10_002.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
+# -
+#     id: "fig-471-b"
+#     src: figures/r83687_2013_m_10_002.jpg
+#     zoom: true
+#     poster: 
+#     media_type: 
+#     media_id: 
+#     label: ""
+#     alt: ""
 -
     id: "fig-472-a"
     src: figures/r2013910_2006_m_24_b1_f9_021.jpg
@@ -19713,7 +19713,7 @@ figure_list:
     poster: figures/sequences/527/gri_890164_b223_001_mm.jpg
     media_type: 
     media_id: 
-    label: ""
+    label: "Flipbook"
     alt: ""
     sequences:
       - id: "figures/sequences/527/"
@@ -19730,7 +19730,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Overview"
     alt: ""
 -
     id: "fig-528"

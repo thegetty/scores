@@ -60,9 +60,9 @@ object_list:
     people: [ "Brown, Earle" ]
     more_people: ""
     title: "Prefatory notes for *December 1952*, published in *Folio and 4 Systems*"
-    date: "1961"
-    date_sort: "1961-01-01"
-    year_filter: [ "1961" ]
+    date: "1952"
+    date_sort: "1952-01-01"
+    year_filter: [ "1952" ]
     medium: ""
     location: ""
     extended_caption: "*December 1952* was widely distributed as part of Earle Brown’s *Folio and 4 Systems*, a collection of graphic scores composed between 1952 and 1954 and published by Associated Music Publishers, New York, in 1961."
@@ -137,7 +137,7 @@ object_list:
     extended_caption: "George Brecht’s notes on this page read: “We seldom find it practical to think in uni-dimensional terms, because of this situationality, this awareness of many dimensions, but analysis never seems very interesting until it becomes so complex that it flows out into experience. We take the experience, and let it go at that. So many relationships.”"
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
-    type: [ archival materials ]
+    type: [ sketches and materials ]
     figure: [ id: "fig-007" ]
     related_objects: [ id: "379", id: "249", id: "391", id: "384", id: "378", id: "262", id: "390", id: "385", id: "386", id: "389" ]
 -
@@ -297,7 +297,7 @@ object_list:
 -
     id: "017"
     old_id: "1.06"
-    maker: [ "Morton Feldman, composer (American, 1926–87)", "Steffen Schleiermacher, piano (German, b. 1960)" ]
+    maker: [ "Morton Feldman, (American, 1926–87)", "Steffen Schleiermacher, (German, b. 1960)" ]
     people: [ "Feldman, Morton", "Schleiermacher, Steffen" ]
     more_people: ""
     title: "Recording of Steffen Schleiermacher performing *Intersection 3*"
@@ -314,7 +314,7 @@ object_list:
 -
     id: "018"
     old_id: "1.07"
-    maker: [ "Morton Feldman, composer (American, 1926–87)", "Frank Denyer, piano (English, b. 1943)" ]
+    maker: [ "Morton Feldman, (American, 1926–87)", "Frank Denyer, (English, b. 1943)" ]
     people: [ "Feldman, Morton", "Denyer, Frank" ]
     more_people: ""
     title: "Recording of Frank Denyer performing *Intersection 3*"
@@ -351,13 +351,13 @@ object_list:
     maker: 
     people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
-    title: "Audio sampler of Tudor’s sonorities for *Intersection 3*"
+    title: "Audio sampler of David Tudor’s sonorities for *Intersection 3*"
     date: "1953"
     date_sort: "1953-01-01"
     year_filter: [ "1953" ]
     medium: ""
     location: ""
-    extended_caption: ""
+    extended_caption: "This digital feature allows users to directly 'play' individual attacks from Tudor's performance of Morton Feldman's *Intersection 3*. These twelve vertical segements from Feldman's score have been reordered from the highest pitches (upper right) to lowest (lower left)."
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -503,11 +503,11 @@ object_list:
     old_id: "1.11f"
     maker: 
     people: [ "Cage, John", "Tudor, David", "Feldman, Morton", "Brown, Earle" ]
-    more_people: [ "Stockhausen, Karlheinz", "Wolff, Christian" ]
+    more_people: [ "Stockhausen, Karlheinz", "Wolff, Christian", "Nilsson, Bo" ]
     title: "Program for a performance featuring David Tudor and John Cage"
-    date: "n.d."
-    date_sort: "1956-01-01"
-    year_filter: [ "1956" ]
+    date: "late 1950s"
+    date_sort: "1955-01-01"
+    year_filter: [ "1955", "1956", "1957", "1958", "1959" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 71, folder 3"
     extended_caption: "A handwritten note in ink by an unknown person reads: “my mother wouldn’t let me do that to our piano.”"
@@ -601,23 +601,23 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-034" ]
--
-    id: "035"
-    old_id: "1.12f"
-    maker: 
-    people: [ "Defibaugh, Duffy", "Cage, John", "Brown, Earle" ]
-    more_people: [ "Barron, Bebe and Louis", "Henry, Pierre" ]
-    title: "Front page of the *Daily Illini*"
-    date: "March 1953"
-    date_sort: "1953-03-01"
-    year_filter: [ "1953" ]
-    medium: ""
-    location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
-    extended_caption: ""
-    credit: ""
-    featured: 
-    type: [ press clipping ]
-    figure: [ id: "fig-035" ]
+# -
+#     id: "035"
+#     old_id: "1.12f"
+#     maker: 
+#     people: [ "Defibaugh, Duffy", "Cage, John", "Brown, Earle" ]
+#     more_people: [ "Barron, Bebe and Louis", "Henry, Pierre" ]
+#     title: "Front page of the *Daily Illini*"
+#     date: "March 1953"
+#     date_sort: "1953-03-01"
+#     year_filter: [ "1953" ]
+#     medium: ""
+#     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
+#     extended_caption: ""
+#     credit: ""
+#     featured: 
+#     type: [ press clipping ]
+#     figure: [ id: "fig-035" ]
 -
     id: "036"
     old_id: "1.12g"
@@ -1154,7 +1154,7 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
-    title: "Final version of the second realization of John Cage’s *Solo for Piano* for the *Indeterminacy* recording (1959)"
+    title: "Final version of the second realization of John Cage’s *Solo for Piano* for the *Indeterminacy* recording"
     date: "1958"
     date_sort: "1958-01-01"
     year_filter: [ "1958" ]
@@ -1256,7 +1256,7 @@ object_list:
     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
     people: [ "Cage, John", "Tudor, David" ]
     more_people: ""
-    title: "Flipbook 1: David Tudor’s first realization of John Cage’s *Concert for Piano and Orchestra*"
+    title: "Flipbook: David Tudor’s first realization of John Cage’s *Concert for Piano and Orchestra*"
     date: "1958"
     date_sort: "1958-01-01"
     year_filter: [ "1958" ]
@@ -1547,7 +1547,7 @@ object_list:
     maker: 
     people: [ "Cunningham, Merce", "Cage, John", "Tudor, David" ]
     more_people: ""
-    title: "Program for *Antic Meet* performance of John Cage’s *Solo for Piano*, Eleventh American Dance Festival, Connecticut College"
+    title: "Program for Antic Meet performance of John Cage’s *Concert for Piano and Orchestra*, Eleventh American Dance Festival, Connecticut College"
     date: "14 August 1958"
     date_sort: "1958-08-14"
     year_filter: [ "1958" ]
@@ -1564,7 +1564,7 @@ object_list:
     maker: 
     people: [ "Tudor, David", "Cage, John", "Cunningham, Merce" ]
     more_people: ""
-    title: "Program for *Antic Meet* performance of John Cage’s *Solo for Piano*, Twelfth American Dance Festival, Connecticut College"
+    title: "Program for Antic Meet performance of John Cage’s *Concert for Piano and Orchestra*, Twelfth American Dance Festival, Connecticut College"
     date: "13 August 1959"
     date_sort: "1959-08-13"
     year_filter: [ "1959" ]
@@ -2135,7 +2135,7 @@ object_list:
     credit: "Courtesy of the John Cage Trust."
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-123-a", id: "fig-123-b" ]
+    figure: [ id: "fig-123-b", id: "fig-123-a" ]
 -
     id: "124"
     old_id: "2.16b"
@@ -2211,9 +2211,9 @@ object_list:
     people: [ "Tudor, David", "Artaud, Antonin", "Richards, Mary Caroline" ]
     more_people: ""
     title: "David Tudor’s typescript of M. C. Richards’s English translation of Antonin Artaud’s “An Affective Athleticism”"
-    date: ""
-    date_sort: "1951-01-01"
-    year_filter: [ "1951" ]
+    date: "mid 1950s"
+    date_sort: "1955-01-01"
+    year_filter: [ "1953", "1954", "1955", "1956", "1957" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 67, folder 13"
     extended_caption: ""
@@ -2228,9 +2228,9 @@ object_list:
     people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
     title: "David Tudor performing John Cage’s *Water Music* at Darmstadt"
-    date: "1958, or possibly 1956"
+    date: "1956"
     date_sort: "1956-01-01"
-    year_filter: [ "1956", "1958" ]
+    year_filter: [ "1956" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 158"
     extended_caption: ""
@@ -2775,7 +2775,7 @@ object_list:
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "David Tudor performing live Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
-    date: "n.d."
+    date: "ca. 1959"
     date_sort: "1959-01-01"
     year_filter: [ "1959" ]
     medium: ""
@@ -2797,7 +2797,7 @@ object_list:
     year_filter: [ "1959" ]
     medium: ""
     location: ""
-    extended_caption: "*Nos. 2* and *5* of Bussotti’s *Five Pieces for David Tudor* are in traditional music notation."
+    extended_caption: "Tudor regarded his realization of *No. 3* as a personal breakthrough. After all, in providing a score that is more of a drawing and provides little of any guidance to the performer, Bussotti effectively prompted Tudor to take a greater creative role in deciding what to play. This animation provides what we consider to be a reasonably accurate estimate as to how Tudor went about realizing the score for *No. 3*. On the left is Bussotti’s score, on the right is Tudor’s realization. We are fairly certain Tudor tried to play each element of Bussotti’s drawing, and loosely travelled from the left / top of the page to the bottom right, though with plenty of bouncing around the page in between. In many instances, Tudor’s penciled realization visually resembles various “events” or “objects” in Bussotti’s score (some of which Tudor circled in his own copy of Bussotti’s score). The wide variety of extended techniques Tudor used are largely a product of his own imagination as a performer; nothing in Bussotti’s score specifies that various kinds of sounds be made."
     credit: ""
     featured: 
     type: [ digital feature ]
@@ -2861,7 +2861,7 @@ object_list:
     people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Diagram of Sylvano Bussotti’s *Pièces de chair II*"
-    date: "n.d."
+    date: "1961"
     date_sort: "1961-01-01"
     year_filter: [ "1961" ]
     medium: ""
@@ -2913,9 +2913,9 @@ object_list:
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "Ink drawing by Sylvano Bussotti to David Tudor"
-    date: "n.d."
-    date_sort: "1961-01-01"
-    year_filter: [ "1961" ]
+    date: "early 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -2930,9 +2930,9 @@ object_list:
     people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Signature on score fragment"
-    date: "n.d"
-    date_sort: "1961-01-01"
-    year_filter: [ "1961" ]
+    date: "early 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -2947,9 +2947,9 @@ object_list:
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "Envelope from Sylvano Bussotti to David Tudor"
-    date: "n.d."
-    date_sort: "1959-01-01"
-    year_filter: [ "1959" ]
+    date: "early 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -2981,9 +2981,9 @@ object_list:
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "Ink drawing by Sylvano Bussotti to David Tudor"
-    date: "n.d."
-    date_sort: "1959-01-01"
-    year_filter: [ "1959" ]
+    date: "early 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: "From 1959 to 1967, Sylvano Bussotti sent David Tudor packages that included personalized signatures, drawings, and graphic notations in colored pen, often in fragmented form."
@@ -2998,9 +2998,9 @@ object_list:
     people: [ "Bussotti, Sylvano" ]
     more_people: ""
     title: "Score fragment"
-    date: "n.d."
-    date_sort: "1959-01-01"
-    year_filter: [ "1959" ]
+    date: "early 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -3015,9 +3015,9 @@ object_list:
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "Miscellaneous scores by Sylvano Bussotti sent to David Tudor"
-    date: "1959(?)"
-    date_sort: "1959-01-01"
-    year_filter: [ "1959" ]
+    date: "early 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -3100,9 +3100,9 @@ object_list:
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
     title: "Letter from Sylvano Bussotti to David Tudor"
-    date: "n.d."
-    date_sort: "1959-01-01"
-    year_filter: [ "1959" ]
+    date: "early 1960s"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
     extended_caption: ""
@@ -3371,10 +3371,10 @@ object_list:
     maker: [ "Manfred Leve (German, 1936–2012)" ]
     people: [ "Leve, Manfred", "Tudor, David" ]
     more_people: ""
-    title: "David Tudor performing with gloves"
-    date: "ca. 1959"
-    date_sort: "1959-01-01"
-    year_filter: [ "1959" ]
+    title: "David Tudor performing with gloves as part of the “Contre-Festival,” organized during the IGNM-Weltmusikfestes, Atelier Mary Bauermeister, Cologne, Germany"
+    date: "15 June 1960"
+    date_sort: "1960-06-15"
+    year_filter: [ "1960" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 159"
     extended_caption: ""
@@ -3526,7 +3526,7 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     people: [ "Patterson, Benjamin", "Knowles, Alison", "Corner, Philip", "Vautier, Ben", "Andersen, Eric", "Ritter, Willem de", "Higgins, Dick", "Williams, Emmett", "Hendricks, Geoffrey", "Klingenberg, Bent af" ]
     more_people: ""
-    title: "Excerpt of *Paper Piece* performed by Ben Patterson, Ben Vautier, Alison Knowles, Eric Andersen, Willem de Ritter, Bent af Klingenberg, Philip Corner, Dick Higgins, Emmett Williams, and Geoffrey Hendricks, in Malmö, Sweden"
+    title: "Excerpt of *Paper Piece* performed by Benjamin Patterson, Ben Vautier, Alison Knowles, Eric Andersen, Willem de Ridder, Bengt af Klintberg, Philip Corner, Dick Higgins, Emmett Williams, and Geoffrey Hendricks, in Malmö, Sweden"
     date: "1992"
     date_sort: "1992-01-01"
     year_filter: [ "1992" ]
@@ -3771,7 +3771,7 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     people: [ "Patterson, Benjamin" ]
     more_people: ""
-    title: "Notes on art"
+    title: "Benjamin Patterson's Notes on Philosophy and Art"
     date: "1960s"
     date_sort: "1960-01-01"
     year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
@@ -4120,7 +4120,7 @@ object_list:
     maker: [ "Takehisa Kosugi (Japanese, 1938–2018)" ]
     people: [ "Kosugi, Takehisa", "Wada, Tashi" ]
     more_people: [ "Cooper, Sarah" ]
-    title: "Tashi Wada performing Kosugi’s *Micro 1* (1961) as part of the event *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
+    title: "Tashi Wada performing Takehisa Kosugi’s *Micro 1* (1961) as part of the event *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
     year_filter: [ "2021" ]
@@ -4229,27 +4229,27 @@ object_list:
 # REMOVED
 # -
 # id: "245"
--
-    id: "246"
-    old_id: "5.02h"
-    maker: [ "Earle Brown (American, 1926–2002)" ]
-    people: [ "Brown, Earle", "Buchla, Ezra" ]
-    more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
-    title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
-    date: "4 December 2021"
-    date_sort: "2021-12-04"
-    year_filter: [ "2021" ]
-    medium: ""
-    location: "Getty Center, Los Angeles"
-    extended_caption: |
-      The [score for Earle Brown’s *December 1952*](/object-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. It stands among the more pictorial contributions to *An Anthology of Chance Operations*. 
+# -
+#     id: "246"
+#     old_id: "5.02h"
+#     maker: [ "Earle Brown (American, 1926–2002)" ]
+#     people: [ "Brown, Earle", "Buchla, Ezra" ]
+#     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
+#     title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
+#     date: "4 December 2021"
+#     date_sort: "2021-12-04"
+#     year_filter: [ "2021" ]
+#     medium: ""
+#     location: "Getty Center, Los Angeles"
+#     extended_caption: |
+#       The [score for Earle Brown’s *December 1952*](/object-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. It stands among the more pictorial contributions to *An Anthology of Chance Operations*. 
       
-      [*December 1952*](/object-index/238/?region=3500,200,2600,2600#fig-238-m) can be found in the Getty Research Institute’s unique copy of An Anthology of Chance Operations (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
-    credit: "Used by permission of the Earle Brown Estate."
-    featured: 
-    type: [ video ]
-    figure: [ id: "fig-246" ]
-    related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301", id: "302" ]
+#       [*December 1952*](/object-index/238/?region=3500,200,2600,2600#fig-238-m) can be found in the Getty Research Institute’s unique copy of An Anthology of Chance Operations (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
+#     credit: "Used by permission of the Earle Brown Estate."
+#     featured: 
+#     type: [ video ]
+#     figure: [ id: "fig-246" ]
+#     related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "247"
     old_id: "5.02i"
@@ -4351,7 +4351,7 @@ object_list:
       
       Performed by Julia Antinozzi, Juli Brandano, Wendell Gray II, Leanna Grennan, Amelia Heintzelman, Jordan Demetrius Lloyd, Jade Manns, Leah Samuels, and Ella Wasserman-Smith; sound design by Joseph Allan Johnson; and choreographed and directed by Phoebe Berglund.
       
-      The score for [*Beach Crawl*](/object-index/238/?region=500,200,1550,1950#fig-238-m) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young."
+      The score for [*Beach Crawl*](/object-index/238/?region=500,200,1550,1950#fig-238-m) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
     credit: ""
     featured: 
     type: [ video ]
@@ -4370,7 +4370,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: |
-      This recording of [one of Jackson Mac Low’s scores included in *An Anthology*](/object-index/238/#fig-238-u) features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can appreciate the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry.
+      This recording of [one of Jackson Mac Low’s scores included in *An Anthology*](/object-index/238/#fig-238-av) features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can appreciate the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry.
       
       The score for [*The text on the opposite page*](/object-index/238/#fig-238-av) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
     credit: ""
@@ -4391,7 +4391,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: |
-      This recording of one of Jackson Mac Low’s scores included in *An Anthology* features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can appreciate the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry.
+      This recording of [one of Jackson Mac Low’s scores included in *An Anthology*](/object-index/238/#fig-238-av) features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can appreciate the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry.
       
       The score for [*The text on the opposite page*](/object-index/238/#fig-238-av) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
     credit: " © Estate of Jackson Mac Low."
@@ -4414,7 +4414,7 @@ object_list:
     extended_caption: |
       This performance was directed by Simone Forti, and produced by Julie Martin and Pooh Kaye.
       
-      Forti's [“dance constructions” for *Huddle* and *Slant Board*](/object-index/238/?region=4100,1100,1600,1100#fig-238-bg) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
+      Forti's scores for the [“dance constructions” *Huddle* and *Slant Board*](/object-index/238/?region=4100,1100,1600,1100#fig-238-bg) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
     credit: "Used Courtesy of Artpix. © Simone Forti."
     featured: 
     type: [ video ]
@@ -4432,7 +4432,7 @@ object_list:
     year_filter: [ "1962" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 55, folder 31"
-    extended_caption: "This program for an untitled concert at New York’s Living Theatre was one of two such events in early 1962 organized to raise funds for the publication of [*An Anthology*](/object-index/238/). The program shows the varied perspectives on experimentalism that characterized the downtown scene. Beginning with some of George Brecht’s events, the evening included Earle Brown’s groundbreaking graphic score [*December 1952*](/object-index/238/#fig-238-m), John Cage’s lecture-like [*45′ for a Speaker*](/object-index/238/#fig-238-u) (read by La Monte Young), an improvised mashup of twelve-bar blues and Ornette Coleman–inspired extended techniques performed by Young and Henry Flynt, [interactive sculptures](/object-index/238/#fig-238-t) by Walter De Maria (set in the lobby), and other compositions by Yoko Ono, Dick Higgins, and Toshi Ichiyanagi."
+    extended_caption: "This program for an untitled concert at New York’s Living Theatre was one of two such events in early 1962 organized to raise funds for the publication of [*An Anthology*](/object-index/238/). The program shows the varied perspectives on experimentalism that characterized the downtown scene. Beginning with some of George Brecht’s events, the evening included Earle Brown’s groundbreaking graphic score [*December 1952*](/object-index/238/#fig-238-m), John Cage’s lecture-like [*45′ for a Speaker*](/object-index/238/#fig-238-u) (read by La Monte Young), an improvised mashup of twelve-bar blues and Ornette Coleman–inspired extended techniques performed by Young and Henry Flynt, [interactive sculptures](/object-index/238/#fig-238-u) by Walter De Maria (set in the lobby), and other compositions by Yoko Ono, Dick Higgins, and [Toshi Ichiyanagi](/object-index/238/#fig-238-aa)."
     credit: ""
     featured: 
     type: [ programs and flyers ]
@@ -4462,13 +4462,13 @@ object_list:
     maker: 
     people: [ "Young, La Monte", "Ono, Yoko", "Maxfield, Richard", "Tudor, David" ]
     more_people: 
-    title: "Flyer for “Three Evenings of Picnic and Electronic Music by Richard Maxfield,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
+    title: "Flyer for “Three Evenings of Picnic and Electronic Music by Richard Maxfield,” part of the concert series organized by La Monte Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY"
     date: "28–30 April 1961"
     date_sort: "1961-04-28"
     year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 38, folder 16"
-    extended_caption: "From December 1960 to June 1961, La Monte Young and Yoko Ono hosted an experimental concert series in Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
+    extended_caption: "From December 1960 to June 1961, La Monte Young hosted an experimental concert series in Yoko Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
     credit: ""
     featured: 
     type: [ programs and flyers ]
@@ -4480,14 +4480,14 @@ object_list:
     maker: 
     people: [ "Young, La Monte", "Ono, Yoko" ]
     more_people: ""
-    title: "Flyer for “Compositions by La Monte Young,” part of the concert series organized by Yoko Ono and Young at Ono’s studio, 112 Chambers Street, New York, NY"
+    title: "Flyer for “Compositions by La Monte Young,” part of the concert series organized by Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY"
     date: "19–20 May 1961"
     date_sort: "1961-05-19"
     year_filter: [ "1961" ]
     date_end: 31 19–20 May 1961
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 38, folder 16"
-    extended_caption: "From December 1960 to June 1961, La Monte Young and Yoko Ono hosted an experimental concert series in Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
+    extended_caption: "From December 1960 to June 1961, La Monte Young hosted an experimental concert series in Yoko Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
     credit: ""
     featured: 
     type: [ programs and flyers ]
@@ -4499,14 +4499,14 @@ object_list:
     maker: 
     people: [ "Young, La Monte", "Ono, Yoko" ]
     more_people: [ "Dunn, Robert", "Morris, Robert" ]
-    title: "Program for “Compositions by La Monte Young,” part of the concert series organized by Yoko Ono and Young at Ono’s studio, 112 Chambers Street, New York, NY"
+    title: "Program for “Compositions by La Monte Young,” part of the concert series organized by Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY"
     date: "19–20 May 1961"
     date_sort: "1961-05-19"
     year_filter: [ "1961" ]
     date_end: 31 19–20 May 1961
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 38, folder 16"
-    extended_caption: "From December 1960 to June 1961, La Monte Young and Yoko Ono hosted an experimental concert series in Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
+    extended_caption: "From December 1960 to June 1961, La Monte Young hosted an experimental concert series in Yoko Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
     credit: ""
     featured: 
     type: [ programs and flyers ]
@@ -4785,13 +4785,13 @@ object_list:
     maker: 
     people: [ "Mac Low, Jackson", "Ono, Yoko", "Young, La Monte", "Ichiyanagi, Toshi" ]
     more_people: ""
-    title: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
+    title: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by La Monte Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY"
     date: "8–9 April 1961"
     date_sort: "1961-04-08"
     year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6"
-    extended_caption: "Although Jackson Mac Low had academic training in Western musical composition, his artist self-image, at least initially, was that of a poet. He submitted poems relentlessly to mainstream U.S. poetry publications before and during the McCarthy Red Scare era, apparently without realizing that he was being blacklisted for his radical political views. This program for Yoko Ono and La Monte Young’s loft series celebrates Mac Low as a composer of performance works that, if not strictly musical in nature, are intended to be performed in a “concert” setting. While many of the other composers featured in this concert series became well-known members of the 1960s avant-garde, Mac Low’s contributions have been less frequently recognized, falling through the cracks that separate monodisciplinary narratives in art history, literary studies, and performance studies."
+    extended_caption: "Although Jackson Mac Low had academic training in Western musical composition, his artist self-image, at least initially, was that of a poet. He submitted poems relentlessly to mainstream U.S. poetry publications before and during the McCarthy Red Scare era, apparently without realizing that he was being blacklisted for his radical political views. This program for La Monte Young’s series at Yoko Ono's loft celebrates Mac Low as a composer of performance works that, if not strictly musical in nature, are intended to be performed in a “concert” setting. While many of the other composers featured in this concert series became well-known members of the 1960s avant-garde, Mac Low’s contributions have been less frequently recognized, falling through the cracks that separate monodisciplinary narratives in art history, literary studies, and performance studies."
     credit: ""
     featured: 
     type: [ programs and flyers ]
@@ -4911,13 +4911,13 @@ object_list:
     maker: 
     people: [ "Ichiyanagi, Toshi", "Ono, Yoko", "Cage, John", "Tudor, David", "Young, La Monte", "Cunningham, Merce", "Mac Low, Jackson" ]
     more_people: ""
-    title: "Flyer for “Music by Toshi Ichiyanagi,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
+    title: "Flyer for “Music by Toshi Ichiyanagi,” part of the concert series organized by La Monte Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY"
     date: "7–8 January 1961"
     date_sort: "1961-01-07"
     year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 73, folder 1"
-    extended_caption: "From December 1960 to June 1961, La Monte Young and Yoko Ono hosted an experimental concert series in Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
+    extended_caption: "From December 1960 to June 1961, La Monte Young hosted an experimental concert series in Yoko Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
     credit: ""
     featured: 
     type: [ programs and flyers ]
@@ -4929,13 +4929,13 @@ object_list:
     maker: 
     people: [ "Ichiyanagi, Toshi", "Young, La Monte", "Ono, Yoko", "Mac Low, Jackson", "Tudor, David", "Cage, John", "Cunningham, Merce" ]
     more_people: ""
-    title: "Program for “Music by Toshi Ichiyanagi,” part of the concert series organized by Yoko Ono and La Monte Young at Ono’s studio, 112 Chambers Street, New York, NY"
+    title: "Program for “Music by Toshi Ichiyanagi,” part of the concert series organized by La Monte Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY"
     date: "7–8 January 1961"
     date_sort: "1961-01-07"
     year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 73, folder 1"
-    extended_caption: "From December 1960 to June 1961, La Monte Young and Yoko Ono hosted an experimental concert series in Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
+    extended_caption: "From December 1960 to June 1961, La Monte Young hosted an experimental concert series in Yoko Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
     credit: ""
     featured: 
     type: [ programs and flyers ]
@@ -5018,7 +5018,7 @@ object_list:
     maker: 
     people: [ "Young, La Monte", "Mac Low, Jackson", "Maciunas, George" ]
     more_people: ""
-    title: "Miniature mock-up for *An Anthology of Chance Operations* with handwritten notes, probably by Jackson Mac Low, George Maciunas, and La Monte Young"
+    title: "Pages from miniature mock-up for *An Anthology of Chance Operations* with handwritten notes, probably by Jackson Mac Low, George Maciunas, and La Monte Young"
     date: "ca. 1962"
     date_sort: "1962-01-01"
     year_filter: [ "1962" ]
@@ -5204,7 +5204,7 @@ object_list:
     year_filter: [ "1962" ]
     medium: ""
     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180"
-    extended_caption: "During the final stages of [*An Anthology*](/object-index/238/)’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, West Germany, where he worked as a graphic designer for the U.S. military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
+    extended_caption: "During the final stages of [*An Anthology*](/object-index/238/)’s design and assembly, George Maciunas corresponded with Jackson Mac Low and La Monte Young from Wiesbaden, West Germany, where he worked as a graphic designer for the U.S. military. In a series of letters written between late 1961 and early 1963, we see Maciunas offering multiple design ideas for *An Anthology*’s cover and binding, including several that would deliberately create a difficult reading experience, and pleading for copies to be sent to him for distribution in Europe. The stamps and markings in red show Young's emphatic rejection of certain of Maciunas's ideas. (Mac Low and Young ultimately chose a conventional perfect-bound paperback format whose cover features the book’s title repeated tightly in black against a vibrant red background.) These letters also show that Maciunas was already busy collecting materials for a new series of anthologies that would be published under the name of Fluxus and include many of the same artists brought together in *An Anthology*. "
     credit: "Courtesy of Billie Maciunas."
     featured: 
     type: [ correspondence ]
@@ -5258,7 +5258,7 @@ object_list:
     year_filter: [ "1952" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 170, folder 1"
-    extended_caption: "The score for Earle Brown’s *December 1952* is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afromodernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation."
+    extended_caption: "The score for Earle Brown’s *December 1952* is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afromodernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation.<br><br>This score also appears in the Getty Research Institute’s unique copy of [*An Anthology of Chance Operations*](/object-index/238/#fig-238-m) (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young."
     credit: "Earle Brown Estate."
     featured: 
     type: [ score ]
@@ -5458,7 +5458,7 @@ object_list:
     credit: "Toshi Ichiyanagi Estate."
     featured: 
     type: [ correspondence ]
-    figure: [ id: "fig-312-a", id: "fig-312-b", id: "fig-312-c", id: "fig-312-d", id: "fig-312-e" ]
+    figure: [ id: "fig-312-a", id: "fig-312-b", id: "fig-312-c", id: "fig-312-d" ]
 -
     id: "313"
     old_id: "5.19"
@@ -5688,7 +5688,7 @@ object_list:
     year_filter: [ "1963" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-    extended_caption: "The composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played John Coltrane–inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
+    extended_caption: "The composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played John Coltrane–inspired saxophone improvisations following the performances of these pieces in [Young's concert series of 1960–61 at Yoko Ono's loft](/object-index/275/)."
     credit: "© Terry Jennings / MELA Foundation, Inc."
     featured: 
     type: [ score ]
@@ -5742,7 +5742,7 @@ object_list:
     year_filter: [ "1958" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-    extended_caption: "The composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played John Coltrane–inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
+    extended_caption: "The composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played John Coltrane–inspired saxophone improvisations following the performances of these pieces in [Young’s concert series of 1960–61 at Yoko Ono's loft](/object-index/275/)."
     credit: "© Terry Jennings / MELA Foundation, Inc."
     featured: 
     type: [ score ]
@@ -5993,7 +5993,7 @@ object_list:
     year_filter: [ "1961" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 82, folder 18"
-    extended_caption: "Inspired by [the concert series](/object-index/257/) organized in 1960–61 by La Monte Young and Yoko Ono at Ono’s Chambers Street loft, George Maciunas launched his own series at AG Gallery, a space he ran briefly with fellow Lithuanian American Almus Salcius at 925 Madison Avenue on the Upper East Side. Presented under the title “Mvsica Antiqva et Nova,” Maciunas’s programming was billed as an educational exploration of musical currents from the Renaissance to the contemporary, although sculptures, installations, and readings were included as well. Between May and July 1961 the series hosted events featuring works by John Cage, Richard Maxfield, La Monte Young, Henry Flynt, Dick Higgins, Jackson Mac Low, Toshi Ichiyanagi, Joseph Byrd, Walter De Maria, and Ray Johnson, among others."
+    extended_caption: "Inspired by [the concert series](/object-index/257/) organized in 1960–61 by La Monte Young at Yoko Ono’s Chambers Street loft, George Maciunas launched his own series at AG Gallery, a space he ran briefly with fellow Lithuanian American Almus Salcius at 925 Madison Avenue on the Upper East Side. Presented under the title “Mvsica Antiqva et Nova,” Maciunas’s programming was billed as an educational exploration of musical currents from the Renaissance to the contemporary, although sculptures, installations, and readings were included as well. Between May and July 1961 the series hosted events featuring works by John Cage, Richard Maxfield, La Monte Young, Henry Flynt, Dick Higgins, Jackson Mac Low, Toshi Ichiyanagi, Joseph Byrd, Walter De Maria, and Ray Johnson, among others."
     credit: "Courtesy of Billie Maciunas."
     featured: 
     type: [ programs and flyers ]
@@ -6051,7 +6051,6 @@ object_list:
       After George Brecht’s intensive period of composing event scores had ceased, he wrote this piece, titled *Event Score*, in August of 1965. As a reflection on the meaning and function of the intermedial format he had developed and honed, it considers the event score’s relationship to conscious and unconscious perception. Around the same time, one finds the following reflection in his notebook: 
       
       > These notices are thoughts that came from zero. Very few of the hundred or so that were written down came directly from a specific experience. Though they are simply what they are (appropriately poems for some), they are connected in my mind with musical scores; they have so far seemed to me scores for events. (Why only listen?) They are thoughts that can float around in your head, and then sometime perhaps 
-      > 
       > There is a woman with a yellow hat sitting on a white chair.
       > There is steam on top of my ice water.
       > A phone rings rooms away.
@@ -6074,7 +6073,7 @@ object_list:
     year_filter: [ "1959", "1960", "1961" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127 (contained within the compendium *Water Yam*)"
-    extended_caption: "Among George Brecht’s most well-known compositions, *Drip Music (Drip Event)* (1959–62) bears many characteristics that typify the artist’s event scores, and the way it is dated suggests Brecht honed the text gradually and carefully over the course of his most intensive years of score writing. In 1960, Brecht began to call his works “events” as opposed to “music,” though this score retains both titles. Its first line immediately opens the possibility of the work’s performance to a multiplicity of realizations, by either a solo performer or a group, and even by nonhuman actors. (All possibilities would be experimented with by Fluxus artists, as [chapter 6’s Archive section](/06/#archive) shows.) Notably, the language avoids both an imperative tone as well as outwardly naming the agent of the action. Instead, it describes in a rather passive way the existence of the phenomenon of water dripping, leaving the words “source” and “vessel” open to interpretation. The even more ambiguous “second version” included in the score’s text might be written for more advanced readers familiar with Brecht’s work, such as the virtuoso listener for whom, as the artist described in his 1959 notebook, “all sound may be music” (George Brecht, notebook page ca. late July 1959, from Cage’s course in Experimental Composition, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 [Cologne: Walther König, 1991], 123). At this time Brecht also wrote the similar yet slightly more elaborate score *Comb Music (Comb Event)* (1959–62)."
+    extended_caption: "Among George Brecht’s most well-known compositions, *Drip Music (Drip Event)* (1959–62) bears many characteristics that typify the artist’s event scores, and the way it is dated suggests Brecht honed the text gradually and carefully over the course of his most intensive years of score writing. In 1960, Brecht began to call his works “events” as opposed to “music,” though this score retains both titles. Its first line immediately opens the possibility of the work’s performance to a multiplicity of realizations, by either a solo performer or a group, and even by nonhuman actors. (All possibilities would be experimented with by Fluxus artists, as [chapter 6’s Archive section](/06/#archive) shows.) Notably, the language avoids both an imperative tone as well as outwardly naming the agent of the action. Instead, it describes in a rather passive way the existence of the phenomenon of water dripping, leaving the words “source” and “vessel” open to interpretation. The even more ambiguous “second version” included in the score’s text might be written for more advanced readers familiar with Brecht’s work, such as the virtuoso listener for whom, as the artist described in his 1959 notebook, “all sound may be music” (George Brecht, notebook page ca. late July 1959, from Cage’s course in Experimental Composition, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 [Cologne: Walther König, 1991], 123). At this time Brecht also wrote the similar yet slightly more elaborate score [*Comb Music (Comb Event)*](/object-index/349/#card-071) (1959–62)."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: true
     type: [ score ]
@@ -6126,7 +6125,7 @@ object_list:
     date: "1963"
     date_sort: "1963-01-01"
     year_filter: [ "1963" ]
-    medium: "wooden box with label containing ninety-one scores printed on various sizes and colors of card stock"
+    medium: "Ninety-one scores printed on various sizes and colors of card stock"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
     extended_caption: "In this interface, readers can perform text searches of [*Water Yam*’s](/object-index/348/) contents, browse curated collections of event scores tagged by keyword, and pull up randomly generated groupings of scores."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
@@ -6140,13 +6139,13 @@ object_list:
     maker: 
     people: [ "Brecht, George" ]
     more_people: ""
-    title: "High-speed video of the unboxing and repacking of George Brecht’s compendium of event scores, *Water Yam* (1963)"
+    title: "Unboxing video of George Brecht’s compendium of event scores, *Water Yam*"
     date: "2024"
     date_sort: "2024-01-01"
     year_filter: [ "1963", "2024" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
-    extended_caption: "The Getty Research Institute holds three 1960s Fluxus editions of *Water Yam*, each with a different style of container and a different number of cards included (between seventy-three and ninety-one). *Water Yam* debuted in 1963, but the copy featured here—a deluxe edition housed in a wooden box with a metal clasp—was probably assembled in 1965, since it includes the slightly later score *Cloud Scissors* (1964–65). It contains ninety-one different scores, enough to easily fill up the entire table. As an exercise in reckoning with the vast scope of this work, readers might imagine what it would take to arrange a performance of every single score."
+    extended_caption: "The Getty Research Institute holds three 1960s Fluxus editions of *Water Yam*, each with a different style of container and a different number of cards included (between seventy-three and ninety-one). *Water Yam* debuted in 1963, but the copy featured here—a deluxe edition housed in a wooden box with a metal clasp—was probably assembled in 1965, since it includes the slightly later score [*Cloud Scissors*](/object-index/349/#card-088) (1964–65). It contains ninety-one different scores, enough to easily fill up the entire table. As an exercise in reckoning with the vast scope of this work, readers might imagine what it would take to arrange a performance of every single score."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ video ]
@@ -6158,13 +6157,13 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     people: [ "Patterson, Benjamin", "Brecht, George" ]
     more_people: ""
-    title: "*Drip Music* (1959), from the album *George Brecht/Ben Patterson: Drip Music/370 Flies*, Alga Marghen (record label), Milan, Italy, 2002"
+    title: "*Drip Music* (1959), from the album *George Brecht/Ben Patterson: Drip Music/370 Flies*, Alga Marghen (record label), Milan, Italy"
     date: "recorded 2002"
     date_sort: "2002-01-01"
     year_filter: [ "2002" ]
     medium: "digital audio, 38:07"
     location: ""
-    extended_caption: "This audio recording of Benjamin Patterson’s realization of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) was made in Paris following a [public performance in June 2002 at La Ménagerie de Verre](/object-index/352/), and with the same setup. Without the photographic documentation, it would be hard to imagine the nature of the instrument used to create the hollow, almost wooden sounds captured here. Still, the pacing of the sonic attacks strongly evokes the irregular rhythms of dripping water, and as the drips slow down, the nature of the electronic manipulation of the sounds becomes more noticeable. Patterson’s version of *Drip Music* is more meditative and at times even more demanding for the audience to behold than other realizations included in chapter 6, which typically last only a few minutes. The [accompanying photographs documenting the recording session](/object-index/383/) show Patterson taking on the role of both director and audience for the piece, as he listens closely to the slow unfolding of drips over the course of almost forty minutes."
+    extended_caption: "This audio recording of Benjamin Patterson’s realization of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) was made in Paris following a [public performance in June 2002 at La Ménagerie de Verre](/object-index/352/), and with the same setup. Without the photographic documentation, it would be hard to imagine the nature of the instrument used to create the hollow, almost wooden sounds captured here. Still, the pacing of the sonic attacks strongly evokes the irregular rhythms of dripping water, and as the drips slow down, the nature of the electronic manipulation of the sounds becomes more noticeable. Patterson’s version of *Drip Music* is more meditative and at times even more demanding for the audience to behold than [other realizations included in chapter 6](/06/#playback), which typically last only a few minutes. The [accompanying photographs documenting the recording session](/object-index/383/) show Patterson taking on the role of both director and audience for the piece, as he listens closely to the slow unfolding of drips over the course of almost forty minutes."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. © The Estate of Benjamin Patterson."
     featured: 
     type: [ audio ]
@@ -6197,7 +6196,7 @@ object_list:
     maker: 
     people: [ "Higgins, Dick", "Brecht, George", "Miller, Larry" ]
     more_people: ""
-    title: "Dick Higgins performing George Brecht’s *Drip Music (Drip Event)* (1959–62), The Kitchen, New York, NY; excerpted from the film *Flux Concert*, directed by Larry Miller (1979)"
+    title: "Dick Higgins performing George Brecht’s *Drip Music (Drip Event)* (1959–62), The Kitchen, New York, NY; excerpted from the film *Flux Concert*, directed by Larry Miller"
     date: "24 March 1979"
     date_sort: "1979-03-24"
     year_filter: [ "1979" ]
@@ -6265,9 +6264,9 @@ object_list:
     extended_caption: |
       This 1962 film newsreel, broadcast on German public television, provides the earliest and most vivid documentation of Fluxus performance practices. It showcases and narrates selections from the 8 September concert of the [Fluxus Internationale Festspiele Neuester Musik](/object-index/229/), held in the auditorium of the Museum Wiesbaden from 1 to 23 September. The 8 September concert included works by George Brecht, Joseph Byrd, George Maciunas, Benjamin Patterson, Dick Higgins, Jackson Mac Low, Emmett Williams, Robert Watts, La Monte Young, and Philip Corner. The performers included Maciunas, Patterson, Higgins, Williams, Alison Knowles, and Nam June Paik.
       
-      Advancing upon the increasingly theatrical works that David Tudor had introduced to Darmstadt’s *Neue Musik* (new music) scene, Maciunas posited the Fluxus concert program as *nuester musik* (newest/latest music) in a further challenge to German audiences that received divided response. The newsreel opens with a view of concert flyers defaced with the phrase “DIE IRREN SIND LOS” (the crazies are loose) and goes on to characterize the concerts’ reception as split between sympathetic comparisons to the work of Eugène Ionesco, Samuel Beckett, and Dada, and hostile analogies to headache-inducing circus antics. Indeed, the film captures a remarkable range of reactions from audience members, who express variations of pleasure, captivation, boredom, confusion, disgust, and surprise.
+      Advancing upon the increasingly theatrical works that David Tudor had introduced to Darmstadt’s *Neue Musik* (new music) scene, Maciunas posited the Fluxus concert program as *neuester musik* (newest/latest music) in a further challenge to German audiences that received divided response. The newsreel opens with a view of concert flyers defaced with the phrase “DIE IRREN SIND LOS” (the crazies are loose) and goes on to characterize the concerts’ reception as split between sympathetic comparisons to the work of Eugène Ionesco, Samuel Beckett, and Dada, and hostile analogies to headache-inducing circus antics. Indeed, the film captures a remarkable range of reactions from audience members, who express variations of pleasure, captivation, boredom, confusion, disgust, and surprise.
       
-      The first piece we see performed is Byrd’s *Piece for Richard Maxfield* (1960), in which the performers simply clap as they stand onstage. “Do we have to remain serious?” the narrator asks, imagining audience members’ thoughts. Then follows Maciunas’s *In Memoriam to Adriano Olivetti Version 2* (1962) and Patterson’s [*Variations for Double-Bass*](/object-index/356/) (1961–62). Next, Williams’s *Four-Directional Song of Doubt for Five Voices* (1957) consists of five performers saying, in differing sequences, the words “you just never quite know.” We then see extraordinary footage of Paik performing La Monte Young’s *Composition 1960 #10 to Bob Morris*, which instructs, “Draw a straight line and follow it”; Paik’s realization was so singular it became known as a signature Paik piece, titled *Zen for Head*. The narrator highlights it as the least musical work on the program. The concert’s finale is Philip Corner’s *Piano Activities* (1962), in which the performers attack a piano with implements including a brick, a hammer, a tea kettle, a shoe, a feather duster, and wooden two-by-fours. This interpretation of Corner’s piece reportedly offended some Germans who valued the piano as a sacred item. Meanwhile, Maciunas claimed that the already damaged secondhand instrument would not have made it out of the theater in one piece. As the performers lug the irreparable piano offstage through the hall’s emergency exit (*Notausgang*), the narrator concludes: “Oh blessed Mozart, have no fear, your music may still use the main entrance.”
+      The first piece we see performed is Byrd’s *Piece for Richard Maxfield* (1960), in which the performers simply clap as they stand onstage. “Do we have to remain serious?” the narrator asks, imagining audience members’ thoughts. Then follows Maciunas’s *In Memoriam to Adriano Olivetti Version 2* (1962) and Patterson’s [*Variations for Double-Bass*](/object-index/217/) (1961–62). Next, Williams’s *Four-Directional Song of Doubt for Five Voices* (1957) consists of five performers saying, in differing sequences, the words “you just never quite know.” We then see extraordinary footage of Paik performing La Monte Young’s [*Composition 1960 #10 to Bob Morris*](/object-index/238/#fig-238-bq), which instructs, “Draw a straight line and follow it”; Paik’s realization was so singular it became known as a signature Paik piece, titled *Zen for Head*. The narrator highlights it as the least musical work on the program. The concert’s finale is Philip Corner’s *Piano Activities* (1962), in which the performers attack a piano with implements including a brick, a hammer, a tea kettle, a shoe, a feather duster, and wooden two-by-fours. This interpretation of Corner’s piece reportedly offended some Germans who valued the piano as a sacred item. Meanwhile, Maciunas claimed that the already damaged secondhand instrument would not have made it out of the theater in one piece. As the performers lug the irreparable piano offstage through the hall’s emergency exit (*Notausgang*), the narrator concludes: “Oh blessed Mozart, have no fear, your music may still use the main entrance.”
     credit: "© Hessischer Rundfunk - www.hr.de."
     featured: true
     type: [ video ]
@@ -6279,16 +6278,16 @@ object_list:
     maker: 
     people: [ "Brecht, George" ]
     more_people: ""
-    title: "Google.com video search for “‘George Brecht’ ‘Drip Music’”"
+    title: "Google video search for “George Brecht” “Drip Music”"
     date: ""
     date_sort: ""
     year_filter: ""
     medium: ""
     location: ""
-    extended_caption: "New performances of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) are appearing all the time, adding to the historical record of how the piece is understood over time. Clicking this link will take you to a Google.com video search of the terms “George Brecht” and “Drip Music” where you can observe the latest turns in how the score is interpreted."
+    extended_caption: "New performances of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) are appearing all the time, adding to the historical record of how the piece is understood over time. Clicking this link will take you to a Google video search of the terms “George Brecht” and “Drip Music” where you can observe the latest turns in how the score is interpreted."
     credit: ""
     featured: 
-    type: [ video ]
+    type: [ "video", "digital feature" ]
     figure: [ id: "fig-357" ]
     related_objects: [ id: "354", id: "353", id: "355", id: "359", id: "362", id: "345", id: "346" ]
 -
@@ -6303,7 +6302,7 @@ object_list:
     year_filter: [ "1979" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 38"
-    extended_caption: "This press release, which announces [a concert](/object-index/353/) of “classic ’60’s performances” of Fluxus scores organized by Ken Friedman and Larry Miller, is of interest as an early example of the historicization of Fluxus activities. Held at The Kitchen in New York on 24 March 1979, the concert came less than year after Fluxus founder George Maciunas’s untimely death (due to pancreatic cancer) and in spite of the fact that most of its major participants were still alive and making new work. “Historical Fluxus pieces” were carefully “reconstructed” for the evening, and the text describes well their dynamic range: “The rapid succession of quick pieces makes for a lively presentation, with constant shifts of focus and scale. Some of the pieces are explosive, with a punchline, while others draw our attention to intimate small-scale events.” Also of note is the capsule definition of Fluxus given in the first paragraph of the second page, which remarks on the group’s interest in “social transformation” and claims for Fluxus an instrumental role in “the formation of performance art as we know it.”"
+    extended_caption: "This press release, which announces [a concert](/object-index/353/) of “classic ’60’s performances” of Fluxus scores organized by Ken Friedman and Larry Miller, is of interest as an early example of the historicization of Fluxus activities. Held at The Kitchen in New York on 24 March 1979, the concert came less than a year after Fluxus founder George Maciunas’s untimely death (due to pancreatic cancer) and in spite of the fact that most of its major participants were still alive and making new work. “Historical Fluxus pieces” were carefully “reconstructed” for the evening, and the text describes well their dynamic range: “The rapid succession of quick pieces makes for a lively presentation, with constant shifts of focus and scale. Some of the pieces are explosive, with a punchline, while others draw our attention to intimate small-scale events.” Also of note is the capsule definition of Fluxus given in the first paragraph of the second page, which remarks on the group’s interest in “social transformation” and claims for Fluxus an instrumental role in “the formation of performance art as we know it.”"
     credit: "© Ken Friedman."
     featured: 
     type: [ programs and flyers ]
@@ -6339,7 +6338,7 @@ object_list:
     year_filter: [ "1963" ]
     medium: "photograph"
     location: ""
-    extended_caption: "In February 1963, the European Fluxus concert tour came to the Kunstakademie Düsseldorf on the invitation of artist Joseph Beuys. There, George Maciunas directed two performances of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62). In the first, shown here, Maciunas imitated [Dick Higgins’s earlier performance that incorporated a ladder](/object-index/359/). In the second, he directed [a performance equipped with eye droppers](/object-index/361/)."
+    extended_caption: "In February 1963, the European Fluxus concert tour came to the Kunstakademie Düsseldorf on the invitation of artist Joseph Beuys. There, George Maciunas directed two performances of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62). In the first, shown here, Maciunas imitated [Dick Higgins’s earlier performance that incorporated a ladder](/object-index/359/). In the second, he directed [an ensemble performance equipped with eye droppers](/object-index/361/)."
     credit: "© Estate of Manfred Leve. Digital Image Kunstpalast - ARTOTHEK. © 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany. Image © Manfred Leve Estate. / Kunstpalast - ARTOTHEK."
     featured: 
     type: [ photograph ]
@@ -6357,7 +6356,7 @@ object_list:
     year_filter: [ "1963" ]
     medium: "photograph"
     location: ""
-    extended_caption: "In February 1963, the European Fluxus concert tour came to the Kunstakademie Düsseldorf on the invitation of artist Joseph Beuys. There, George Maciunas directed two performances of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62). In the first, Maciunas imitated [Dick Higgins’s earlier performance that incorporated a ladder](/object-index/360/). In the second, shown here, he directed a performance equipped with eye droppers. From left to right: George Maciunas, Nam June Paik, Tomas Schmit, Bengt af Klintberg, Emmett Williams, Frank Trowbridge, Arthur Köpcke, and Daniel Spoerri."
+    extended_caption: "In February 1963, the European Fluxus concert tour came to the Kunstakademie Düsseldorf on the invitation of artist Joseph Beuys. There, George Maciunas directed two performances of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62). In the first, Maciunas imitated [Dick Higgins’s earlier performance that incorporated a ladder](/object-index/360/). In the second, shown here, he directed an ensemble performance equipped with eye droppers. From left to right: George Maciunas, Nam June Paik, Tomas Schmit, Bengt af Klintberg, Emmett Williams, Frank Trowbridge, Arthur Köpcke, and Daniel Spoerri."
     credit: "© Estate of Manfred Leve. Digital Image Kunstpalast - ARTOTHEK. © 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany. Artists rights: © Nachlass Manfred Leve Estate. Photo: © Kunstpalast - ARTOTHEK."
     featured: 
     type: [ photograph ]
@@ -6393,7 +6392,7 @@ object_list:
     year_filter: [ "1964" ]
     medium: "photograph"
     location: ""
-    extended_caption: "This object-based “performance” of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) was arranged in 1964 at the Fluxhall/Fluxshop on Canal Street in SoHo, New York. Consisting of a wet rag hung over the handle of a watering can, it was effectively a kinetic sculpture. The sign’s looping script (and creative misspelling) was likely written by French Fluxus artist Ben Vautier. Brecht would have approved of this iteration, having once remarked, “Once in a while I would make an object first and then make a card later . . . . I don’t feel very much one way of the other since every object is an event anyway and every event has [an] object-like quality” (Michael Nyman, “An Interview with George Brecht” [1976], in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire* [Milan: Multhipla, 1978], 106)."
+    extended_caption: "This object-based “performance” of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) was arranged in 1964 at the Fluxhall/Fluxshop on Canal Street in SoHo, New York. Consisting of a wet rag hung over the handle of a watering can, it was effectively a kinetic sculpture. The sign’s looping script (and creative misspelling) was likely written by French Fluxus artist Ben Vautier. Brecht would have approved of this iteration, having once remarked, “Once in a while I would make an object first and then make a card later . . . . I don’t feel very much one way or the other since every object is an event anyway and every event has [an] object-like quality” (Michael Nyman, “An Interview with George Brecht” [1976], in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire* [Milan: Multhipla, 1978], 106)."
     credit: "Photograph by Peter Moore; © Northwestern University."
     featured: 
     type: [ photograph ]
@@ -6447,7 +6446,7 @@ object_list:
     year_filter: [ "1970" ]
     medium: "photograph"
     location: ""
-    extended_caption: "George Brecht often made sculptural realizations of his event scores, as in this iteration, an adjustable dripping faucet designed for the garden of German collectors Wolfgang and Ute Feelisch. Brecht once remarked, “Once in a while I would make an object first and then make a card later . . . . I don’t feel very much one way of the other since every object is an event anyway and every event has [an] object-like quality” (Michael Nyman, “An Interview with George Brecht” [1976], in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire* [Milan: Multhipla, 1978], 106)."
+    extended_caption: "George Brecht often made sculptural realizations of his event scores, as in this iteration, an adjustable dripping faucet designed for the garden of German collectors Wolfgang and Ute Feelisch. Brecht once remarked, “Once in a while I would make an object first and then make a card later . . . . I don’t feel very much one way or the other since every object is an event anyway and every event has [an] object-like quality” (Michael Nyman, “An Interview with George Brecht” [1976], in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire* [Milan: Multhipla, 1978], 106)."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ photograph ]
@@ -6487,7 +6486,7 @@ object_list:
     extended_caption: |
       In early 1963, George Maciunas made this two-sided broadsheet collage by gathering together reviews of the [first Fluxus concerts in Wiesbaden](/object-index/356/), [Düsseldorf](/object-index/361/), and [Copenhagen](/object-index/359/). The two sheets were designed to be glued together to make one long page that could be sent through the mail as a rolled-up scroll. Most of the clippings came from German and Danish newspapers, but some articles prove that news of the Fluxus events reached readers as far as Italy and Austria. (Mastheads from regional papers like the *Telegraph-Herald* in Dubuque, Iowa, may have been added by Maciunas for humorous effect.) The madcap layout, reminiscent of Dada and Surrealist publications of the early twentieth century, is characteristic of the Fluxus newspapers Maciunas would publish under varying iterations of the name *cc V TRE*.
       
-      The layout also amplifies and revels in the many bemused accounts of reviewers, which accord with the kind of language one finds in reviews of performances of John Cage’s radical music. To point to one example, the Associated Press piece penned by Richard O’Regan cheekily recounts of the Wiesbaden festival, “This wasn’t a barroom brawl. It wasn’t a political rally. It was a concert of ‘very new music and anti-music’ in Wiesbaden’s dignified art museum.” O’Regan’s account was published in the American military newspaper [*Stars and Stripes*](/object-index/230/), which had a Darmstadt office out of which Fluxus artist and participating performer Emmett Williams worked as features editor.
+      The layout also amplifies and revels in the many bemused accounts of reviewers, which accord with the kind of language one finds in reviews of performances of John Cage’s radical music. To point to one example included here, the Associated Press piece penned by Richard O’Regan cheekily recounts of the Wiesbaden festival, “This wasn’t a barroom brawl. It wasn’t a political rally. It was a concert of ‘very new music and anti-music’ in Wiesbaden’s dignified art museum.” O’Regan’s account was published in the American military newspaper [*Stars and Stripes*](/object-index/230/), which had a Darmstadt office out of which Fluxus artist and participating performer Emmett Williams worked as features editor.
     credit: "Courtesy of Billie Maciunas."
     featured: true
     type: [ press clipping ]
@@ -6503,12 +6502,12 @@ object_list:
     date: "ca. January 1963"
     date_sort: "1963-01-01"
     year_filter: [ "1963" ]
-    medium: ""
+    medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
     extended_caption: |
       This extraordinary letter from George Maciunas to George Brecht, sent in early 1963, provides a highly detailed record of the artists’ collaborative design process and their ongoing deliberations over the intellectual significance of Brecht’s events and their transcription as event scores.
       
-      In the <a class='ref' data-figure-id='fig-369-a' data-annotation-ids=''>first part</a> of the letter, Maciunas draws a diagram that imagines the relation between optical and acoustical elements in a work of art, possibly in response to Brecht’s remark in another letter that, “a minimum condition for my work . . . is a lack of distinction between ‘optical,’ ‘acoustical’ and other such categories” (Brecht to Maciunas, early 1963, Hanns Sohm Archive, Staatsgalerie Stuttgart). To this, Maciunas adds the dimension of artificial versus concrete (or “reality”). With reference to scores by Brecht that had been performed during the European Fluxus concert tour—namely *Piano Piece* (1962; “a vase of flowers on(to) a piano”) and *Word Event* (1961; “EXIT”)—Maciunas considers the fine line between art and non art, between deliberately formed and ready-made gestures, and between conceptual and perceptual experience that the scores traverse, ultimately comparing their operation to Zen Buddhist philosophy.
+      In the <a class='ref' data-figure-id='fig-369-a' data-annotation-ids=''>first part</a> of the letter, Maciunas draws a diagram that imagines the relation between optical and acoustical elements in a work of art, possibly in response to Brecht’s remark in another letter that, “a minimum condition for my work . . . is a lack of distinction between ‘optical,’ ‘acoustical’ and other such categories” (Brecht to Maciunas, early 1963, Hanns Sohm Archive, Staatsgalerie Stuttgart). To this, Maciunas adds the dimension of artificial versus concrete (or “reality”). With reference to scores by Brecht that had been performed during the European Fluxus concert tour—namely [*Piano Piece*](/object-index/349/#card-079) (1962; “a vase of flowers on(to) a piano”) and [*Word Event*](/object-index/349/#card-035) (1961; “EXIT”)—Maciunas considers the fine line between art and non art, between deliberately formed and ready-made gestures, and between conceptual and perceptual experience that the scores traverse, ultimately comparing their operation to Zen Buddhist philosophy.
       
       In <a class='ref' data-figure-id='fig-369-b' data-annotation-ids=''>section two</a> of this letter, Maciunas discusses the disposition of [*Water Yam*](/object-index/348/) (1963) in terms of future editions and copyright and introduces the idea of a renewable subscription model or “perpetual” box. He mentions Fluxus newsletter no. 5, which he wrote and distributed to the Fluxus network in January 1963, as “a draft for a written agreement.” In that controversial newsletter, Maciunas proposed that affiliate artists assign to Fluxus the copyright and exclusive publication rights for their works in order to present a “common front” for Fluxus activities and to achieve financial security (with individual artists retaining 80 percent of profits from the sale of their work). In section three, Maciunas reports on his research into international locations amenable to his dream of developing a self-sustaining, permanent Fluxus commune.
       
@@ -6619,7 +6618,7 @@ object_list:
     year_filter: [ "1961" ]
     medium: "pen and typewriter ink on paper"
     location: "Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8"
-    extended_caption: "This letter from George Brecht to David Tudor shows that once Brecht’s scores were typed out and able to be copied, they quickly began to circulate beyond the artist’s oversight. Brecht’s mention of “Three Chair Events” at Martha Jackson Gallery references the May–June 1961 group exhibition *Environments, Situations, Spaces*, in which Brecht’s [*Three Chair Events*](/object-index/381/) score was presented as a takeaway score and realized in the form of three chairs positioned throughout the gallery property, including one in the bathroom and one on the sidewalk outside."
+    extended_caption: "This letter from George Brecht to David Tudor shows that once Brecht’s scores were typed out and able to be copied, they quickly began to circulate beyond the artist’s oversight. He is referring to [*Incidental Music*](/object-index/376/), which Tudor [performed to warm reception](/object-index/382/) at the 1961 Internationale Ferienkurse für Neue Musik. Brecht’s mention of “Three Chair Events” at Martha Jackson Gallery references the May–June 1961 group exhibition *Environments, Situations, Spaces*, in which Brecht’s [*Three Chair Events*](/object-index/381/) score was presented as a takeaway score and realized in the form of three chairs positioned throughout the gallery property, including one in the bathroom and one on the sidewalk outside."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ correspondence ]
@@ -6781,7 +6780,7 @@ object_list:
     year_filter: [ "1958" ]
     medium: ""
     location: "Getty Research Institute, item 92-B17341, vol. 2"
-    extended_caption: "Possibly a record of an assignment given in John Cage’s experimental composition course, George Brecht’s notes under the heading “Requirements for the System” seem to define the predominant qualities of his event scores: maximum generality, maximum flexibility, maximum economy."
+    extended_caption: "Possibly a record of an assignment given in [John Cage’s experimental composition course](/object-index/557/), George Brecht’s notes under the heading “Requirements for the System” seem to define the predominant qualities of his event scores: maximum generality, maximum flexibility, maximum economy."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ sketches and materials ]
@@ -6836,7 +6835,7 @@ object_list:
     year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, item 92-B17341, vol. 3"
-    extended_caption: "In April 1959, George Brecht made several sketches for a kinetic sculpture titled [*Burette Music*](/object-index/387/), a precursor to his event score [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) and its realization in the form of both performances and objects. According to these drawings, crumpled foil and paper would have been used to indeterminately alter the regular dripping of water from a burette positioned above."
+    extended_caption: "In April 1959, George Brecht made several sketches for a kinetic sculpture titled *Burette Music*, a precursor to his event score [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) and its realization in the form of both performances and objects. According to these drawings, crumpled foil and paper would have been used to indeterminately alter the regular dripping of water from a burette positioned above."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ sketches and materials ]
@@ -7132,9 +7131,9 @@ object_list:
     extended_caption: |
       These two letters from George Brecht to Jill Johnston, the dance and theatre critic for *The Village Voice* who wrote about Brecht’s work on several occasions, document Brecht’s struggles to make Johnston understand his practice and its goals.
       
-      In the first two-page letter, Brecht’s discussion of “choosing” reflects upon the lasting significance of Marcel Duchamp’s readymade—a quotidian object chosen by the artist and reframed as a work of art. Foundational to Brecht’s practice, the notion of the readymade was extended to include the sorts of readymade actions captured in his event scores (i.e., “EXIT”). Brecht is particularly interested in the passivity of noticing or perceiving an event as opposed to actively performing or arranging one, a subtle yet important distinction that recalls [George Maciunas’s letter to Brecht about perceptual versus conceptual experience](/object-index/369/) also reproduced in this publication. Brecht writes, “There is neither action nor inaction, but simply an event occurring spontaneously, unwilled, out of nowhere, nowhen.”
+      In the first two-page letter, Brecht’s discussion of “choosing” reflects upon the lasting significance of Marcel Duchamp’s readymade—a quotidian object chosen by the artist and reframed as a work of art. Foundational to Brecht’s practice, the notion of the readymade was extended to include the sorts of readymade actions captured in his event scores (i.e., [“EXIT”](/object-index/349/#card-035)). Brecht is particularly interested in the passivity of noticing or perceiving an event as opposed to actively performing or arranging one, a subtle yet important distinction that recalls [George Maciunas’s letter to Brecht about perceptual versus conceptual experience](/object-index/369/) also reproduced in this publication. Brecht writes, “There is neither action nor inaction, but simply an event occurring spontaneously, unwilled, out of nowhere, nowhen.”
       
-      The first letter also provides a catalog of Brecht’s art historical interests: Erik Satie, Kurt Schwitters, Duchamp, the Zen philosopher and calligrapher Hakuin Ekaku, and Man Ray. His mention of a “center” reflects his [ongoing conversation](/object-index/403/) with the poet and potter M. C. Richards, author of the 1964 book *Centering in Pottery, Poetry, and the Person*. Finally, the enigmatic date provided—“day of last council”—is keyed to tne poet (and drummer for the Velvet Underground) Angus MacLise’s [*Year*](/object-index/416/) (1962), a poetic alternative calendar that Brecht frequently used to date his personal correspondence.
+      The first letter also provides a catalog of Brecht’s art historical interests: Erik Satie, Kurt Schwitters, Duchamp, the Zen philosopher and calligrapher Hakuin Ekaku, and Man Ray. His mention of a “center” reflects his [ongoing conversation](/object-index/403/) with the poet and potter M. C. Richards, author of the 1964 book *Centering in Pottery, Poetry, and the Person*. Finally, the enigmatic date provided—“day of last council”—is keyed to the poet (and drummer for the Velvet Underground) Angus MacLise’s [*Year*](/object-index/416/) (1962), a poetic alternative calendar that Brecht frequently used to date his personal correspondence.
       
       In the second one-page letter, Brecht zeroes in on his relationship to chance operations and their pioneering use by Duchamp and John Cage. He explains that he is not committed indefinitely to chance operations but appreciates them as a means to de-subjectify the work of art and (perhaps impossibly) eliminate the determining role of the artist. “Beyond a certain point,” he writes, “the work is not ‘done’ (by anyone), but simply occurs.”
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
@@ -7212,7 +7211,7 @@ object_list:
     credit: "© Estate of Jackson Mac Low."
     featured: true
     type: [ correspondence ]
-    figure: [ id: "fig-406-a", id: "fig-406-b", id: "fig-406-c", id: "fig-406-d", id: "fig-406-e", id: "fig-406-f", id: "fig-406-g", id: "fig-406-h", id: "fig-406-i", id: "fig-406-j", id: "fig-406-k", id: "fig-406-l" ]
+    figure: [ id: "fig-406-a", id: "fig-406-b", id: "fig-406-g", id: "fig-406-h", id: "fig-406-e", id: "fig-406-f", id: "fig-406-c", id: "fig-406-d", id: "fig-406-i", id: "fig-406-j", id: "fig-406-k", id: "fig-406-l" ]
 -
     id: "407"
     old_id: "7.07"
@@ -7468,12 +7467,12 @@ object_list:
     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
     people: [ "Maciunas, George", "Brecht, George", "Kaprow, Allan", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte", "De Maria, Walter", "Ono, Yoko", "Ichiyanagi, Toshi", "Shiomi, Mieko (Chieko)", "Knowles, Alison" ]
     more_people: [ "Paik, Nam June", "Higgins, Dick", "Vautier, Ben", "Ligeti, Gyorgy", "Kosugi, Takehisa" ]
-    title: "*Fluxus News—Policy Letter, no. 7*, reprinted in *Fluxus etc., Addenda 1*, ed. Jon Hendricks (New York: Ink &, 1983), 157–59"
+    title: "*Fluxus News—Policy Letter, no. 7*"
     date: "1 May 1963"
     date_sort: "1963-05-01"
     year_filter: [ "1963" ]
     medium: ""
-    location: ""
+    location: "Getty Research Institute, Jean Brown Papers, 890164, box 39, folder 32"
     extended_caption: ""
     credit: "Courtesy of Billie Maciunas."
     featured: true
@@ -7817,10 +7816,10 @@ object_list:
 -
     id: "441"
     old_id: "8.07"
-    maker: ""
-    people: [ "Rainer, Yvonne", "Atlas, Charles" ]
+    maker: [ "Charles Atlas (American, b. 1949)" ]
+    people: [ "Rainer, Yvonne", "Atlas, Charles", "Move, Richard" ]
     more_people: ""
-    title: "Interview with Charles Atlas (excerpt from Atlas’s *Rainer Variations*)"
+    title: "Interview with Richard Move impersonating Yvonne Rainer (excerpt from *Rainer Variations*)"
     date: "2001–2"
     date_sort: "2001-01-01"
     year_filter: [ "2001", "2002" ]
@@ -7835,10 +7834,10 @@ object_list:
 -
     id: "442"
     old_id: "8.08"
-    maker: ""
+    maker: [ "Charles Atlas (American, b. 1949)" ]
     people: [ "Rainer, Yvonne", "Atlas, Charles", "Move, Richard" ]
     more_people: 
-    title: "Yvonne Rainer attempting to teach *Trio A* to Martha Graham, impersonated by Richard Move in drag (excerpt from Charles Atlas’s *Rainer Variations*)"
+    title: "Yvonne Rainer attempting to teach *Trio A* to Martha Graham, impersonated by Richard Move in drag (excerpt from *Rainer Variations*)"
     date: "2001–2"
     date_sort: "2001-01-01"
     year_filter: [ "2001", "2002" ]
@@ -7853,10 +7852,10 @@ object_list:
 -
     id: "443"
     old_id: "8.09"
-    maker: ""
+    maker: [ "Charles Atlas (American, b. 1949)" ]
     people: [ "Rainer, Yvonne", "Atlas, Charles", "Chalfant, Kathleen" ]
     more_people: ""
-    title: "Interview with Kathleen Chalfant (excerpt from Charles Atlas’s *Rainer Variations*)"
+    title: "Interview with Kathleen Chalfant impersonating Yvonne Rainer (excerpt from *Rainer Variations*)"
     date: "2001–2"
     date_sort: "2001-01-01"
     year_filter: [ "2001", "2002" ]
@@ -7872,15 +7871,15 @@ object_list:
     id: "444"
     old_id: "8.10"
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
-    people: [ "Rainer, Yvonne" ]
+    people: [ "Rainer, Yvonne", "Senter, Shelley", "Johnson, Linda K." ]
     more_people: ""
     title: "Cleaning of *Trio A*, Portland, Oregon"
-    date: "ca. 2000s"
-    date_sort: "2000-01-01"
-    year_filter: [ "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009" ]
+    date: "2002"
+    date_sort: "2002-01-01"
+    year_filter: [ "2002" ]
     medium: "video, 184:25"
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 123, item V124"
-    extended_caption: "Here, Yvonne Rainer instructs two solo dancers who are rehearsing [*Trio A*](/object-index/440/) (1966). The dancers have already memorized the basic outline of the movements, and so Rainer focuses on fine-tuning their continuity of line and managing the harshness and rigidity of individual movements. Fluidity of motion and maintaining a natural affect are critical. The dancers unwittingly overemphasize each individual position in their rehearsal, whereas Rainer desires a fluid performance without clear distinction between the individual positions of the limbs. Toward the beginning of the recording, she spends several minutes clarifying a single motion: the drop of the right leg into a falling lean. “It is not a [parallel] passé,” she says, referring to the specialized vocabulary of ballet. Rather, using quotidian language, she describes it as a more fluid motion of the foot down to the ground by the left foot, preceded by a momentary suspension and followed by a fall forward. The whole gesture should be executed with an emphasis on cultivating and moving with the body’s organic, unexaggerated momentum."
+    extended_caption: "Here, Yvonne Rainer instructs two solo dancers—Shelley Senter and Linda K. Johnson—who are rehearsing [*Trio A*](/object-index/440/) (1966). The dancers have already memorized the basic outline of the choreography, and so Rainer focuses on fine-tuning their continuity of line and managing the harshness and rigidity of individual movements. Fluidity of motion and maintaining a natural affect are critical. The dancers unwittingly overemphasize each individual position in their rehearsal, whereas Rainer desires a fluid performance without clear distinction between the individual positions of the limbs. Toward the beginning of the recording, she spends several minutes clarifying a single motion: the drop of the right leg into a falling lean. “It is not a [parallel] passé,” she says, referring to the specialized vocabulary of ballet. Rather, using quotidian language, she describes it as a more fluid motion of the foot down to the ground by the left foot, preceded by a momentary suspension and followed by a fall forward. The whole gesture should be executed with an emphasis on cultivating and moving with the body’s organic, unexaggerated momentum."
     credit: "Used with Permission. © Yvonne Rainer."
     featured: 
     type: [ video ]
@@ -7899,7 +7898,7 @@ object_list:
     medium: "film transferred to digital video, 18:32"
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 125d, item DVD4"
     extended_caption: |
-      Performing nude with U.S. flags tied at their necks and draped over the fronts of their bodies, Yvonne Rainer and five dancers from the Grand Union dance troupe perform [*Trio A*](/object-index/440/) (1966) for a solemn, attentive audience at the opening of *The People’s Flag Show*. Organized by Faith Ringgold, Jean Toche, and Jon Hendricks at Judson Memorial Church, the group exhibition was staged against the backdrop of the Vietnam War in response to repressive laws regarding the display and use of the American flag. (A few days later, the organizers were arrested and then acquitted on charges of desecrating the flag.) Rainer adapted the presentation of her preexisting dance *Trio A* to highlight the fraught relationship between the flag and the identity and humanity of those it purports to represent, as well as to combine multiple taboos into what she has described as “a double-barreled attack on repression and censorship.” Surrounded by a multitude of artworks commenting on the flag, the dancers become objects of the spectators’ gaze as defined by the flag’s iconic design in ways akin to the audience members themselves, who are subjects similarly living under conditions defined by the American flag and all the causes it is used to justify.
+      Performing nude with U.S. flags tied at their necks and draped over the fronts of their bodies, Yvonne Rainer and five dancers from the Grand Union dance troupe perform [*Trio A*](/object-index/440/) (1966) for a solemn, attentive audience at the opening of *The People’s Flag Show*. Organized by Faith Ringgold, Jean Toche, and Jon Hendricks at Judson Memorial Church, the group exhibition was staged against the backdrop of the Vietnam War in response to repressive laws regarding the display and use of the American flag. (A few days later, the organizers were arrested and then acquitted on charges of desecrating the flag.) Rainer adapted the presentation of her preexisting dance *Trio A* to highlight the fraught relationship between the flag and the identity and humanity of those it purports to represent, as well as to combine multiple taboos into what she has described as “a double-barreled attack on repression and censorship.” Surrounded by a multitude of artworks commenting on the flag, the dancers become objects of the spectators’ gaze, their bodies defined by the flag’s iconic design in ways akin to the audience members themselves, who are subjects similarly living under conditions defined by the American flag and all the causes it is used to justify.
       
       Performers: Barbara Lloyd, David Gordon, Nancy Green, Steve Paxton, Lincoln Scott, and Yvonne Rainer.
     credit: "Used with Permission. © Yvonne Rainer."
@@ -7932,12 +7931,12 @@ object_list:
     people: [ "Rainer, Yvonne", "Mangolte, Babette" ]
     more_people: ""
     title: "*We Shall Run* (1963), performed at Bennington College, Bennington, VT"
-    date: "1980"
+    date: "ca. early 1980s"
     date_sort: "1980-01-01"
-    year_filter: [ "1980" ]
+    year_filter: [ "1980", "1981", "1982", "1983", "1984" ]
     medium: "photograph contact sheets"
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 82"
-    extended_caption: "These photographic contact sheets created by the French photographer and experimental filmmaker Babette Mangolte of a 1980 performance of *We Shall Run* invite reflection on how different modes of documentation impact the reception of a dance. While some photographs of Rainer’s dances have become iconic stand-ins for performances that are in reality irreducibly complex, these cinematic contact sheets offer a more textured representation of the dance that enables us to dwell on otherwise ephemeral, quick-shifting movements. This performance of *We Shall Run* was also [captured in a video](/object-index/438/), included in [chapter 8](/08/)."
+    extended_caption: "These photographic contact sheets created by the French photographer and experimental filmmaker Babette Mangolte of an early 1980s performance of *We Shall Run* invite reflection on how different modes of documentation impact the reception of a dance. While some photographs of Rainer’s dances have become iconic stand-ins for performances that are in reality irreducibly complex, these cinematic contact sheets offer a more textured representation of the dance that enables us to dwell on otherwise ephemeral, quick-shifting movements. This performance of *We Shall Run* was also [captured in a video](/object-index/438/), included in [chapter 8](/08/)."
     credit: ""
     featured: 
     type: [ photograph ]
@@ -7949,7 +7948,7 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     people: [ "Rainer, Yvonne" ]
     more_people: ""
-    title: "Notebook page related to *Watering Place* (ca. 1960)"
+    title: "Notebook page related to *Watering Place*"
     date: "ca. 1960"
     date_sort: "1960-01-01"
     year_filter: [ "1960" ]
@@ -8003,7 +8002,7 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     people: [ "Rainer, Yvonne" ]
     more_people: [ "Dunn, Robert" ]
-    title: "Pages from the score for *Watering Place* (ca. 1960)"
+    title: "Pages from the score for *Watering Place*"
     date: "ca. 1960"
     date_sort: "1960-01-01"
     year_filter: [ "1960" ]
@@ -8135,7 +8134,7 @@ object_list:
     year_filter: [ "1966" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "In this sympathetic review of Yvonne Rainer’s [*The Mind is a Muscle*](/object-index/456/) (1966–68), Jill Johnston insightfully captures one of the hallmarks of Rainer’s choreography: “Like certain objects, there is no ‘presentational’ concession to the audience. The dance has no eye, doesn’t look at anybody. I got this idea from noticing that the innumerable focal changes are always, with maybe one or two exceptions, up, down, side, diagonal or back, never directly at the audience, as though consciously designed to withdraw that contact which is the performer’s traditional trade-tool of seductive involvement. It is suggested the audience find the eye in the dance, not on the faces of performers.”"
+    extended_caption: "In this sympathetic review of Yvonne Rainer’s evolving, multipart work, [*The Mind is a Muscle*](/object-index/456/) (1966–68), Jill Johnston insightfully captures one of the hallmarks of Rainer’s choreography: “Like certain objects, there is no ‘presentational’ concession to the audience. The dance has no eye, doesn’t look at anybody. I got this idea from noticing that the innumerable focal changes are always, with maybe one or two exceptions, up, down, side, diagonal or back, never directly at the audience, as though consciously designed to withdraw that contact which is the performer’s traditional trade-tool of seductive involvement. It is suggested the audience find the eye in the dance, not on the faces of performers.”"
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -8153,7 +8152,7 @@ object_list:
     year_filter: [ "1968" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "Jill Johnston, a dedicated and sympathetic critic of the New York avant-garde, provides one of the first published accounts of the complete version of Yvonne Rainer’s multipart dance, [*The Mind Is a Muscle*](/object-index/456/) (1966–68) (in particular the section titled [*Trio A*](/object-index/440/)). Johnston already seems aware that it will be regarded as a canonical work of postmodern dance. The article is not only a review of a specific evening of the performance but it is also a historically informed effort to take stock of Rainer’s trajectory and to spell out the implications of her work on the fields of dance and performance broadly speaking. Johnston notes that *Trio A*’s “innumerable discrete parts” are “assimilated by a smooth unaccented continuity” that departs from the hierarchical and “plot-like” structure of conventional dance phrasing seen in ballet and modern dance. She notes Rainer’s hybridization of dance and everyday movement; the neutrality and matter-of-factness of the performers; and their disengagement from the audience in a kind of “tactical withdrawal.” Personal, melodramatic, and comedic materials are presented in a deadpan way, and there are provocative juxtapositions of contradictory movements and sounds. Johnston calls Rainer’s work “the first magnitude (…since Cunningham’s radical alterations) in advancing the medium within a context of movement still understood as ‘dance.’” While the review is celebratory overall, Johnston does seem to agree with other critics that the multitude of props and set pieces amounts to a distraction. The dance critic [Deborah Jowitt’s take on *The Mind Is a Muscle*](/object-index/460/), also included in the Archive section of [chapter 8](/08/), appeared in the same issue of *The Village Voice* as Johnston’s review."
+    extended_caption: "Jill Johnston, a dedicated and sympathetic critic of the New York avant-garde, provides one of the first published accounts of the complete version of Yvonne Rainer’s multipart dance, [*The Mind Is a Muscle*](/object-index/456/) (1966–68) (in particular the section titled [*Trio A*](/object-index/440/)). Johnston already seems aware that it will be regarded as a canonical work of postmodern dance. The article is not only a review of a specific evening of the performance but it is also a historically informed effort to take stock of Rainer’s trajectory and to spell out the implications of her work on the fields of dance and performance broadly speaking. Johnston notes that *Trio A*’s “innumerable discrete parts” are “assimilated by a smooth unaccented continuity” that departs from the hierarchical and “plot-like” structure of conventional dance phrasing seen in ballet and modern dance. She notes Rainer’s hybridization of dance and everyday movement; the neutrality and matter-of-factness of the performers; and their disengagement from the audience in a kind of “tactical withdrawal.” Personal, melodramatic, and comedic materials are presented in a deadpan way, and there are provocative juxtapositions of contradictory movements and sounds. Johnston calls Rainer’s work “of the first magnitude (…since Cunningham’s radical alterations) in advancing the medium within a context of movement still understood as ‘dance.’” While the review is celebratory overall, Johnston does seem to agree with other critics that the multitude of props and set pieces amounts to a distraction. The dance critic [Deborah Jowitt’s take on *The Mind Is a Muscle*](/object-index/460/), also included in the Archive section of [chapter 8](/08/), appeared in the same issue of *The Village Voice* as Johnston’s review."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -8190,7 +8189,7 @@ object_list:
     date_end: 31 23 May 1963 and 6 June 1963
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "The cultural critic Jill Johnston’s extensive two-part review of Yvonne Rainer’s multi-part dance *Terrain*, performed at Judson Memorial Church on 28 and 29 April 1963, provides a devoted close-read of a complex work. In part one, Johnston writes, “the total event is like stringing beads, or putting panels together, the way some painters do.” She focuses on the work’s basis in an algorithmic, game-like play of following rules and signals. Rainer’s strategy, which produces slightly differing results with each performance, is informed by John Cage and Merce Cunningham’s engagements with indeterminacy and also resonates with the operations of Fluxus event scores. In part two of the review, Johnston focuses on the outcomes of Rainer’s interest in play, relating her work to that of Cunningham, James Waring, and Aileen Passloff. Rainer’s dances *Play* and *Diagonal* appear “like watching any kids’ game on the street,” Johnston writes. “The whole idea of play was here treated with respect for its real sense.” Rainer also delivered a shocking duet on the theme of lovemaking that hewed unusually close to the real act, inspiring Johnston to pose deep questions about the proximity of art and life, and the role of the viewer between them. Crucial to the success of Rainer’s work, she concludes, are the sensitive talents of the dancers working alongside her: Trisha Brown, Judith Dunn, William Davis, Steve Paxton, and Albert Reid. Rather than completely sublimating their individual way of moving to a choreographic standard, “They looked like themselves even while rendering the material accurately.”"
+    extended_caption: "The cultural critic Jill Johnston’s extensive two-part review of Yvonne Rainer’s multi-part dance *Terrain*, performed at Judson Memorial Church on 28 and 29 April 1963, provides a devoted close-read of a complex work. In part one, Johnston writes, “the total event is like stringing beads, or putting panels together, the way some painters do.” She focuses on the work’s basis in an algorithmic, game-like play of following rules and signals. Rainer’s strategy, which produces slightly differing results with each performance, is informed by John Cage and Merce Cunningham’s engagements with indeterminacy and also resonates with the operations of Fluxus event scores. [In part two](/object-index/461/#fig-461-b/) of the review, Johnston focuses on the outcomes of Rainer’s interest in play, relating her work to that of Cunningham, James Waring, and Aileen Passloff. Rainer’s dances *Play* and *Diagonal* appear “like watching any kids’ game on the street,” Johnston writes. “The whole idea of play was here treated with respect for its real sense.” Rainer also delivered a shocking duet on the theme of lovemaking that hewed unusually close to the real act, inspiring Johnston to pose deep questions about the proximity of art and life, and the role of the viewer between them. Crucial to the success of Rainer’s work, she concludes, are the sensitive talents of the dancers working alongside her: Trisha Brown, Judith Dunn, William Davis, Steve Paxton, and Albert Reid. Rather than completely sublimating their individual way of moving to a choreographic standard, “They looked like themselves even while rendering the material accurately.”"
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -8207,7 +8206,7 @@ object_list:
     year_filter: [ "1968" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "This hostile review by the dance critic Joan B. Cass contrasts with the generous, attentive takes of [Jill Johnston](/object-index/459/) and [Deborah Jowitt](/object-index/460/) also included in [chapter 8](/08/). Unable to perceive and appreciate the dedication, concentration, and skill required to execute Rainer’s choreography, Cass describes it as vapid, tedious non-dance, while revealing her own rigid expectation and standard of “attenuated, proudly presented bodies,” which she did not see in evidence despite the real talents of Rainer’s collaborators. Cass’s review is emblematic of a reactionary modernist response to emerging postmodern dance currents of the time."
+    extended_caption: "This hostile review of Yvonne Rainer's work by the dance critic Joan B. Cass contrasts with the generous, attentive takes of [Jill Johnston](/object-index/459/) and [Deborah Jowitt](/object-index/460/) also included in [chapter 8](/08/). Unable to perceive and appreciate the dedication, concentration, and skill required to execute Rainer’s choreography, Cass describes it as vapid, tedious non-dance, while revealing her own rigid expectation and standard of “attenuated, proudly presented bodies,” which she did not see in evidence despite the real talents of Rainer’s collaborators. Cass’s review is emblematic of a reactionary modernist response to emerging postmodern dance currents of the time."
     credit: ""
     featured: 
     type: [ press clipping ]
@@ -8254,7 +8253,7 @@ object_list:
     maker: [ "Yvonne Rainer (American, b. 1934)" ]
     people: [ "Rainer, Yvonne", "Katz, Barbara" ]
     more_people: ""
-    title: "Pages from the Labanotation score for Yvonne Rainer’s dances *Chair-Pillow* and *Couples,* from the larger project *Continuous Project Altered Daily* (1970), as performed at George Washington University, Washington, D.C."
+    title: "Labanotation score for Yvonne Rainer’s dances *Chair-Pillow* and *Couples,* from the larger project *Continuous Project Altered Daily* (1970), as performed at George Washington University, Washington, D.C."
     date: "1970"
     date_sort: "1970-01-01"
     year_filter: [ "1970" ]
@@ -8264,7 +8263,7 @@ object_list:
     credit: "Used with Permission. © Yvonne Rainer."
     featured: 
     type: [ score ]
-    figure: [ id: "fig-465-a", id: "fig-465-b", id: "fig-465-c", id: "fig-465-d", id: "fig-465-e", id: "fig-465-f", id: "fig-465-g", id: "fig-465-h", id: "fig-465-i", id: "fig-465-j", id: "fig-465-k", id: "fig-465-l", id: "fig-465-m", id: "fig-465-n", id: "fig-465-o", id: "fig-465-p", id: "fig-465-q", id: "fig-465-r", id: "fig-465-s" ]
+    figure: [ id: "fig-465-a", id: "fig-465-b", id: "fig-465-c", id: "fig-465-d", id: "fig-465-e", id: "fig-465-f", id: "fig-465-g", id: "fig-465-h", id: "fig-465-i", id: "fig-465-j", id: "fig-465-k", id: "fig-465-l", id: "fig-465-m", id: "fig-465-n", id: "fig-465-o", id: "fig-465-p", id: "fig-465-q", id: "fig-465-r" ]
     related_objects: [ id: "473", id: "439", id: "440", id: "444", id: "445", id: "442", id: "472", id: "450" ]
 -
     id: "466"
@@ -8328,8 +8327,8 @@ object_list:
     more_people: ""
     title: "Notes on equivalencies and objects"
     date: "ca. early 1960s"
-    date_sort: "1961-01-01"
-    year_filter: [ "1961", "1962", "1963", "1964", "1965" ]
+    date_sort: "1960-01-01"
+    year_filter: [ "1960", "1961", "1962", "1963", "1964" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 31.b, folder 20"
     extended_caption: "These brief notes offer insight into Yvonne Rainer’s thinking about how the performance of task-like activities can reorient our perception of the dancing body. She writes, “If one is skillful and sensitive one can redistribute the ‘load’ that physical presence carries so that previously charged material becomes uncharged and previously innocuous or banal material becomes fraught with tension, anxiety, expectation.”"
@@ -8372,7 +8371,7 @@ object_list:
     credit: "Used with Permission. © Yvonne Rainer."
     featured: true
     type: [ score ]
-    figure: [ id: "fig-471-a", id: "fig-471-b" ]
+    figure: [ id: "fig-471-a" ]
     related_objects: [ id: "454", id: "453" ]
 -
     id: "472"
@@ -8505,13 +8504,13 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)" ]
     people: [ "Knowles, Alison" ]
     more_people: [ "Williams, Emmett" ]
-    title: "“Journal of the Identical Lunch,” *The Outsider* 2, no. 4/5 (Winter 1968/69): 182–84"
+    title: "“Journal of the Identical Lunch”"
     date: "1968–69"
     date_sort: "1968-01-01"
     year_filter: [ "1968", "1969" ]
     medium: ""
     location: ""
-    extended_caption: "Alison Knowles first published the score for *The Identical Lunch* in the last issue of *The Outsider*, a primarily Beat literary magazine published in small batches by Gypsy Lou and Jon Edgar Webb of the Loujon Press in New Orleans. Knowles’s text is joined by the work of colleagues Allan Kaprow, Dick Higgins, Jackson Mac Low, and Emmett Williams, but the more numerous texts by Beat writers in the issue strike an instructive counterpoint to Knowles’s quasi-objective and seemingly systematic reporting. While the Beat writers similarly dwell on everyday life in artist enclaves and working-class neighborhoods, they do so in a lyrical and markedly subjective way."
+    extended_caption: "Alison Knowles first published the score for *The Identical Lunch* in the last issue of *The Outsider*, a primarily Beat literary magazine published in small batches by Gypsy Lou and Jon Edgar Webb of the Loujon Press in New Orleans. Knowles’s text is joined by the work of colleagues Allan Kaprow, Dick Higgins, Jackson Mac Low, and Emmett Williams, but the more numerous texts by Beat writers in the issue strike an instructive counterpoint to Knowles’s quasi-objective and seemingly systematic reporting. While the Beat writers similarly dwell on everyday life in artist enclaves and working-class neighborhoods, they do so in a lyrical and markedly subjective way. See “Journal of the Identical Lunch,” *The Outsider* 2, no. 4/5 (Winter 1968/69): 182–84."
     credit: "© Alison Knowles."
     featured: true
     type: [ score ]
@@ -8704,7 +8703,7 @@ object_list:
     maker: [ "Alison Knowles (American, b. 1933)", "Pauline Oliveros (American, 1932–2016)" ]
     people: [ "Knowles, Alison", "Oliveros, Pauline" ]
     more_people: ""
-    title: "*Postcard Theatre*"
+    title: "*Postcard Theatre* (addressed to Jean Brown)"
     date: "ca. 1970s"
     date_sort: "1970-01-01"
     year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
@@ -9159,7 +9158,7 @@ object_list:
     year_filter: [ "1972" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
-    extended_caption: "This flyer was mailed to [*Spatial Poem*](/object-index/530/#fig-530-g) (1965–75) participants after the completion of the fourth event, probably sometime in 1972. It shows that Mieko Shiomi was at the time based in Osaka and that George Maciunas had committed to designing “special issues” of each event’s collected reports. One hundred sixty-seven visual artists, musicians, composers, dancers, poets, filmmakers, gallerists, and other interlocutors are named. By listing out the names of all Shiomi’s collaborators up to that point, the document served to reflect the artist’s expansive international network back to itself."
+    extended_caption: "This flyer was mailed to [*Spatial Poem*](/object-index/530/) (1965–75) participants after the completion of the fourth event, probably sometime in 1972. It shows that Mieko Shiomi was at the time based in Osaka and that George Maciunas had committed to designing “special issues” of each event’s collected reports. One hundred sixty-seven visual artists, musicians, composers, dancers, poets, filmmakers, gallerists, and other interlocutors are named. By listing out the names of all Shiomi’s collaborators up to that point, the document served to reflect the artist’s expansive international network back to itself."
     credit: "Used by permission of Mieko Shiomi."
     featured: true
     type: [ correspondence ]
@@ -9177,7 +9176,7 @@ object_list:
     year_filter: [ "1964" ]
     medium: "photocopy of handwritten score on lined paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
-    extended_caption: "Mieko Shiomi performed her score *Direction Music for Fingers* in New York as part of a solo presentation in October 1964, at Washington Square Gallery, which coincided with a yearlong Perpetual Fluxfest. The piece was not only a response to her growing concerns about spatiotemporal limitations on creative activity; it anticipated her discovery of a broader solution to this problem, in [*Spatial Poem*](/530/#fig-530-g). The score invites participants to write a real or imagined location on a card and then attach it to a string, one end of which is tied to the performer’s fingers. The participant then affixes the string’s loose end to a point reaching toward the chosen direction."
+    extended_caption: "Mieko Shiomi performed her score *Direction Music for Fingers* in New York as part of a solo presentation in October 1964, at Washington Square Gallery, which coincided with a yearlong Perpetual Fluxfest. The piece was not only a response to her growing concerns about spatiotemporal limitations on creative activity; it anticipated her discovery of a broader solution to this problem, in [*Spatial Poem*](/object-index/530/#fig-530-g). The score invites participants to write a real or imagined location on a card and then attach it to a string, one end of which is tied to the performer’s fingers. The participant then affixes the string’s loose end to a point reaching toward the chosen direction."
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ score ]
@@ -9195,7 +9194,7 @@ object_list:
     year_filter: [ "1964" ]
     medium: "gelatin silver print"
     location: ""
-    extended_caption: "This photograph of Mieko Shiomi performing her [*Direction Music for Fingers*](/object-index/516/) at Washington Square Gallery shows Allan Kaprow (right foreground) consulting a map of Manhattan while Shiomi, arms raised, sits at the center of a new, provisional spatial network. Later taking up the notion of direction again for her [*Spatial Poem No. 2 (Direction Event)*](/object-index/519/) in 1965, [Shiomi explained her poetic intent](/object-index/536/) to George Maciunas: “I meant ‘direction’ not only direction on compass [*sic*], in this poem it is rather the state of consciousness of the relation between yourself and the outside world” ([Shiomi to Maciunas](/object-index/536/), ca. 1965, Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30)."
+    extended_caption: "This photograph of Mieko Shiomi performing her [*Direction Music for Fingers*](/object-index/516/) at Washington Square Gallery shows Allan Kaprow (right foreground) consulting a map of Manhattan while Shiomi, arms raised, sits at the center of a new, provisional spatial network. Later taking up the notion of direction again for her [*Spatial Poem No. 2 (Direction Event)*](/object-index/519/) in 1965, Shiomi explained her poetic intent to George Maciunas: “I meant ‘direction’ not only direction on compass [*sic*], in this poem it is rather the state of consciousness of the relation between yourself and the outside world” ([Shiomi to Maciunas](/object-index/536/), ca. 1965, Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30)."
     credit: "The Gilbert and Lila Silverman Fluxus Collection Gift. Photograph by Peter Moore; © Northwestern University."
     featured: true
     type: [ photograph ]
@@ -9213,7 +9212,7 @@ object_list:
     year_filter: [ "1976" ]
     medium: "offset print"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
-    extended_caption: ""
+    extended_caption: "Mieko Shiomi created this postcard to advertise her self-published artist book chronicling the entirety of her *Spatial Poem* project. It lists the titles of her nine events along with the names of all 232 global contributors."
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ programs and flyers ]
@@ -9318,7 +9317,7 @@ object_list:
     year_filter: [ "1975" ]
     medium: "offset print on white paper with annotations"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 47, folder 3"
-    extended_caption: ""
+    extended_caption: "Shiomi added the handwritten word “July” to this copy of *Spatial Poem No. 9*, extending the life of the piece and suggesting a hope to net more responses to her final work in the *Spatial Poem* series."
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ score ]
@@ -9336,7 +9335,7 @@ object_list:
     year_filter: [ "1965" ]
     medium: "clear plastic box with hinged lid and cork-covered bottom with paper-flag pins"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 225"
-    extended_caption: "This multiple, a collaborative design effort between Mieko Shiomi and George Maciunas, was among the first object editions made to represent the collected “reports” for the first event in Shiomi's multi-part *Spatial Poem* project: [*Spatial Poem No. 1 (Word Event)*](/object-index/530/#fig-530-g) (1965). Each paper flag is printed with the text of one participant’s report, and the pin has been placed on the map at the approximate location where the event was performed. The stenciled cork sheet, probably made by Maciunas, is the second iteration of a design that initially featured a simple black line drawing of the Earth’s continents printed on white foam board, with numbers indicating where flags should be placed. In some cases, the numbered flags were housed in a separate box, allowing recipients to assemble the work themselves."
+    extended_caption: "This multiple, a collaborative design effort between Mieko Shiomi and George Maciunas, was among the first object editions made to represent the collected “reports” for the first event in Shiomi's multi-part *Spatial Poem* project: [*Spatial Poem No. 1 (Word Event)*](/object-index/530/#fig-530-h) (1965). Each paper flag is printed with the text of one participant’s report, and the pin has been placed on the map at the approximate location where the event was performed. The stenciled cork sheet, probably made by Maciunas, is the second iteration of a design that initially featured a simple black line drawing of the Earth’s continents printed on [white foam board](/object-index/531/#fig-531-c), with numbers indicating where flags should be placed. In some cases, the numbered flags were housed in a separate box, allowing recipients to assemble the work themselves."
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: 
     type: [ artwork ]
@@ -9372,11 +9371,11 @@ object_list:
     year_filter: [ "1968" ]
     medium: "two sets of printed calendar pages (14 x 10.8 cm), one housed loose inside a wood box with a hinged lid and metal clasp, the other bolted into book form on a strap of leather"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 223"
-    extended_caption: "Departing from the map-based designs of [*Spatial Poem No. 1*](/object-index/525/) (1965) and [*Spatial Poem No. 2*](/object-index/526/) (1965), George Maciunas designed for [*No. 3 (Falling Event)*](/530/#fig-530-g) a day calendar made of four simple bolts driven through a piece of leather to be mounted on a wall. The more than one hundred individual pages of the calendar, hung on the top two bolts, could then “fall” down to the bottom two bolts, or off the calendar altogether. Each page represents one realization of Mieko Shiomi’s event, originally performed between June and August of 1966. This calendar would surely be an erratic way to mark time, as many days are either repeated or missing."
+    extended_caption: "Departing from the map-based designs of [*Spatial Poem No. 1*](/object-index/525/) (1965) and [*Spatial Poem No. 2*](/object-index/526/) (1965), George Maciunas designed for [*No. 3 (Falling Event)*](/object-index/530/#fig-530-t) a day calendar made of four simple bolts driven through a piece of leather to be mounted on a wall. The more than one hundred individual pages of the calendar, hung on the top two bolts, could then “fall” down to the bottom two bolts, or off the calendar altogether. Each page represents one realization of Mieko Shiomi’s event, originally performed between June and August of 1966. This calendar would surely be an erratic way to mark time, as many days are either repeated or missing."
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: true
     type: [ artwork ]
-    figure: [ id: "fig-527-a", id: "fig-527-b" ]
+    figure: [ id: "fig-527-b", id: "fig-527-a" ]
     related_objects: [ id: "525", id: "526", id: "530", id: "528", id: "518", id: "541", id: "542", id: "544", id: "258", id: "545", id: "546", id: "549", id: "550", id: "551" ]
 -
     id: "528"
@@ -9390,7 +9389,7 @@ object_list:
     year_filter: [ "1973" ]
     medium: "white plastic box with a hinged lid containing a roll of microfilm mounted on a miniature green plastic viewer"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 219"
-    extended_caption: "The score Mieko Shiomi sent out for [*Spatial Poem No. 4 (Shadow Event)*](/object-index/530/#fig-530-g) (1971) included a piece of film printed with the word “SHADOW” that participants were asked to use in their realizations. As such, many of the reports she received included photographs of the resulting arrangement. To accommodate the heighted visual nature of the reports, this object edition, designed by George Maciunas, utilized inexpensive handheld film viewers similar to those he first incorporated into the Fluxus anthology *Flux Year Box 2* in 1966. Here, both photographs and textual reports are reproduced on the individual cells of a microfilm reel, and the label refers to the work as a “fluxmovie.” This object edition was the final design Maciunas was able to complete for Shiomi’s larger *Spatial Poem* project."
+    extended_caption: "The score Mieko Shiomi sent out for [*Spatial Poem No. 4 (Shadow Event)*](/object-index/530/#fig-530-ah) (1971) included a piece of film printed with the word “SHADOW” that participants were asked to use in their realizations. As such, many of the reports she received included photographs of the resulting arrangement. To accommodate the heightened visual nature of the reports, this object edition, designed by George Maciunas, utilized inexpensive handheld film viewers similar to those he first incorporated into the Fluxus anthology *Flux Year Box 2* in 1966. Here, both photographs and textual reports are reproduced on the individual cells of a microfilm reel, and the label refers to the work as a “fluxmovie.” This object edition was the final design Maciunas was able to complete for Shiomi’s larger *Spatial Poem* project."
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: 
     type: [ artwork ]
@@ -9420,7 +9419,7 @@ object_list:
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
     people: [ "Shiomi, Mieko (Chieko)", "Kaprow, Allan", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
     more_people: [ "Corner, Philip", "Ginsberg, Allen", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
-    title: "Cover of *Spatial Poem* (Osaka: self-published, 1976)"
+    title: "*Spatial Poem* (Osaka: self-published, 1976)"
     date: ""
     date_sort: "1976-01-01"
     year_filter: [ "1976" ]
@@ -9496,7 +9495,7 @@ object_list:
     year_filter: [ "1965" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
-    extended_caption: "Mieko Shiomi wrote this letter to George Maciunas after returning to Japan after her year in New York. She reports on a Fluxus week of exhibitions and performances organized in September 1965 in Tokyo. Shiomi also weighs in on Maciunas’s growing conflict with Takahisa Kosugi, Nam June Paik, and Charlotte Moorman over their independent event organizing, particularly Moorman’s Avant-Garde Festival series, which Maciunas felt to be in competition with his Fluxus efforts. Shiomi advocates a nonhierarchical and expansive notion of collective avant-garde membership, since, as she explains, “our pieces contain almost endless possibilityies [*sic*] of performance.”"
+    extended_caption: "Mieko Shiomi wrote this letter to George Maciunas after returning to Japan from her year in New York. She reports on a Fluxus week of exhibitions and performances organized in September 1965 in Tokyo. Shiomi also weighs in on Maciunas’s growing conflict with Takahisa Kosugi, Nam June Paik, and Charlotte Moorman over their independent event organizing, particularly Moorman’s Avant-Garde Festival series, which Maciunas felt to be in competition with his Fluxus efforts. Shiomi advocates a nonhierarchical and expansive notion of collective avant-garde membership, since, as she explains, “our pieces contain almost endless possibilityies [*sic*] of performance.”"
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ correspondence ]
@@ -9564,7 +9563,7 @@ object_list:
     year_filter: [ "1966" ]
     medium: "photocopy of handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
-    extended_caption: "In this letter, Mieko Shiomi responds to George Maciunas’s proposed design for the object edition of [*Spatial Poem No. 2 (Direction Event)*](/object-index/519/) (1965). She expresses misgivings about his expressive design choices, writing, “I’d like to show the people’s direction as transparently and exactly as possible. I’m afraid that too strong power of design’s image can weaken the contents.”"
+    extended_caption: "In this letter, Mieko Shiomi responds to George Maciunas’s proposed design for the object edition of [*Spatial Poem No. 2 (Direction Event)*](/object-index/519/) (1965). She conveys misgivings about his expressive design choices, writing, “I’d like to show the people’s direction as transparently and exactly as possible. I’m afraid that too strong power of design’s image can weaken the contents.”"
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ correspondence ]
@@ -9672,7 +9671,7 @@ object_list:
     year_filter: [ "1968" ]
     medium: "handwritten text on paper"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 30"
-    extended_caption: "Following the completion of [*Spatial Poem No. 3 (Falling Event)*](/object-index/527/), Mieko Shiomi sent George Maciunas a list of additional contributors who had been incorporated into the project by the time [*Spatial Poem No. 4 (Shadow Event)*](/object-index/530/#fig-530-g) launched. The letter also includes mention of the Massachusetts-based collector of Dada and Surrealist ephemera Jean Brown, who recognized the importance of Fluxus among other contemporaneous neo-avant-garde tendencies and was beginning to collect works directly from artists. "
+    extended_caption: "Following the completion of [*Spatial Poem No. 3 (Falling Event)*](/object-index/527/), Mieko Shiomi sent George Maciunas a list of additional contributors who had been incorporated into the project by the time [*Spatial Poem No. 4 (Shadow Event)*](/object-index/530/#fig-530-ah) launched. The letter also includes mention of the Massachusetts-based collector of Dada and Surrealist ephemera Jean Brown, who recognized the importance of Fluxus among other contemporaneous neo-avant-garde tendencies and was beginning to collect works directly from artists. "
     credit: "Used by permission of Mieko Shiomi."
     featured: 
     type: [ correspondence ]
@@ -10174,7 +10173,7 @@ object_list:
     people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "Printed program for *Routine*, presented at the Portland Center for the Visual Arts, Portland, Oregon"
-    date: "29 November– 2 December 1973"
+    date: "29 November–2 December 1973"
     date_sort: "1973-11-29"
     year_filter: [ "1973" ]
     date_end: 31 29 November– 2 December 1973
@@ -10216,7 +10215,7 @@ object_list:
     year_filter: [ "1973" ]
     medium: "1 film reel (16mm), SD, b&w"
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46"
-    extended_caption: "Produced by the Portland Center for the Visual Arts in cooperation with the National Endowment for the Arts. Directed by Michael Sullivan, with performers Sue Johnson and David Hauck."
+    extended_caption: "Produced by the Portland Center for the Visual Arts in cooperation with the National Endowment for the Arts. Directed by Michael Sullivan, with performers Sue Johnson and David Hauck. Scripted, storyboarded, and rehearsed, Kaprow's activity films simultaneously function as performance documents and scorelike instructional films addressed to an audience of potential participants."
     credit: ""
     featured: 
     type: [ score, video ]
@@ -10234,7 +10233,7 @@ object_list:
     year_filter: [ "1975" ]
     medium: "1 film reel (16mm), SD, b/w"
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F48"
-    extended_caption: "The program for *Comfort Zones* (produced by Galería Vandrés, S. A., Madrid, Spain; photographed and edited by David Seaton; and peformed by Esther Llordén and Mario Costas) makes it seem difficult to film, since so many of Allan Kaprow’s instructions call for actions that are radically internal, such as thinking and sensing. When the program has the performers communicate their thoughts and feelings, they say only “now”—a word that expresses little and yet emphasizes the non-coincidence of the “now” of the recording and the “now” of the screening. At the same time, *Comfort Zones* has an intensity and visceral quality due to Kaprow’s deliberately stylized film grammar, which includes extreme close-ups and slow motion. [Kaprow’s detailed shooting script](/object-index/628/) can be viewed in the [Archive section of chapter 11](/11/#archive), along with the [activity booklet](/object-index/626/) and the programs, in Spanish and [English](/object-index/627/), that were used in this Madrid realization."
+    extended_caption: "The program for *Comfort Zones* (produced by Galería Vandrés, S. A., Madrid, Spain; photographed and edited by David Seaton; and peformed by Esther Llordén and Mario Costas) makes it seem difficult to film, since so many of Allan Kaprow’s instructions call for actions that are radically internal, such as thinking and sensing. When the program has the performers communicate their thoughts and feelings, they say only “now”—a word that expresses little and yet emphasizes the non-coincidence of the “now” of the recording and the “now” of the screening. At the same time, *Comfort Zones* has an intensity and visceral quality due to Kaprow’s deliberately stylized film grammar, which includes extreme close-ups and slow motion. [Kaprow’s detailed shooting script](/object-index/628/) can be viewed in the [Archive section of chapter 11](/11/#archive), along with the [activity booklet](/object-index/626/) and the program in [English](/object-index/627/), that was used in this Madrid realization."
     credit: ""
     featured: 
     type: [ score, video ]
@@ -10276,7 +10275,7 @@ object_list:
     extended_caption: "Participants: Peter Kirby, Allan Kaprow, Nancy Buchanan, Sylvia and Jerry Simpson, and Vaughn Rachel at Video Transitions, Hollywood."
     credit: ""
     featured: 
-    type: [ press clipping ]
+    type: [ audio ]
     figure: [ id: "fig-577" ]
     related_objects: [ id: "576", id: "630", id: "631", id: "632" ]
 -
@@ -10327,7 +10326,7 @@ object_list:
     year_filter: [ "1957", "1958" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 4, folder 13"
-    extended_caption: "Kaprow composed this score while he was attending John Cage’s experimental composition course at the New School for Social Research. By taxonomizing and then scoring behavior that is ordinarily involuntary (coughing, clearing one’s throat), Kaprow explores Cage’s ideal of non-intentionality in a comic mode. Cage himself could sometimes be a subtly comic performer, making use of puns and deadpan in some of his performance lectures."
+    extended_caption: "Kaprow composed this score while he was attending [John Cage’s experimental composition course](/object-index/557/) at the New School for Social Research. By taxonomizing and then scoring behavior that is ordinarily involuntary (coughing, clearing one’s throat), Kaprow explores Cage’s ideal of non-intentionality in a comic mode. Cage himself could sometimes be a subtly comic performer, making use of puns and deadpan in some of his performance lectures."
     credit: ""
     featured: 
     type: [ score ]
@@ -10349,7 +10348,7 @@ object_list:
     credit: ""
     featured: 
     type: [ sketches and materials ]
-    figure: [ id: "fig-581-a", id: "fig-581-b", id: "fig-581-c", id: "fig-581-d", id: "fig-581-e", id: "fig-581-f" ]
+    figure: [ id: "fig-581-a", id: "fig-581-b", id: "fig-581-c", id: "fig-581-f", id: "fig-581-d", id: "fig-581-e" ]
     related_objects: [ id: "582", id: "583" ]
 -
     id: "582"
@@ -10636,7 +10635,7 @@ object_list:
     credit: ""
     featured: true
     type: [ score ]
-    figure: [ id: "fig-597-a", id: "fig-597-b", id: "fig-597-c", id: "fig-597-d", id: "fig-597-e", id: "fig-597-f", id: "fig-597-g" ]
+    figure: [ id: "fig-597-e", id: "fig-597-f", id: "fig-597-g", id: "fig-597-b", id: "fig-597-c", id: "fig-597-d", id: "fig-597-a" ]
     related_objects: [ id: "563", id: "564", id: "572", id: "561", id: "602", id: "603", id: "604" ]
 -
     id: "598"
@@ -10686,7 +10685,7 @@ object_list:
     year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-    extended_caption: "As late as November 1973, Allan Kaprow referred to [the film or video he would make for *Routine*](/object-index/574/) as a “document.” This letter also indicates how systematic Kaprow’s activity form had become by that year. For example, he confidently predicts that 25 percent of those who attend his briefing will return the next day to participate in the realization. This systematic quality of activities is further reflected in Kaprow’s use of standardized, uniformly available materials in his programs, such as “pocket mirrors (3” × 4” @ 12c ea.).”"
+    extended_caption: "The Portland Center for the Visual Arts had assumed that Kaprow would use film or video to document the performance of the activity. Here Kaprow suggests that they will make two different kinds of photographic texts—one a documentary “record,” the other “the actual film, photos, or tapes,” by which he means a scorelike instructional film, video, or booklet. This letter also indicates how systematic Kaprow’s activity form had become by that year. For example, he confidently predicts that 25 percent of those who attend his briefing will return the next day to participate in the realization. This systematic quality of activities is further reflected in Kaprow’s use of standardized, uniformly available materials in his programs, such as “pocket mirrors (3” × 4” @ 12c ea.).”"
     credit: ""
     featured: 
     type: [ correspondence ]
@@ -10957,7 +10956,7 @@ object_list:
     year_filter: [ "1986" ]
     medium: ""
     location: "Collection of Emily Ruth Capper"
-    extended_caption: "In a [1989 interview with Richard Wood Massi](/object-index/614/), Allan Kaprow claimed to be modeling his activity booklets and films on the evolving form of airplane [“escape instructions.”](/object-index/614/#fig-614-b) He was something of an expert on the genre, given his frequent trips as a visiting professor, and the comparison is remarkably apt. The aircraft safety card uses photographs in a highly abstract way—not least because too much realism might cause passengers to panic. In this example, a man and boy float serenely in a swimming pool."
+    extended_caption: "In a [1989 interview with Richard Wood Massi](/object-index/614/), Allan Kaprow claimed to be modeling his activity booklets and films on the evolving form of airplane [“escape instructions.”](/object-index/614/#fig-614-i) He was something of an expert on the genre, given his frequent trips as a visiting professor, and the comparison is remarkably apt. The aircraft safety card uses photographs in a highly abstract way—not least because too much realism might cause passengers to panic. In this example, a woman floats serenely in a swimming pool."
     credit: ""
     featured: 
     type: [ archival materials ]
@@ -10998,7 +10997,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-617-a", id: "fig-617-b", id: "fig-617-c", id: "fig-617-d", id: "fig-617-e", id: "fig-617-f" ]
-    related_objects: [ id: "618", id: "619", id: "620", id: "622", id: "623", id: "624", id: "625" ]
+    related_objects: [ id: "618", id: "619", id: "620", id: "622", id: "623", id: "624", id: "625", id: "621" ]
 -
     id: "618"
     old_id: "11.34aa"
@@ -11065,11 +11064,12 @@ object_list:
     year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 20, folder 13"
-    extended_caption: ""
+    extended_caption: "Kaprow saved this set of instructions for using an anti-itch medication in his project file for the activity [Loss](/object-index/617/) (Jan 1973). Viewed through the lens of the avant-garde, the instruction sheet looks like a readymade score, and this is far from incidental in a practice like Kaprow’s, which tends to model his artistic forms on vernacular references."
     credit: ""
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-621-a", id: "fig-621-b" ]
+    related_objects: [ id: "617" ]
 -
     id: "622"
     old_id: "11.34e"
@@ -11176,7 +11176,7 @@ object_list:
     credit: ""
     featured: 
     type: [ programs and flyers ]
-    figure: [ id: "fig-627-a", id: "fig-627-b", id: "fig-627-c", id: "fig-627-d" ]
+    figure: [ id: "fig-627-b", id: "fig-627-a", id: "fig-627-c", id: "fig-627-d" ]
     related_objects: [ id: "575", id: "626", id: "628", id: "629" ]
 -
     id: "628"

@@ -7,6 +7,10 @@ layout: base.11ty.js
 description: A custom layout for the primary score landing pages
 ---
 
+{% if header_animation %}
+{% assign animation_path = './content/_assets/' | append: header_animation %}
+{% render animation_path %}
+{% else %}
 {% pageHeader
   byline_format=byline_format,
   image=image,
@@ -14,6 +18,7 @@ description: A custom layout for the primary score landing pages
   subtitle=subtitle,
   title=title
 %}
+{% endif %}
 
 <section class="section quire-page__content">
 <div class="container">

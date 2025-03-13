@@ -103,6 +103,9 @@ body {
     left: 2px;
     margin-right: 2px;
   }
+  .quire-page .quire-page__content .container .content .score-section__link a::after {
+    content: '' !important;
+  }
   /* Remove arrow icon in some instances */
   .quire-page .quire-page__content .container .content .iframe_viewer__nav-buttons a::after,
   .quire-page .quire-page__content .container .content .iframe_viewer__controls a::after,

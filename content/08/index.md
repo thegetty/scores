@@ -11,7 +11,7 @@ contributor:
     section: commentary
 commentary:
   link: "/08/commentary/"
-  blurb: "Throughout the 1960s, the postmodern dance pioneer Yvonne Rainer experimented with diverse scoring techniques, including movement maps, lists, charts, and “people plans,” to capture indeterminate yet rule-based choreography stripped of artifice, expression, and narrative. A series of diagrammatic floor plans sketches out *We Shall Run*, in which a cluster of “runners” in everyday clothes jog about in unpredictable groupings and patterns. Rainer never believed that a score could faithfully capture the complex dimensions of choreographic space, time, force, and shape; rather, her improvised scores functioned conceptually, as a broad methodology that fueled further innovation."
+  blurb: "Throughout the 1960s, the postmodern dance pioneer Yvonne Rainer experimented with diverse scoring techniques, including movement maps, lists, charts, and “people plans,” to capture indeterminate yet rule-based choreography stripped of artifice, expression, and narrative. A series of diagrammatic floor plans sketches out *We Shall Run*, in which a cluster of “runners” in everyday clothes jog about in unpredictable groupings and patterns. Rainer never believed that a score could faithfully capture the complex dimensions of choreographic space, time, force, and shape; rather, her improvised scores functioned conceptually, as a broad methodology that fueled further innovation. This chapter also includes significant documentation of Rainer’s groundbreaking dance *Trio A*, part of the evening-length work, *The Mind is a Muscle* (1966–68)."
 score:
   objects:
     - id: "436"

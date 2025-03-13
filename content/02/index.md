@@ -6,6 +6,7 @@ order: 20
 outputs: 
   - html
 layout: score
+header_animation: animations/02.html
 contributor:
   - id: mgallope
     section: commentary

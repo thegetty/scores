@@ -11,7 +11,7 @@ contributor:
     section: commentary
 commentary:
   link: "/11/commentary/"
-  blurb: "The famed inventor of the “happening” in the late 1950s, Allan Kaprow is noteworthy among the artists and musicians featured in *The Scores Project* for the central importance of pedagogy and student interaction to his creative work. Kaprow composed *Routine* as a typewritten score, an activity booklet, and an instructional film that documented performances themselves. Kaprow’s score focuses on defamiliarizing mundane instances of visual interaction and verbal communication between two people. At once didactic, open-ended, and playful, during the 1970s Kaprow structured his work on an intimate scale to encourage pedagogical instances of critical self-reflection."
+  blurb: "The famed inventor of the “happening” in the late 1950s, Allan Kaprow is noteworthy among the artists and musicians featured in *The Scores Project* for the central importance of pedagogy and student interaction to his creative work. Kaprow composed *Routine* as a typewritten score, an activity booklet, and an instructional film that condensed the functions of both score and performance documentation. Kaprow’s score defamiliarizes routine interactions and verbal communication between two people. At once didactic, open-ended, and playful, during the 1970s Kaprow structured his activities on an intimate scale to facilitate instances of critical and interpersonal self-reflection."
 score:
   objects:
     - id: "572"

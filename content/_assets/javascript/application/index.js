@@ -17,6 +17,7 @@ import '../../fonts/index.scss';
 import '../../styles/application.scss'
 import '../../styles/screen.scss'
 import '../../styles/custom.css'
+import '../../animations/animations.css'
 
 // Modules (feel free to define your own and import here)
 import './canvas-panel'
@@ -352,25 +353,6 @@ window['toggleObjectSize'] = () => {
   sizeButton.innerHTML == 'View: Large' 
     ? sizeButton.innerHTML = 'View: Small'
     : sizeButton.innerHTML = 'View: Large'
-}
-
-// Add function to open and close the Score and Playback drawers
-window['toggleDrawer'] = function(event) {
-  const drawerLink = event.target.closest('.score-section__link--expander');
-  const drawer = drawerLink.previousElementSibling;
-  
-  if (drawer && drawer.classList.contains('score-section__objects')) {
-    const drawerCardsClasses = drawer.classList;
-    drawerCardsClasses.toggle('open');
-    
-    if (drawerCardsClasses.contains('open')) {
-      event.target.textContent = "Collapse";
-    } else {
-      event.target.textContent = "Expand ...";
-    }
-      } else {
-    console.error("Drawer not found");
-  }
 }
 
 // Toggle score object page between side-by-side and widecreen view

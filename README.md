@@ -82,11 +82,6 @@ Added Google Analytics 4
 **_includes/components/copyright/licensing.js**
 Updated language of `text-only` license to current Getty standard
 
-**_includes/components/figure/audio/element.js**
-**_includes/components/lightbox/slides.js**
-**_plugins/shortcodes/figure.js**
-Added support for HTML5 `audio` media_type
-
 **_includes/components/lightbox/ui.js**
 Use text labels instead of icons for full screen, next, and prev
 

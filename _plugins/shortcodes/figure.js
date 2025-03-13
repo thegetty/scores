@@ -1,8 +1,3 @@
-//
-// CUSTOMIZED FILE
-// Add `audio` media type
-//
-
 const chalkFactory = require('~lib/chalk')
 const { oneLine } = require('~lib/common-tags')
 
@@ -60,7 +55,6 @@ module.exports = function (eleventyConfig) {
     const component = async (figure) => {
       switch (true) {
         case mediaType === 'soundcloud':
-        case mediaType === 'audio':
           return figureAudio(figure)
         case mediaType === 'table':
           return await figureTable(figure)

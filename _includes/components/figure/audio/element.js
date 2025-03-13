@@ -1,11 +1,8 @@
-//
-// CUSTOMIZED FILE
-// Uses rc.17 version of code, adds support for HTML5 `audio` media_type
-//
 const { html } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 
 const logger = chalkFactory('Figure Video')
+
 /**
  * Renders an embedded soundcloud audio player
  *
@@ -20,36 +17,29 @@ const logger = chalkFactory('Figure Video')
  */
 module.exports = function (eleventyConfig) {
   const figureMediaEmbedUrl = eleventyConfig.getFilter('figureMediaEmbedUrl')
-  
-  return function({ id, mediaId, mediaType, lazyLoading }) {
-    if (!mediaId) {
-      logger.error(`Cannot render SoundCloud component without 'media_id'. Check that figures data for id: ${id} has a valid 'media_id'`)
-      return ''
-    }
-  
-    if (mediaType == 'audio') {
-  
-      return html`
-        <audio 
-          controls
-          src="/_assets/images/${mediaId}"
-          loading="${ lazyLoading ?? 'lazy' }"
-        ></audio>`
-    
-    } else {
+  const audioElements = {
+    soundcloud({ id, mediaId, mediaType, lazyLoading }) {
+      if (!mediaId) {
+        logger.error(`Cannot render SoundCloud component without 'media_id'. Check that figures data for id: ${id} has a valid 'media_id'`)
+        return ''
+      }
+
       const { embedUrl } = figureMediaEmbedUrl({ mediaId, mediaType })
-  
+
       return html`
         <iframe
           allow="autoplay"
           frameborder="no"
-          height="166"
           loading="${ lazyLoading ?? 'lazy' }"
+          height="166"
           scrolling="no"
           src="${embedUrl}"
           width="100%"
         ></iframe>
       `
-    } 
-  }  
+    }
+  }
+  return function ({ id, mediaId, mediaType, lazyLoading }) {
+    return audioElements[mediaType]({ id, mediaId, mediaType, lazyLoading })
+  }
 }

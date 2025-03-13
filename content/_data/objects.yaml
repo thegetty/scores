@@ -6078,7 +6078,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-346" ]
-    related_objects: [ id: "358", id: "353", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "357", id: "345", id: 380", id: "377", id: "391", id: "352" ]
+    related_objects: [ id: "358", id: "353", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "357", id: "345", id: "380", id: "377", id: "391", id: "352" ]
 # REMOVED: Was dupe of 349 to provide linking to individual cards
 # -
 #     id: "347"

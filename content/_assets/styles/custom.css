@@ -527,14 +527,6 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-left: -1rem;
   width: calc(100vw - 2rem);
 }
-.score-section > .score-section__objects {
-  max-height: 500px;
-  overflow-y: clip;
-}
-.score-section > .score-section__objects.open {
-  max-height: initial;
-  overflow-y: initial;
-}
 .score-section--score .score-section__objects {
   grid-template-columns: 1fr 1fr 1fr;
 }

@@ -17,21 +17,21 @@ score:
     - id: "238"
 playback:
   objects:
-    - id: "239"
-    - id: "240"
-    - id: "241"
-    - id: "242"
-    - id: "243"
-    - id: "244"
-    - id: "247"
-    - id: "248"
-    - id: "249"
-    - id: "250"
-    - id: "251"
+    - id: "356"
     - id: "252"
     - id: "253"
     - id: "254"
-    - id: "356"
+    - id: "251"
+    - id: "247"
+    - id: "248"
+    - id: "242"
+    - id: "249"
+    - id: "244"
+    - id: "239"
+    - id: "241"
+    - id: "250"
+    - id: "240"
+    - id: "243"
 archive: 
   contributor:
     - id: mgallope
@@ -127,6 +127,7 @@ archive:
         - id: "319"
         - id: "320"
         - id: "321"
+        - id: "225"
     - heading: "Archival materials"
       objects:
         - id: "261"

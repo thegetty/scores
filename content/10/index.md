@@ -47,8 +47,6 @@ archive:
         - id: "531"
     - heading: "Correspondence"
       objects:
-        - id: "515"
-        - id: "532"
         - id: "533"
         - id: "534"
         - id: "535"
@@ -69,6 +67,8 @@ archive:
         - id: "550"
         - id: "551"
         - id: "552"
+        - id: "515"
         - id: "553"
         - id: "554"
+        - id: "532"
 ---

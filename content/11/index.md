@@ -19,7 +19,7 @@ score:
     - id: "574"
 playback:
   objects:
-    - id: ""
+    - id: "574"
 archive: 
   contributor:
     - id: ercapper
@@ -49,6 +49,9 @@ archive:
         - id: "575"
         - id: "576"
         - id: "578"
+        - id: "594"
+        - id: "613"
+        - id: "627"
     - heading: "Sketches and materials"
       objects:
         - id: "581"
@@ -56,7 +59,6 @@ archive:
         - id: "586"
         - id: "590"
         - id: "592"
-        - id: "613"
         - id: "619"
         - id: "620"
         - id: "621"
@@ -65,10 +67,8 @@ archive:
         - id: "633"
     - heading: "Programs and flyers"
       objects:
-        - id: "627"
         - id: "591"
         - id: "593"
-        - id: "594"
     - heading: "Photographs"
       objects:
         - id: "556"
@@ -90,12 +90,12 @@ archive:
         - id: "624"
         - id: "625"
         - id: "629"
-    - heading: "Videos"
+    - heading: "Audio / Video"
       objects:
         - id: "570"
+        - id: "577"
     - heading: "Press clippings"
       objects:
-        - id: "577"
         - id: "587"
     - heading: "Correspondence"
       objects:

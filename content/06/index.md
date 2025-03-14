@@ -14,18 +14,17 @@ commentary:
   blurb: "Synthesizing the influence of Marcel Duchamp, Jackson Pollock, and John Cage, Fluxus artist George Brecht’s watershed event score *Drip Music (Drip Event)* helped catalyze a new wave of experimental notation that abandoned the look of staff notation in favor of the ambiguous poetics of the written word. An annotated digital edition of *Water Yam* invites users to manipulate and compare dozens of Brecht’s event scores: playful instructions for live performance or private meditation that cultivate the “virtuoso listener” for whom “all sound may be music.”"
 score:
   objects:
-    - id: "345"
     - id: "346"
     - id: "348"
     - id: "349"
 playback:
   objects:
-    - id: "350"
-    - id: "351"
-    - id: "352"
     - id: "353"
+    - id: "352"
+    - id: "351"
     - id: "354"
     - id: "355"
+    - id: "350"
     - id: "357"
 archive: 
   contributor:
@@ -33,6 +32,7 @@ archive:
   groups:
     - heading: "Scores"
       objects:
+        - id: "345"
         - id: "374"
         - id: "376"
         - id: "377"
@@ -53,7 +53,6 @@ archive:
         - id: "388"
         - id: "389"
         - id: "390"
-        - id: "392"
     - heading: "Programs and flyers"
       objects:
         - id: "358"
@@ -61,6 +60,7 @@ archive:
         - id: "365"
         - id: "394"
         - id: "398"
+        - id: "262"
     - heading: "Photographs"
       objects:
         - id: "359"
@@ -81,11 +81,16 @@ archive:
       objects:
         - id: "369"
         - id: "375"
+        - id: "392"
         - id: "396"
         - id: "397"
         - id: "399"
         - id: "402"
         - id: "403"
+        - id: "221"
+        - id: "222"
+        - id: "223"
+        - id: "264"
     - heading: "Archival materials"
       objects:
         - id: "391"

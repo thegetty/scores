@@ -17,8 +17,8 @@ score:
     - id: "154"
     - id: "155"
     - id: "156"
-    - id: "157"
     - id: "158"
+    - id: "157"
 playback:
   objects:
     - id: "160"

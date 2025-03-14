@@ -19,12 +19,12 @@ score:
     - id: "014"
 playback:
   objects:
-    - id: "015"
+    - id: "019"
+    - id: "020"
     - id: "016"
     - id: "017"
     - id: "018"
-    - id: "019"
-    - id: "020"
+    - id: "015"
 archive: 
   contributor:
     - id: mgallope

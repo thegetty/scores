@@ -70,4 +70,7 @@ archive:
         - id: "460"
         - id: "461"
         - id: "462"
+    - heading: "Archival materials"
+      objects:
+        - id: "261"
 ---

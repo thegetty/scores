@@ -22,6 +22,14 @@ playback:
 archive: 
   contributor:
   groups:
+    - heading: "Scores"
+      objects:
+        - id: "475"
+        - id: "511"
+        - id: "512"
+    - heading: "Sketches and materials"
+      objects:
+        - id: "478"
     - heading: "Programs and flyers"
       objects:
         - id: "492"
@@ -35,18 +43,10 @@ archive:
       objects:
         - id: "476"
         - id: "506"
-    # - heading: "Press clippings"
-    #   objects:
-    #     - id: ""
-    - heading: "Archival materials"
+    - heading: "Video"
       objects:
-        - id: "491"
-        - id: "493"
-        - id: "495"
-        - id: "507"
-        - id: "508"
-        - id: "509"
-        - id: "510"
+        - id: "481"
+        - id: "482"
     - heading: "Correspondence"
       objects:
         - id: "488"
@@ -57,6 +57,15 @@ archive:
         - id: "503"
         - id: "504"
         - id: "505"
+    - heading: "Archival materials"
+      objects:
+        - id: "491"
+        - id: "493"
+        - id: "495"
+        - id: "507"
+        - id: "508"
+        - id: "509"
+        - id: "510"
     - heading: "Artwork"
       objects:
         - id: "477"
@@ -66,16 +75,4 @@ archive:
         - id: "487"
         - id: "490"
         - id: "514"
-    - heading: "Scores"
-      objects:
-        - id: "475"
-        - id: "511"
-        - id: "512"
-    - heading: "Sketches and materials"
-      objects:
-        - id: "478"
-    - heading: "Video"
-      objects:
-        - id: "481"
-        - id: "482"
 ---

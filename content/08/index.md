@@ -22,38 +22,6 @@ archive:
   contributor:
     - id: nharren
   groups:
-    - heading: "Audio and Video"
-      objects:
-        - id: "437"
-        - id: "439"
-        - id: "440"
-        - id: "441"
-        - id: "442"
-        - id: "443"
-        - id: "444"
-        - id: "445"
-    - heading: "Programs and flyers"
-      objects:
-        - id: "455"
-        - id: "456"
-    - heading: "Photographs"
-      objects:
-        - id: "446"
-        - id: "447"
-    - heading: "Press clippings"
-      objects:
-        - id: "457"
-        - id: "458"
-        - id: "459"
-        - id: "460"
-        - id: "461"
-        - id: "462"
-    # - heading: "Archival materials"
-    #   objects:
-    #     - id: ""
-    # - heading: "Correspondence"
-    #   objects:
-    #     - id: ""
     - heading: "Scores"
       objects:
         - id: "451"
@@ -76,4 +44,30 @@ archive:
         - id: "469"
         - id: "470"
         - id: "472"
+    - heading: "Programs and flyers"
+      objects:
+        - id: "455"
+        - id: "456"
+    - heading: "Photographs"
+      objects:
+        - id: "446"
+        - id: "447"
+    - heading: "Audio and Video"
+      objects:
+        - id: "437"
+        - id: "439"
+        - id: "440"
+        - id: "441"
+        - id: "442"
+        - id: "443"
+        - id: "444"
+        - id: "445"
+    - heading: "Press clippings"
+      objects:
+        - id: "457"
+        - id: "458"
+        - id: "459"
+        - id: "460"
+        - id: "461"
+        - id: "462"
 ---

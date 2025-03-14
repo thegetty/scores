@@ -34,6 +34,17 @@ archive:
   contributor:
     - id: mgallope
   groups:
+    - heading: "Scores"
+      objects:
+        - id: "210"
+        - id: "212"
+        - id: "213"
+        - id: "214"
+        - id: "215"
+        - id: "216"
+        - id: "217"
+        - id: "226"
+        - id: "227"
     - heading: "Programs and flyers"
       objects:
         - id: "223"
@@ -48,32 +59,18 @@ archive:
     - heading: "Press clippings"
       objects:
         - id: "230"
-    - heading: "Archival materials"
-      objects:
-        - id: "218"
-        - id: "219"
-        - id: "235"
     - heading: "Correspondence"
       objects:
         - id: "221"
         - id: "222"
         - id: "224"
         - id: "225"
-    - heading: "Scores"
-      objects:
-        - id: "210"
-        - id: "212"
-        - id: "213"
-        - id: "214"
-        - id: "215"
-        - id: "216"
-        - id: "217"
-        - id: "226"
-        - id: "227"
-    # - heading: "Sketches and materials"
-    #   objects:
-    #     - id: ""
     - heading: "Manuscript"
       objects:
         - id: "220"
+    - heading: "Archival materials"
+      objects:
+        - id: "218"
+        - id: "219"
+        - id: "235"
 ---

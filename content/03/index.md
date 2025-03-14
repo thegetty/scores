@@ -27,6 +27,17 @@ playback:
 archive: 
   contributor:
   groups:
+    - heading: "Scores"
+      objects:
+        - id: "159"
+        - id: "164"
+        - id: "165"
+        - id: "166"
+        - id: "174"
+        - id: "175"
+    - heading: "Sketches and materials"
+      objects:
+        - id: "163"
     - heading: "Programs and flyers"
       objects:
         - id: "183"
@@ -46,13 +57,6 @@ archive:
         - id: "192"
         - id: "193"
         - id: "194"
-    - heading: "Archival materials"
-      objects:
-        - id: "169"
-        - id: "170"
-        - id: "172"
-        - id: "173"
-        - id: "195"
     - heading: "Correspondence"
       objects:
         - id: "167"
@@ -65,15 +69,11 @@ archive:
         - id: "180"
         - id: "181"
         - id: "182"
-    - heading: "Scores"
+    - heading: "Archival materials"
       objects:
-        - id: "159"
-        - id: "164"
-        - id: "165"
-        - id: "166"
-        - id: "174"
-        - id: "175"
-    - heading: "Sketches and materials"
-      objects:
-        - id: "163"
+        - id: "169"
+        - id: "170"
+        - id: "172"
+        - id: "173"
+        - id: "195"
 ---

@@ -37,6 +37,27 @@ archive:
     - id: mgallope
     - id: nharren
   groups:
+    - heading: "Scores"
+      objects:
+        - id: "301"
+        - id: "302"
+        - id: "303"
+        - id: "304"
+        - id: "305"
+        - id: "306"
+        - id: "307"
+        - id: "308"
+        - id: "309"
+        - id: "310"
+        - id: "313"
+        - id: "322"
+        - id: "325"
+        - id: "328"
+        - id: "330"
+    - heading: "Sketches and materials"
+      objects:
+        - id: "288"
+        - id: "311"
     - heading: "Programs and flyers"
       objects:
         - id: "229"
@@ -76,13 +97,6 @@ archive:
         - id: "338"
         - id: "339"
         - id: "340"
-    - heading: "Archival materials"
-      objects:
-        - id: "261"
-        - id: "267"
-        - id: "272"
-        - id: "273"
-        - id: "332"
     - heading: "Correspondence"
       objects:
         - id: "264"
@@ -113,28 +127,14 @@ archive:
         - id: "319"
         - id: "320"
         - id: "321"
+    - heading: "Archival materials"
+      objects:
+        - id: "261"
+        - id: "267"
+        - id: "272"
+        - id: "273"
+        - id: "332"
     - heading: "Artwork"
       objects:
         - id: "333"
-    - heading: "Scores"
-      objects:
-        - id: "301"
-        - id: "302"
-        - id: "303"
-        - id: "304"
-        - id: "305"
-        - id: "306"
-        - id: "307"
-        - id: "308"
-        - id: "309"
-        - id: "310"
-        - id: "313"
-        - id: "322"
-        - id: "325"
-        - id: "328"
-        - id: "330"
-    - heading: "Sketches and materials"
-      objects:
-        - id: "288"
-        - id: "311"
 ---

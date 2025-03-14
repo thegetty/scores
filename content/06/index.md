@@ -30,41 +30,6 @@ playback:
 archive: 
   contributor:
   groups:
-    - heading: "Programs and flyers"
-      objects:
-        - id: "358"
-        - id: "364"
-        - id: "365"
-        - id: "394"
-        - id: "398"
-    - heading: "Photographs"
-      objects:
-        - id: "359"
-        - id: "360"
-        - id: "361"
-        - id: "362"
-        - id: "363"
-        - id: "366"
-        - id: "383"
-    - heading: "Press clippings"
-      objects:
-        - id: "368"
-        - id: "395"
-    - heading: "Archival materials"
-      objects:
-        - id: "391"
-    - heading: "Audio"
-      objects:
-        - id: "382"
-    - heading: "Correspondence"
-      objects:
-        - id: "369"
-        - id: "375"
-        - id: "396"
-        - id: "397"
-        - id: "399"
-        - id: "402"
-        - id: "403"
     - heading: "Scores"
       objects:
         - id: "374"
@@ -88,4 +53,39 @@ archive:
         - id: "389"
         - id: "390"
         - id: "392"
+    - heading: "Programs and flyers"
+      objects:
+        - id: "358"
+        - id: "364"
+        - id: "365"
+        - id: "394"
+        - id: "398"
+    - heading: "Photographs"
+      objects:
+        - id: "359"
+        - id: "360"
+        - id: "361"
+        - id: "362"
+        - id: "363"
+        - id: "366"
+        - id: "383"
+    - heading: "Audio"
+      objects:
+        - id: "382"
+    - heading: "Press clippings"
+      objects:
+        - id: "368"
+        - id: "395"
+    - heading: "Correspondence"
+      objects:
+        - id: "369"
+        - id: "375"
+        - id: "396"
+        - id: "397"
+        - id: "399"
+        - id: "402"
+        - id: "403"
+    - heading: "Archival materials"
+      objects:
+        - id: "391"
 ---

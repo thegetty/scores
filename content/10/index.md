@@ -32,6 +32,9 @@ playback:
 archive: 
   contributor:
   groups:
+    - heading: "Scores"
+      objects: 
+        - id: "516"
     - heading: "Programs and flyers"
       objects:
         - id: "518"
@@ -41,9 +44,6 @@ archive:
     - heading: "Press clippings"
       objects:
         - id: "531"
-    # - heading: "Archival materials"
-    #   objects:
-    #     - id: ""
     - heading: "Correspondence"
       objects:
         - id: "515"
@@ -70,13 +70,4 @@ archive:
         - id: "552"
         - id: "553"
         - id: "554"
-    - heading: "Scores"
-      objects: 
-        - id: "516"
-    # - heading: "Sketches and materials"
-    #   objects:
-    #     - id: ""
-    # - heading: "Video"
-    #   objects:
-    #     - id: ""
 ---

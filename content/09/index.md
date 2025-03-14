@@ -21,6 +21,7 @@ playback:
     - id: "482"
 archive: 
   contributor:
+    - id: ercapper
   groups:
     - heading: "Scores"
       objects:

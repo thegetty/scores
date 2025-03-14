@@ -20,6 +20,7 @@ playback:
     - id: ""
 archive: 
   contributor:
+    - id: jhicks
   groups:
     - heading: "Scores"
       objects:

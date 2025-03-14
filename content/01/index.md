@@ -27,6 +27,7 @@ playback:
     - id: "020"
 archive: 
   contributor:
+    - id: mgallope
   groups:
     - heading: "Scores"
       objects:

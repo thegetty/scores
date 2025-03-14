@@ -29,6 +29,7 @@ playback:
     - id: "357"
 archive: 
   contributor:
+    - id: nharren
   groups:
     - heading: "Scores"
       objects:

@@ -31,6 +31,7 @@ playback:
     - id: "555"
 archive: 
   contributor:
+    - id: nharren
   groups:
     - heading: "Scores"
       objects: 

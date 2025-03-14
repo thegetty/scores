@@ -26,6 +26,7 @@ playback:
     - id: "162"
 archive: 
   contributor:
+    - id: mgallope
   groups:
     - heading: "Scores"
       objects:

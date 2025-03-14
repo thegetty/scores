@@ -22,6 +22,7 @@ playback:
     - id: ""
 archive: 
   contributor:
+    - id: ercapper
   groups:
     - heading: "Scores"
       objects:

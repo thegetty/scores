@@ -29,7 +29,7 @@ tag_descriptions:
     description: "These three scores, probably written expressly for inclusion in *Water Yam*, are distinguished from all others included in the collection on multiple accounts. They employ white print on a black background, are the only cards to include mention of Fluxus (as part of Brecht’s address), and propose a subscription model in which individuals would write directly to Brecht in order to activate the work. Notably as well, the language used refers to the “realization” of the work or its being “arranged.” While conceptualizing *Water Yam*, Brecht wrote to Maciunas, “I would like to include in the ‘complete works’ box, a coupon, or coupons, which the subscriber could return to me, and for which I would send him an actual object or event. These coupons could be in de luxe copies of the box (this makes them ‘special’, which I don’t too much care for), or the coupon could be returned to me with some additional fee, for which I would send the work. What are your thoughts on this?” (Letter from George Brecht to George Maciunas, ca. January 1963, George Maciunas Correspondence, Hanns Sohm Archive, Staatsgalerie Stuttgart, Stuttgart, Germany)."
 
   - tag: "from object"
-    description: "As with the first so-named event, *Motor Vehicle Sundown (Event)* (1960), inspired by a compelling situation Brecht noticed in his everyday life, the artist composed many event scores to capture phenomena he had already experienced. These scores were all composed “from objects”—that is, after objects or situations that Brecht noticed, found, or arranged. As he explained, “Once in a while I would make an object first and then make a card later. . . . I don’t feel very much one way or the other since every object is an event anyway and every event has [an] object-like quality” (Michael Nyman, “An Interview with George Brecht” (1976), in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire*, [Milan: Multhipla, 1978], 106)."
+    description: "As with the first so-named event, *Motor Vehicle Sundown (Event)* (1960), inspired by a compelling situation Brecht noticed in his everyday life, the artist composed many event scores to capture phenomena he had already experienced. These scores were all composed “from objects”—that is, after objects or situations that Brecht noticed, found, or arranged. As he explained, “Once in a while I would make an object first and then make a card later. . . . I don’t feel very much one way or the other since every object is an event anyway and every event has [an] object-like quality” (Michael Nyman, “An Interview with George Brecht” [1976], in Henry Martin, *An Introduction to George Brecht’s Book of the Tumbler on Fire*, [Milan: Multhipla, 1978], 106)."
 
   - tag: "liquid"
     description: "Water and other kinds of liquid make frequent appearance in Brecht's collection of scores, a publication itself named *Water Yam*. As a versatile, shape-shifting material that nevertheless behaves according to certain physical laws, water and liquid are emblematic of the capacious yet succinct nature of the scores’ language and possibilities for realization."
@@ -895,13 +895,13 @@ card_list:
     relatedItems: ""
 
   - title: "Time-Table Event"
-    fullText: "to occur in a raiIway station A time-table is obtained. A tabled time indication is interpreted in minutes and seconds ( 7:16 equalling, for example, 7 minutes and 16 seconds). This determines the duration of the event. Spring, 1961 G. Brecht"
+    fullText: "to occur in a raiIway station A time-table is obtained. A tabled time indication is interpreted in minutes and seconds (7:16 equalling, for example, 7 minutes and 16 seconds). This determines the duration of the event. Spring, 1961 G. Brecht"
     file: "card-074.png"
     height: 9.8
     width: 10
     tags: "table, event, time, parentheses"
     secondaryTags: "1961-04-01"
-    annotation: "Brecht's [*Time-Table Event*](/object-index/349/#card-101) was a revisitation and revision of his, written and performed during the time he was enrolled in John Cage's experimental composition course. While the scores are similar, this later version is more pared down in its language and as a result more open-ended in terms of how it may be realized."
+    annotation: "Brecht's [*Time-Table Event*](/object-index/349/#card-101) was a revisitation and revision of his score *Time-Table Music* (1959), written and performed during the time he was enrolled in John Cage's experimental composition course. While the scores are similar, this later version is more pared down in its language and as a result more open-ended in terms of how it may be realized."
     additionalImages: ""
     notes: ""
     relatedItems: ""
@@ -1165,7 +1165,7 @@ card_list:
     width: 11.5
     tags: "sign, vessel, parentheses, bullet points, event"
     secondaryTags: "1963-06-01"
-    annotation: "Among the most enigmatic of Brecht's scores, *Two Definitions* seems to pair a dictionary definition of “token” with a particular example of one—suggesting, perhaps, that a cup and saucer be understood as a “token” of hospitality."
+    annotation: "Among the most enigmatic of Brecht's scores, *Two Definitions* seems to pair a dictionary definition of “token” with a particular example of one—suggesting, perhaps, that a cup and saucer be understood as a “token” of hospitality. Brecht may have been meditating on the type–token distinction in philosophy, which distinguishes between abstract concepts (types) and the material objects that instatiate them in our world (tokens). Indeed, the event score format in general—a type that generates diverse tokens—plays with this very distinction."
     additionalImages: ""
     notes: ""
     relatedItems: ""

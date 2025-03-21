@@ -9396,26 +9396,8 @@ object_list:
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: 
     type: [ artwork ]
-    figure: [ id: "fig-528" ]
-    related_objects: [ id: "529", id: "525", id: "526", id: "527", id: "530", id: "518", id: "545", id: "548", id: "547", id: "549", id: "550", id: "551", id: "520", id: "552", id: "133", id: "343", id: "553", id: "554" ]
--
-    id: "529"
-    old_id: "10.21a"
-    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
-    more_people: ""
-    title: "Object edition of *Spatial Poem No. 4 (a fluxmovie)*"
-    date: "1973"
-    date_sort: "1973-01-01"
-    year_filter: [ "1973" ]
-    medium: "microfilm frames"
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 219"
-    extended_caption: ""
-    credit: ""
-    featured: 
-    type: [ artwork ]
-    figure: [ id: "fig-529-a", id: "fig-529-b", id: "fig-529-c", id: "fig-529-d", id: "fig-529-e", id: "fig-529-f", id: "fig-529-g", id: "fig-529-h", id: "fig-529-i", id: "fig-529-j", id: "fig-529-k", id: "fig-529-l", id: "fig-529-m", id: "fig-529-n", id: "fig-529-o", id: "fig-529-p", id: "fig-529-q", id: "fig-529-r", id: "fig-529-s", id: "fig-529-t", id: "fig-529-u", id: "fig-529-v", id: "fig-529-w", id: "fig-529-x", id: "fig-529-y", id: "fig-529-z", id: "fig-529-aa", id: "fig-529-ab", id: "fig-529-ac", id: "fig-529-ad", id: "fig-529-ae", id: "fig-529-af", id: "fig-529-ag", id: "fig-529-ah", id: "fig-529-ai", id: "fig-529-aj", id: "fig-529-ak", id: "fig-529-al", id: "fig-529-am", id: "fig-529-an", id: "fig-529-ao", id: "fig-529-ap", id: "fig-529-aq", id: "fig-529-ar", id: "fig-529-as", id: "fig-529-at", id: "fig-529-au", id: "fig-529-av", id: "fig-529-aw", id: "fig-529-ax", id: "fig-529-ay", id: "fig-529-az", id: "fig-529-ba", id: "fig-529-bb", id: "fig-529-bc", id: "fig-529-bd", id: "fig-529-be", id: "fig-529-bf", id: "fig-529-bg", id: "fig-529-bh", id: "fig-529-bi", id: "fig-529-bj", id: "fig-529-bk", id: "fig-529-bl", id: "fig-529-bm", id: "fig-529-bn", id: "fig-529-bo", id: "fig-529-bp", id: "fig-529-bq", id: "fig-529-br", id: "fig-529-bs", id: "fig-529-bt", id: "fig-529-bu", id: "fig-529-bv", id: "fig-529-bw", id: "fig-529-bx", id: "fig-529-by", id: "fig-529-bz", id: "fig-529-ca", id: "fig-529-cb", id: "fig-529-cc", id: "fig-529-cd", id: "fig-529-ce", id: "fig-529-cf", id: "fig-529-cg", id: "fig-529-ch", id: "fig-529-ci", id: "fig-529-cj", id: "fig-529-ck", id: "fig-529-cl", id: "fig-529-cm", id: "fig-529-cn", id: "fig-529-co", id: "fig-529-cp", id: "fig-529-cq", id: "fig-529-cr", id: "fig-529-cs", id: "fig-529-ct", id: "fig-529-cu", id: "fig-529-cv", id: "fig-529-cw", id: "fig-529-cx", id: "fig-529-cy", id: "fig-529-cz", id: "fig-529-da", id: "fig-529-db", id: "fig-529-dc", id: "fig-529-dd", id: "fig-529-de", id: "fig-529-df", id: "fig-529-dg", id: "fig-529-dh", id: "fig-529-di", id: "fig-529-dj", id: "fig-529-dk", id: "fig-529-dl", id: "fig-529-dm", id: "fig-529-dn" ]
-    related_objects: [ id: "528" ]
+    figure: [ id: "fig-528", id: "fig-528-a", id: "fig-528-b", id: "fig-528-c", id: "fig-528-d", id: "fig-528-e", id: "fig-528-f", id: "fig-528-g", id: "fig-528-h", id: "fig-528-i", id: "fig-528-j", id: "fig-528-k", id: "fig-528-l", id: "fig-528-m", id: "fig-528-n", id: "fig-528-o", id: "fig-528-p", id: "fig-528-q", id: "fig-528-r", id: "fig-528-s", id: "fig-528-t", id: "fig-528-u", id: "fig-528-v", id: "fig-528-w", id: "fig-528-x", id: "fig-528-y", id: "fig-528-z", id: "fig-528-aa", id: "fig-528-ab", id: "fig-528-ac", id: "fig-528-ad", id: "fig-528-ae", id: "fig-528-af", id: "fig-528-ag", id: "fig-528-ah", id: "fig-528-ai", id: "fig-528-aj", id: "fig-528-ak", id: "fig-528-al", id: "fig-528-am", id: "fig-528-an", id: "fig-528-ao", id: "fig-528-ap", id: "fig-528-aq", id: "fig-528-ar", id: "fig-528-as", id: "fig-528-at", id: "fig-528-au", id: "fig-528-av", id: "fig-528-aw", id: "fig-528-ax", id: "fig-528-ay", id: "fig-528-az", id: "fig-528-ba", id: "fig-528-bb", id: "fig-528-bc", id: "fig-528-bd", id: "fig-528-be", id: "fig-528-bf", id: "fig-528-bg", id: "fig-528-bh", id: "fig-528-bi", id: "fig-528-bj", id: "fig-528-bk", id: "fig-528-bl", id: "fig-528-bm", id: "fig-528-bn", id: "fig-528-bo", id: "fig-528-bp", id: "fig-528-bq", id: "fig-528-br", id: "fig-528-bs", id: "fig-528-bt", id: "fig-528-bu", id: "fig-528-bv", id: "fig-528-bw", id: "fig-528-bx", id: "fig-528-by", id: "fig-528-bz", id: "fig-528-ca", id: "fig-528-cb", id: "fig-528-cc", id: "fig-528-cd", id: "fig-528-ce", id: "fig-528-cf", id: "fig-528-cg", id: "fig-528-ch", id: "fig-528-ci", id: "fig-528-cj", id: "fig-528-ck", id: "fig-528-cl", id: "fig-528-cm", id: "fig-528-cn", id: "fig-528-co", id: "fig-528-cp", id: "fig-528-cq", id: "fig-528-cr", id: "fig-528-cs", id: "fig-528-ct", id: "fig-528-cu", id: "fig-528-cv", id: "fig-528-cw", id: "fig-528-cx", id: "fig-528-cy", id: "fig-528-cz", id: "fig-528-da", id: "fig-528-db", id: "fig-528-dc", id: "fig-528-dd", id: "fig-528-de", id: "fig-528-df", id: "fig-528-dg", id: "fig-528-dh", id: "fig-528-di", id: "fig-528-dj", id: "fig-528-dk", id: "fig-528-dl", id: "fig-528-dm", id: "fig-528-dn" ]
+    related_objects: [ id: "525", id: "526", id: "527", id: "530", id: "518", id: "545", id: "548", id: "547", id: "549", id: "550", id: "551", id: "520", id: "552", id: "133", id: "343", id: "553", id: "554" ]
 -
     id: "530"
     old_id: "10.22"
@@ -11306,71 +11288,3 @@ object_list:
     type: [ score ]
     figure: [ id: "fig-634-a", id: "fig-634-b", id: "fig-634-c", id: "fig-634-d", id: "fig-634-e", id: "fig-634-f", id: "fig-634-g" ]
     related_objects: [ id: "578" ]
--
-    id: "348-sequence"
-    old_id: "6.03a"
-    maker: [ "George Brecht (American, 1926–2008)" ]
-    people: [ "Brecht, George", "Maciunas, George" ]
-    more_people: ""
-    title: "*Water Yam*"
-    date: "1963"
-    date_sort: "1963-01-01"
-    year_filter: [ "1963" ]
-    medium: "wooden box with label; box contains ninety-one scores printed on various sizes and colors of card stock"
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
-    extended_caption: "Collaboratively designed by George Brecht and George Maciunas, *Water Yam* is a boxed anthology of all of Brecht’s event scores composed up to the time of its publication. It is one of the earliest Fluxus editions. At one point in their correspondence, Brecht and Maciunas considered a subscription model in which copies of *Water Yam* would be continuously updated with newly composed scores. Due to the ad-hoc nature of their production, copies of *Water Yam* vary in the number of cards included and the materiality of their container. The overall format of loose cards in a box amplifies the publication’s indeterminate and participatory nature."
-    credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
-    featured: true
-    type: [ artwork ]
-    figure: [ id: "fig-348-sequence" ]
--
-    id: "525-sequence"
-    old_id: "10.18"
-    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
-    more_people: ""
-    title: "Object edition of *Spatial Poem No. 1 (Word Event)*"
-    date: "1965"
-    date_sort: "1965-01-01"
-    year_filter: [ "1965" ]
-    medium: "clear plastic box with hinged lid and cork-covered bottom with paper-flag pins"
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 225"
-    extended_caption: "This multiple, a collaborative design effort between Shiomi and George Maciunas, was among the first object editions made to represent the collected “reports” of [*Spatial Poem No. 1 (Word Event)*](/object-index/530/#fig-530-g)  (1965). Each paper flag is printed with the text of one participant’s report, and the pin has been placed on the map at the approximate location where the event was performed. The stenciled cork sheet, probably made by Maciunas, is the second iteration of a design that initially featured a simple black line drawing of the Earth’s continents printed on white foam board, with numbers indicating where flags should be placed. In some cases, the numbered flags were housed in a separate box, allowing recipients to assemble the work themselves."
-    credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
-    featured: 
-    type: [ artwork ]
-    figure: [ id: "fig-525-sequence" ]
--
-    id: "527-sequence"
-    old_id: "10.20"
-    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
-    more_people: ""
-    title: "Object edition of *Spatial Poem No. 3 (a fluxcalender)*"
-    date: "1968"
-    date_sort: "1968-01-01"
-    year_filter: [ "1968" ]
-    medium: "two sets of printed calendar pages (14 x 10.8 cm), one housed loose inside a wood box with a hinged lid and metal clasp, the other bolted into book form on a strap of leather"
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 223"
-    extended_caption: "Departing from the map-based designs of [*Spatial Poem No. 1*](/object-index/525/) (1965) and [*Spatial Poem No. 2*](/object-index/526/) (1965), George Maciunas designed for [*No. 3 (Falling Event)*](/530/#fig-530-g) a day calendar made of four simple bolts driven through a piece of leather to be mounted on a wall. The more than one hundred individual pages of the calendar, hung on the top two bolts, could then “fall” down to the bottom two bolts, or off the calendar altogether. Each page represents one realization of Shiomi’s event, originally performed between June and August of 1966. This calendar would surely be an erratic way to mark time, as many days are either repeated or missing."
-    credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
-    featured: true
-    type: [ artwork ]
-    figure: [ id: "fig-527-sequence" ]
--
-    id: "529-sequence"
-    old_id: "10.21a"
-    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)", "George Maciunas (Lithuanian American, 1931–78)" ]
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
-    more_people: ""
-    title: "Object edition of *Spatial Poem No. 4 (a fluxmovie)*, microfilm"
-    date: "1973"
-    date_sort: "1973-01-01"
-    year_filter: [ "1973" ]
-    medium: "microfilm frames"
-    location: "Getty Research Institute, Jean Brown Papers, 890164, box 219"
-    extended_caption: ""
-    credit: ""
-    featured: 
-    type: [ artwork ]
-    figure: [ id: "fig-529-sequence" ]

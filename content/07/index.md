@@ -20,10 +20,15 @@ playback:
     - id: ""
 archive: 
   contributor:
+    - id: jhicks
   groups:
-    - heading: "Map"
+    - heading: "Scores"
       objects:
-        - id: "404"
+        - id: "406"
+        - id: "409"
+        - id: "414"
+        - id: "417"
+        - id: "420"
     - heading: "Programs and flyers"
       objects:
         - id: "423"
@@ -42,10 +47,6 @@ archive:
         - id: "431"
         - id: "432"
         - id: "433"
-    - heading: "Archival materials"
-      objects:
-        - id: "407"
-        - id: "422"
     - heading: "Correspondence"
       objects:
         - id: "408"
@@ -58,17 +59,14 @@ archive:
         - id: "419"
         - id: "421"
         - id: "434"
+    - heading: "Map"
+      objects:
+        - id: "404"
+    - heading: "Archival materials"
+      objects:
+        - id: "407"
+        - id: "422"
     - heading: "Artwork"
       objects:
         - id: "416"
-    - heading: "Scores"
-      objects:
-        - id: "406"
-        - id: "409"
-        - id: "414"
-        - id: "417"
-        - id: "420"
-    # - heading: "Sketches and materials"
-    #   objects:
-    #     - id: ""
 ---

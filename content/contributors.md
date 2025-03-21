@@ -17,7 +17,7 @@ Natilee Harren is associate professor of modern and contemporary art history an
 
 John Hicks is a lecturer in the Department of Cultural Studies and Comparative Literature at the University of Minnesota.
 
-George E. Lewis is the Edwin H. Case Professor of American Music at Columbia University. He is the author of *A Power Stronger Than Itself: The AACM and American Experimental Music* (University of Chicago Press, 2008)
+George E. Lewis is the Edwin H. Case Professor of American Music at Columbia University. He is the author of *A Power Stronger Than Itself: The AACM and American Experimental Music* (University of Chicago Press, 2008).
 
 Nancy Perloff is curator of modern and contemporary collections at the Getty Research Institute. She is the author of *Concrete Poetry: A 21st-Century Anthology* (Reaktion, 2023).
 

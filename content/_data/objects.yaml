@@ -134,7 +134,10 @@ object_list:
     year_filter: [ "1959" ]
     medium: ""
     location: "Getty Research Institute, item 92-B17341, vol. 3"
-    extended_caption: "George Brecht’s notes on this page read: “We seldom find it practical to think in uni-dimensional terms, because of this situationality, this awareness of many dimensions, but analysis never seems very interesting until it becomes so complex that it flows out into experience. We take the experience, and let it go at that. So many relationships.”"
+    extended_caption: |
+      George Brecht’s notes on this page read: 
+      
+      > We seldom find it practical to think in uni-dimensional terms, because of this situationality, this awareness of many dimensions, but analysis never seems very interesting until it becomes so complex that it flows out into experience. We take the experience, and let it go at that. So many relationships.
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ sketches and materials ]
@@ -4156,7 +4159,7 @@ object_list:
     maker: [ "Terry Riley (American, b. 1935)" ]
     people: [ "Riley, Terry", "Buchla, Ezra" ]
     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
-    title: "Ezra Buchla performing Riley’s *Ear Piece* (ca. 1962) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
+    title: "Ezra Buchla performing Terry Riley’s *Ear Piece* (ca. 1962) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
     year_filter: [ "2021" ]
@@ -4173,7 +4176,7 @@ object_list:
     maker: [ "John Cage (American, 1912–92)" ]
     people: [ "Cage, John", "Holter, Julia" ]
     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
-    title: "Julia Holter performing Cage’s *45′ for a Speaker* (1954) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
+    title: "Julia Holter performing John Cage’s *45′ for a Speaker* (1954) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
     year_filter: [ "2021" ]
@@ -4214,7 +4217,7 @@ object_list:
     maker: [ "Takehisa Kosugi (Japanese, 1938–2018)" ]
     people: [ "Kosugi, Takehisa", "Buchla, Ezra" ]
     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
-    title: "Ezra Buchla performing Kosugi’s *Micro 1* (1961) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
+    title: "Ezra Buchla performing Takehisa Kosugi’s *Micro 1* (1961) as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
     year_filter: [ "2021" ]
@@ -4256,7 +4259,7 @@ object_list:
     maker: [ "Earle Brown (American, 1926–2002)" ]
     people: [ "Brown, Earle", "Muhr, Luisa", "Fogel, Corey" ]
     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
-    title: "Corey Fogel and Luisa Muhr performing Brown’s *December 1952* (1952) on vibraphone as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
+    title: "Corey Fogel and Luisa Muhr performing Earle Brown’s *December 1952* (1952) on vibraphone as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
     year_filter: [ "2021" ]
@@ -4277,7 +4280,7 @@ object_list:
     maker: [ "Earle Brown (American, 1926–2002)" ]
     people: [ "Brown, Earle", "Hollander, Celia" ]
     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
-    title: "Celia Hollander performing Brown’s *December 1952* (1952) with laptop and other electronics as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
+    title: "Celia Hollander performing Earle Brown’s *December 1952* (1952) with laptop and other electronics as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
     date_sort: "2021-12-04"
     year_filter: [ "2021" ]
@@ -6486,7 +6489,7 @@ object_list:
     extended_caption: |
       In early 1963, George Maciunas made this two-sided broadsheet collage by gathering together reviews of the [first Fluxus concerts in Wiesbaden](/object-index/356/), [Düsseldorf](/object-index/361/), and [Copenhagen](/object-index/359/). The two sheets were designed to be glued together to make one long page that could be sent through the mail as a rolled-up scroll. Most of the clippings came from German and Danish newspapers, but some articles prove that news of the Fluxus events reached readers as far as Italy and Austria. (Mastheads from regional papers like the *Telegraph-Herald* in Dubuque, Iowa, may have been added by Maciunas for humorous effect.) The madcap layout, reminiscent of Dada and Surrealist publications of the early twentieth century, is characteristic of the Fluxus newspapers Maciunas would publish under varying iterations of the name *cc V TRE*.
       
-      The layout also amplifies and revels in the many bemused accounts of reviewers, which accord with the kind of language one finds in reviews of performances of John Cage’s radical music. To point to one example included here, the Associated Press piece penned by Richard O’Regan cheekily recounts of the Wiesbaden festival, “This wasn’t a barroom brawl. It wasn’t a political rally. It was a concert of ‘very new music and anti-music’ in Wiesbaden’s dignified art museum.” O’Regan’s account was published in the American military newspaper [*Stars and Stripes*](/object-index/230/), which had a Darmstadt office out of which Fluxus artist and participating performer Emmett Williams worked as features editor.
+      The layout also amplifies and revels in the many bemused accounts of reviewers, which accord with the kind of language one finds in [reviews of performances of John Cage’s radical music](/02/#press-clippings). To point to one example included here, the Associated Press piece penned by Richard O’Regan cheekily recounts of the Wiesbaden festival, “This wasn’t a barroom brawl. It wasn’t a political rally. It was a concert of ‘very new music and anti-music’ in Wiesbaden’s dignified art museum.” O’Regan’s account was published in the American military newspaper [*Stars and Stripes*](/object-index/230/), which had a Darmstadt office out of which Fluxus artist and participating performer Emmett Williams worked as features editor.
     credit: "Courtesy of Billie Maciunas."
     featured: true
     type: [ press clipping ]
@@ -9150,7 +9153,7 @@ object_list:
     id: "515"
     old_id: "10.01"
     maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
+    people: [ "Maciunas, George", "Brecht, George", "Cage, John", "Kaprow, Allan", "Knowles, Alison", "Mac Low, Jackson", "Patterson, Benjamin", "Young, La Monte" ]
     more_people: [ "Corner, Philip", "Ginsberg, Allen", "Finlay, Ian Hamilton", "Higgins, Dick", "Kosugi, Takehisa", "Ligeti, Gyorgy", "Paik, Nam June", "Schneemann, Carolee", "Vautier, Ben", "Vostell, Wolf", "Zazeela, Marian" ]
     title: "List of participants in *Spatial Poem (Nos. 1–4)*"
     date: "ca. 1972"
@@ -9469,8 +9472,8 @@ object_list:
 -
     id: "533"
     old_id: "10.25"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1963"
@@ -9486,8 +9489,8 @@ object_list:
 -
     id: "534"
     old_id: "10.26"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "fall 1965"
@@ -9503,8 +9506,8 @@ object_list:
 -
     id: "535"
     old_id: "10.27"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: [ "Flynt, Henry" ]
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1965"
@@ -9520,8 +9523,8 @@ object_list:
 -
     id: "536"
     old_id: "10.28"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1965"
@@ -9537,8 +9540,8 @@ object_list:
 -
     id: "537"
     old_id: "10.29"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: [ "Finlay, Ian Hamilton" ]
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "1966"
@@ -9554,8 +9557,8 @@ object_list:
 -
     id: "538"
     old_id: "10.30"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
@@ -9572,8 +9575,8 @@ object_list:
 -
     id: "539"
     old_id: "10.31"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas, with annotations by Maciunas"
     date: "ca. 1966"
@@ -9590,8 +9593,8 @@ object_list:
 -
     id: "540"
     old_id: "10.32"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "1966"
@@ -9608,8 +9611,8 @@ object_list:
 -
     id: "541"
     old_id: "10.33"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: [ "Johns, Jasper" ]
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
@@ -9626,8 +9629,8 @@ object_list:
 -
     id: "542"
     old_id: "10.34"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
@@ -9644,8 +9647,8 @@ object_list:
 -
     id: "543"
     old_id: "10.35"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1966"
@@ -9662,8 +9665,8 @@ object_list:
 -
     id: "544"
     old_id: "10.36"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: [ "Brown, Jean" ]
     title: "Letter from Mieko (Chieko) Shiomi to George Maciunas"
     date: "ca. 1968"
@@ -9680,8 +9683,8 @@ object_list:
 -
     id: "545"
     old_id: "10.37"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Postcard from Mieko Shiomi to George Maciunas"
     date: "ca. 1968"
@@ -9698,8 +9701,8 @@ object_list:
 -
     id: "546"
     old_id: "10.38"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1968"
@@ -9716,8 +9719,8 @@ object_list:
 -
     id: "547"
     old_id: "10.39"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1971"
@@ -9734,8 +9737,8 @@ object_list:
 -
     id: "548"
     old_id: "10.40"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Postcard from Mieko Shiomi to George Maciunas"
     date: "1971"
@@ -9752,8 +9755,8 @@ object_list:
 -
     id: "549"
     old_id: "10.41"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
@@ -9770,8 +9773,8 @@ object_list:
 -
     id: "550"
     old_id: "10.42"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
@@ -9788,8 +9791,8 @@ object_list:
 -
     id: "551"
     old_id: "10.43"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
@@ -9806,8 +9809,8 @@ object_list:
 -
     id: "552"
     old_id: "10.44"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1972"
@@ -9824,8 +9827,8 @@ object_list:
 -
     id: "553"
     old_id: "10.45"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "1972"
@@ -9842,8 +9845,8 @@ object_list:
 -
     id: "554"
     old_id: "10.46"
-    maker: 
-    people: [ "Shiomi, Mieko (Chieko)", "Maciunas, George" ]
+    maker: [ "Mieko (Chieko) Shiomi (Japanese, b. 1938)" ]
+    people: [ "Maciunas, George" ]
     more_people: ""
     title: "Letter from Mieko Shiomi to George Maciunas"
     date: "ca. 1974"

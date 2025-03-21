@@ -19,15 +19,31 @@ score:
     - id: "014"
 playback:
   objects:
-    - id: "015"
+    - id: "019"
+    - id: "020"
     - id: "016"
     - id: "017"
     - id: "018"
-    - id: "019"
-    - id: "020"
+    - id: "015"
 archive: 
   contributor:
+    - id: mgallope
   groups:
+    - heading: "Scores"
+      objects:
+        - id: "046"
+        - id: "047"
+        - id: "050"
+        - id: "051"
+        - id: "052"
+        - id: "053"
+        - id: "054"
+    - heading: "Sketches and materials"
+      objects:
+        - id: "023"
+        - id: "045"
+        - id: "048"
+        - id: "049"
     - heading: "Programs and flyers"
       objects:
         - id: "024"
@@ -59,26 +75,8 @@ archive:
         - id: "042"
         - id: "043"
         - id: "044"
-    # - heading: "Archival materials"
-    #   objects:
-    #     - id: ""
     - heading: "Correspondence"
       objects:
         - id: "021"
         - id: "022"
-    - heading: "Scores"
-      objects:
-        - id: "046"
-        - id: "047"
-        - id: "050"
-        - id: "051"
-        - id: "052"
-        - id: "053"
-        - id: "054"
-    - heading: "Sketches and materials"
-      objects:
-        - id: "023"
-        - id: "045"
-        - id: "048"
-        - id: "049"
 ---

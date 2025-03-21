@@ -17,6 +17,7 @@ const logger = chalkFactory('shortcodes:obj')
 module.exports = function (eleventyConfig, { page }) {
   const icon = eleventyConfig.getFilter('icon')
   const markdownify = eleventyConfig.getFilter('markdownify')
+  const removeHTML = eleventyConfig.getFilter('removeHTML')
   const { figure_list: figureList } = eleventyConfig.globalData.figures
   const { object_list: objectList } = eleventyConfig.globalData.objects
   
@@ -37,7 +38,7 @@ module.exports = function (eleventyConfig, { page }) {
     for ( let obj of objectList ) {
       if (obj.id == objId) {
         figId = obj.figures[0].id
-        objTitle = obj.title
+        objTitle = removeHTML(obj.title)
         objImageLengthString = obj.figures.length > 1 
           ? ` (${obj.figures.length} items)`
           : ''

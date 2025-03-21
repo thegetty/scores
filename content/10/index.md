@@ -31,7 +31,11 @@ playback:
     - id: "555"
 archive: 
   contributor:
+    - id: nharren
   groups:
+    - heading: "Scores"
+      objects: 
+        - id: "516"
     - heading: "Programs and flyers"
       objects:
         - id: "518"
@@ -41,13 +45,8 @@ archive:
     - heading: "Press clippings"
       objects:
         - id: "531"
-    # - heading: "Archival materials"
-    #   objects:
-    #     - id: ""
     - heading: "Correspondence"
       objects:
-        - id: "515"
-        - id: "532"
         - id: "533"
         - id: "534"
         - id: "535"
@@ -68,15 +67,8 @@ archive:
         - id: "550"
         - id: "551"
         - id: "552"
+        - id: "515"
         - id: "553"
         - id: "554"
-    - heading: "Scores"
-      objects: 
-        - id: "516"
-    # - heading: "Sketches and materials"
-    #   objects:
-    #     - id: ""
-    # - heading: "Video"
-    #   objects:
-    #     - id: ""
+        - id: "532"
 ---

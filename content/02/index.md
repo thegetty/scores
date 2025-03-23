@@ -41,7 +41,6 @@ playback:
     - id: "079"
     - id: "080"
     - id: "081"
-    - id: "082"
 archive: 
   contributor:
     - id: mgallope

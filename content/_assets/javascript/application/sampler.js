@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let playMode = 'click'
 
   const preloadAudio = (audioFile) => {
-    const audio = new Audio(`/_assets/images/figures/sampler-feldman/${audioFile}`)
+    const audio = new Audio(`/_assets/images/figures/samplers/${audioFile}`)
     audio.preload = 'auto'
     return audio
   }
@@ -105,10 +105,12 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       if (key in keyMap) {
         const index = keyMap[key]
-        const item = audioElements[index]
-        playAudio(item.audio)
-        item.element.classList.add('active')
-        setTimeout(() => item.element.classList.remove('active'), 200)
+        if (index < (audioElements.length / 2)) { // Check if index is within bounds
+          const item = audioElements[index]
+          playAudio(item.audio)
+          item.element.classList.add('active')
+          setTimeout(() => item.element.classList.remove('active'), 200)
+        } 
       }
     }
   })

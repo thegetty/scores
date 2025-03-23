@@ -1428,13 +1428,13 @@ object_list:
 -
     id: "082"
     old_id: "2.13b"
-    maker: [ "David Tudor (American, 1926–96)" ]
-    people: [ "Tudor, David", "Cage, John" ]
+    maker: [ "Sylvano Bussotti (Italian, 1931–2021)", "David Tudor (American, 1926–96)" ]
+    people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
-    title: "David Tudor’s Sonorities for John Cage’s *Solo for Piano*"
-    date: ""
-    date_sort: "1958-05-01"
-    year_filter: [ "1958" ]
+    title: "David Tudor’s Sonorities for *No. 1* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
+    date: "1959"
+    date_sort: "1959-05-01"
+    year_filter: [ "1959" ]
     medium: ""
     location: ""
     extended_caption: ""
@@ -3594,17 +3594,17 @@ object_list:
     related_objects: [ id: "214", id: "217" ]
 -
     id: "209"
-    old_id: "4.10d"
+    old_id: ""
     maker: 
-    people: ""
+    people: [ "Patterson, Benjamin" ]
     more_people: ""
-    title: "Sampler"
-    date: ""
-    date_sort: ""
-    year_filter: ""
+    title: "Audio sampler of Benjamin Patterson’s *Paper Piece*"
+    date: "1960"
+    date_sort: "1960-01-01"
+    year_filter: [ "1960" ]
     medium: ""
     location: ""
-    extended_caption: ""
+    extended_caption: "This digital feature allows users to directly 'play' ..."
     credit: ""
     featured: 
     type: [ digital feature ]

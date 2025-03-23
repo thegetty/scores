@@ -1691,9 +1691,9 @@ figure_list:
     alt: ""
 -
     id: "fig-020"
-    src: embeds/sampler-feldman.html
+    src: embeds/samplers/feldman.html
     zoom: 
-    poster: figures/sampler-feldman/poster.jpg
+    poster: figures/samplers/Feldman_Poster.jpg
     media_type: table
     media_id: 
     label: ""
@@ -5677,10 +5677,10 @@ figure_list:
     alt: ""
 -
     id: "fig-082"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
+    src: embeds/samplers/bussotti.html
+    zoom: 
+    poster: figures/samplers/Bussotti_Poster.jpg
+    media_type: table
     media_id: 
     label: ""
     alt: ""
@@ -10594,10 +10594,10 @@ figure_list:
     alt: "Color video showing Benjamin Patterson and four other performers pick up from the floor of a stage pieces of paper of various sizes and weights and make sounds with them by throwing, tearing, rubbing, and crumpling them. A large roll of paper is passed into the audience, and the entire hall of spectators begin to participate in the performance."
 -
     id: "fig-209"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
+    src: embeds/samplers/patterson.html
+    zoom: 
+    poster: figures/samplers/Patterson_Poster.jpg
+    media_type: table
     media_id: 
     label: ""
     alt: ""

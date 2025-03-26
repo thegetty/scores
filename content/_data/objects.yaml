@@ -1,7 +1,6 @@
 object_filters:
   - maker
   - people
-  - more_people
   - field: year_filter
     label: "Year"
   - type
@@ -4116,7 +4115,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-238-a", id: "fig-238-b", id: "fig-238-c", id: "fig-238-d", id: "fig-238-e", id: "fig-238-f", id: "fig-238-g", id: "fig-238-h", id: "fig-238-i", id: "fig-238-j", id: "fig-238-k", id: "fig-238-l", id: "fig-238-m", id: "fig-238-n", id: "fig-238-o", id: "fig-238-p", id: "fig-238-q", id: "fig-238-r", id: "fig-238-s", id: "fig-238-t", id: "fig-238-u", id: "fig-238-v", id: "fig-238-w", id: "fig-238-x", id: "fig-238-y", id: "fig-238-z", id: "fig-238-aa", id: "fig-238-ab", id: "fig-238-ac", id: "fig-238-ad", id: "fig-238-ae", id: "fig-238-af", id: "fig-238-ag", id: "fig-238-ah", id: "fig-238-ai", id: "fig-238-aj", id: "fig-238-ak", id: "fig-238-al", id: "fig-238-am", id: "fig-238-an", id: "fig-238-ao", id: "fig-238-ap", id: "fig-238-aq", id: "fig-238-ar", id: "fig-238-as", id: "fig-238-at", id: "fig-238-au", id: "fig-238-av", id: "fig-238-aw", id: "fig-238-ax", id: "fig-238-ay", id: "fig-238-az", id: "fig-238-ba", id: "fig-238-bb", id: "fig-238-bc", id: "fig-238-bd", id: "fig-238-be", id: "fig-238-bf", id: "fig-238-bg", id: "fig-238-bh", id: "fig-238-bi", id: "fig-238-bj", id: "fig-238-bk", id: "fig-238-bl", id: "fig-238-bm", id: "fig-238-bn", id: "fig-238-bo", id: "fig-238-bp", id: "fig-238-bq", id: "fig-238-br", id: "fig-238-bs", id: "fig-238-bt" ]
-    related_objects: [ id: "255", id: "256", id: "260", id: "252", id: "253", id: "276", id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "298", id: "296", id: "272", id: "265" ]
+    related_objects: [ id: "255", id: "256", id: "260", id: "252", id: "276", id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "298", id: "296", id: "272", id: "265" ]
 -
     id: "239"
     old_id: "5.02a"
@@ -4380,28 +4379,29 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-252" ]
-    related_objects: [ id: "253", id: "238", id: "276" ]
--
-    id: "253"
-    old_id: "5.02p"
-    maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-    people: [ "Mac Low, Jackson", "Lee, Jeanne", "Neuhaus, Max", "Tenney, James" ]
-    more_people: ""
-    title: "*The text on the opposite page may be used in any way as a score for solo or group readings, musical or dramatic performances, looking, smelling, anything else &/or nothing at all* (July 1961), performed by Jackson Mac Low and Jeanne Lee (voices) with Max Neuhaus and James Tenney (electronics) at Town Hall, New York, NY"
-    date: "13 September 1966"
-    date_sort: "1966-09-13"
-    year_filter: [ "1966" ]
-    medium: ""
-    location: ""
-    extended_caption: |
-      This recording of [one of Jackson Mac Low’s scores included in *An Anthology*](/object-index/238/#fig-238-av) features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can appreciate the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry.
+    related_objects: [ id: "238", id: "276" ]
+# REMOVED -- Dupe of 252
+# -
+#     id: "253"
+#     old_id: "5.02p"
+#     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
+#     people: [ "Mac Low, Jackson", "Lee, Jeanne", "Neuhaus, Max", "Tenney, James" ]
+#     more_people: ""
+#     title: "*The text on the opposite page may be used in any way as a score for solo or group readings, musical or dramatic performances, looking, smelling, anything else &/or nothing at all* (July 1961), performed by Jackson Mac Low and Jeanne Lee (voices) with Max Neuhaus and James Tenney (electronics) at Town Hall, New York, NY"
+#     date: "13 September 1966"
+#     date_sort: "1966-09-13"
+#     year_filter: [ "1966" ]
+#     medium: ""
+#     location: ""
+#     extended_caption: |
+#       This recording of [one of Jackson Mac Low’s scores included in *An Anthology*](/object-index/238/#fig-238-av) features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can appreciate the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry.
       
-      The score for [*The text on the opposite page*](/object-index/238/#fig-238-av) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
-    credit: " © Estate of Jackson Mac Low."
-    featured: 
-    type: [ audio ]
-    figure: [ id: "fig-253" ]
-    related_objects: [ id: "252", id: "238", id: "276" ]
+#       The score for [*The text on the opposite page*](/object-index/238/#fig-238-av) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
+#     credit: " © Estate of Jackson Mac Low."
+#     featured: 
+#     type: [ audio ]
+#     figure: [ id: "fig-253" ]
+#     related_objects: [ id: "252", id: "238", id: "276" ]
 -
     id: "254"
     old_id: "5.02q"
@@ -4817,7 +4817,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-276-a", id: "fig-276-b", id: "fig-276-c" ]
-    related_objects: [ id: "253", id: "238", id: "252" ]
+    related_objects: [ id: "252", id: "238", id: "252" ]
 -
     id: "277"
     old_id: "5.13a"
@@ -7179,6 +7179,24 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-404" ]
+-
+    id: "405"
+    old_id: ""
+    maker: 
+    people: ""
+    more_people: ""
+    title: "Podcast"
+    date: "2025"
+    date_sort: "2025-01-01"
+    year_filter: ""
+    date_end: ""
+    medium: ""
+    location: ""
+    extended_caption: ""
+    credit: ""
+    featured: 
+    type: [ audio ]
+    figure: [ id: "fig-405" ]
 # REMOVED
 # -
 #     id: "405"

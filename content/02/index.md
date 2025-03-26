@@ -88,7 +88,6 @@ archive:
         - id: "135"
     - heading: "Press clippings"
       objects:
-        - id: "094"
         - id: "095"
         - id: "096"
         - id: "097"
@@ -102,6 +101,7 @@ archive:
         - id: "105"
         - id: "106"
         - id: "107"
+        - id: "094"
         - id: "108"
         - id: "109"
         - id: "110"
@@ -119,8 +119,8 @@ archive:
         - id: "122"
     - heading: "Correspondence"
       objects:
-        - id: "123"
         - id: "124"
+        - id: "123"
         - id: "126"
     - heading: "Archival materials"
       objects:

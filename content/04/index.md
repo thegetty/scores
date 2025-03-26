@@ -23,12 +23,12 @@ score:
     - id: "228"
 playback:
   objects:
-    - id: "203"
-    - id: "204"
-    - id: "205"
     - id: "206"
     - id: "207"
+    - id: "205"
+    - id: "203"
     - id: "208"
+    - id: "204"
     - id: "209"
 archive: 
   contributor:
@@ -36,35 +36,35 @@ archive:
   groups:
     - heading: "Scores"
       objects:
-        - id: "210"
         - id: "212"
         - id: "213"
-        - id: "214"
-        - id: "215"
-        - id: "216"
-        - id: "217"
-        - id: "226"
         - id: "227"
+        - id: "210"
+        - id: "215"
+        - id: "217"
+        - id: "214"
+        - id: "216"
+        - id: "226"
     - heading: "Programs and flyers"
       objects:
-        - id: "223"
         - id: "236"
+        - id: "223"
     - heading: "Photographs"
       objects:
+        - id: "237"
         - id: "231"
         - id: "232"
         - id: "233"
         - id: "234"
-        - id: "237"
     - heading: "Press clippings"
       objects:
         - id: "230"
     - heading: "Correspondence"
       objects:
-        - id: "221"
-        - id: "222"
         - id: "224"
         - id: "225"
+        - id: "221"
+        - id: "222"
     - heading: "Manuscript"
       objects:
         - id: "220"

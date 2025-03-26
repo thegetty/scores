@@ -108,6 +108,10 @@ Used "..." instead of "All" in select boxes
 **_includes/components/object-filters/objects-catalog.webc**
 Added object-filters__controls-group wrapper to aid in styling
 
+**_includes/web-components/image-sequence/index.js**
+**_includes/web-components/image-sequence/styles.js**
+Fixed .image-sequence height, and sequence styles to work with custom design
+
 **_plugins/figures/iiif/config.js**
 Changed thumbnail and static-inline size
 

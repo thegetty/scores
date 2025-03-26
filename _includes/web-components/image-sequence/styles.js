@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Fixed .image-sequence height, and sequence styles to work with custom design
+//
 import { css } from 'lit'
 
 export const imageSequenceStyles = css`
@@ -10,8 +14,8 @@ export const imageSequenceStyles = css`
   }
 
   .image-sequence {
-    height: 100vh;
     width: 100%;
+    height: calc(100vh - 14rem - var(--thumbnail-height));
   }
 
   .image-sequence.interactive {
@@ -62,9 +66,10 @@ export const imageSequenceStyles = css`
     justify-content: center;
     text-align: center;
     border-radius: 5px;
-    height: 15%;
-    width: 15%;
+    height: 240px;
+    width: 140px;
     background: rgba(0,0,0,0.6);
+    font-size: var(--small-font-size);
   }
 
   @keyframes loading-overlay {
@@ -83,6 +88,7 @@ export const imageSequenceStyles = css`
     align-items: center;
     opacity: 0;
     transition: opacity 0.25s linear;
+    font-size: var(--small-font-size);
   }
 
   .description__icon {

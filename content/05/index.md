@@ -19,7 +19,6 @@ playback:
   objects:
     - id: "356"
     - id: "252"
-    - id: "253"
     - id: "254"
     - id: "251"
     - id: "247"

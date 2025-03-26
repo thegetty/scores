@@ -1,0 +1,104 @@
+<style type="text/css">
+.music-sampler {
+  max-width: 80vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0;
+}
+.play-modes {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.play-modes button {
+  padding: 10px 20px;
+  font-family: "u001", sans-serif;
+  font-size: var(--small-font-size);
+  cursor: pointer;
+  border-width: 0;
+  border-radius: 8px;
+  position: relative;
+}
+.play-modes button.active {
+  background-color: var(--accent-color);
+  color: black;
+}
+.play-modes button .play-mode-tooltip {
+  display: none;
+}
+.play-modes button:hover .play-mode-tooltip {
+  display: inline;
+  position: absolute;
+  top: -1.25rem;
+  left: -15px;
+  color: white;
+  width: 150px;
+}
+.grid {
+  /* display: grid;
+  grid-template-columns: repeat(3, calc((100% - 50px) / 3));
+  grid-template-rows: repeat(3, calc((100% - 10px) / 3));
+  gap: 10px; */
+  width: 100%;
+  height: calc(80vh - 100px); /* Adjusting for button height and padding */
+  display: block;
+}
+.grid-item {
+  cursor: pointer;
+  transition: transform 0.2s;
+  text-align: center;
+  height: 50%;
+  display: inline-block;
+  float: left;
+  margin-right: 1rem;
+}
+.grid-item:nth-child(5) {
+  clear: left;
+}
+.grid-item.hover:hover {
+  transform: scale(0.9);
+}
+.grid-item.click:active, .grid-item.key.active {
+  transform: scale(0.9);
+}
+.grid-item img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 8px;
+  position: relative;
+  width: auto;
+  height: auto;
+  top: initial;
+  left: initial;
+  transform: initial;
+}
+.grid-item:nth-child(-n+6) img {
+  margin-top: auto;
+}
+.grid-item:nth-child(n+7) img {
+  margin-bottom: auto;
+}
+</style>
+<div class="music-sampler">
+  <div class="grid">
+    <!-- Grid items (up to 12) -->
+    <div class="grid-item" data-audio="Bussotti_1.mp3"><img src="/_assets/images/figures/samplers/Bussotti_1.jpg" alt="Sample 1"></div>
+    <div class="grid-item" data-audio="Bussotti_2.mp3"><img src="/_assets/images/figures/samplers/Bussotti_2.jpg" alt="Sample 2"></div>
+    <div class="grid-item" data-audio="Bussotti_3.mp3"><img src="/_assets/images/figures/samplers/Bussotti_3.jpg" alt="Sample 3"></div>
+    <div class="grid-item" data-audio="Bussotti_4.mp3"><img src="/_assets/images/figures/samplers/Bussotti_4.jpg" alt="Sample 4"></div>
+    <div class="grid-item" data-audio="Bussotti_5.mp3"><img src="/_assets/images/figures/samplers/Bussotti_5.jpg" alt="Sample 5"></div>
+    <div class="grid-item" data-audio="Bussotti_6.mp3"><img src="/_assets/images/figures/samplers/Bussotti_6.jpg" alt="Sample 6"></div>
+    <div class="grid-item" data-audio="Bussotti_7.mp3"><img src="/_assets/images/figures/samplers/Bussotti_7.jpg" alt="Sample 7"></div>
+    <div class="grid-item" data-audio="Bussotti_8.mp3"><img src="/_assets/images/figures/samplers/Bussotti_8.jpg" alt="Sample 8"></div>
+    <div class="grid-item" data-audio="Bussotti_9.mp3"><img src="/_assets/images/figures/samplers/Bussotti_9.jpg" alt="Sample 9"></div>
+  </div>
+  <div class="play-modes">
+    <button id="click-play-mode" class="active">Click</button>
+    <button id="hover-play-mode">Hover</button>
+    <button id="key-play-mode">Keyboard <span class="play-mode-tooltip">Keys: 1–9</span></button>
+  </div>
+</div>

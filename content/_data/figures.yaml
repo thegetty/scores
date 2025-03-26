@@ -1645,9 +1645,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/10_Intersection_3_For_Piano.jpg
+    poster: figures/track015_th.jpg
     media_type: vimeo
-    media_id: 1026642398/e26d287d78
+    media_id: 1069414873/fe86788e40
     label: ""
     alt: ""
 -
@@ -1655,9 +1655,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track016_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069414952/6b4072469a
     label: ""
     alt: ""
 -
@@ -1665,9 +1665,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/09-Intersection_3_1953.jpg
+    poster: figures/track017_th.jpg
     media_type: vimeo
-    media_id: 1026620819/f828053a54
+    media_id: 1069414940/8a5941e322
     label: ""
     alt: ""
 -
@@ -1675,9 +1675,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track018_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069414926/ad53e27d29
     label: ""
     alt: ""
 -
@@ -1691,9 +1691,9 @@ figure_list:
     alt: ""
 -
     id: "fig-020"
-    src: embeds/sampler-feldman.html
+    src: embeds/samplers/feldman.html
     zoom: 
-    poster: figures/sampler-feldman/poster.jpg
+    poster: figures/samplers/Feldman_Poster.jpg
     media_type: table
     media_id: 
     label: ""
@@ -5610,9 +5610,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track075_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069414995/fdee0d9553
     label: ""
     alt: ""
 -
@@ -5620,19 +5620,18 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track076_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
-    label: ""
+    media_id: 1069617750/17aec68af3
     alt: ""
 -
     id: "fig-077"
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track077_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069414986/bf4a0870c9
     label: ""
     alt: ""
 -
@@ -5640,9 +5639,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track078_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069415089/97235a652c
     label: ""
     alt: ""
 -
@@ -5650,9 +5649,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track079_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069415076/e42100c7b2
     label: ""
     alt: ""
 -
@@ -5660,9 +5659,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track080_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069415059/3f49e50c62
     label: ""
     alt: ""
 -
@@ -5670,17 +5669,17 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track081_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069415221/04369ff904
     label: ""
     alt: ""
 -
     id: "fig-082"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
+    src: embeds/samplers/bussotti.html
+    zoom: 
+    poster: figures/samplers/Bussotti_Poster.jpg
+    media_type: table
     media_id: 
     label: ""
     alt: ""
@@ -9568,9 +9567,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track160_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069415202/bd0a549d8f
     label: ""
     alt: ""
 -
@@ -9578,9 +9577,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track161_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069415187/efa134fa99
     label: ""
     alt: ""
 -
@@ -10542,9 +10541,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track203_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069415171/e7c0546115
     label: ""
     alt: "Delicate rustling sounds made with paper are joined by occasional, distinct thuds, rips, abrasive scraping, and loud pops (also made with paper) until the sounds calm again to soft rustling."
 -
@@ -10594,10 +10593,10 @@ figure_list:
     alt: "Color video showing Benjamin Patterson and four other performers pick up from the floor of a stage pieces of paper of various sizes and weights and make sounds with them by throwing, tearing, rubbing, and crumpling them. A large roll of paper is passed into the audience, and the entire hall of spectators begin to participate in the performance."
 -
     id: "fig-209"
-    src: placeholder.jpg
-    zoom: true
-    poster: 
-    media_type: 
+    src: embeds/samplers/patterson.html
+    zoom: 
+    poster: figures/samplers/Patterson_Poster.jpg
+    media_type: table
     media_id: 
     label: ""
     alt: ""
@@ -12319,9 +12318,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track252_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069614194/e47cce01c6
     label: ""
     alt: "Audio recording of a man and a woman reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. "
 -
@@ -13485,7 +13484,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Front"
     alt: "White page with sparse field of hand drawn black line segments and rectangles of varying thicknesses. Lines and shapes oriented either vertically or horizontally. Majority concentrated around central two thirds of the page with top and bottom blank. "
 -
     id: "fig-301-b"
@@ -13494,8 +13493,23 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Back"
     alt: "White page with black handwritten text in English. “for David Tudor Dec. 1962” at center and “Earl Brown” signature at bottom right. "
+-
+    id: "fig-301-c"
+    src: 
+    zoom: true
+    poster: figures/sequences/301/000.jpg
+    media_type: 
+    media_id: 
+    label: "Rotating"
+    alt: "White page with black handwritten text in English. “for David Tudor Dec. 1962” at center and “Earl Brown” signature at bottom right."
+    sequences:
+      - id: "figures/sequences/301/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"
 -
     id: "fig-302-a"
     src: figures/r2014200_980039_b170_f1_001.jpg
@@ -14898,6 +14912,8 @@ figure_list:
           - continuous
           - sequence
         regex: /WaterYam_\d{3}\.jpg/
+        viewing_direction: "right-to-left"
+        
 -
     id: "fig-349"
     src: figures/water-yam-grid.jpg
@@ -14922,9 +14938,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track351_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069613530/a27c108bc6
     label: ""
     alt: "Audio recording that begins with a brief sound of rushing water and then settles into the repeated sounding of two or three overlapping and/or alternating tones of a hollow, wooden, knocking nature. Their rhythm evokes the sound of dripping water but the tones are hard and percussive. The frequency of the sounds continuously slows over the duration of the recording until there are significant silences between sounds."
 -
@@ -15329,9 +15345,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track382_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069616202/83ab80dde4
     label: ""
     alt: "Audio recording that begins with ambient noises of a seated audience settling into a room. Then long periods of silence are interrupted by gentle giggles, murmurs, single piano tones, footsteps, and outbreaks of uproarious laughter and clapping."
 -
@@ -15667,6 +15683,16 @@ figure_list:
     media_id: 
     label: ""
     alt: "Customized Google map with pins dropped on various locations, mostly in the New York area and Western Europe, showing where Mac Low created and sent his postcard scores."
+-
+    id: "fig-405"
+    src: 
+    zoom: 
+    audio: true
+    poster: figures/track405_th.jpg
+    media_type: vimeo
+    media_id: 1069617412/b082fff266
+    label: ""
+    alt: ""
 # REMOVED
 # -
 #     id: "fig-405"
@@ -16546,9 +16572,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track437_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069614352/84c534c2e9
     label: ""
     alt: "Audio recording of woman giving movement instructions to a group of people."
 -
@@ -19701,6 +19727,7 @@ figure_list:
           - continuous
           - sequence
         regex: /SpatialPoem_\d{3}\.jpg/
+        viewing_direction: "right-to-left"
 -
     id: "fig-525-b"
     src: figures/grl_890164-b225.jpg
@@ -19720,24 +19747,7 @@ figure_list:
     label: ""
     alt: ""
 -
-    id: "fig-527-a"
-    src: 
-    zoom: true
-    poster: figures/sequences/527/gri_890164_b223_001_mm.jpg
-    media_type: 
-    media_id: 
-    label: "Flipbook"
-    alt: ""
-    sequences:
-      - id: "figures/sequences/527/"
-        start: gri_890164_b223_001_mm.jpg
-        behavior:
-          - continuous
-          - sequence
-        regex: /gri_890164_b223_\d{3}_mm\.jpg/
-        frame_distance: 100
--
-    id: "fig-527-b"
+    id: "fig-527"
     src: figures/r2017583_890164_b233_001.jpg
     zoom: true
     poster: 
@@ -19746,31 +19756,2399 @@ figure_list:
     label: "Overview"
     alt: ""
 -
+    id: "fig-527-a"
+    src: figures/gri_890164_b223_001_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "1"
+    alt: ""
+-
+    id: "fig-527-b"
+    src: figures/gri_890164_b223_002_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "2"
+    alt: ""
+-
+    id: "fig-527-c"
+    src: figures/gri_890164_b223_003_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "3"
+    alt: ""
+-
+    id: "fig-527-d"
+    src: figures/gri_890164_b223_004_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "4"
+    alt: ""
+-
+    id: "fig-527-e"
+    src: figures/gri_890164_b223_005_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "5"
+    alt: ""
+-
+    id: "fig-527-f"
+    src: figures/gri_890164_b223_006_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "6"
+    alt: ""
+-
+    id: "fig-527-g"
+    src: figures/gri_890164_b223_007_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "7"
+    alt: ""
+-
+    id: "fig-527-h"
+    src: figures/gri_890164_b223_008_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "8"
+    alt: ""
+-
+    id: "fig-527-i"
+    src: figures/gri_890164_b223_009_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "9"
+    alt: ""
+-
+    id: "fig-527-j"
+    src: figures/gri_890164_b223_010_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "10"
+    alt: ""
+-
+    id: "fig-527-k"
+    src: figures/gri_890164_b223_011_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "11"
+    alt: ""
+-
+    id: "fig-527-l"
+    src: figures/gri_890164_b223_012_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "12"
+    alt: ""
+-
+    id: "fig-527-m"
+    src: figures/gri_890164_b223_013_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "13"
+    alt: ""
+-
+    id: "fig-527-n"
+    src: figures/gri_890164_b223_014_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "14"
+    alt: ""
+-
+    id: "fig-527-o"
+    src: figures/gri_890164_b223_015_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "15"
+    alt: ""
+-
+    id: "fig-527-p"
+    src: figures/gri_890164_b223_016_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "16"
+    alt: ""
+-
+    id: "fig-527-q"
+    src: figures/gri_890164_b223_017_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "17"
+    alt: ""
+-
+    id: "fig-527-r"
+    src: figures/gri_890164_b223_018_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "18"
+    alt: ""
+-
+    id: "fig-527-s"
+    src: figures/gri_890164_b223_019_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "19"
+    alt: ""
+-
+    id: "fig-527-t"
+    src: figures/gri_890164_b223_020_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "20"
+    alt: ""
+-
+    id: "fig-527-u"
+    src: figures/gri_890164_b223_021_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "21"
+    alt: ""
+-
+    id: "fig-527-v"
+    src: figures/gri_890164_b223_022_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "22"
+    alt: ""
+-
+    id: "fig-527-w"
+    src: figures/gri_890164_b223_023_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "23"
+    alt: ""
+-
+    id: "fig-527-x"
+    src: figures/gri_890164_b223_024_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "24"
+    alt: ""
+-
+    id: "fig-527-y"
+    src: figures/gri_890164_b223_025_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "25"
+    alt: ""
+-
+    id: "fig-527-z"
+    src: figures/gri_890164_b223_026_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "26"
+    alt: ""
+-
+    id: "fig-527-aa"
+    src: figures/gri_890164_b223_027_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "27"
+    alt: ""
+-
+    id: "fig-527-ab"
+    src: figures/gri_890164_b223_028_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "28"
+    alt: ""
+-
+    id: "fig-527-ac"
+    src: figures/gri_890164_b223_029_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "29"
+    alt: ""
+-
+    id: "fig-527-ad"
+    src: figures/gri_890164_b223_030_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "30"
+    alt: ""
+-
+    id: "fig-527-ae"
+    src: figures/gri_890164_b223_031_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "31"
+    alt: ""
+-
+    id: "fig-527-af"
+    src: figures/gri_890164_b223_032_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "32"
+    alt: ""
+-
+    id: "fig-527-ag"
+    src: figures/gri_890164_b223_033_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "33"
+    alt: ""
+-
+    id: "fig-527-ah"
+    src: figures/gri_890164_b223_034_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "34"
+    alt: ""
+-
+    id: "fig-527-ai"
+    src: figures/gri_890164_b223_035_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "35"
+    alt: ""
+-
+    id: "fig-527-aj"
+    src: figures/gri_890164_b223_036_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "36"
+    alt: ""
+-
+    id: "fig-527-ak"
+    src: figures/gri_890164_b223_037_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "37"
+    alt: ""
+-
+    id: "fig-527-al"
+    src: figures/gri_890164_b223_038_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "38"
+    alt: ""
+-
+    id: "fig-527-am"
+    src: figures/gri_890164_b223_039_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "39"
+    alt: ""
+-
+    id: "fig-527-an"
+    src: figures/gri_890164_b223_040_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "40"
+    alt: ""
+-
+    id: "fig-527-ao"
+    src: figures/gri_890164_b223_041_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "41"
+    alt: ""
+-
+    id: "fig-527-ap"
+    src: figures/gri_890164_b223_042_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "42"
+    alt: ""
+-
+    id: "fig-527-aq"
+    src: figures/gri_890164_b223_043_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "43"
+    alt: ""
+-
+    id: "fig-527-ar"
+    src: figures/gri_890164_b223_044_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "44"
+    alt: ""
+-
+    id: "fig-527-as"
+    src: figures/gri_890164_b223_045_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "45"
+    alt: ""
+-
+    id: "fig-527-at"
+    src: figures/gri_890164_b223_046_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "46"
+    alt: ""
+-
+    id: "fig-527-au"
+    src: figures/gri_890164_b223_047_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "47"
+    alt: ""
+-
+    id: "fig-527-av"
+    src: figures/gri_890164_b223_048_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "48"
+    alt: ""
+-
+    id: "fig-527-aw"
+    src: figures/gri_890164_b223_049_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "49"
+    alt: ""
+-
+    id: "fig-527-ax"
+    src: figures/gri_890164_b223_050_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "50"
+    alt: ""
+-
+    id: "fig-527-ay"
+    src: figures/gri_890164_b223_051_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "51"
+    alt: ""
+-
+    id: "fig-527-az"
+    src: figures/gri_890164_b223_052_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "52"
+    alt: ""
+-
+    id: "fig-527-ba"
+    src: figures/gri_890164_b223_053_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "53"
+    alt: ""
+-
+    id: "fig-527-bb"
+    src: figures/gri_890164_b223_054_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "54"
+    alt: ""
+-
+    id: "fig-527-bc"
+    src: figures/gri_890164_b223_055_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "55"
+    alt: ""
+-
+    id: "fig-527-bd"
+    src: figures/gri_890164_b223_056_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "56"
+    alt: ""
+-
+    id: "fig-527-be"
+    src: figures/gri_890164_b223_057_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "57"
+    alt: ""
+-
+    id: "fig-527-bf"
+    src: figures/gri_890164_b223_058_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "58"
+    alt: ""
+-
+    id: "fig-527-bg"
+    src: figures/gri_890164_b223_059_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "59"
+    alt: ""
+-
+    id: "fig-527-bh"
+    src: figures/gri_890164_b223_060_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "60"
+    alt: ""
+-
+    id: "fig-527-bi"
+    src: figures/gri_890164_b223_061_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "61"
+    alt: ""
+-
+    id: "fig-527-bj"
+    src: figures/gri_890164_b223_062_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "62"
+    alt: ""
+-
+    id: "fig-527-bk"
+    src: figures/gri_890164_b223_063_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "63"
+    alt: ""
+-
+    id: "fig-527-bl"
+    src: figures/gri_890164_b223_064_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "64"
+    alt: ""
+-
+    id: "fig-527-bm"
+    src: figures/gri_890164_b223_065_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "65"
+    alt: ""
+-
+    id: "fig-527-bn"
+    src: figures/gri_890164_b223_066_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "66"
+    alt: ""
+-
+    id: "fig-527-bo"
+    src: figures/gri_890164_b223_067_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "67"
+    alt: ""
+-
+    id: "fig-527-bp"
+    src: figures/gri_890164_b223_068_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "68"
+    alt: ""
+-
+    id: "fig-527-bq"
+    src: figures/gri_890164_b223_069_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "69"
+    alt: ""
+-
+    id: "fig-527-br"
+    src: figures/gri_890164_b223_070_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "70"
+    alt: ""
+-
+    id: "fig-527-bs"
+    src: figures/gri_890164_b223_071_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "71"
+    alt: ""
+-
+    id: "fig-527-bt"
+    src: figures/gri_890164_b223_072_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "72"
+    alt: ""
+-
+    id: "fig-527-bu"
+    src: figures/gri_890164_b223_073_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "73"
+    alt: ""
+-
+    id: "fig-527-bv"
+    src: figures/gri_890164_b223_074_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "74"
+    alt: ""
+-
+    id: "fig-527-bw"
+    src: figures/gri_890164_b223_075_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "75"
+    alt: ""
+-
+    id: "fig-527-bx"
+    src: figures/gri_890164_b223_076_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "76"
+    alt: ""
+-
+    id: "fig-527-by"
+    src: figures/gri_890164_b223_077_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "77"
+    alt: ""
+-
+    id: "fig-527-bz"
+    src: figures/gri_890164_b223_078_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "78"
+    alt: ""
+-
+    id: "fig-527-ca"
+    src: figures/gri_890164_b223_079_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "79"
+    alt: ""
+-
+    id: "fig-527-cb"
+    src: figures/gri_890164_b223_080_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "80"
+    alt: ""
+-
+    id: "fig-527-cc"
+    src: figures/gri_890164_b223_081_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "81"
+    alt: ""
+-
+    id: "fig-527-cd"
+    src: figures/gri_890164_b223_082_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "82"
+    alt: ""
+-
+    id: "fig-527-ce"
+    src: figures/gri_890164_b223_083_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "83"
+    alt: ""
+-
+    id: "fig-527-cf"
+    src: figures/gri_890164_b223_084_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "84"
+    alt: ""
+-
+    id: "fig-527-cg"
+    src: figures/gri_890164_b223_085_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "85"
+    alt: ""
+-
+    id: "fig-527-ch"
+    src: figures/gri_890164_b223_086_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "86"
+    alt: ""
+-
+    id: "fig-527-ci"
+    src: figures/gri_890164_b223_087_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "87"
+    alt: ""
+-
+    id: "fig-527-cj"
+    src: figures/gri_890164_b223_088_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "88"
+    alt: ""
+-
+    id: "fig-527-ck"
+    src: figures/gri_890164_b223_089_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "89"
+    alt: ""
+-
+    id: "fig-527-cl"
+    src: figures/gri_890164_b223_090_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "90"
+    alt: ""
+-
+    id: "fig-527-cm"
+    src: figures/gri_890164_b223_091_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "91"
+    alt: ""
+-
+    id: "fig-527-cn"
+    src: figures/gri_890164_b223_092_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "92"
+    alt: ""
+-
+    id: "fig-527-co"
+    src: figures/gri_890164_b223_093_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "93"
+    alt: ""
+-
+    id: "fig-527-cp"
+    src: figures/gri_890164_b223_094_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "94"
+    alt: ""
+-
+    id: "fig-527-cq"
+    src: figures/gri_890164_b223_095_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "95"
+    alt: ""
+-
+    id: "fig-527-cr"
+    src: figures/gri_890164_b223_096_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "96"
+    alt: ""
+-
+    id: "fig-527-cs"
+    src: figures/gri_890164_b223_097_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "97"
+    alt: ""
+-
+    id: "fig-527-ct"
+    src: figures/gri_890164_b223_098_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "98"
+    alt: ""
+-
+    id: "fig-527-cu"
+    src: figures/gri_890164_b223_099_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "99"
+    alt: ""
+-
+    id: "fig-527-cv"
+    src: figures/gri_890164_b223_100_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "100"
+    alt: ""
+-
+    id: "fig-527-cw"
+    src: figures/gri_890164_b223_101_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "101"
+    alt: ""
+-
+    id: "fig-527-cx"
+    src: figures/gri_890164_b223_102_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "102"
+    alt: ""
+-
+    id: "fig-527-cy"
+    src: figures/gri_890164_b223_103_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "103"
+    alt: ""
+-
+    id: "fig-527-cz"
+    src: figures/gri_890164_b223_104_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "104"
+    alt: ""
+-
+    id: "fig-527-da"
+    src: figures/gri_890164_b223_105_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "105"
+    alt: ""
+-
+    id: "fig-527-db"
+    src: figures/gri_890164_b223_106_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "106"
+    alt: ""
+-
+    id: "fig-527-dc"
+    src: figures/gri_890164_b223_107_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "107"
+    alt: ""
+-
+    id: "fig-527-dd"
+    src: figures/gri_890164_b223_108_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "108"
+    alt: ""
+-
+    id: "fig-527-de"
+    src: figures/gri_890164_b223_109_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "109"
+    alt: ""
+-
+    id: "fig-527-df"
+    src: figures/gri_890164_b223_110_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "110"
+    alt: ""
+-
+    id: "fig-527-dg"
+    src: figures/gri_890164_b223_111_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "111"
+    alt: ""
+-
+    id: "fig-527-dh"
+    src: figures/gri_890164_b223_112_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "112"
+    alt: ""
+-
+    id: "fig-527-di"
+    src: figures/gri_890164_b223_113_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "113"
+    alt: ""
+-
+    id: "fig-527-dj"
+    src: figures/gri_890164_b223_114_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "114"
+    alt: ""
+-
+    id: "fig-527-dk"
+    src: figures/gri_890164_b223_115_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "115"
+    alt: ""
+-
+    id: "fig-527-dl"
+    src: figures/gri_890164_b223_116_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "116"
+    alt: ""
+-
+    id: "fig-527-dm"
+    src: figures/gri_890164_b223_117_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "117"
+    alt: ""
+-
+    id: "fig-527-dn"
+    src: figures/gri_890164_b223_118_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "118"
+    alt: ""
+-
+    id: "fig-527-do"
+    src: figures/gri_890164_b223_119_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "119"
+    alt: ""
+-
+    id: "fig-527-dp"
+    src: figures/gri_890164_b223_120_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "120"
+    alt: ""
+-
+    id: "fig-527-dq"
+    src: figures/gri_890164_b223_121_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "121"
+    alt: ""
+-
+    id: "fig-527-dr"
+    src: figures/gri_890164_b223_122_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "122"
+    alt: ""
+-
+    id: "fig-527-ds"
+    src: figures/gri_890164_b223_123_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "123"
+    alt: ""
+-
+    id: "fig-527-dt"
+    src: figures/gri_890164_b223_124_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "124"
+    alt: ""
+-
+    id: "fig-527-du"
+    src: figures/gri_890164_b223_125_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "125"
+    alt: ""
+-
+    id: "fig-527-dv"
+    src: figures/gri_890164_b223_126_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "126"
+    alt: ""
+-
+    id: "fig-527-dw"
+    src: figures/gri_890164_b223_127_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "127"
+    alt: ""
+-
+    id: "fig-527-dx"
+    src: figures/gri_890164_b223_128_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "128"
+    alt: ""
+-
+    id: "fig-527-dy"
+    src: figures/gri_890164_b223_129_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "129"
+    alt: ""
+-
+    id: "fig-527-dz"
+    src: figures/gri_890164_b223_130_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "130"
+    alt: ""
+-
+    id: "fig-527-ea"
+    src: figures/gri_890164_b223_131_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "131"
+    alt: ""
+-
+    id: "fig-527-eb"
+    src: figures/gri_890164_b223_132_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "132"
+    alt: ""
+-
+    id: "fig-527-ec"
+    src: figures/gri_890164_b223_133_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "133"
+    alt: ""
+-
+    id: "fig-527-ed"
+    src: figures/gri_890164_b223_134_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "134"
+    alt: ""
+-
+    id: "fig-527-ee"
+    src: figures/gri_890164_b223_135_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "135"
+    alt: ""
+-
+    id: "fig-527-ef"
+    src: figures/gri_890164_b223_136_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "136"
+    alt: ""
+-
+    id: "fig-527-eg"
+    src: figures/gri_890164_b223_137_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "137"
+    alt: ""
+-
+    id: "fig-527-eh"
+    src: figures/gri_890164_b223_138_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "138"
+    alt: ""
+-
+    id: "fig-527-ei"
+    src: figures/gri_890164_b223_139_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "139"
+    alt: ""
+-
+    id: "fig-527-ej"
+    src: figures/gri_890164_b223_140_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "140"
+    alt: ""
+-
+    id: "fig-527-ek"
+    src: figures/gri_890164_b223_141_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "141"
+    alt: ""
+-
+    id: "fig-527-el"
+    src: figures/gri_890164_b223_142_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "142"
+    alt: ""
+-
+    id: "fig-527-em"
+    src: figures/gri_890164_b223_143_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "143"
+    alt: ""
+-
+    id: "fig-527-en"
+    src: figures/gri_890164_b223_144_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "144"
+    alt: ""
+-
+    id: "fig-527-eo"
+    src: figures/gri_890164_b223_145_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "145"
+    alt: ""
+-
+    id: "fig-527-ep"
+    src: figures/gri_890164_b223_146_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "146"
+    alt: ""
+-
+    id: "fig-527-eq"
+    src: figures/gri_890164_b223_147_mm.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "147"
+    alt: ""
+-
     id: "fig-528"
     src: figures/fig-528_AR832708.jpg
     zoom: true
     poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "Overview"
     alt: ""
 -
-    id: "fig-529"
-    src: 
+    id: "fig-528-a"
+    src: figures/r2014928_890164_b219_001.jpg
     zoom: true
-    poster: figures/sequences/529/r2014928_890164_b219_001.jpg
+    poster: 
     media_type: 
     media_id: 
-    label: ""
+    label: "1"
     alt: ""
-    sequences:
-      - id: "figures/sequences/529/"
-        start: r2014928_890164_b219_001.jpg
-        behavior:
-          - continuous
-          - sequence
-        regex: /r2014928_890164_b219_\d{3}\.jpg/
-        frame_distance: 100
+-
+    id: "fig-528-b"
+    src: figures/r2014928_890164_b219_002.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "2"
+    alt: ""
+-
+    id: "fig-528-c"
+    src: figures/r2014928_890164_b219_003.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "3"
+    alt: ""
+-
+    id: "fig-528-d"
+    src: figures/r2014928_890164_b219_004.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "4"
+    alt: ""
+-
+    id: "fig-528-e"
+    src: figures/r2014928_890164_b219_005.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "5"
+    alt: ""
+-
+    id: "fig-528-f"
+    src: figures/r2014928_890164_b219_006.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "6"
+    alt: ""
+-
+    id: "fig-528-g"
+    src: figures/r2014928_890164_b219_007.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "7"
+    alt: ""
+-
+    id: "fig-528-h"
+    src: figures/r2014928_890164_b219_008.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "8"
+    alt: ""
+-
+    id: "fig-528-i"
+    src: figures/r2014928_890164_b219_009.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "9"
+    alt: ""
+-
+    id: "fig-528-j"
+    src: figures/r2014928_890164_b219_010.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "10"
+    alt: ""
+-
+    id: "fig-528-k"
+    src: figures/r2014928_890164_b219_011.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "11"
+    alt: ""
+-
+    id: "fig-528-l"
+    src: figures/r2014928_890164_b219_012.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "12"
+    alt: ""
+-
+    id: "fig-528-m"
+    src: figures/r2014928_890164_b219_013.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "13"
+    alt: ""
+-
+    id: "fig-528-n"
+    src: figures/r2014928_890164_b219_014.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "14"
+    alt: ""
+-
+    id: "fig-528-o"
+    src: figures/r2014928_890164_b219_015.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "15"
+    alt: ""
+-
+    id: "fig-528-p"
+    src: figures/r2014928_890164_b219_016.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "16"
+    alt: ""
+-
+    id: "fig-528-q"
+    src: figures/r2014928_890164_b219_017.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "17"
+    alt: ""
+-
+    id: "fig-528-r"
+    src: figures/r2014928_890164_b219_018.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "18"
+    alt: ""
+-
+    id: "fig-528-s"
+    src: figures/r2014928_890164_b219_019.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "19"
+    alt: ""
+-
+    id: "fig-528-t"
+    src: figures/r2014928_890164_b219_020.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "20"
+    alt: ""
+-
+    id: "fig-528-u"
+    src: figures/r2014928_890164_b219_021.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "21"
+    alt: ""
+-
+    id: "fig-528-v"
+    src: figures/r2014928_890164_b219_022.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "22"
+    alt: ""
+-
+    id: "fig-528-w"
+    src: figures/r2014928_890164_b219_023.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "23"
+    alt: ""
+-
+    id: "fig-528-x"
+    src: figures/r2014928_890164_b219_024.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "24"
+    alt: ""
+-
+    id: "fig-528-y"
+    src: figures/r2014928_890164_b219_025.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "25"
+    alt: ""
+-
+    id: "fig-528-z"
+    src: figures/r2014928_890164_b219_026.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "26"
+    alt: ""
+-
+    id: "fig-528-aa"
+    src: figures/r2014928_890164_b219_027.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "27"
+    alt: ""
+-
+    id: "fig-528-ab"
+    src: figures/r2014928_890164_b219_028.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "28"
+    alt: ""
+-
+    id: "fig-528-ac"
+    src: figures/r2014928_890164_b219_029.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "29"
+    alt: ""
+-
+    id: "fig-528-ad"
+    src: figures/r2014928_890164_b219_030.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "30"
+    alt: ""
+-
+    id: "fig-528-ae"
+    src: figures/r2014928_890164_b219_031.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "31"
+    alt: ""
+-
+    id: "fig-528-af"
+    src: figures/r2014928_890164_b219_032.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "32"
+    alt: ""
+-
+    id: "fig-528-ag"
+    src: figures/r2014928_890164_b219_033.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "33"
+    alt: ""
+-
+    id: "fig-528-ah"
+    src: figures/r2014928_890164_b219_034.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "34"
+    alt: ""
+-
+    id: "fig-528-ai"
+    src: figures/r2014928_890164_b219_035.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "35"
+    alt: ""
+-
+    id: "fig-528-aj"
+    src: figures/r2014928_890164_b219_036.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "36"
+    alt: ""
+-
+    id: "fig-528-ak"
+    src: figures/r2014928_890164_b219_037.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "37"
+    alt: ""
+-
+    id: "fig-528-al"
+    src: figures/r2014928_890164_b219_038.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "38"
+    alt: ""
+-
+    id: "fig-528-am"
+    src: figures/r2014928_890164_b219_039.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "39"
+    alt: ""
+-
+    id: "fig-528-an"
+    src: figures/r2014928_890164_b219_040.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "40"
+    alt: ""
+-
+    id: "fig-528-ao"
+    src: figures/r2014928_890164_b219_041.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "41"
+    alt: ""
+-
+    id: "fig-528-ap"
+    src: figures/r2014928_890164_b219_042.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "42"
+    alt: ""
+-
+    id: "fig-528-aq"
+    src: figures/r2014928_890164_b219_043.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "43"
+    alt: ""
+-
+    id: "fig-528-ar"
+    src: figures/r2014928_890164_b219_044.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "44"
+    alt: ""
+-
+    id: "fig-528-as"
+    src: figures/r2014928_890164_b219_045.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "45"
+    alt: ""
+-
+    id: "fig-528-at"
+    src: figures/r2014928_890164_b219_046.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "46"
+    alt: ""
+-
+    id: "fig-528-au"
+    src: figures/r2014928_890164_b219_047.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "47"
+    alt: ""
+-
+    id: "fig-528-av"
+    src: figures/r2014928_890164_b219_048.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "48"
+    alt: ""
+-
+    id: "fig-528-aw"
+    src: figures/r2014928_890164_b219_049.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "49"
+    alt: ""
+-
+    id: "fig-528-ax"
+    src: figures/r2014928_890164_b219_050.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "50"
+    alt: ""
+-
+    id: "fig-528-ay"
+    src: figures/r2014928_890164_b219_051.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "51"
+    alt: ""
+-
+    id: "fig-528-az"
+    src: figures/r2014928_890164_b219_052.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "52"
+    alt: ""
+-
+    id: "fig-528-ba"
+    src: figures/r2014928_890164_b219_053.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "53"
+    alt: ""
+-
+    id: "fig-528-bb"
+    src: figures/r2014928_890164_b219_054.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "54"
+    alt: ""
+-
+    id: "fig-528-bc"
+    src: figures/r2014928_890164_b219_055.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "55"
+    alt: ""
+-
+    id: "fig-528-bd"
+    src: figures/r2014928_890164_b219_056.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "56"
+    alt: ""
+-
+    id: "fig-528-be"
+    src: figures/r2014928_890164_b219_057.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "57"
+    alt: ""
+-
+    id: "fig-528-bf"
+    src: figures/r2014928_890164_b219_058.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "58"
+    alt: ""
+-
+    id: "fig-528-bg"
+    src: figures/r2014928_890164_b219_059.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "59"
+    alt: ""
+-
+    id: "fig-528-bh"
+    src: figures/r2014928_890164_b219_060.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "60"
+    alt: ""
+-
+    id: "fig-528-bi"
+    src: figures/r2014928_890164_b219_061.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "61"
+    alt: ""
+-
+    id: "fig-528-bj"
+    src: figures/r2014928_890164_b219_062.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "62"
+    alt: ""
+-
+    id: "fig-528-bk"
+    src: figures/r2014928_890164_b219_063.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "63"
+    alt: ""
+-
+    id: "fig-528-bl"
+    src: figures/r2014928_890164_b219_064.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "64"
+    alt: ""
+-
+    id: "fig-528-bm"
+    src: figures/r2014928_890164_b219_065.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "65"
+    alt: ""
+-
+    id: "fig-528-bn"
+    src: figures/r2014928_890164_b219_066.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "66"
+    alt: ""
+-
+    id: "fig-528-bo"
+    src: figures/r2014928_890164_b219_067.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "67"
+    alt: ""
+-
+    id: "fig-528-bp"
+    src: figures/r2014928_890164_b219_068.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "68"
+    alt: ""
+-
+    id: "fig-528-bq"
+    src: figures/r2014928_890164_b219_069.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "69"
+    alt: ""
+-
+    id: "fig-528-br"
+    src: figures/r2014928_890164_b219_070.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "70"
+    alt: ""
+-
+    id: "fig-528-bs"
+    src: figures/r2014928_890164_b219_071.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "71"
+    alt: ""
+-
+    id: "fig-528-bt"
+    src: figures/r2014928_890164_b219_072.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "72"
+    alt: ""
+-
+    id: "fig-528-bu"
+    src: figures/r2014928_890164_b219_073.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "73"
+    alt: ""
+-
+    id: "fig-528-bv"
+    src: figures/r2014928_890164_b219_074.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "74"
+    alt: ""
+-
+    id: "fig-528-bw"
+    src: figures/r2014928_890164_b219_075.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "75"
+    alt: ""
+-
+    id: "fig-528-bx"
+    src: figures/r2014928_890164_b219_076.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "76"
+    alt: ""
+-
+    id: "fig-528-by"
+    src: figures/r2014928_890164_b219_077.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "77"
+    alt: ""
+-
+    id: "fig-528-bz"
+    src: figures/r2014928_890164_b219_078.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "78"
+    alt: ""
+-
+    id: "fig-528-ca"
+    src: figures/r2014928_890164_b219_079.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "79"
+    alt: ""
+-
+    id: "fig-528-cb"
+    src: figures/r2014928_890164_b219_080.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "80"
+    alt: ""
+-
+    id: "fig-528-cc"
+    src: figures/r2014928_890164_b219_081.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "81"
+    alt: ""
+-
+    id: "fig-528-cd"
+    src: figures/r2014928_890164_b219_082.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "82"
+    alt: ""
+-
+    id: "fig-528-ce"
+    src: figures/r2014928_890164_b219_083.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "83"
+    alt: ""
+-
+    id: "fig-528-cf"
+    src: figures/r2014928_890164_b219_084.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "84"
+    alt: ""
+-
+    id: "fig-528-cg"
+    src: figures/r2014928_890164_b219_085.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "85"
+    alt: ""
+-
+    id: "fig-528-ch"
+    src: figures/r2014928_890164_b219_086.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "86"
+    alt: ""
+-
+    id: "fig-528-ci"
+    src: figures/r2014928_890164_b219_087.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "87"
+    alt: ""
+-
+    id: "fig-528-cj"
+    src: figures/r2014928_890164_b219_088.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "88"
+    alt: ""
+-
+    id: "fig-528-ck"
+    src: figures/r2014928_890164_b219_089.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "89"
+    alt: ""
+-
+    id: "fig-528-cl"
+    src: figures/r2014928_890164_b219_090.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "90"
+    alt: ""
+-
+    id: "fig-528-cm"
+    src: figures/r2014928_890164_b219_091.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "91"
+    alt: ""
+-
+    id: "fig-528-cn"
+    src: figures/r2014928_890164_b219_092.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "92"
+    alt: ""
+-
+    id: "fig-528-co"
+    src: figures/r2014928_890164_b219_093.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "93"
+    alt: ""
+-
+    id: "fig-528-cp"
+    src: figures/r2014928_890164_b219_094.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "94"
+    alt: ""
+-
+    id: "fig-528-cq"
+    src: figures/r2014928_890164_b219_095.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "95"
+    alt: ""
+-
+    id: "fig-528-cr"
+    src: figures/r2014928_890164_b219_096.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "96"
+    alt: ""
+-
+    id: "fig-528-cs"
+    src: figures/r2014928_890164_b219_097.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "97"
+    alt: ""
+-
+    id: "fig-528-ct"
+    src: figures/r2014928_890164_b219_098.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "98"
+    alt: ""
+-
+    id: "fig-528-cu"
+    src: figures/r2014928_890164_b219_099.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "99"
+    alt: ""
+-
+    id: "fig-528-cv"
+    src: figures/r2014928_890164_b219_100.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "100"
+    alt: ""
+-
+    id: "fig-528-cw"
+    src: figures/r2014928_890164_b219_101.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "101"
+    alt: ""
+-
+    id: "fig-528-cx"
+    src: figures/r2014928_890164_b219_102.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "102"
+    alt: ""
+-
+    id: "fig-528-cy"
+    src: figures/r2014928_890164_b219_103.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "103"
+    alt: ""
+-
+    id: "fig-528-cz"
+    src: figures/r2014928_890164_b219_104.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "104"
+    alt: ""
+-
+    id: "fig-528-da"
+    src: figures/r2014928_890164_b219_105.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "105"
+    alt: ""
+-
+    id: "fig-528-db"
+    src: figures/r2014928_890164_b219_106.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "106"
+    alt: ""
+-
+    id: "fig-528-dc"
+    src: figures/r2014928_890164_b219_107.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "107"
+    alt: ""
+-
+    id: "fig-528-dd"
+    src: figures/r2014928_890164_b219_108.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "108"
+    alt: ""
+-
+    id: "fig-528-de"
+    src: figures/r2014928_890164_b219_109.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "109"
+    alt: ""
+-
+    id: "fig-528-df"
+    src: figures/r2014928_890164_b219_110.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "110"
+    alt: ""
+-
+    id: "fig-528-dg"
+    src: figures/r2014928_890164_b219_111.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "111"
+    alt: ""
+-
+    id: "fig-528-dh"
+    src: figures/r2014928_890164_b219_112.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "112"
+    alt: ""
+-
+    id: "fig-528-di"
+    src: figures/r2014928_890164_b219_113.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "113"
+    alt: ""
+-
+    id: "fig-528-dj"
+    src: figures/r2014928_890164_b219_114.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "114"
+    alt: ""
+-
+    id: "fig-528-dk"
+    src: figures/r2014928_890164_b219_115.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "115"
+    alt: ""
+-
+    id: "fig-528-dl"
+    src: figures/r2014928_890164_b219_116.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "116"
+    alt: ""
+-
+    id: "fig-528-dm"
+    src: figures/r2014928_890164_b219_117.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "117"
+    alt: ""
+-
+    id: "fig-528-dn"
+    src: figures/r2014928_890164_b219_118.jpg
+    zoom: true
+    poster: 
+    media_type: 
+    media_id: 
+    label: "118"
+    alt: ""
 -
     id: "fig-530-a"
     src: figures/gri_91_b36111_001_mm.jpg
@@ -21238,9 +23616,9 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: audio-poster.jpg
+    poster: figures/track577_th.jpg
     media_type: vimeo
-    media_id: 1111111/000000
+    media_id: 1069615295/4d91e70f7b
     label: ""
     alt: ""
 -

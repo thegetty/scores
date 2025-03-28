@@ -12323,16 +12323,17 @@ figure_list:
     media_id: 1069614194/e47cce01c6
     label: ""
     alt: "Audio recording of a man and a woman reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. "
--
-    id: "fig-253"
-    src: 
-    zoom: 
-    audio: true
-    poster: audio-poster.jpg
-    media_type: vimeo
-    media_id: 1111111/000000
-    label: ""
-    alt: "Audio recording of male and female voices reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. Two original voices have been duplicated and layered electronically so that it sounds as if eight performers are speaking simultaneously, making it difficult to focus attention on any one voice for long. At times the voices are lowered in pitch. The final moments of the recording become quiet and feature only the original, single male and female voices, heard clearly."
+# REMOVED -- Dupe of 252
+# -
+#     id: "fig-253"
+#     src: 
+#     zoom: 
+#     audio: true
+#     poster: audio-poster.jpg
+#     media_type: vimeo
+#     media_id: 1111111/000000
+#     label: ""
+#     alt: "Audio recording of male and female voices reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. Two original voices have been duplicated and layered electronically so that it sounds as if eight performers are speaking simultaneously, making it difficult to focus attention on any one voice for long. At times the voices are lowered in pitch. The final moments of the recording become quiet and feature only the original, single male and female voices, heard clearly."
 -
     id: "fig-254"
     src: 
@@ -16583,7 +16584,7 @@ figure_list:
     zoom: 
     poster: figures/fig-438-poster-image.jpg
     media_type: vimeo
-    media_id: 998878127/
+    media_id: 998878127/6a04dfcf2d
     aspect_ratio: standard
     label: ""
     alt: "Black-and-white video of view from above stage left showing an empty stage and dancers moving across it intermittently."
@@ -16653,7 +16654,7 @@ figure_list:
     zoom: 
     poster: figures/fig-445-poster-image.jpg
     media_type: vimeo
-    media_id: 998879844/11d96c534c
+    media_id: 998880035/60e9a4194e
     aspect_ratio: standard
     label: ""
     alt: "Black-and-white video of the interior of a large hall crowded with people, and with artworks adorning the walls that variously satirize or manipulate the U.S. flag. People mingle amongst themselves until video cuts to performance of Yvonne Rainer’s dance *Trio A with Flags*. Then, individuals including a man wearing a leather jacket (gallerist Stephen Radich), deliver short remarks into a standing microphone.  "
@@ -19735,7 +19736,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: "Main"
+    label: "Zoom"
     alt: ""
 -
     id: "fig-526"
@@ -23316,7 +23317,7 @@ figure_list:
     zoom: 
     poster: figures/Bahto_Mirror_Piece_final.jpg
     media_type: vimeo
-    media_id: 1016759692/758838a07
+    media_id: 1016759692/758838a07a
     label: ""
     alt: "Color video showing sequential, individual episodes of three different women holding and regarding their face in a rectangular piece of mirror as they walk backwards on a beach, into the water. In some moments, the woman’s mirror reveals the cameraman recording her. The women appear to be performing this action on different beaches across the Californian coast. We also see a man, formerly the cameraman recording the women, performing the task while videoing himself with a smartphone enclosed in a plastic bag."
 -

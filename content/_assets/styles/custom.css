@@ -41,6 +41,9 @@
   --toc-indent-unit: 1.5rem;
 
   --accent-color: #adcab8;
+
+  /* Remove unnecessary default focus ring */
+  --atlas-focus: none;
 }
 @media screen and (min-width: 700px) {
   :root {
@@ -56,6 +59,9 @@ body {
   line-height: 1.3;
   letter-spacing: 0.02rem;
   -webkit-font-smoothing: antialiased;
+}
+a {
+  color: inherit;
 }
 .quire-page__content {
   line-height: 1.3;
@@ -103,6 +109,7 @@ body {
     left: 2px;
     margin-right: 2px;
   }
+  .quire-page .quire-page__content .container .content .anthology-links a::after,
   .quire-page .quire-page__content .container .content .score-section__link a::after {
     content: '' !important;
   }
@@ -188,6 +195,30 @@ audio {
 }
 .strikethrough {
   text-decoration: line-through;
+}
+
+/* Fix display of lists in blockquotes, see /object-index/555/ in particular;
+    and multiple paragraphs in blockquotes, see /object-index/345/ */
+@media screen {
+  .quire-page__content .container .content blockquote ul:first-child::before,
+  .quire-page__content .container .content ul li::before {
+    content: "";
+  }
+  .quire-page__content .content blockquote,
+  .quire-page__content .container .content ul,
+  .quire-page__content .container .content ul li {
+    margin-left: 0;
+  }
+  .quire-page__content .container .content blockquote p {
+    text-indent: 0;
+    margin-bottom: .75rem;
+  }
+}
+
+/* Remove unnecessary default focus ring */
+.atlas-canvas:focus-visible, 
+.atlas-canvas-container:focus-visible {
+  outline: none !important;
 }
 
 /* COVER

@@ -7,6 +7,8 @@ object_filters:
 
 object_card:
   - thumbnail
+  - title
+  - maker
   - date
   
 object_display_order:
@@ -4086,7 +4088,7 @@ object_list:
     maker: [ "Manfred Leve (German, 1936–2012)" ]
     people: [ "Leve, Manfred", "Patterson, Benjamin", "Tudor, David", "Brecht, George", "Helms, Khris", "Kagel, Ursula", "Helms, Hans G." ]
     more_people: ""
-    title: "Benjamin Patterson, Hans G. Helms, Ursula Kagel, Khris Helms, David Tudor, and others performing George Brecht’s [*Card-Piece for Voice*](/object-index/349/#card-096) (1959) as part of the “Contre-Festival,” organized during the IGNM-Weltmusikfestes, Atelier Mary Bauermeister, Cologne, Germany"
+    title: "Benjamin Patterson, Hans G. Helms, Ursula Kagel, Khris Helms, David Tudor, and others performing George Brecht’s *Card-Piece for Voice* (1959) as part of the “Contre-Festival,” organized during the IGNM-Weltmusikfestes, Atelier Mary Bauermeister, Cologne, Germany"
     date: "15 June 1960"
     date_sort: "1960-06-15"
     year_filter: [ "1960" ]

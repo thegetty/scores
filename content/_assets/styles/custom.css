@@ -277,7 +277,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   position: relative;
 }
 .quire-navbar a {
-  padding: 0;
+  padding: 0 1rem 0 0;
 }
 .quire-navbar-controls {
   font-size: 1rem;
@@ -970,9 +970,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .objects-page .quire-page__header,
 .objects-page .quire-page h1,
 .objects-page .object-filters,
-.objects-page .object-filters__select select, 
-.objects-page .object-filters__select select:focus, 
-.objects-page .object-filters__select select:focus-visible,
+.objects-page select, 
+.objects-page select:focus, 
+.objects-page select:focus-visible,
 .objects-page .object-filters__button {
   background-color: transparent;
   color: white !important;
@@ -982,6 +982,26 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .objects-page .object-filters__controls {
   grid-template-columns: repeat(4, 1fr);
+  grid-gap: 0;
+}
+.objects-page .object-filters__controls .object-filters__controls-group.view-controls {
+  grid-column-start: 4;
+}
+@media screen and (max-width:1300px) {
+  .objects-page .object-filters__controls {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .objects-page .object-filters__controls .object-filters__controls-group.view-controls {
+    grid-column-start: 2;
+  }
+}
+.objects-page .object-filters__controls .object-filters__controls-group.view-controls label {
+  margin-right: .2em;
+}
+.objects-page .object-filters__controls .object-filters__controls-group.view-controls select,
+.objects-page .object-filters__controls .object-filters__controls-group.view-controls select option {
+  min-width: 200px;
+  width: 200px;
 }
 .objects-page .object-filters__button {
   border-width: 0;
@@ -990,16 +1010,18 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   padding: 0;
   text-align: left;
 }
-.objects-page .object-filters__item label {
+.objects-page .object-filters__item label,
+.objects-page .object-filters__controls-group {
   font-size: 1rem;
   font-weight: 400;
   text-align: left;
 }
-.objects-page .object-filters__select select, 
-.objects-page .object-filters__select select:focus, 
-.objects-page .object-filters__select select:focus-visible {
-  font-size: 1rem;
-  border-bottom: 0;
+
+.objects-page select, 
+.objects-page select:focus, 
+.objects-page select:focus-visible {
+  font-size: 1rem !important;
+  border: 0 !important;
 }
 .objects-page .object-filters__list {
   display: initial;
@@ -1042,7 +1064,8 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .objects-page .object-card .arrow {
   display: none;
 }
-.objects-page .object-card__title {
+.objects-page .object-card__title,
+.objects-page .object-card__field {
   color: white;
   font-weight: 400;
   font-size: 1rem;
@@ -1055,19 +1078,14 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .objects-page .object-cards .object-card__image {
   height: 80px;
 }
-.objects-page .object-cards.large .object-card__image {
-  height: 440px;
-}
 .objects-page .object-card__image img {
   max-height: 100%;
   width: auto;
   margin: 0 auto;
 }
-.objects-page .object-cards .object-card__title {
+.objects-page .object-cards .object-card__title,
+.objects-page .object-cards .object-card__field {
   display: none;
-}
-.objects-page .object-cards.large .object-card__title {
-  display: block;
 }
 .objects-page ol.object-cards-list {
   display: flex;
@@ -1098,6 +1116,63 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .objects-page + .quire-menu .scores-footer * {
   color: white;
 }
+
+/* Large view */
+.objects-page .object-cards.large .object-card__image {
+  height: 440px;
+  margin-bottom: 8px;
+}
+.objects-page .object-cards.large .object-card__field[data-field-name=date] {
+  display: block;
+}
+
+/* Table view */
+.objects-page .object-cards.table {
+  color: inherit;
+  background-color: inherit;
+}
+.objects-page .object-cards.table  ol.object-cards-list {
+  grid-row-gap: .5rem;
+}
+.objects-page .object-cards.table .object-cards-list li {
+  display: table-row;
+  border-bottom: 1px solid white;
+  width: 100%;
+  width: calc(100vw - 4rem);
+}
+.objects-page .object-cards.table .object-cards-list li:first-child {
+  border-top: 1px solid white;
+  padding-top: .5rem;
+}
+.objects-page .object-cards.table .object-cards-list li object-card,
+.objects-page .object-cards.table .object-cards-list li object-card a.object-card,
+.objects-page .object-cards.table .object-cards-list li object-card a.object-card .object-card__content {
+  display: inline-block;
+  width: 100%;
+  width: calc(100vw - 4rem);
+}
+.objects-page .object-cards.table .object-card__content > * {
+  display: table-cell;
+  vertical-align: top;
+  padding-right: 1rem;
+}
+.objects-page .object-cards.table .object-card__content > *:nth-child(1) {
+  width: 20%;
+  width: calc((100vw - 4rem) * .2 );
+}
+.objects-page .object-cards.table .object-card__content > *:nth-child(2) {
+  width: 30%;
+  width: calc((100vw - 4rem) * .3 );
+}
+.objects-page .object-cards.table .object-card__content > *:nth-child(3) {
+  width: 30%;
+  width: calc((100vw - 4rem) * .3 );
+}
+.objects-page .object-cards.table .object-card__content > *:nth-child(4) {
+  width: 20%;
+  width: calc((100vw - 4rem) * .2 );
+}
+
 
 /* SCORE OBJECT PAGES
 ============================================================================= */

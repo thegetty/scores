@@ -51,16 +51,8 @@ module.exports = function(eleventyConfig, { page }) {
       if (!object || !property || !object[property]) return ''
 
       let propertyValue = ''
-      if ( property == 'maker' ) {
+      if ( property == 'maker' || property == 'type' ) {
         propertyValue = object[property].join('; ')
-      } else if ( property == 'type' ) {
-        propertyValue = []
-        propertyArray = object[property].toString().split(',')
-        for ( let item of propertyArray ) {
-          typeLink = oneLine`<a href="/object-index/?type=${item.replace(' ', '%2520')}">${item}</a>`
-          propertyValue.push(typeLink)
-        }
-        propertyValue = propertyValue.join(', ')
       } else {
         propertyValue = markdownify(object[property].toString())
       }

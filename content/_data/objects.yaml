@@ -32,8 +32,8 @@ object_list:
     year_filter: [ "1947" ]
     medium: ""
     location: ""
-    extended_caption: ""
-    credit: "*Off Minor* by Thelonious Monk © 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured All Rights Reserved, Reprinted by permission of Hal Leonard LLC (c); Courtesy of Jonathan K. Riggs."
+    extended_caption: "*Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; &#40;c&#41; Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
+    credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
     featured: true
     type: [ score ]
     figure: [ id: "fig-001" ]
@@ -301,7 +301,7 @@ object_list:
 -
     id: "017"
     old_id: "1.06"
-    maker: [ "Morton Feldman, (American, 1926–87)", "Steffen Schleiermacher, (German, b. 1960)" ]
+    maker: [ "Morton Feldman (American, 1926–87)", "Steffen Schleiermacher (German, b. 1960)" ]
     people: [ "Feldman, Morton", "Schleiermacher, Steffen" ]
     more_people: ""
     title: "Recording of Steffen Schleiermacher performing *Intersection 3*"
@@ -318,7 +318,7 @@ object_list:
 -
     id: "018"
     old_id: "1.07"
-    maker: [ "Morton Feldman, (American, 1926–87)", "Frank Denyer, (English, b. 1943)" ]
+    maker: [ "Morton Feldman (American, 1926–87)", "Frank Denyer (English, b. 1943)" ]
     people: [ "Feldman, Morton", "Denyer, Frank" ]
     more_people: ""
     title: "Recording of Frank Denyer performing *Intersection 3*"
@@ -886,7 +886,7 @@ object_list:
     people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (32nd-note Realization)"
-    date: "n.d."
+    date: ""
     date_sort: "1953-01-01"
     year_filter: [ "1953" ]
     medium: ""
@@ -903,7 +903,7 @@ object_list:
     people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Alternative 32nd-note Realization)"
-    date: "n.d."
+    date: ""
     date_sort: "1953-01-01"
     year_filter: [ "1953" ]
     medium: ""
@@ -6295,7 +6295,7 @@ object_list:
     extended_caption: "New performances of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) are appearing all the time, adding to the historical record of how the piece is understood over time. Clicking this link will take you to a Google video search of the terms “George Brecht” and “Drip Music” where you can observe the latest turns in how the score is interpreted."
     credit: ""
     featured: 
-    type: [ "video", "digital feature" ]
+    type: [ video, digital feature ]
     figure: [ id: "fig-357" ]
     related_objects: [ id: "354", id: "353", id: "355", id: "359", id: "362", id: "345", id: "346" ]
 -
@@ -8853,7 +8853,7 @@ object_list:
     id: "497"
     old_id: "9.23"
     maker: 
-    people: [ "Knowles, Alison", "Lockwood, Anna (Anea)", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
+    people: [ "Knowles, Alison", "Lockwood, Anna (Annea)", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
     more_people: [ "Oliveros, Pauline" ]
     title: "Announcement for *Womens Work*, “a magazine of performance scores by contemporary women artists”"
     date: "ca. 1975"

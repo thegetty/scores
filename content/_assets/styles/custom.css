@@ -1040,6 +1040,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .objects-page select, 
 .objects-page select:focus, 
 .objects-page select:focus-visible {
+  font-family: 'u001', sans-serif;
   font-size: 1rem !important;
   border: 0 !important;
 }

@@ -1,6 +1,6 @@
 object_filters:
-  - maker
-  - people
+  - field: people
+    label: "Person"
   - field: year_filter
     label: "Year"
   - type

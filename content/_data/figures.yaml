@@ -5829,8 +5829,7 @@ figure_list:
     alt: "White page with black typewritten text in English covering middle section of page; top and bottom blank. Top half of text contains time, date, and location of concert. Center reads “David Tudor and John Cage in a concert of New Music” followed by a long drooping line of typed asterisks. Bottom half of text lists the program of pieces to be performed."
 -
     id: "fig-088-a"
-    src: figures/r2015159_980039_b71_f12_040.jpg
-    src
+    src: figures/fig088_980039_b71_f9_a.jpg
     zoom: true
     poster: 
     media_type: 
@@ -5839,7 +5838,7 @@ figure_list:
     alt: "Verso of white page program, with black text in German. Title at top left in large bold font reads “musik derzeit.” Majority of page bisected vertically at center, with composers on left and composition titles on right. Time, date, and location of performance at top of text on the right side of the page."
 -
     id: "fig-088-b"
-    src: figures/r2016244_980039_b71_f9_001.jpg
+    src: figures/fig088_980039_b71_f9_b.jpg
     zoom: true
     poster: 
     media_type: 
@@ -14011,7 +14010,7 @@ figure_list:
 -
     id: "fig-309"
     src: figures/r2016696_980039_b10_f8_001.jpg
-    # zoom: true
+    zoom: true
     poster: 
     media_type: 
     media_id: 

@@ -35,6 +35,10 @@ archive:
   contributor:
     - id: mgallope
     - id: nharren
+  highlights:
+    - id: "288"
+    - id: "255"
+    - id: "290"
   groups:
     - heading: "Scores"
       objects:

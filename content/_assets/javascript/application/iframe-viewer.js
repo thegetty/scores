@@ -4,7 +4,15 @@
 // 
 window['toggleViewer'] = () => {
   var div = document.getElementById('iframe-viewer');
-  div.style.display = div.style.display == "none" ? "block" : "none";
+
+  if (div.style.display == "block") {
+    div.style.display = "none"
+    // load a blank source so that the iframe properly loads fresh on the next use
+    div.querySelector('iframe').src = ""
+  } else {
+    div.style.display = "block"
+  }
+
 
   // Pause audio in iframe if it's playing
   const target = document.getElementById('object-iframe').contentDocument

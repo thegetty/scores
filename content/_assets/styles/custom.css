@@ -100,7 +100,7 @@ a {
 /* Add arrow icon to select links 
   Icon: https://fonts.google.com/icons?selected=Material+Symbols+Outlined:north_east:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=arrow&icon.size=24&icon.color=%235f6368 
   Encoder: https://yoksel.github.io/url-encoder/ */
-  .quire-page.quire-essay .quire-page__header a.quire-download__link::after,
+  .quire-page.quire-essay .quire-page__header a.scores-chapter-link::after,
   .quire-page.quire-entry .quire-entry__tombstone a::after,
   .quire-page:not(.scores-copyright-page) .quire-page__content .container .content a:not(.object-link, .footnote-ref-anchor, .footnote-backref, .scores-figure__link, [href^='#fig'])::after {
     content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='%23000'%3E%3Cpath d='M215.52-152.35 151.87-216l460.89-460.89H356.41v-91h411v411h-91v-256.35L215.52-152.35Z'/%3E%3C/svg%3E");
@@ -602,6 +602,10 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-top: .5rem;
   padding: 0 .5rem;
 }
+.score-section__objects.section-highlights {
+  padding: 0 1rem;
+  margin-bottom: 2rem;
+}
 /* Archive Accordions */
 .score-section--archive .score-section__groups {
   background-color: black;
@@ -692,8 +696,19 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
     margin: 0;
     text-align: left;
   }
-  .quire-essay .quire-page__header .hero-body .quire-download a {
+  .quire-page__header__commentary-links {
+    text-align: left;
+  }
+  .quire-page__header__commentary-links a {
     color: black;
+  }
+  .quire-page__header__commentary-links a:hover {
+    color: black;
+  }
+}
+@media print {
+  .quire-page__header__commentary-links {
+    display: none;
   }
 }
 .quire-essay .quire-page__content .container .content {
@@ -1566,6 +1581,7 @@ body.iframe-version .quire::after {
 body.iframe-version .quire-entry__content,
 body.iframe-version .quire-page__content {
   animation: none;
+  padding-right: 1rem;
 }
 body.iframe-version .quire .quire__primary main {
   background-color: black;

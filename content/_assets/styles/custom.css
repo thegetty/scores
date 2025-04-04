@@ -727,8 +727,13 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   font-style: normal;
 }
 @media screen {
+  .quire-essay .quire-page__content .container .content {
+    word-spacing: -2.5px;
+    letter-spacing: -.05px;
+  }
   .quire-essay .quire-page__content .container .content p {
     text-indent: 4rem;
+    line-height: 1.5;
   }
   .quire-essay .quire-page__content .container .content blockquote {
     margin-left: 4rem;

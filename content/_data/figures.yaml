@@ -1389,42 +1389,6 @@ figure_list:
     label: ""
     alt: ""
 -
-    id: "fig-001-a"
-    src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
--
-    id: "fig-001-b"
-    src: figures/Purcell_diatonic_chromaticism.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
--
-    id: "fig-001-c"
-    src: figures/Thelonious-Monk-Jazz-Masters.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
--
-    id: "fig-001-d"
-    src: figures/Come_Thou_Fountain_Numbers.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
--
     id: "fig-002"
     src: figures/r34134_86_s1483_annoiii_n5_001-002.jpg
     zoom: true

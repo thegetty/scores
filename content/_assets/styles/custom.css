@@ -382,7 +382,8 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 /* Display title and contributor blocks side by side */
 .quire-menu .menu-list a {
-  display: flex;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
 }
 /* Set base width and spacing for titles */
 .quire-menu .menu-list a .item-title {
@@ -404,15 +405,32 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   content: ",\00a0";
   margin-left: -.35rem; /* Compensates for whitespace in the <li> */
 }
+.quire-menu .menu-list ol > li:nth-child(n + 2):nth-child(-n + 12) a .item-title {
+  position: relative;
+}
 /* For each chapter, display the subtitle (score name) by default and the title (artist name) only on hover */
 .quire-menu .menu-list ol > li:nth-child(n+2):nth-child(-n+12) a .item-title__title-text {
-  display: none;
+  opacity: 0;
+}
+.quire-menu .menu-list ol > li:nth-child(n + 2):nth-child(-n + 12) a .item-title__subtitle-text {
+  display: block;
+  padding-left: 1.55rem;
+}
+.quire-menu .menu-list ol > li:nth-child(n + 2):nth-child(-n + 12) a .item-title__label-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.quire-menu .menu-list ol > li:nth-child(n + 2):nth-child(-n + 12) a .item-title__title-text {
+  position: absolute;
+  top: 0;
+  left: 1.55rem;
 }
 .quire-menu .menu-list ol > li:nth-child(n+2):nth-child(-n+12) a:hover .item-title__title-text {
-  display: inline;
+  opacity: 1;
 }
 .quire-menu .menu-list ol > li:nth-child(n+2):nth-child(-n+12) a:hover .item-title__subtitle-text {
-  display: none;
+  opacity: 0;
 }
 /* Add space after the intro and after the last chapter */
 .quire-menu .menu-list ol > li:nth-child(1),
@@ -453,6 +471,29 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .quire-menu .menu-list ol > li:nth-child(12) {
   margin-left: calc(1 * var(--toc-indent-unit));
 }
+
+/* Animate menu, triggered in JS with triggerMenuAnimation() */
+.quire-menu.show-animation .menu-list ol > li:nth-child(2)  { opacity: 0; animation: appear 0s linear calc(0.1s * 1)  1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(3)  { opacity: 0; animation: appear 0s linear calc(0.1s * 2)  1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(4)  { opacity: 0; animation: appear 0s linear calc(0.1s * 3)  1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(5)  { opacity: 0; animation: appear 0s linear calc(0.1s * 4)  1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(6)  { opacity: 0; animation: appear 0s linear calc(0.1s * 5)  1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(7)  { opacity: 0; animation: appear 0s linear calc(0.1s * 6)  1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(8)  { opacity: 0; animation: appear 0s linear calc(0.1s * 7)  1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(9)  { opacity: 0; animation: appear 0s linear calc(0.1s * 8)  1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(10) { opacity: 0; animation: appear 0s linear calc(0.1s * 9)  1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(11) { opacity: 0; animation: appear 0s linear calc(0.1s * 10) 1 forwards running; }
+.quire-menu.show-animation .menu-list ol > li:nth-child(12) { opacity: 0; animation: appear 0s linear calc(0.1s * 11) 1 forwards running; }
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 /* Add space between the Edited By and Published By list */
 .quire-menu .scores-menu__editors {
   margin-bottom: 1rem;

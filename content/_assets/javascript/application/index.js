@@ -52,6 +52,7 @@ window['toggleMenu'] = () => {
   } else {
     catalogEntryImage && catalogEntryImage.classList.add('menu_open')
     menu.setAttribute('aria-expanded', 'true')
+    triggerMenuAnimation()
   }
 }
 
@@ -480,12 +481,18 @@ window['toggleEntryContent'] = () => {
   }
 }
 
-
 function hideSplash() {
   let splash = document.querySelector('.splash-overlay');
   if (splash) {
     splash.setAttribute('hidden', 'true')
+    triggerMenuAnimation()
   }
+}
+
+function triggerMenuAnimation() {
+  let menu = document.getElementById('site-menu')
+  menu.offsetHeight // Force reflow
+  menu.classList.add('show-animation')
 }
 
 function randomImage() {
@@ -605,4 +612,11 @@ window.addEventListener('load', () => {
 
 window.addEventListener('hashchange', () => {
   checkCardHash()
+})
+
+window.addEventListener('scroll', () => {
+  let nav = document.getElementById('nav');
+  if (nav.getBoundingClientRect().top < window.innerHeight) {
+    triggerMenuAnimation()
+  }
 })

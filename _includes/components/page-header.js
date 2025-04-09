@@ -1,6 +1,6 @@
 //
 // CUSTOMIZED FILE
-// Remove download link icon, added elements for PDF running feet
+// Remove download link icon, add chapter page link and elements for PDF running feet
 //
 const { html } = require('~lib/common-tags')
 const path = require('path')
@@ -107,6 +107,17 @@ module.exports = function(eleventyConfig) {
       `
     }
 
+    let chapterPath = ''
+    if (label) {
+      chapterPath = (label.length == 1)
+      ? html`/0${label}/`
+      : html`/${label}/`
+    }
+
+    const chapterLink = pagePDFOutput
+      ? html`<a class="scores-chapter-link" href="${chapterPath}">View chapter objects</a>`
+      : ''
+
     return html`
       <section class="${classes}">
         <div class="hero-body">
@@ -115,7 +126,10 @@ module.exports = function(eleventyConfig) {
             ${pageTitle({ title, subtitle })}
           </h1>
           ${contributorsElement}
-          ${downloadLink}
+          <div class="quire-page__header__commentary-links">
+            ${chapterLink}
+            ${downloadLink}
+          </div>
           <span class="pdf-footers__verso" data-outputs-exclude="epub,html">${markdownify(shortTitle || title)}</span>
           <span class="pdf-footers__recto" data-outputs-exclude="epub,html">${pdfRecto}</span>
           <span class="pdf-footers__url" data-outputs-exclude="epub,html">${pdfURL}</span>

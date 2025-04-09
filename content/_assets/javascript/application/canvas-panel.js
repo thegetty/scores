@@ -129,7 +129,19 @@ const goToFigureState = function ({
   const newThumbnailSelector = `a[data-figure-id="${figureId}"`
   const newThumbnail = document.querySelector(newThumbnailSelector)
   newThumbnail.classList.add('current-thumbnail');
-  newThumbnail.scrollIntoView({ block: "nearest", inline: "start" });
+  // Scroll to newThumbnail if it's not in view
+  function isElementInViewport(el) {
+    const rect = el.getBoundingClientRect();
+    return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+  }
+  if (!isElementInViewport(newThumbnail)) {
+      newThumbnail.scrollIntoView({ block: "nearest", inline: "start" });
+  }
 
   /** 
    * Build params

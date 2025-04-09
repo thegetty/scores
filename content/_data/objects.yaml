@@ -1,12 +1,14 @@
 object_filters:
-  - maker
-  - people
+  - field: people
+    label: "Person"
   - field: year_filter
     label: "Year"
   - type
 
 object_card:
   - thumbnail
+  - title
+  - maker
   - date
   
 object_display_order:
@@ -30,8 +32,8 @@ object_list:
     year_filter: [ "1947" ]
     medium: ""
     location: ""
-    extended_caption: ""
-    credit: "*Off Minor* by Thelonious Monk © 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured All Rights Reserved, Reprinted by permission of Hal Leonard LLC (c); Courtesy of Jonathan K. Riggs."
+    extended_caption: "*Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; &#40;c&#41; Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
+    credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
     featured: true
     type: [ score ]
     figure: [ id: "fig-001" ]
@@ -299,7 +301,7 @@ object_list:
 -
     id: "017"
     old_id: "1.06"
-    maker: [ "Morton Feldman, (American, 1926–87)", "Steffen Schleiermacher, (German, b. 1960)" ]
+    maker: [ "Morton Feldman (American, 1926–87)", "Steffen Schleiermacher (German, b. 1960)" ]
     people: [ "Feldman, Morton", "Schleiermacher, Steffen" ]
     more_people: ""
     title: "Recording of Steffen Schleiermacher performing *Intersection 3*"
@@ -316,7 +318,7 @@ object_list:
 -
     id: "018"
     old_id: "1.07"
-    maker: [ "Morton Feldman, (American, 1926–87)", "Frank Denyer, (English, b. 1943)" ]
+    maker: [ "Morton Feldman (American, 1926–87)", "Frank Denyer (English, b. 1943)" ]
     people: [ "Feldman, Morton", "Denyer, Frank" ]
     more_people: ""
     title: "Recording of Frank Denyer performing *Intersection 3*"
@@ -884,7 +886,7 @@ object_list:
     people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (32nd-note Realization)"
-    date: "n.d."
+    date: ""
     date_sort: "1953-01-01"
     year_filter: [ "1953" ]
     medium: ""
@@ -901,7 +903,7 @@ object_list:
     people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Alternative 32nd-note Realization)"
-    date: "n.d."
+    date: ""
     date_sort: "1953-01-01"
     year_filter: [ "1953" ]
     medium: ""
@@ -4086,7 +4088,7 @@ object_list:
     maker: [ "Manfred Leve (German, 1936–2012)" ]
     people: [ "Leve, Manfred", "Patterson, Benjamin", "Tudor, David", "Brecht, George", "Helms, Khris", "Kagel, Ursula", "Helms, Hans G." ]
     more_people: ""
-    title: "Benjamin Patterson, Hans G. Helms, Ursula Kagel, Khris Helms, David Tudor, and others performing George Brecht’s [*Card-Piece for Voice*](/object-index/349/#card-096) (1959) as part of the “Contre-Festival,” organized during the IGNM-Weltmusikfestes, Atelier Mary Bauermeister, Cologne, Germany"
+    title: "Benjamin Patterson, Hans G. Helms, Ursula Kagel, Khris Helms, David Tudor, and others performing George Brecht’s *Card-Piece for Voice* (1959) as part of the “Contre-Festival,” organized during the IGNM-Weltmusikfestes, Atelier Mary Bauermeister, Cologne, Germany"
     date: "15 June 1960"
     date_sort: "1960-06-15"
     year_filter: [ "1960" ]
@@ -4319,7 +4321,7 @@ object_list:
     id: "250"
     old_id: "5.02l"
     maker: [ "Simone Forti (American, b. 1935)" ]
-    people: [ "Forti, Simone" ]
+    people: [ "Forti, Simone", "Metcalf, Megan" ]
     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
     title: "*Onion Walk* (1961) performed by Simone Forti and friends as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
     date: "4 December 2021"
@@ -4353,7 +4355,7 @@ object_list:
       
       Performed by Julia Antinozzi, Juli Brandano, Wendell Gray II, Leanna Grennan, Amelia Heintzelman, Jordan Demetrius Lloyd, Jade Manns, Leah Samuels, and Ella Wasserman-Smith; sound design by Joseph Allan Johnson; and choreographed and directed by Phoebe Berglund.
       
-      The score for [*Beach Crawl*](/object-index/238/?region=500,200,1550,1950#fig-238-m) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
+      The score for [*Beach Crawl*](/object-index/238/?region=500,200,1550,1950#fig-238-u) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
     credit: ""
     featured: 
     type: [ video ]
@@ -4817,7 +4819,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-276-a", id: "fig-276-b", id: "fig-276-c" ]
-    related_objects: [ id: "252", id: "238", id: "252" ]
+    related_objects: [ id: "252", id: "238" ]
 -
     id: "277"
     old_id: "5.13a"
@@ -6054,8 +6056,11 @@ object_list:
       After George Brecht’s intensive period of composing event scores had ceased, he wrote this piece, titled *Event Score*, in August of 1965. As a reflection on the meaning and function of the intermedial format he had developed and honed, it considers the event score’s relationship to conscious and unconscious perception. Around the same time, one finds the following reflection in his notebook: 
       
       > These notices are thoughts that came from zero. Very few of the hundred or so that were written down came directly from a specific experience. Though they are simply what they are (appropriately poems for some), they are connected in my mind with musical scores; they have so far seemed to me scores for events. (Why only listen?) They are thoughts that can float around in your head, and then sometime perhaps 
+      >
       > There is a woman with a yellow hat sitting on a white chair.
+      >
       > There is steam on top of my ice water.
+      >
       > A phone rings rooms away.
         
       (George Brecht, Notebook no. 13, 1964–Summer 1965, Gilbert and Lila Silverman Fluxus Collection Archives, Museum of Modern Art, New York).
@@ -6290,7 +6295,7 @@ object_list:
     extended_caption: "New performances of George Brecht’s [*Drip Music (Drip Event)*](/object-index/346/) (1959–62) are appearing all the time, adding to the historical record of how the piece is understood over time. Clicking this link will take you to a Google video search of the terms “George Brecht” and “Drip Music” where you can observe the latest turns in how the score is interpreted."
     credit: ""
     featured: 
-    type: [ "video", "digital feature" ]
+    type: [ video, digital feature ]
     figure: [ id: "fig-357" ]
     related_objects: [ id: "354", id: "353", id: "355", id: "359", id: "362", id: "345", id: "346" ]
 -
@@ -7761,7 +7766,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-436-a", id: "fig-436-b", id: "fig-436-c", id: "fig-436-d" ]
-    related_objects: [ id: "438", id: "447", id: "438" ]
+    related_objects: [ id: "438", id: "447" ]
 -
     id: "437"
     old_id: "8.03"
@@ -7833,7 +7838,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-440" ]
-    related_objects: [ id: "439", id: "441", id: "445", id: "442", id: "444", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473", id: "450" ]
+    related_objects: [ id: "439", id: "441", id: "445", id: "442", id: "444", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
 -
     id: "441"
     old_id: "8.07"
@@ -7962,7 +7967,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-447-a", id: "fig-447-b", id: "fig-447-c", id: "fig-447-d", id: "fig-447-e", id: "fig-447-f" ]
-    related_objects: [ id: "438", id: "438", id: "436" ]
+    related_objects: [ id: "438", id: "436" ]
 -
     id: "448"
     old_id: "8.14"
@@ -8119,7 +8124,7 @@ object_list:
     year_filter: [ "1968" ]
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
-    extended_caption: "This program for a complete, evening-length presentation of [*The Mind Is a Muscle*](/object-index/456/) (1966–68) includes an important statement from Yvonne Rainer that addresses the seemingly disconnected relationship between her uninflected dance aesthetic and contemporary politics, in particular the traumatic spectacle of the Vietnam War. “This statement is not an apology,” she writes. “It is a reflection of a state of mind that reacts with horror and disbelief upon seeing a Vietnamese shot dead on TV—not solely at the sight of death, however, but at the fact that the TV can be shut off afterwards as after a bad Western. My body remains the enduring reality.” In 1970, Rainer would reimagine her [*Trio A* as a protest dance](/object-index/445/) in the context of Faith Ringgold, Jean Toche and Jon Hendricks’s *The People's Flag Show*."
+    extended_caption: "This program for a complete, evening-length presentation of *The Mind Is a Muscle* (1966–68) includes an important statement from Yvonne Rainer that addresses the seemingly disconnected relationship between her uninflected dance aesthetic and contemporary politics, in particular the traumatic spectacle of the Vietnam War. “This statement is not an apology,” she writes. “It is a reflection of a state of mind that reacts with horror and disbelief upon seeing a Vietnamese shot dead on TV—not solely at the sight of death, however, but at the fact that the TV can be shut off afterwards as after a bad Western. My body remains the enduring reality.” In 1970, Rainer would reimagine her [*Trio A* as a protest dance](/object-index/445/) in the context of Faith Ringgold, Jean Toche and Jon Hendricks’s *The People's Flag Show*."
     credit: "Used with Permission. © Yvonne Rainer."
     featured: 
     type: [ programs and flyers ]
@@ -8391,7 +8396,7 @@ object_list:
     extended_caption: "This one-page excerpt from the score for *Parts of Some Sextets* (1965) takes the form of a table, an unusual format for Yvonne Rainer. Choreographed for ten performers interacting with twelve mattresses, the participants included Rainer, Lucinda Childs, Judith Dunn, Sally Gross, Deborah Hay, Tony Holder, Robert Morris, Steve Paxton, Robert Rauschenberg, and Joseph Schlichter. The vertical axis of the chart lists thirty-one movement phrases, while the horizontal axis represents a sequence of thirty-second intervals. The letters in the body of the chart stand for the individual performers who are to execute the movements at a given time. During rehearsal, the score was posted to the wall for easy reference. The clear layout of information belies the difficulty of memorizing what was in practice a disconnected, nonintuitive sequence of gestures. Rainer has written, “Since there was no ‘organic’ or kinesthetic continuity, some of us found it extraordinarily difficult to learn and ended up memorizing it by rote, like multiplication tables or dates in history” (Rainer, “Some Retrospective Notes on a Dance for 10 People and 12 Mattresses Called *Parts of Some Sextets*, Performed at the Wadsworth Atheneum, Hartford, Connecticut, and Judson Memorial Church, New York, in March 1965,” in Mariellen R. Sandford, ed., *Happenings and Other Acts* [New York: Routledge, 1995], 166)."
     credit: "Used with Permission. © Yvonne Rainer."
     featured: true
-    type: [ score ]
+    type: [ archival materials ]
     figure: [ id: "fig-471-a" ]
     related_objects: [ id: "454", id: "453" ]
 -
@@ -8848,7 +8853,7 @@ object_list:
     id: "497"
     old_id: "9.23"
     maker: 
-    people: [ "Knowles, Alison", "Lockwood, Anna (Anea)", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
+    people: [ "Knowles, Alison", "Lockwood, Anna (Annea)", "Shiomi, Mieko (Chieko)", "Forti, Simone" ]
     more_people: [ "Oliveros, Pauline" ]
     title: "Announcement for *Womens Work*, “a magazine of performance scores by contemporary women artists”"
     date: "ca. 1975"
@@ -10205,7 +10210,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-573-a", id: "fig-573-b", id: "fig-573-c", id: "fig-573-d", id: "fig-573-e", id: "fig-573-f", id: "fig-573-g", id: "fig-573-h" ]
-    related_objects: [ id: "615", id: "629", id: "626", id: "630", id: "613", id: "614", id: "568", id: "574", id: "572", id: "606", id: "598", id: "574", id: "600", id: "601" ]
+    related_objects: [ id: "615", id: "629", id: "626", id: "630", id: "613", id: "614", id: "568", id: "574", id: "572", id: "606", id: "598", id: "600", id: "601" ]
 -
     id: "574"
     old_id: "11.17"
@@ -10329,7 +10334,7 @@ object_list:
     year_filter: [ "1957", "1958" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 4, folder 13"
-    extended_caption: "Kaprow composed this score while he was attending [John Cage’s experimental composition course](/object-index/557/) at the New School for Social Research. By taxonomizing and then scoring behavior that is ordinarily involuntary (coughing, clearing one’s throat), Kaprow explores Cage’s ideal of non-intentionality in a comic mode. Cage himself could sometimes be a subtly comic performer, making use of puns and deadpan in some of his performance lectures."
+    extended_caption: "Kaprow composed this score while he was attending [John Cage’s experimental composition course](/object-index/556/) at the New School for Social Research. By taxonomizing and then scoring behavior that is ordinarily involuntary (coughing, clearing one’s throat), Kaprow explores Cage’s ideal of non-intentionality in a comic mode. Cage himself could sometimes be a subtly comic performer, making use of puns and deadpan in some of his performance lectures."
     credit: ""
     featured: 
     type: [ score ]

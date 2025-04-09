@@ -52,6 +52,7 @@ window['toggleMenu'] = () => {
   } else {
     catalogEntryImage && catalogEntryImage.classList.add('menu_open')
     menu.setAttribute('aria-expanded', 'true')
+    triggerMenuAnimation()
   }
 }
 
@@ -331,28 +332,37 @@ function toggleCite() {
  * @description Adds a button to the object controls to toggle the image size
  */
 function objectSize() {
-  const objectControls = document.querySelector('.object-filters__controls')
+  const objectControls = document.querySelector('.object-filters__controls');
   if (objectControls) {
-    const sizeButton = document.createElement('button')
-  sizeButton.setAttribute('id', 'object-size-button')
-  sizeButton.classList.add('object-filters__button')
-  sizeButton.innerHTML = 'View: Large'
-  sizeButton.addEventListener('click', () => {
-    toggleObjectSize();
-  })
-  objectControls.append(sizeButton)
-  }  
+    const controlsGroup = document.createElement('div');
+    controlsGroup.classList.add('object-filters__controls-group');
+    controlsGroup.classList.add('view-controls');
+    const label = document.createElement('label');
+    label.setAttribute('for', 'object-size-select');
+    label.innerHTML = 'View:';
+    const sizeSelect = document.createElement('select');
+    sizeSelect.setAttribute('id', 'object-size-select');
+    sizeSelect.classList.add('object-filters__select');
+    const options = ['Small', 'Large', 'Table'];
+    options.forEach(option => {
+      const opt = document.createElement('option');
+      opt.value = option.toLowerCase();
+      opt.innerHTML = option;
+      sizeSelect.appendChild(opt);
+    });
+    sizeSelect.addEventListener('change', () => {
+      changeObjectSize(sizeSelect.value);
+    });
+    controlsGroup.appendChild(label);
+    controlsGroup.appendChild(sizeSelect);
+    objectControls.appendChild(controlsGroup);
+  }
 }
-window['toggleObjectSize'] = () => {
-  const objectCards = document.querySelector('.object-cards')
+window['changeObjectSize'] = (size) => {
+  const objectCards = document.querySelector('.object-cards');
   const objectCardsClasses = objectCards.classList;
-  objectCardsClasses.toggle('large')
-
-  const sizeButton = document.getElementById('object-size-button')
-  console.log("sizeButton.innerHTML :: " + sizeButton.innerHTML)
-  sizeButton.innerHTML == 'View: Large' 
-    ? sizeButton.innerHTML = 'View: Small'
-    : sizeButton.innerHTML = 'View: Large'
+  objectCardsClasses.remove('small', 'large', 'table');
+  objectCardsClasses.add(size);
 }
 
 // Toggle score object page between side-by-side and widecreen view
@@ -471,11 +481,19 @@ window['toggleEntryContent'] = () => {
   }
 }
 
-
 function hideSplash() {
   let splash = document.querySelector('.splash-overlay');
   if (splash) {
     splash.setAttribute('hidden', 'true')
+    triggerMenuAnimation()
+  }
+}
+
+function triggerMenuAnimation() {
+  let menu = document.getElementById('site-menu')
+  if (menu) {
+    menu.offsetHeight // Force reflow
+    menu.classList.add('show-animation')
   }
 }
 
@@ -596,4 +614,11 @@ window.addEventListener('load', () => {
 
 window.addEventListener('hashchange', () => {
   checkCardHash()
+})
+
+window.addEventListener('scroll', () => {
+  let nav = document.getElementById('nav');
+  if (nav.getBoundingClientRect().top < window.innerHeight) {
+    triggerMenuAnimation()
+  }
 })

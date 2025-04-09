@@ -8,7 +8,7 @@ figure_list:
     media_id: 
     link: /object-index/001/
     label: "Fig. 0.1a–d"
-    caption: "*Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; &#40;c&#41; Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
+    caption: "Four “Indeterminate” Notations. *Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; &#40;c&#41; Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
     credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
 # -
 #     id: "fig-0-1a"
@@ -1329,7 +1329,7 @@ figure_list:
     src: 
     note: 
     zoom: 
-    poster: figures/Copy_of_gri_980063_f46_bw.jpg
+    poster: figures/posters/Copy_of_gri_980063_f46_bw.jpg
     media_type: vimeo
     media_id: 935592356/d14609b942
     link: /object-index/574/
@@ -1343,7 +1343,7 @@ figure_list:
     src: 
     note: 
     zoom: 
-    poster: figures/fig-570-poster-image_bw.jpg
+    poster: figures/posters/fig-570-poster-image_bw.jpg
     media_type: vimeo
     media_id: 998453851/6c7d5b4a7d
     link: /object-index/570/
@@ -1357,7 +1357,7 @@ figure_list:
     src: 
     note: 
     zoom: 
-    poster: figures/1_Copy_of_11_3Playback_2_Kaprow_Comfort_Zones_1_bw.jpg
+    poster: figures/posters/1_Copy_of_11_3Playback_2_Kaprow_Comfort_Zones_1_bw.jpg
     media_type: vimeo
     media_id: 935589832/3271b8e7cf
     link: /object-index/575/
@@ -1371,7 +1371,7 @@ figure_list:
     src: 
     note: 
     zoom: 
-    poster: figures/Copy_of_11_3Playback_3_Kaprow_7KindsofSympathy_bw.jpg
+    poster: figures/posters/Copy_of_11_3Playback_3_Kaprow_7KindsofSympathy_bw.jpg
     media_type: vimeo
     media_id: 935626898/ab7a197d03
     link: /object-index/576/
@@ -1382,42 +1382,6 @@ figure_list:
 -
     id: "fig-001"
     src: figures/fig-0-1.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
--
-    id: "fig-001-a"
-    src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
--
-    id: "fig-001-b"
-    src: figures/Purcell_diatonic_chromaticism.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
--
-    id: "fig-001-c"
-    src: figures/Thelonious-Monk-Jazz-Masters.jpg
-    zoom: true
-    poster: 
-    media_type: 
-    media_id: 
-    label: ""
-    alt: ""
--
-    id: "fig-001-d"
-    src: figures/Come_Thou_Fountain_Numbers.jpg
     zoom: true
     poster: 
     media_type: 
@@ -1645,7 +1609,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track015_th.jpg
+    poster: figures/posters/track015_th.jpg
     media_type: vimeo
     media_id: 1069414873/fe86788e40
     label: ""
@@ -1655,7 +1619,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track016_th.jpg
+    poster: figures/posters/track016_th.jpg
     media_type: vimeo
     media_id: 1069414952/6b4072469a
     label: ""
@@ -1665,7 +1629,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track017_th.jpg
+    poster: figures/posters/track017_th.jpg
     media_type: vimeo
     media_id: 1069414940/8a5941e322
     label: ""
@@ -1675,7 +1639,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track018_th.jpg
+    poster: figures/posters/track018_th.jpg
     media_type: vimeo
     media_id: 1069414926/ad53e27d29
     label: ""
@@ -1684,7 +1648,7 @@ figure_list:
     id: "fig-019"
     src: 
     zoom: 
-    poster: figures/feldman--intersection-3.jpg
+    poster: figures/posters/feldman--intersection-3.jpg
     media_type: vimeo
     media_id: 1017139771/6dffe81ef4
     label: ""
@@ -1693,7 +1657,7 @@ figure_list:
     id: "fig-020"
     src: embeds/samplers/feldman.html
     zoom: 
-    poster: figures/samplers/Feldman_Poster.jpg
+    poster: figures/posters/Feldman_Poster.jpg
     media_type: table
     media_id: 
     label: ""
@@ -5545,7 +5509,7 @@ figure_list:
     id: "fig-068"
     src: 
     zoom: 
-    poster: figures/cage--j--1958.jpg
+    poster: figures/posters/cage--j--1958.jpg
     media_type: vimeo
     media_id: 1016762190/eeb352929c
     label: ""
@@ -5554,7 +5518,7 @@ figure_list:
     id: "fig-069"
     src: 
     zoom: 
-    poster: figures/cage--k.jpg
+    poster: figures/posters/cage--k.jpg
     media_type: vimeo
     media_id: 1016762452/24aa0554b7
     label: ""
@@ -5563,7 +5527,7 @@ figure_list:
     id: "fig-070"
     src: 
     zoom: 
-    poster: figures/cage--t.jpg
+    poster: figures/posters/cage--t.jpg
     media_type: vimeo
     media_id: 1016762480/2631b82368
     label: ""
@@ -5572,7 +5536,7 @@ figure_list:
     id: "fig-071"
     src: 
     zoom: 
-    poster: figures/cage--ay.jpg
+    poster: figures/posters/cage--ay.jpg
     media_type: vimeo
     media_id: 1016762098/16c60848ec
     label: ""
@@ -5581,7 +5545,7 @@ figure_list:
     id: "fig-072"
     src: 
     zoom: 
-    poster: figures/cage--ce.jpg
+    poster: figures/posters/cage--ce.jpg
     media_type: vimeo
     media_id: 1016762136/3ef9e85886
     label: ""
@@ -5590,7 +5554,7 @@ figure_list:
     id: "fig-073"
     src: 
     zoom: 
-    poster: figures/cage-flipbook.jpg
+    poster: figures/posters/cage-flipbook.jpg
     media_type: vimeo
     media_id: 1030181101/77cec2b0ce
     label: ""
@@ -5600,7 +5564,7 @@ figure_list:
     id: "fig-074"
     src: 
     zoom: 
-    poster: figures/cage--j--1964.jpg
+    poster: figures/posters/cage--j--1964.jpg
     media_type: vimeo
     media_id: 1016762239/15591e8104
     label: ""
@@ -5610,7 +5574,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track075_th.jpg
+    poster: figures/posters/track075_th.jpg
     media_type: vimeo
     media_id: 1069414995/fdee0d9553
     label: ""
@@ -5620,7 +5584,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track076_th.jpg
+    poster: figures/posters/track076_th.jpg
     media_type: vimeo
     media_id: 1069617750/17aec68af3
     alt: ""
@@ -5629,7 +5593,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track077_th.jpg
+    poster: figures/posters/track077_th.jpg
     media_type: vimeo
     media_id: 1069414986/bf4a0870c9
     label: ""
@@ -5639,7 +5603,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track078_th.jpg
+    poster: figures/posters/track078_th.jpg
     media_type: vimeo
     media_id: 1069415089/97235a652c
     label: ""
@@ -5649,7 +5613,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track079_th.jpg
+    poster: figures/posters/track079_th.jpg
     media_type: vimeo
     media_id: 1069415076/e42100c7b2
     label: ""
@@ -5659,7 +5623,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track080_th.jpg
+    poster: figures/posters/track080_th.jpg
     media_type: vimeo
     media_id: 1069415059/3f49e50c62
     label: ""
@@ -5669,7 +5633,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track081_th.jpg
+    poster: figures/posters/track081_th.jpg
     media_type: vimeo
     media_id: 1069415221/04369ff904
     label: ""
@@ -5678,7 +5642,7 @@ figure_list:
     id: "fig-082"
     src: embeds/samplers/bussotti.html
     zoom: 
-    poster: figures/samplers/Bussotti_Poster.jpg
+    poster: figures/posters/Bussotti_Poster.jpg
     media_type: table
     media_id: 
     label: ""
@@ -5829,7 +5793,7 @@ figure_list:
     alt: "White page with black typewritten text in English covering middle section of page; top and bottom blank. Top half of text contains time, date, and location of concert. Center reads “David Tudor and John Cage in a concert of New Music” followed by a long drooping line of typed asterisks. Bottom half of text lists the program of pieces to be performed."
 -
     id: "fig-088-a"
-    src: figures/r2015159_980039_b71_f12_040.jpg
+    src: figures/fig088_980039_b71_f9_a.jpg
     zoom: true
     poster: 
     media_type: 
@@ -5838,7 +5802,7 @@ figure_list:
     alt: "Verso of white page program, with black text in German. Title at top left in large bold font reads “musik derzeit.” Majority of page bisected vertically at center, with composers on left and composition titles on right. Time, date, and location of performance at top of text on the right side of the page."
 -
     id: "fig-088-b"
-    src: figures/r2016244_980039_b71_f9_001.jpg
+    src: figures/fig088_980039_b71_f9_b.jpg
     zoom: true
     poster: 
     media_type: 
@@ -9567,7 +9531,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track160_th.jpg
+    poster: figures/posters/track160_th.jpg
     media_type: vimeo
     media_id: 1069415202/bd0a549d8f
     label: ""
@@ -9577,7 +9541,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track161_th.jpg
+    poster: figures/posters/track161_th.jpg
     media_type: vimeo
     media_id: 1069415187/efa134fa99
     label: ""
@@ -9586,7 +9550,7 @@ figure_list:
     id: "fig-162"
     src: 
     zoom: 
-    poster: figures/bussotti--no-3.jpg
+    poster: figures/posters/bussotti--no-3.jpg
     media_type: vimeo
     media_id: 1016761837/823884e752
     label: ""
@@ -10541,7 +10505,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track203_th.jpg
+    poster: figures/posters/track203_th.jpg
     media_type: vimeo
     media_id: 1069415171/e7c0546115
     label: ""
@@ -10550,7 +10514,7 @@ figure_list:
     id: "fig-204"
     src: 
     zoom: 
-    poster: figures/EEMT_Paper_Piece.jpg
+    poster: figures/posters/EEMT_Paper_Piece.jpg
     media_type: vimeo
     media_id: 935592990/4c95be0333
     label: ""
@@ -10559,7 +10523,7 @@ figure_list:
     id: "fig-205"
     src: 
     zoom: 
-    poster: figures/Ben_Patterson_Paper_Music_excerpt_3_iRYPlKeqk.jpg
+    poster: figures/posters/Ben_Patterson_Paper_Music_excerpt_3_iRYPlKeqk.jpg
     media_type: vimeo
     media_id: 935592303/397d4d4afc
     label: ""
@@ -10568,7 +10532,7 @@ figure_list:
     id: "fig-206"
     src: 
     zoom: 
-    poster: figures/FXM0570_Paper_Piece_by_Ben_Patterson_1964.jpg
+    poster: figures/posters/FXM0570_Paper_Piece_by_Ben_Patterson_1964.jpg
     media_type: vimeo
     media_id: 935593395/3d6ca6064c
     label: ""
@@ -10577,7 +10541,7 @@ figure_list:
     id: "fig-207"
     src: 
     zoom: 
-    poster: figures/fxm0136_fluxus_intérieure_16mm_480p.jpg
+    poster: figures/posters/fxm0136_fluxus_intérieure_16mm_480p.jpg
     media_type: vimeo
     media_id: 935593115/bedd2eb442
     label: ""
@@ -10586,7 +10550,7 @@ figure_list:
     id: "fig-208"
     src: 
     zoom: 
-    poster: figures/Whats_Happening_Fluxus_05-02-2013_A_Very_Lawful_Dance_for_Ennis_offizielle_version.jpg
+    poster: figures/posters/Whats_Happening_Fluxus_05-02-2013_A_Very_Lawful_Dance_for_Ennis_offizielle_version.jpg
     media_type: vimeo
     media_id: 935590599/0b02d23d08
     label: ""
@@ -10595,7 +10559,7 @@ figure_list:
     id: "fig-209"
     src: embeds/samplers/patterson.html
     zoom: 
-    poster: figures/samplers/Patterson_Poster.jpg
+    poster: figures/posters/Patterson_Poster.jpg
     media_type: table
     media_id: 
     label: ""
@@ -12198,7 +12162,7 @@ figure_list:
     id: "fig-239"
     src: 
     zoom: 
-    poster: figures/Micro1_TashiWada.jpg
+    poster: figures/posters/Micro1_TashiWada.jpg
     media_type: vimeo
     media_id: 1021314201/1d7c45151e
     aspect_ratio: widescreen
@@ -12208,7 +12172,7 @@ figure_list:
     id: "fig-240"
     src: 
     zoom: 
-    poster: figures/HandbookInMotion_SimoneForti.jpg
+    poster: figures/posters/HandbookInMotion_SimoneForti.jpg
     media_type: vimeo
     media_id: 1021315589/9486eb6b95
     aspect_ratio: widescreen
@@ -12218,7 +12182,7 @@ figure_list:
     id: "fig-241"
     src: 
     zoom: 
-    poster: figures/EarPiece_EzraBuchla.jpg
+    poster: figures/posters/EarPiece_EzraBuchla.jpg
     media_type: vimeo
     media_id: 1021315325/903f2dc5c2
     aspect_ratio: widescreen
@@ -12228,7 +12192,7 @@ figure_list:
     id: "fig-242"
     src: 
     zoom: 
-    poster: figures/45ForASpeaker_JuliaHolter.jpg
+    poster: figures/posters/45ForASpeaker_JuliaHolter.jpg
     media_type: vimeo
     media_id: 1021316994/567245fdee
     aspect_ratio: widescreen
@@ -12238,7 +12202,7 @@ figure_list:
     id: "fig-243"
     src: 
     zoom: 
-    poster: figures/Asymmetry222_PhoebeBerglund_AndrosZinsBrowne.jpg
+    poster: figures/posters/Asymmetry222_PhoebeBerglund_AndrosZinsBrowne.jpg
     media_type: vimeo
     media_id: 1021441768/0f85d0f7d0
     aspect_ratio: widescreen
@@ -12248,7 +12212,7 @@ figure_list:
     id: "fig-244"
     src: 
     zoom: 
-    poster: figures/Micro1_EzraBuchla.jpg
+    poster: figures/posters/Micro1_EzraBuchla.jpg
     media_type: vimeo
     media_id: 1021443538/1b93c463be
     aspect_ratio: widescreen
@@ -12267,7 +12231,7 @@ figure_list:
     id: "fig-247"
     src: 
     zoom: 
-    poster: figures/December1952_CoreyFogel_LuisaMuhr.jpg
+    poster: figures/posters/December1952_CoreyFogel_LuisaMuhr.jpg
     media_type: vimeo
     media_id: 1021446073/001599b90c
     aspect_ratio: widescreen
@@ -12277,7 +12241,7 @@ figure_list:
     id: "fig-248"
     src: 
     zoom: 
-    poster: figures/December1952_CeliaHollander.jpg
+    poster: figures/posters/December1952_CeliaHollander.jpg
     media_type: vimeo
     media_id: 1021446744/40e6814c13
     aspect_ratio: widescreen
@@ -12287,7 +12251,7 @@ figure_list:
     id: "fig-249"
     src: 
     zoom: 
-    poster: figures/MotorVehicleSundownEvent_Various.jpg
+    poster: figures/posters/MotorVehicleSundownEvent_Various.jpg
     media_type: vimeo
     media_id: 1021318500/7e7a332c1d
     aspect_ratio: widescreen
@@ -12297,7 +12261,7 @@ figure_list:
     id: "fig-250"
     src: 
     zoom: 
-    poster: figures/OnionWalk_SimoneForti.jpg
+    poster: figures/posters/OnionWalk_SimoneForti.jpg
     media_type: vimeo
     media_id: 1021317455/0dbe5890ab
     aspect_ratio: widescreen
@@ -12307,7 +12271,7 @@ figure_list:
     id: "fig-251"
     src: 
     zoom: 
-    poster: figures/BeachCrawl_Berglund.jpg
+    poster: figures/posters/BeachCrawl_Berglund.jpg
     media_type: vimeo
     media_id: 1021755307/eae2b1918a
     aspect_ratio: widescreen
@@ -12318,26 +12282,27 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track252_th.jpg
+    poster: figures/posters/track252_th.jpg
     media_type: vimeo
     media_id: 1069614194/e47cce01c6
     label: ""
     alt: "Audio recording of a man and a woman reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. "
--
-    id: "fig-253"
-    src: 
-    zoom: 
-    audio: true
-    poster: audio-poster.jpg
-    media_type: vimeo
-    media_id: 1111111/000000
-    label: ""
-    alt: "Audio recording of male and female voices reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. Two original voices have been duplicated and layered electronically so that it sounds as if eight performers are speaking simultaneously, making it difficult to focus attention on any one voice for long. At times the voices are lowered in pitch. The final moments of the recording become quiet and feature only the original, single male and female voices, heard clearly."
+# REMOVED -- Dupe of 252
+# -
+#     id: "fig-253"
+#     src: 
+#     zoom: 
+#     audio: true
+#     poster: audio-poster.jpg
+#     media_type: vimeo
+#     media_id: 1111111/000000
+#     label: ""
+#     alt: "Audio recording of male and female voices reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. Two original voices have been duplicated and layered electronically so that it sounds as if eight performers are speaking simultaneously, making it difficult to focus attention on any one voice for long. At times the voices are lowered in pitch. The final moments of the recording become quiet and feature only the original, single male and female voices, heard clearly."
 -
     id: "fig-254"
     src: 
     zoom: 
-    poster: figures/fig-254-poster-image.jpg
+    poster: figures/posters/fig-254-poster-image.jpg
     media_type: vimeo
     media_id: 998877747/d951408282
     aspect_ratio: standard
@@ -13499,13 +13464,14 @@ figure_list:
     id: "fig-301-c"
     src: 
     zoom: true
-    poster: figures/sequences/301/000.jpg
+    poster: figures/posters/sequences--301-001.jpg
     media_type: 
     media_id: 
     label: "Rotating"
     alt: "White page with black handwritten text in English. “for David Tudor Dec. 1962” at center and “Earl Brown” signature at bottom right."
     sequences:
       - id: "figures/sequences/301/"
+        start: 001.jpg
         behavior:
           - continuous
           - sequence
@@ -14008,7 +13974,7 @@ figure_list:
 -
     id: "fig-309"
     src: figures/r2016696_980039_b10_f8_001.jpg
-    # zoom: true
+    zoom: true
     poster: 
     media_type: 
     media_id: 
@@ -14900,7 +14866,7 @@ figure_list:
     id: "fig-348"
     src: 
     zoom: true
-    poster: figures/sequences/348/WaterYam_076.jpg
+    poster: figures/posters/sequences--348-WaterYam_076.jpg
     media_type: 
     media_id: 
     label: ""
@@ -14927,7 +14893,7 @@ figure_list:
     id: "fig-350"
     src: 
     zoom: 
-    poster: figures/water-yam-unboxing.jpg
+    poster: figures/posters/water-yam-unboxing.jpg
     media_type: vimeo
     media_id: 1021448270/fa79ee3573
     aspect_ratio: widescreen
@@ -14938,7 +14904,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track351_th.jpg
+    poster: figures/posters/track351_th.jpg
     media_type: vimeo
     media_id: 1069613530/a27c108bc6
     label: ""
@@ -14956,7 +14922,7 @@ figure_list:
     id: "fig-353"
     src: 
     zoom: 
-    poster: figures/HigginsPerformance1979.jpg
+    poster: figures/posters/HigginsPerformance1979.jpg
     media_type: vimeo
     media_id: 935594102/8181fae873
     label: ""
@@ -14965,7 +14931,7 @@ figure_list:
     id: "fig-354"
     src: 
     zoom: 
-    poster: figures/Drip-Music-performed-by-Perry-Garvin-for-FLUXCONCERT-20090220-21.jpg
+    poster: figures/posters/Drip-Music-performed-by-Perry-Garvin-for-FLUXCONCERT-20090220-21.jpg
     media_type: vimeo
     media_id: 935590428/9f74c04617
     label: ""
@@ -14974,7 +14940,7 @@ figure_list:
     id: "fig-355"
     src: 
     zoom: 
-    poster: figures/GeorgeBrechtDripMusic-by-MidoriKubota-2015nov2.jpg
+    poster: figures/posters/GeorgeBrechtDripMusic-by-MidoriKubota-2015nov2.jpg
     media_type: vimeo
     media_id: 935593426/833d0ed2dc
     label: ""
@@ -14983,7 +14949,7 @@ figure_list:
     id: "fig-356"
     src: 
     zoom: 
-    poster: figures/Hessenschau_Fluxus_Festival_in_Wiesbaden_11-09-1962.jpg
+    poster: figures/posters/Hessenschau_Fluxus_Festival_in_Wiesbaden_11-09-1962.jpg
     media_type: vimeo
     media_id: 935593675/a7b919fa6f
     label: ""
@@ -14992,7 +14958,7 @@ figure_list:
     id: "fig-357"
     src: embeds/google-search-brecht.html
     zoom: 
-    poster: figures/google-search-brecht.jpg
+    poster: figures/posters/google-search-brecht.jpg
     media_type: table
     media_id: 
     label: ""
@@ -15345,7 +15311,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track382_th.jpg
+    poster: figures/posters/track382_th.jpg
     media_type: vimeo
     media_id: 1069616202/83ab80dde4
     label: ""
@@ -15678,7 +15644,7 @@ figure_list:
     id: "fig-404"
     src: embeds/map-maclow.html
     zoom:
-    poster: figures/maclow-map--full.jpg
+    poster: figures/posters/maclow-map--full.jpg
     media_type: table
     media_id: 
     label: ""
@@ -15688,7 +15654,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track405_th.jpg
+    poster: figures/posters/track405_th.jpg
     media_type: vimeo
     media_id: 1069617412/b082fff266
     label: ""
@@ -16572,7 +16538,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track437_th.jpg
+    poster: figures/posters/track437_th.jpg
     media_type: vimeo
     media_id: 1069614352/84c534c2e9
     label: ""
@@ -16581,9 +16547,9 @@ figure_list:
     id: "fig-438"
     src: 
     zoom: 
-    poster: figures/fig-438-poster-image.jpg
+    poster: figures/posters/fig-438-poster-image.jpg
     media_type: vimeo
-    media_id: 998878127/
+    media_id: 998878127/6a04dfcf2d
     aspect_ratio: standard
     label: ""
     alt: "Black-and-white video of view from above stage left showing an empty stage and dancers moving across it intermittently."
@@ -16591,7 +16557,7 @@ figure_list:
     id: "fig-439"
     src: 
     zoom: 
-    poster: figures/fig-439-poster-image.jpg
+    poster: figures/posters/fig-439-poster-image.jpg
     media_type: vimeo
     media_id: 998878507/8b362416a2
     aspect_ratio: standard
@@ -16601,7 +16567,7 @@ figure_list:
     id: "fig-440"
     src: 
     zoom: 
-    poster: figures/fig-440-poster-image.jpg
+    poster: figures/posters/fig-440-poster-image.jpg
     media_type: vimeo
     media_id: 998878787/e54ab58238
     aspect_ratio: standard
@@ -16611,7 +16577,7 @@ figure_list:
     id: "fig-441"
     src: 
     zoom: 
-    poster: figures/fig-441-poster-image.jpg
+    poster: figures/posters/fig-441-poster-image.jpg
     media_type: vimeo
     media_id: 998879161/75ea16b724
     aspect_ratio: standard
@@ -16621,7 +16587,7 @@ figure_list:
     id: "fig-442"
     src: 
     zoom: 
-    poster: figures/fig-442-poster-image.jpg
+    poster: figures/posters/fig-442-poster-image.jpg
     media_type: vimeo
     media_id: 998879441/e6bce95f90
     aspect_ratio: standard
@@ -16631,7 +16597,7 @@ figure_list:
     id: "fig-443"
     src: 
     zoom: 
-    poster: figures/fig-443-poster-image.jpg
+    poster: figures/posters/fig-443-poster-image.jpg
     media_type: vimeo
     media_id: 998879677/b728fd1d06
     aspect_ratio: standard
@@ -16641,7 +16607,7 @@ figure_list:
     id: "fig-444"
     src: 
     zoom: 
-    poster: figures/fig-444-poster-image.jpg
+    poster: figures/posters/fig-444-poster-image.jpg
     media_type: vimeo
     media_id: 998879844/11d96c534c
     aspect_ratio: standard
@@ -16651,9 +16617,9 @@ figure_list:
     id: "fig-445"
     src: 
     zoom: 
-    poster: figures/fig-445-poster-image.jpg
+    poster: figures/posters/fig-445-poster-image.jpg
     media_type: vimeo
-    media_id: 998879844/11d96c534c
+    media_id: 998880035/60e9a4194e
     aspect_ratio: standard
     label: ""
     alt: "Black-and-white video of the interior of a large hall crowded with people, and with artworks adorning the walls that variously satirize or manipulate the U.S. flag. People mingle amongst themselves until video cuts to performance of Yvonne Rainer’s dance *Trio A with Flags*. Then, individuals including a man wearing a leather jacket (gallerist Stephen Radich), deliver short remarks into a standing microphone.  "
@@ -18004,7 +17970,7 @@ figure_list:
     id: "fig-481"
     src: 
     zoom: 
-    poster: figures/AlisonKnowles_IdenticalLunchSymphony_1.jpg
+    poster: figures/posters/AlisonKnowles_IdenticalLunchSymphony_1.jpg
     media_type: vimeo
     media_id: 935592148/5048c893f8
     label: ""
@@ -18013,7 +17979,7 @@ figure_list:
     id: "fig-482"
     src: 
     zoom: 
-    poster: figures/AlisonKnowles_IdenticalLunch_1.jpg
+    poster: figures/posters/AlisonKnowles_IdenticalLunch_1.jpg
     media_type: vimeo
     media_id: 935591760/ed1b8d32e5
     label: ""
@@ -19715,7 +19681,7 @@ figure_list:
     id: "fig-525-a"
     src: 
     zoom: true
-    poster: figures/sequences/525/SpatialPoem_001.jpg
+    poster: figures/posters/sequences--525-SpatialPoem_001.jpg
     media_type: 
     media_id: 
     label: "360°"
@@ -19735,7 +19701,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    label: "Main"
+    label: "Zoom"
     alt: ""
 -
     id: "fig-526"
@@ -23314,9 +23280,9 @@ figure_list:
     id: "fig-555"
     src: 
     zoom: 
-    poster: figures/Bahto_Mirror_Piece_final.jpg
+    poster: figures/posters/Bahto_Mirror_Piece_final.jpg
     media_type: vimeo
-    media_id: 1016759692/758838a07
+    media_id: 1016759692/758838a07a
     label: ""
     alt: "Color video showing sequential, individual episodes of three different women holding and regarding their face in a rectangular piece of mirror as they walk backwards on a beach, into the water. In some moments, the woman’s mirror reveals the cameraman recording her. The women appear to be performing this action on different beaches across the Californian coast. We also see a man, formerly the cameraman recording the women, performing the task while videoing himself with a smartphone enclosed in a plastic bag."
 -
@@ -23442,7 +23408,7 @@ figure_list:
 #     id: "fig-569"
 #     src: 
 #     zoom: true
-#     # poster: figures/KaprowRoutineFilmClip_1.jpg
+#     # poster: figures/posters/KaprowRoutineFilmClip_1.jpg
 #     # media_type: vimeo
 #     media_id: 
 #     label: ""
@@ -23451,7 +23417,7 @@ figure_list:
     id: "fig-570"
     src: 
     zoom: 
-    poster: figures/fig-570-poster-image.jpg
+    poster: figures/posters/fig-570-poster-image.jpg
     media_type: vimeo
     media_id: 998453851/6c7d5b4a7d
     aspect_ratio: standard
@@ -23462,7 +23428,7 @@ figure_list:
 #     id: "fig-571"
 #     src: 
 #     zoom: true 
-#     # poster: figures/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
+#     # poster: figures/posters/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
 #     # media_type: vimeo
 #     media_id: 
 #     label: ""
@@ -23588,7 +23554,7 @@ figure_list:
     id: "fig-574"
     src: 
     zoom: 
-    poster: figures/Copy_of_gri_980063_f46.jpg
+    poster: figures/posters/Copy_of_gri_980063_f46.jpg
     media_type: vimeo
     media_id: 935592356/d14609b942
     label: ""
@@ -23597,7 +23563,7 @@ figure_list:
     id: "fig-575"
     src: 
     zoom: 
-    poster: figures/1_Copy_of_11_3Playback_2_Kaprow_Comfort_Zones_1.jpg
+    poster: figures/posters/1_Copy_of_11_3Playback_2_Kaprow_Comfort_Zones_1.jpg
     media_type: vimeo
     media_id: 935589832/3271b8e7cf
     label: ""
@@ -23606,7 +23572,7 @@ figure_list:
     id: "fig-576"
     src: 
     zoom: 
-    poster: figures/Copy_of_11_3Playback_3_Kaprow_7KindsofSympathy.jpg
+    poster: figures/posters/Copy_of_11_3Playback_3_Kaprow_7KindsofSympathy.jpg
     media_type: vimeo
     media_id: 935626898/ab7a197d03
     label: ""
@@ -23616,7 +23582,7 @@ figure_list:
     src: 
     zoom: 
     audio: true
-    poster: figures/track577_th.jpg
+    poster: figures/posters/track577_th.jpg
     media_type: vimeo
     media_id: 1069615295/4d91e70f7b
     label: ""
@@ -23625,7 +23591,7 @@ figure_list:
     id: "fig-578"
     src: 
     zoom: 
-    poster: figures/1_Copy_of_VTS_01_1.jpg
+    poster: figures/posters/1_Copy_of_VTS_01_1.jpg
     media_type: vimeo
     media_id: 935640841/9e3838d0c1
     label: ""

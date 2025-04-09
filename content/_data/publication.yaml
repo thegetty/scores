@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://final-pages-v2--scores-project.netlify.app'
+url: 'https://www.getty.edu/publications/scores/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -28,7 +28,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2025-03-01 # YYYY-MM-DD
+pub_date: 2025-05-06 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -142,7 +142,7 @@ resource_link:
     name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: #
+    url: /_assets/downloads/the-scores-project.pdf
   - type: other-format
     name: EPUB
     media_type: application/epub+zip
@@ -152,7 +152,7 @@ resource_link:
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: #
+    url: https://shop.getty.edu/products/the-scores-project-essays-on-experimental-notation-in-music-art-poetry-and-dance-1950-1975-978-1606069332
   - type: footer-link
     name: About
     link_relation: about
@@ -203,7 +203,7 @@ library_of_congress_cip: |
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date: March 1, 2025
+  - date: May 6, 2025
     summary:
       - First edition
 
@@ -215,4 +215,4 @@ repository_url: https://github.com/thegetty/scores
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: 
+promo_image: cover-promo.jpg

@@ -38,8 +38,8 @@ module.exports = async function(data) {
         ${analyticsSnippet}
         ${this.icons(data)}
         ${this.iconscc(data)}
-        ${splashOverlay}
         <div class="quire no-js ${divClass}" id="container">
+          ${splashOverlay}
           <div class="quire__primary">
             ${this.navigation(layout)}
             <main class="quire-page ${classes}" data-output-path="${outputPath}" data-page-id="${pageId}" >

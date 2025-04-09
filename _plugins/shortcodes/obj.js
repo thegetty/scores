@@ -38,7 +38,8 @@ module.exports = function (eleventyConfig, { page }) {
     for ( let obj of objectList ) {
       if (obj.id == objId) {
         figId = obj.figures[0].id
-        objTitle = removeHTML(obj.title)
+        objTitle = markdownify(obj.title)
+        // objTitle = removeHTML(objTitle)
         objImageLengthString = obj.figures.length > 1 
           ? ` (${obj.figures.length} items)`
           : ''
@@ -76,7 +77,7 @@ module.exports = function (eleventyConfig, { page }) {
         <div class="object-link__image__wrapper">
         <img src="${objImagePath}" alt="${figAlt}" />
         </div>
-        <figcaption>${markdownify(objTitle)}${objDateString}</figcaption>
+        <figcaption>${objTitle}${objDateString}</figcaption>
       </figure>
     `
 }

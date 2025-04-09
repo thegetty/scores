@@ -103,6 +103,16 @@ description: A custom layout for the primary score landing pages
 {%- endif -%}
 </div>
 <div class="score-section__groups">
+  {%- if archive.highlights -%}
+  <h3>Highlights</h3>
+  <div class="score-section__objects section-highlights">
+  {%- for highlight in archive.highlights -%}
+    <a href="/object-index/{{ highlight.id }}/" target="object-iframe" class="object-link">
+    {%- obj highlight.id -%}
+    </a>
+  {%- endfor -%}
+  </div>
+  {%- endif -%}
   {%- for group in archive.groups -%}
   {%- capture groupHeading -%}
   ### {{ group.heading }} ({{ group.objects.size }} item{% if group.objects.size > 1 %}s{% endif %})

@@ -132,7 +132,7 @@ module.exports = (eleventyConfig) => {
       {
         name: 'static-inline-commentary-image',
         resize: {
-          height: 792
+          width: 792
         }
       }
     ]

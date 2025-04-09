@@ -491,8 +491,10 @@ function hideSplash() {
 
 function triggerMenuAnimation() {
   let menu = document.getElementById('site-menu')
-  menu.offsetHeight // Force reflow
-  menu.classList.add('show-animation')
+  if (menu) {
+    menu.offsetHeight // Force reflow
+    menu.classList.add('show-animation')
+  }
 }
 
 function randomImage() {

@@ -100,7 +100,7 @@ Added PDF download link to page header
 Replaced icons with text labels, and updated input placeholder text
 
 **_includes/components/object-filters/object-card/object-image.webc**
-Fixed source of thumbnails for videos
+Used `poster` as source of thumbnails for audio, video, tables/embeds, and external IIIF
 
 **_includes/components/object-filters/object-filters.webc**
 Used "..." instead of "All" in select boxes

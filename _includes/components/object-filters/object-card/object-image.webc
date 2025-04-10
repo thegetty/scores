@@ -1,6 +1,6 @@
  <!-- 
 CUSTOMIZED FILE
-Fixed source of thumbnails for audio, video, and tables/embeds
+Used `poster` as source of thumbnails for audio, video, tables/embeds, and external IIIF
 -->
 <figure class="object-card__image" :data-field-name="attribute.name">
   <img :src="src(attributes)" :alt="alt(attributes)">
@@ -21,8 +21,8 @@ const src = ({ data }) => {
   let thumbnail = ''
   if (figures) {
     if (figures.find(({ mediaType }) => mediaType === 'image')) {
-      thumbnail = figures.find(({ mediaType }) => mediaType === 'image').static_inline
-        ? figures.find(({ mediaType }) => mediaType === 'image').static_inline
+      thumbnail = figures.find(({ mediaType }) => mediaType === 'image').poster
+        ? figures.find(({ mediaType }) => mediaType === 'image').poster
         : figures.find(({ mediaType }) => mediaType === 'image').thumbnail
     } else if (figures.find(({ mediaType }) => mediaType === 'audio')) {
       thumbnail = figures.find(({ mediaType }) => mediaType === 'audio').poster

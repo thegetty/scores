@@ -15,17 +15,18 @@ const { html } = require('~lib/common-tags')
  * @return     {Function}  Template render function
  */
 module.exports = async function(data) {
-  const { classes, collections, config, content, layout, pageData, publication } = data
+  const { classes, collections, config, content, image, layout, pageData, publication } = data
   const { inputPath, outputPath, url } = pageData || {}
   const id = this.slugify(url) || path.parse(inputPath).name
   const pageId = `page-${id}`
   const { googleId } = config.analytics
   const figures = pageData.page.figures
+  const { imageDir } = config.figures
 
   const analyticsSnippet = googleId ? `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=${googleId}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>` : ''
 
   const splashOverlay = classes.includes('splash') 
-    ? `<div class="splash-overlay"><div class="splash-overlay-image"><img src="" alt="" /></div><a class="splash-overlay-link">The Scores Project</a></div>` 
+    ? `<div class="splash-overlay"><div class="splash-overlay-image"><img src="${path.join(imageDir, image)}" alt="" /></div><a class="splash-overlay-link">The Scores Project</a></div>` 
     : ''
   
   const divClass = layout == 'score-object-cards' ? ' score-object' : layout

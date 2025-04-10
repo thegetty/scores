@@ -71,7 +71,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-003" ]
-    related_objects: [ id: "246", id: "247", id: "248", id: "255", id: "301", id: "302" ]
+    related_objects: [ id: "247", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "004"
     old_id: "0.04"
@@ -4274,7 +4274,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-247" ]
-    related_objects: [ id: "003", id: "246", id: "248", id: "255", id: "301", id: "302" ]
+    related_objects: [ id: "003", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "248"
     old_id: "5.02j"
@@ -4295,7 +4295,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-248" ]
-    related_objects: [ id: "003", id: "246", id: "247", id: "255", id: "301", id: "302" ]
+    related_objects: [ id: "003", id: "247", id: "255", id: "301", id: "302" ]
 -
     id: "249"
     old_id: "5.02k"
@@ -4442,7 +4442,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-255" ]
-    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "256", id: "301", id: "302", id: "238", id: "260", id: "325", id: "275", id: "328" ]
+    related_objects: [ id: "003", id: "247", id: "248", id: "256", id: "301", id: "302", id: "238", id: "260", id: "325", id: "275", id: "328" ]
 -
     id: "256"
     old_id: "5.04"
@@ -5268,7 +5268,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-301-a", id: "fig-301-b", id: "fig-301-c" ]
-    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "255", id: "302" ]
+    related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "302" ]
 -
     id: "302"
     old_id: "5.17b"
@@ -5286,7 +5286,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-302-a", id: "fig-302-b", id: "fig-302-c", id: "fig-302-d", id: "fig-302-e", id: "fig-302-f", id: "fig-302-g", id: "fig-302-h", id: "fig-302-i", id: "fig-302-j", id: "fig-302-k", id: "fig-302-l", id: "fig-302-m", id: "fig-302-n", id: "fig-302-o", id: "fig-302-p", id: "fig-302-q", id: "fig-302-r", id: "fig-302-s", id: "fig-302-t", id: "fig-302-u", id: "fig-302-v", id: "fig-302-w", id: "fig-302-x", id: "fig-302-y", id: "fig-302-z", id: "fig-302-aa", id: "fig-302-ab", id: "fig-302-ac", id: "fig-302-ad", id: "fig-302-ae", id: "fig-302-af" ]
-    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "255", id: "301" ]
+    related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301" ]
 -
     id: "303"
     old_id: "5.18a"
@@ -5860,7 +5860,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-334" ]
-    related_objects: [ id: "335", "338" ]
+    related_objects: [ id: "335", id: "338" ]
 -
     id: "335"
     old_id: "5.34b"

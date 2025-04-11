@@ -4,6 +4,7 @@
 //
 const { html } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
+const path = require('path')
 
 const logger = chalkFactory('shortcodes:obj')
 
@@ -20,6 +21,7 @@ module.exports = function (eleventyConfig, { page }) {
   const removeHTML = eleventyConfig.getFilter('removeHTML')
   const { figure_list: figureList } = eleventyConfig.globalData.figures
   const { object_list: objectList } = eleventyConfig.globalData.objects
+  const { imageDir } = eleventyConfig.globalData.config.figures
   
 
   return function (objId) {  
@@ -52,23 +54,11 @@ module.exports = function (eleventyConfig, { page }) {
     for ( let fig of figureList ) {   
       if (fig.id == figId) {
         figAlt = fig.alt ? fig.alt : ''
-        // objImagePath
-        if (fig.thumb) {
-          objImagePath = `/_assets/images/${fig.thumb}`
-        } else if (fig.annotations) {
-          objImagePath = `/iiif/${figId}/base/static-inline-figure-image.jpg`
-        } else if (fig.sequences) {
-          figStart = fig.sequences[0].start.replace('.jpg', '')
-          if (!figStart) {
-            logger.error(`Every figure with a sequence needs an explicity defined start image for the obj.js shortcode`)
-          }
-          objImagePath = `/iiif/${figId}/${figStart}/static-inline-figure-image.jpg`
-        } else if (fig.zoom) {
-          const figFilename = fig.src.replace('figures/', '').replace('.jpg', '')
-          objImagePath = `/iiif/${figId}/${figFilename}/static-inline-figure-image.jpg`
-        } else if (fig.media_type == 'vimeo' || 'soundcloud' || 'audio' ) {
-          objImagePath = `/_assets/images/${fig.poster}`
-        } 
+        if (fig.poster) {
+          objImagePath = `${path.join(imageDir, fig.poster)}`
+        } else if (fig.thumbnail) {
+          objImagePath = `${fig.thumbnail}`
+        }  
       }
     }
 

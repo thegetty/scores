@@ -10,62 +10,6 @@ figure_list:
     label: "Fig. 0.1a–d"
     caption: "Four “Indeterminate” Notations. *Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; &#40;c&#41; Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
     credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
-# -
-#     id: "fig-0-1a"
-#     old_id: "0.01-a"
-#     src: figures/Guitar_chords_derived_from_C_hungarian_minor_scale.jpg
-#     note: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     link: /object-index/001/
-#     label: "Fig. 0.1a"
-#     caption: "Four “Indeterminate” Notation Systems. "
-#     credit: ""
-#     alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
-# -
-#     id: "fig-0-1b"
-#     old_id: "0.01-b"
-#     src: figures/Purcell_diatonic_chromaticism.jpg
-#     note: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     link: /object-index/001/#fig-001-b
-#     label: "Fig. 0.1b"
-#     caption: "Four “Indeterminate” Notation Systems. "
-#     credit: ""
-#     alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
-# -
-#     id: "fig-0-1c"
-#     old_id: "0.01-c"
-#     src: figures/Thelonious-Monk-Jazz-Masters.jpg
-#     note: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     link: /object-index/001/#fig-001-c
-#     label: "Fig. 0.1c"
-#     caption: "Four “Indeterminate” Notation Systems. "
-#     credit: ""
-#     alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
-# -
-#     id: "fig-0-1d"
-#     old_id: "0.01-d"
-#     src: figures/Come_Thou_Fountain_Numbers.jpg
-#     note: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     link: /object-index/001/#fig-001-d
-#     label: "Fig. 0.1d"
-#     caption: "Four “Indeterminate” Notation Systems. "
-#     credit: ""
-#     alt: "Four notations organized in a two-by-two grid. The top two, titled “Figured Bass” and “Lead Sheet,” feature staves and musical notes. The bottom left, “Chord Chart,” features twelve gridded boxes with dots, and the bottom right. “Nashville Number System,” features Arabic numerals sequenced in horizontal lines."
 -
     id: "fig-0-2"
     old_id: "0.02-a"
@@ -399,21 +343,6 @@ figure_list:
     caption: "David Tudor (American, 1926–96). Tudor’s realization of *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*, 1959. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 2."
     credit: "Used by permission of Hal Leonard."
     alt: "Blue front cover of bound book. “Composer’s Notebook” at top left in blue with short section of staff printed below."
-# REMOVED: Used as fig. 3.1 instead
-# -
-#     id: "fig-3-5"
-#     old_id: "3.05-am"
-#     src: figures/gri_980039_b174_f03_055_mm.jpg
-#     note: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     link: /object-index/159/#fig-159-am
-#     label: "Fig. 3.5"
-#     caption: "Loose score sheets for Sylvano Bussotti’s *Pièces de chair II* with pencil annotations by David Tudor, 1958–60. Getty Research Institute, David Tudor Papers, 980039, box 174, folder 3."
-#     credit: ""
-#     alt: "Cream page with rectangular field of horizontal black lines interrupted by line breaks, sweeping abstract line segments, stippled groupings of dots, and small polygons. Top margin contains title of piece at left, otherwise, blank."
 -
     id: "fig-3-5"
     old_id: "3.03b-f"
@@ -818,21 +747,6 @@ figure_list:
     caption: "Program for *Poetry, Music, and Theatre Works: Jackson Mac Low*, the fifth concert in the series organized by La Monte Young at Yoko Ono’s studio, 112 Chambers Street, New York, NY, 8–9 April 1961. Getty Research Institute, Jean Brown Papers, 890164, box 32, folder 6."
     credit: ""
     alt: "White page with blue typewritten text in English. Title at top center reads “Poetry, Music & Theatre Works Jackson Mac Low,” followed by time, date, and location of performances. Middle two quarters of page contains numerical list of the titles of works to be performed in succession, their performers, and their original date of composition. Bottom quarter of page contains paragraph of information on other performances. All text single spaced with thin margins."
-# REMOVED: Quoted in commentary text
-# -
-#     id: "fig-7-4"
-#     # old_id: "7.04"
-#     src: figures/r33521_890164_b31_f14_001.jpg
-#     note: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     link: /object-index/419/
-#     label: "Fig. 7.4"
-#     caption: "Open letter from Jackson Mac Low to George Maciunas in response to Fluxus News—Policy Letter, no. 6, 25 April 1963. Getty Research Institute, Jean Brown Papers, 890164, box 31, folder 14."
-#     credit: "© Estate of Jackon Mac Low."
-#     alt: "White page with black typewritten text in English. Top margin blank except for recipient address at left and sender address at right. “Dear George” on first line at top left followed by one column of all-capitalized text that uses thin margins and runs the length of the page. Several words underlined in black pen throughout."
 -
     id: "fig-8-1"
     old_id: "8.14"
@@ -2025,15 +1939,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Horizontal rectangular press clipping the width of three columns completely filled with text in English. Title “‘Magnetic Music’ Not Ready” in large, bold sans serif typeface above all columns of text. Black-and-white photograph of a man with short hair at bottom of first column and captioned “John Cage . . . A New Sound.” All text in clipping is part of the article. "
-# -
-#     id: "fig-035"
-#     src: figures/r2014402_980039_b62_f5_006.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Front page of the *Daily Illini*showing all articles above the fold. Headline reads “Reds Protest German Action.” Paper creased vertically at center. "
 -
     id: "fig-036-a"
     src: figures/r2014402_980039_b62_f5_007.jpg
@@ -6912,7 +6817,6 @@ figure_list:
     media_id: 1030181101/77cec2b0ce
     label: ""
     alt: ""
-# Original fig. 074 was replaced with this one
 -
     id: "fig-074"
     src: 
@@ -13621,16 +13525,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Horizontal cream page with three evenly spaced vertical creases containing black handwritten text in English. Left three quarters of page contain title “Solo,” “Décollage Piece - 1961,” and “for Wolf Vostell” on three separate lines at top center followed by one paragraph that runs the length of the page. Right quarter of page contains continuation of paragraph on left portion followed by Patterson’s signature, the date, and one final paragraph."
-# REMOVED
-# -
-#     id: "fig-211"
-#     src: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White paper flyer with black printed text in German. Top contains two lines of text “Wolf Véstell decollages collages ausstellung 15.5-28.5 1961” followed by blank space until several lines of text begin just below center listing works to be performed. Location of performance at bottom of page. "
 -
     id: "fig-212-a"
     src: figures/p27023_890164_b39_i_39_32_situations_pianos_1.jpg
@@ -15707,15 +15601,6 @@ figure_list:
     aspect_ratio: widescreen
     label: ""
     alt: "Color video showing man wearing all black sitting outdoors at a table with electronic sound equipment on it. He wraps lengths of butcher paper around his head so that eventually he cannot see, while around his neck drapes a contact microphone that amplifies the sounds in a grating manner. Once his head is completely wrapped, he sits in near silence."
-# -
-#     id: "fig-246"
-#     src: placeholder.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Color video showing a man wearing all black and holding a violin. He stands outdoors on a museum plaza, in the center of a square performance area demarcated by lines of red tape on the ground. Around him and inside the square area appear randomly placed shorter lengths of red tape positioned perpendicularly to one another. He plays a series of brief yet sustained tones on the violin, many with overtones, and occasionally moves to other parts of the performance area."
 -
     id: "fig-247"
     src: 
@@ -15776,17 +15661,6 @@ figure_list:
     media_id: 1069614194/e47cce01c6
     label: ""
     alt: "Audio recording of a man and a woman reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. "
-# REMOVED -- Dupe of 252
-# -
-#     id: "fig-253"
-#     src: 
-#     zoom: 
-#     audio: true
-#     poster: audio-poster.jpg
-#     media_type: vimeo
-#     media_id: 1111111/000000
-#     label: ""
-#     alt: "Audio recording of male and female voices reading a non-narrative, abstract word poem over a background of quiet, atmospheric electronic tones. Their voices pronounce the names of common letters, numbers, and punctuation marks. Sometimes they speak in a direct, uninflected manner, and sometimes they speak in repetitive and percussive ways that emphasize dynamic qualities of vocal sound over the meaning of the words they are saying. Two original voices have been duplicated and layered electronically so that it sounds as if eight performers are speaking simultaneously, making it difficult to focus attention on any one voice for long. At times the voices are lowered in pitch. The final moments of the recording become quiet and feature only the original, single male and female voices, heard clearly."
 -
     id: "fig-254"
     src: 
@@ -18177,15 +18051,6 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
-# -
-#     id: "fig-312-e"
-#     src: figures/r2012558_980039_b10_f5_008.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Yellow page with black handwritten text in English. “Greetings!” at top left followed by two short sections, one titled “Note to David” and the Other “Note to Pauline.” “Hi Alvin & May!” below text. Text at center and covers half of page. Wide margins. "
 -
     id: "fig-313-a"
     src: figures/r2013738_980039_b12_f24_001.jpg
@@ -18558,71 +18423,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Verso of blank page with British Book Centre letterhead at top. "
-# REMOVED
-# -
-#     id: "fig-323-a"
-#     src: figures/r2012558_980039_b10_f9_039.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White page with ten printed horizontal staves, each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. Titled “Piano Piece” at center of top margin. "
-# -
-#     id: "fig-323-b"
-#     src: figures/r2012558_980039_b10_f9_040.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White two-page spread in bound book. Each page with ten printed horizontal staves, each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. 2 at top right of left page and 3 at top right of right page."
-# -
-#     id: "fig-323-c"
-#     src: figures/r2012558_980039_b10_f9_041.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White two-page spread in bound book. Left page with ten printed horizontal staves, each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. 4 at top left of page. Right page contains seven lines of text titled “Directions.” "
-# -
-#     id: "fig-323-d"
-#     src: figures/r2012558_980039_b10_f9_042.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White page with ten printed horizontal staves, top eight each grouped in twos to create four grand staves, each containing handwritten musical notation symbols: notes, rests, bar lines, dynamics, etc. Bottom quarter of page contains six lines of handwritten text. Titled “Song” at center of top margin. “Piano part” at top right. "
-# -
-#     id: "fig-323-e"
-#     src: figures/r2012558_980039_b10_f9_043.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: ""
-# -
-#     id: "fig-323-f"
-#     src: figures/r2016448_980039_b10_f9_001.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: ""
-# REMOVED
-# -
-#     id: "fig-324"
-#     src: figures/r2012558_980039_b10_f9_044.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White page titled “Piano Piece” at top center. “Terry Jennings” at top right. Four horizontal staves with handwritten musical notation on top half of page. Bottom quarter contains twelve lines of handwritten text."
 -
     id: "fig-325-a"
     src: figures/r2012558_980039_b10_f9_045.jpg
@@ -18683,35 +18483,6 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
-# REMOVED
-# -
-#     id: "fig-326"
-#     src: figures/r2012558_980039_b10_f9_038.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White notepaper with black handwritten text in English. “David” at top left followed by one sentence and signed “Terry J.” at right, below sentence. "
-# REMOVED
-# -
-#     id: "fig-327-a"
-#     src: figures/r2012558_980039_b10_f9_050.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White two-page spread with twelve horizontal printed staves divided into two sections for six instruments. Staves divided into sections by black handwritten bar lines crossing through all six staves, each labeled with time in seconds above first staff. Most measures contain one notation, either a whole note or rest. “Pieces for Strings” at center of top margin of left page. Dynamics and small notes throughout. "
-# -
-#     id: "fig-327-b"
-#     src: figures/r2012558_980039_b10_f9_051.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: ""
 -
     id: "fig-328"
     src: figures/r2015226_980039_b189_f4a_002.jpg
@@ -18724,16 +18495,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "White page with twelve horizontal printed staves containing black handwritten musical notation for two instruments. “Piano piece” at center of top margin. Shift to faster tempo marked halfway through piece. “Terry Jennings December 1958” and “the piece may be played slower than written...” at the right corner of twelfth staff. "
-# REMOVED
-# -
-#     id: "fig-329"
-#     src: figures/r2015226_980039_b189_f4a_001.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White page with black handwritten text in English. “30 March” at top left followed by “David” at left and one sentence of text. Bottom half of page blank. "
 -
     id: "fig-330-a"
     src: figures/r2014014_980039_b11_f22_010.jpg
@@ -18746,116 +18507,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "White page with five lines of black typewritten correspondence at top below margin. Otherwise, blank. "
-# REMOVED
-# -
-#     id: "fig-330-b"
-#     src: figures/r2014014_980039_b11_f22_011.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "White page with twelve printed horizontal staves each containing traditional handwritten musical notation symbols: notes, rests, dynamics, etc. Each measure is divided with repeat signs. Staves contain at least two measures, most with four or more."
-# REMOVED
-# -
-#     id: "fig-331-a"
-#     src: figures/r2015226_980039_b189_f5_003.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Left of cream two-page spread containing four-point numbered list of instructions at center of page, covering one half of the page. Each number contains 1-2 sentences. "
-# -
-#     id: "fig-331-b"
-#     src: figures/r2015226_980039_b189_f5_004.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “I” at center of top margin. “1” at bottom right. "
-# -
-#     id: "fig-331-c"
-#     src: figures/r2015226_980039_b189_f5_005.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “2” at bottom left."
-# -
-#     id: "fig-331-d"
-#     src: figures/r2015226_980039_b189_f5_006.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “3” at bottom right."
-# -
-#     id: "fig-331-e"
-#     src: figures/r2015226_980039_b189_f5_007.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “4” at bottom left."
-# -
-#     id: "fig-331-f"
-#     src: figures/r2015226_980039_b189_f5_008.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “5” at bottom right."
-# -
-#     id: "fig-331-g"
-#     src: figures/r2015226_980039_b189_f5_009.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “II” at center of top margin. “6” at bottom left."
-# -
-#     id: "fig-331-h"
-#     src: figures/r2015226_980039_b189_f5_010.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “7” at bottom right."
-# -
-#     id: "fig-331-i"
-#     src: figures/r2015226_980039_b189_f5_011.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “8” at bottom left."
-# -
-#     id: "fig-331-j"
-#     src: figures/r2015226_980039_b189_f5_012.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Right of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “9” at bottom right."
-# -
-#     id: "fig-331-k"
-#     src: figures/r2015226_980039_b189_f5_013.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Left of cream two-page spread with twelve black printed staves divided into two sections for five instruments. Staves contain black handwritten musical notation without bar lines. “10” at bottom left."
 -
     id: "fig-332"
     src: figures/r2014133_980039_b60_f3_001.jpg
@@ -19072,16 +18723,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Portrait-oriented black and white photograph of four people and open grand piano on stage shot from above. Three men behind piano and one woman laying on top."
-# REMOVED DUPLICATE
-# -
-#     id: "fig-344"
-#     src: figures/r2015674_89_b17402_001.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Black-and-white photograph of eight men in a classroom, each sat at a chair desk. Photograph shot at eye level of sitting figures."
 -
     id: "fig-345"
     src: figures/r1115683_890164_b3_f34_001.jpg
@@ -19106,16 +18747,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Printed page with large margins and left aligned black text. “DRIP MUSIC (DRIP EVENT)” at top is followed by “For single or multiple performance. A source of dripping water and an empty vessel are arranged so that the water falls into the vessel. Second version: Dripping.” “G. Brecht (1959-62)” printed below."
-# REMOVED
-# -
-#     id: "fig-347"
-#     src: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Event scores printed on blank cardstock at a scale similar to or smaller than an index card. Many with title in capital letters at top left followed by bulleted or numbered text instructions. Some instructions are only a few words long; a rare few cards include also basic illustrations drawn from vintage instruction manuals."
 -
     id: "fig-348"
     src: 
@@ -19343,16 +18974,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Black and white photograph of outdoor faucet set up in front of a wall. A small metal basin rests on the grass under a spigot mounted high above, attached to the top of a remarkably tall length of pipe that is mounted to an equally tall slab of wood."
-# REMOVED
-# -
-#     id: "fig-367"
-#     src: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Notebook page with writing at top (some crossed out) and a star-shaped diagram at bottom with nodes “Composer,” “Notation,” “Performer,” “Sound,” “Listener,” when read clockwise beginning at the top center."
 -
     id: "fig-368-a"
     src: figures/r2015673_z232.h93_a1_1992_003.jpg
@@ -20138,16 +19759,6 @@ figure_list:
     media_id: 1069617412/b082fff266
     label: ""
     alt: ""
-# REMOVED
-# -
-#     id: "fig-405"
-#     src: figures/07_Mac_Low_ILLS_for_review_before_archive_picks_dragged.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Collage of black-and-white news clippings covering one entire page. Top features New York World Telegram masthead followed by title “30 Arrests Mar H-Drill” followed by four articles in English across five columns of text at the center of the page. Three documentary photos of protestors with signs being arrested by police officers at bottom of page."
 -
     id: "fig-406-a"
     src: figures/r32814_890164_b39_004.jpg
@@ -22242,15 +21853,6 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
-# -
-#     id: "fig-465-s"
-#     src: figures/r2015842_2006_m_24_b22_f17_049.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: ""
 -
     id: "fig-466-a"
     src: figures/gri_2006_m_24_61_a_330511ds.jpg
@@ -22479,15 +22081,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Graph paper divided with red ink lines into 38 x 31 table, columns labeled with numbers, rows labeled with short phrases, and cells filled with numbers, all text handwritten in pencil. Roughly ten percent of cells filled with numbers."
-# -
-#     id: "fig-471-b"
-#     src: figures/r83687_2013_m_10_002.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: ""
 -
     id: "fig-472-a"
     src: figures/r2013910_2006_m_24_b1_f9_021.jpg
@@ -23052,16 +22645,6 @@ figure_list:
     media_id: 
     label: ""
     alt: ""
-# REMOVED DUPLICATE
-# -
-#     id: "fig-474"
-#     src: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "In introduction"
 -
     id: "fig-475"
     src: figures/r2015409_94_b22032_001.jpg
@@ -23158,16 +22741,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "White page in magazine with one justified paragraph of black print in English on top third of page. “Emmet Williams” at left center followed by poem beginning with four words running the length of the page, slowly tapering to one letter on last line. “184” at bottom left."
-# REMOVED (Cover of 511)
-# -
-#     id: "fig-480"
-#     src: figures/grl_91-b35085-cover.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Black and white print book cover with portrait-oriented photograph of a man facing away from camera toward an indoor deli counter. Handwritten text bubble above his head reads “A tunafish sand on wheat toast, lettuce and butter, no mayo. A cuppa zoup.” “Journal of the Identical Lunch by Alison Knowles” on bottom quarter in white print on black background. "
 -
     id: "fig-481"
     src: 
@@ -23186,16 +22759,6 @@ figure_list:
     media_id: 935591760/ed1b8d32e5
     label: ""
     alt: "Color video of woman sat in indoor office speaking to camera interspersed with images of cafe interiors and exteriors and materials associated with *Identical Lunch*. "
-# REMOVED
-# -
-#     id: "fig-483"
-#     src: 
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: ""
 -
     id: "fig-484"
     src: figures/r32814_890164_b264_002.jpg
@@ -30374,16 +29937,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Landscape-oriented black and white photograph of woman sat behind table at left and man with film camera turned to film woman at left. Audio equipment at center on table. Back of head wearing headphones out of focus in central foreground. "
-# REMOVED (Dupe of 607)
-# -
-#     id: "fig-567"
-#     src: figures/gri_980063_b24_f09_054_mm.jpg
-#     zoom: true
-#     poster: 
-#     media_type: 
-#     media_id: 
-#     label: ""
-#     alt: "Landscape-oriented black and white photograph of six people arranged in a clump and smiling to camera. Shot from chest up. "
 -
     id: "fig-568"
     src: figures/still-kaprow-routine.jpg
@@ -30396,16 +29949,6 @@ figure_list:
     media_id: 
     label: ""
     alt: "Landscape-oriented black and white photograph with a woman at the center of the frame holding a full-body mirror outdoors in a parking lot. Reflection shows man with hands raised overhead. "
-# REMOVED
-# -
-#     id: "fig-569"
-#     src: 
-#     zoom: true
-#     # poster: figures/posters/KaprowRoutineFilmClip_1.jpg
-#     # media_type: vimeo
-#     media_id: 
-#     label: ""
-#     alt: "Black screen with “‘Routine’ by Allan Kaprow” in bold all-capitalized white text with male voiceover."
 -
     id: "fig-570"
     src: 
@@ -30416,16 +29959,6 @@ figure_list:
     aspect_ratio: standard
     label: ""
     alt: ""
-# REMOVED    
-# -
-#     id: "fig-571"
-#     src: 
-#     zoom: true 
-#     # poster: figures/posters/Kaprow_7_Kinds_of_Sympathy_Clip_1.jpg
-#     # media_type: vimeo
-#     media_id: 
-#     label: ""
-#     alt: "Male voiceover accompanied by bluish-white field of color in a 4:3 format. Title card with “7 Kinds of Sympathy” at center in bold all-capitalized white text atop solid blue background appears when voiceover concludes. "
 -
     id: "fig-572-a"
     src: figures/gri_980063_b24_f09_009_mm.jpg

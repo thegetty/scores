@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let playMode = 'click'
 
   const preloadAudio = (audioFile) => {
-    const audio = new Audio(`/_assets/images/figures/samplers/${audioFile}`)
+    const audio = new Audio(`/publications/scores/_assets/images/figures/samplers/${audioFile}`)
     audio.preload = 'auto'
     return audio
   }

@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const hoverPlayModeButton = document.getElementById('hover-play-mode')
     const keyPlayModeButton = document.getElementById('key-play-mode')
     let playMode = 'click'
+    let currentAudio = null
 
     const preloadAudio = (audioFile) => {
       const audio = new Audio(`/publications/scores/_assets/images/figures/samplers/${audioFile}`)
@@ -21,8 +22,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }))
 
     const playAudio = (audioElement) => {
+      if (!sampler.classList.contains('continuous') && currentAudio) {
+        currentAudio.pause()
+        currentAudio.currentTime = 0
+      }
       audioElement.currentTime = 0
       audioElement.play()
+      currentAudio = audioElement
     }
 
     const updateGridItemClass = () => {

@@ -509,14 +509,18 @@ function randomImage() {
     "980063-b24f9_standing.jpg",
     "r2014449_980063_b4_f13_003.jpg",
     "980063-b20f13_r-loss.jpg",
-    "r2014504_980063_b26_f7_012.jpg"
+    "r2014504_980063_b26_f7_012.jpg",
+    "r32814_980039_b9_r_001.jpg",
+    "r2015418_980039_b9_f25_001.jpg",
+    "gri_980039_b176_f01_040_mm.jpg",
+    "r2015669_980039_b174_f4_001.jpg"
   ];
 
   let randomSplashImage = splashImages[Math.floor(Math.random() * splashImages.length)];
   let splash = document.querySelector('.splash-overlay-image img');
 
   if (splash) {
-    let splashSrc = '_assets/images/figures/' + randomSplashImage;
+    let splashSrc = '_assets/images/figures/splash/' + randomSplashImage;
     let currentSrc = splash.getAttribute('src');
     
     if (splashSrc === currentSrc) {

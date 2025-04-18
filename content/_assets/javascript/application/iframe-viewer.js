@@ -40,9 +40,9 @@ window['toggleTextSize'] = (target) => {
 
 window['copyLink'] = () => {
   const thisButton = event.target.closest('a')
-  const baseURL = thisButton.getAttribute('data-baseurl')
+  const baseURL = 'https://www.getty.edu'
   const href = thisButton.getAttribute('data-href')
-  const copyLink = baseURL.concat(href.replace(/^\//, ''))
+  const copyLink = baseURL.concat(href)
   navigator.clipboard.writeText(copyLink);
 
   const toolTipText = "Link copied to the clipboard"

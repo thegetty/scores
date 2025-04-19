@@ -390,6 +390,12 @@ window['showTagged'] = function(tag) {
     // remove the selected class if the card was previously selected with checkCardHash()
     if (card.classList.contains('selected')) {
       card.classList.remove('selected')
+      // clone link to remove showTagged listener, and then add original onHashLinkClick listener back on
+      const cardLink = card.children[0]
+      const clonedLink = cardLink.cloneNode(true)
+      clonedLink.addEventListener('click',onHashLinkClick)
+      cardLink.parentNode.replaceChild(clonedLink, cardLink);
+
     }
     if (tag === 'all' ) {
       if (card.classList.contains('card-description')) {
@@ -446,7 +452,13 @@ function checkCardHash() {
     cards.forEach(card => {
       if (card.id === hash) {
         card.style.display = 'block';
-        card.classList.add('selected')
+        card.classList.add('selected')  
+        // Add showTagged so clicking on the selected card will reset the grid to the previous state
+        const cardLink = card.children[0]
+        const dropdownValue = dropdown.value;
+        cardLink.addEventListener('click', function() {
+          showTagged(dropdownValue);
+        });
       } else {
         card.style.display = 'none';
         card.classList.remove('selected')

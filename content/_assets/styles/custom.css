@@ -1445,9 +1445,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 /*  CARD VIEWER
 ============================================================================= */
 .quire-score-object-cards .quire-entry__lightbox {
-  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: scroll;
   font-size: var(--small-font-size);
   height: calc(100vh - 7rem);
+  padding-right: 1rem;
 }
 .quire-score-object-cards #quire-entry-view:not(.side-by-side) .quire-entry__lightbox {
   margin: 1.2rem 2rem 0;
@@ -1652,6 +1654,16 @@ body.iframe-version .quire .quire__primary main {
 }
 body.iframe-version #quire-entry-view-toggle {
   display: none;
+}
+body.iframe-version .quire-score-object-cards .card-select {
+  height: 3rem;
+  position: relative;
+  background-color: black;
+  margin-left: 0;
+}
+body.iframe-version .quire-score-object-cards .side-by-side .quire-entry__lightbox {
+  top: 3rem;
+  padding-bottom: 3rem;
 }
 
 /* PRINT

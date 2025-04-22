@@ -609,23 +609,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-034" ]
-# -
-#     id: "035"
-#     old_id: "1.12f"
-#     maker: 
-#     people: [ "Defibaugh, Duffy", "Cage, John", "Brown, Earle" ]
-#     more_people: [ "Barron, Bebe and Louis", "Henry, Pierre" ]
-#     title: "Front page of the *Daily Illini*"
-#     date: "March 1953"
-#     date_sort: "1953-03-01"
-#     year_filter: [ "1953" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [ press clipping ]
-#     figure: [ id: "fig-035" ]
 -
     id: "036"
     old_id: "1.12g"
@@ -1275,7 +1258,6 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-073" ]
-# Original fig. 074 was replaced with this one:
 -
     id: "074"
     old_id: ""
@@ -1293,24 +1275,6 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-074" ]
-# REMOVED
-# -
-#     id: "074"
-#     old_id: "2.06h"
-#     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Flipbook 2: Tudor’s second realization of John Cage’s *Solo for Piano*"
-#     date: "1958"
-#     date_sort: "1958-01-01"
-#     year_filter: [ "1958" ]
-#     medium: ""
-#     location: ""
-#     extended_caption: "In the second realization, Tudor performs on piano and with electronic tape while Cage reads his famous stories concurrently for ninety minutes. Curiously, it was Tudor who had suggested making a recording of the collaboration; Cage agreed, and they pitched it to Smithsonian Folkways, who had already expressed interest in recording Cage’s work. For many of the auxiliary sounds called for in this recording of the second realization, Tudor used Cage’s recently completed tape piece, *Fontana Mix* (1958). Each page contains two lines of music that roughly equal thirty seconds each, for one minute total per page. Though Tudor overall conforms to the large-scale time lengths, page by page, there is some push and pull with regards to tempo. If a single sound is complex to execute, it may take longer (and many of these, as you shall hear, are quite complex to execute). This temporal flexibility is characteristic of Tudor’s performances of the era. It is somewhat remarkable in this instance, for we know Tudor had gone through elaborate labors to superimpose all the single ictus attacks from various graphs and spread them out over ninety minutes. Again, it raises a question: Why focus with such precision on calculations and perfect penmanship if a performance will inevitably be loose and more practical? Listeners may note as well that in this recording Cage narrates the story of his discontent with the musicians from the Town Hall premiere."
-#     credit: ""
-#     featured: 
-#     type: [ digital feature ]
-#     figure: [ id: "fig-074" ]
 -
     id: "075"
     old_id: "2.07"
@@ -3644,24 +3608,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-210-d", id: "fig-210-e", id: "fig-210-f", id: "fig-210-g", id: "fig-210-b", id: "fig-210-c", id: "fig-210-h", id: "fig-210-a" ]
-# REMOVED
-# -
-#     id: "211"
-#     old_id: "4.12"
-#     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Program and flyer for a performance of *Paper Piece* and *Décollages* at the Haro Lauhus gallery in Cologne"
-#     date: "May 1961"
-#     date_sort: "1961-05-01"
-#     year_filter: [ "1961" ]
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 41, folder 4"
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [ programs and flyers ]
-#     figure: [ id: "fig-211" ]
 -
     id: "212"
     old_id: "4.13a"
@@ -4249,30 +4195,6 @@ object_list:
     type: [ video ]
     figure: [ id: "fig-244" ]
     related_objects: [ id: "239" ]
-# REMOVED
-# -
-# id: "245"
-# -
-#     id: "246"
-#     old_id: "5.02h"
-#     maker: [ "Earle Brown (American, 1926–2002)" ]
-#     people: [ "Brown, Earle", "Buchla, Ezra" ]
-#     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
-#     title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
-#     date: "4 December 2021"
-#     date_sort: "2021-12-04"
-#     year_filter: [ "2021" ]
-#     medium: ""
-#     location: "Getty Center, Los Angeles"
-#     extended_caption: |
-#       The [score for Earle Brown’s *December 1952*](/object-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. It stands among the more pictorial contributions to *An Anthology of Chance Operations*. 
-      
-#       [*December 1952*](/object-index/238/?region=3500,200,2600,2600#fig-238-m) can be found in the Getty Research Institute’s unique copy of An Anthology of Chance Operations (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
-#     credit: "Used by permission of the Earle Brown Estate."
-#     featured: 
-#     type: [ video ]
-#     figure: [ id: "fig-246" ]
-#     related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "247"
     old_id: "5.02i"
@@ -4401,28 +4323,6 @@ object_list:
     type: [ audio ]
     figure: [ id: "fig-252" ]
     related_objects: [ id: "238", id: "276" ]
-# REMOVED -- Dupe of 252
-# -
-#     id: "253"
-#     old_id: "5.02p"
-#     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-#     people: [ "Mac Low, Jackson", "Lee, Jeanne", "Neuhaus, Max", "Tenney, James" ]
-#     more_people: ""
-#     title: "*The text on the opposite page may be used in any way as a score for solo or group readings, musical or dramatic performances, looking, smelling, anything else &/or nothing at all* (July 1961), performed by Jackson Mac Low and Jeanne Lee (voices) with Max Neuhaus and James Tenney (electronics) at Town Hall, New York, NY"
-#     date: "13 September 1966"
-#     date_sort: "1966-09-13"
-#     year_filter: [ "1966" ]
-#     medium: ""
-#     location: ""
-#     extended_caption: |
-#       This recording of [one of Jackson Mac Low’s scores included in *An Anthology*](/object-index/238/#fig-238-av) features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can appreciate the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry.
-      
-#       The score for [*The text on the opposite page*](/object-index/238/#fig-238-av) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
-#     credit: " © Estate of Jackson Mac Low."
-#     featured: 
-#     type: [ audio ]
-#     figure: [ id: "fig-253" ]
-#     related_objects: [ id: "252", id: "238", id: "276" ]
 -
     id: "254"
     old_id: "5.02q"
@@ -5663,43 +5563,6 @@ object_list:
     type: [ score ]
     figure: [ id: "fig-322-a", id: "fig-322-b", id: "fig-322-c", id: "fig-322-d", id: "fig-322-e", id: "fig-322-f", id: "fig-322-g", id: "fig-322-h" ]
     related_objects: [ id: "300", id: "259", id: "299", id: "320", id: "314", id: "315", id: "316", id: "317", id: "318", id: "319", id: "321", id: "343" ]
-# REMOVED
-# -
-#     id: "323"
-#     old_id: "5.29a"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "*Piano Piece*"
-#     date: "November–December 1960"
-#     date_sort: ""
-#     year_filter: ""
-#     date_end: 31 November–December 1960
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-323-a", id: "fig-323-b", id: "fig-323-c", id: "fig-323-d", id: "fig-323-e", id: "fig-323-f" ]
-# REMOVED
-# -
-#     id: "324"
-#     old_id: "5.29b"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "*Piano Piece*"
-#     date: "June 1960"
-#     date_sort: "1960-06-01"
-#     year_filter: [ "1960" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-324" ]
 -
     id: "325"
     old_id: "5.29c"
@@ -5718,42 +5581,6 @@ object_list:
     type: [ score ]
     figure: [ id: "fig-325-a", id: "fig-325-b", id: "fig-325-c", id: "fig-325-d", id: "fig-325-e" ]
     related_objects: [ id: "255", id: "275", id: "328" ]
-# REMOVED
-# -
-#     id: "326"
-#     old_id: "5.29d"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from Terry Jennings to David Tudor on *Piano Piece*"
-#     date: "November 1960"
-#     date_sort: "1960-11-01"
-#     year_filter: [ "1960" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-326" ]
-# REMOVED
-# -
-#     id: "327"
-#     old_id: "5.29e"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "*Piece for Strings*"
-#     date: "June 1960"
-#     date_sort: "1960-06-01"
-#     year_filter: [ "1960" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-327-a", id: "fig-327-b" ]
 -
     id: "328"
     old_id: "5.29f"
@@ -5772,25 +5599,6 @@ object_list:
     type: [ score ]
     figure: [ id: "fig-328" ]
     related_objects: [ id: "255", id: "275", id: "325" ]
-# REMOVED
-# -
-#     id: "329"
-#     old_id: "5.29g"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from Terry Jennings to David Tudor"
-#     date: "30 March, ca. 1961"
-#     date_sort: ""
-#     year_filter: ""
-#     date_end: 31 30 March, ca. 1961
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9; and box 189, folders 4a and 4b"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-329" ]
 -
     id: "330"
     old_id: "5.30"
@@ -5808,24 +5616,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-330-a" ]
-# REMOVED
-# -
-#     id: "331"
-#     old_id: "5.31"
-#     maker: [ "Dennis Johnson (American, 1938–2018)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Untitled score"
-#     date: "March 1959"
-#     date_sort: "1959-03-01"
-#     year_filter: [ "1959" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 189, folder 5"
-#     extended_caption: "A colleague of La Monte Young’s at UCLA, Johnson composed for a brief period of time in a Webern-inspired proto-minimalist style. He later left music and became a mathematician."
-#     credit: ""
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-331-a", id: "fig-331-b", id: "fig-331-c", id: "fig-331-d", id: "fig-331-e", id: "fig-331-f", id: "fig-331-g", id: "fig-331-h", id: "fig-331-i", id: "fig-331-j", id: "fig-331-k" ]
 -
     id: "332"
     old_id: "5.32"
@@ -6041,24 +5831,6 @@ object_list:
     type: [ photograph ]
     figure: [ id: "fig-343" ]
     related_objects: [ id: "520", id: "528", id: "133", id: "552", id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "314", id: "398", id: "322", id: "376" ]
-# REMOVED DUPLICATE
-# -
-#     id: "344"
-#     old_id: "6.01a"
-#     maker: 
-#     people: ""
-#     more_people: ""
-#     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY"
-#     date: "summer 1958"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: "photograph"
-#     location: ""
-#     extended_caption: "John Cage’s course in experimental composition at the New School was advertised in official course schedules as “a course in musical composition with technical, musicological and philosophical aspects, open to those with or without previous training. Whereas conventional theories of harmony, counterpoint and musical form are based on the pitch or frequency component of sound, this course offers problems and solutions in the field of composition based on other components of sound: duration, timbre, amplitude and morphology; the course also encourages inventiveness. A full exposition of the contemporary musical scene in the light of the work of Anton Webern, and present developments in music for magnetic tape (musique concrète; electronische musik).” This photograph shows the members of the catalytic Summer 1958 cohort, which included Jackson Mac Low (fourth from left), Allan Kaprow (back row, second from right), George Brecht (back row, right, elbow visible), Al Hansen (center, with tie), and Dick Higgins (not pictured)."
-#     credit: ""
-#     featured: 
-#     type: [ photograph ]
-#     figure: [ id: "fig-344" ]
 -
     id: "345"
     old_id: "6.01b"
@@ -6106,24 +5878,6 @@ object_list:
     type: [ score ]
     figure: [ id: "fig-346" ]
     related_objects: [ id: "358", id: "353", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "357", id: "345", id: "380", id: "377", id: "391", id: "352" ]
-# REMOVED: Was dupe of 349 to provide linking to individual cards
-# -
-#     id: "347"
-#     old_id: "6.02"
-#     maker: [ "George Brecht (American, 1926–2008)" ]
-#     people: [ "Brecht, George" ]
-#     more_people: ""
-#     title: "Event score included in *Water Yam*"
-#     date: "1963"
-#     date_sort: "1963-01-01"
-#     year_filter: [ "1963" ]
-#     medium: "offset print"
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
-#     extended_caption: ""
-#     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-347" ]
 -
     id: "348"
     old_id: "6.03a"
@@ -6479,25 +6233,6 @@ object_list:
     type: [ photograph ]
     figure: [ id: "fig-366" ]
     related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "353", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "352" ]
-# REMOVED (Dupe of 007)
-# -
-#     id: "367"
-#     old_id: "6.20"
-#     maker: [ "George Brecht (American, 1926–2008)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 127"
-#     date: "ca. late July 1959"
-#     date_sort: ""
-#     year_filter: ""
-#     date_end: 31 ca. late July 1959
-#     medium: ""
-#     location: "Getty Research Institute, item 92-B17341, vol. 3"
-#     extended_caption: "George Brecht’s notes on this page read: “We seldom find it practical to think in uni-dimensional terms, because of this situationality, this awareness of many dimensions, but analysis never seems very interesting until it becomes so complex that it flows out into experience. We take the experience, and let it go at that. So many relationships.”"
-#     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
-#     featured: 
-#     type: [ sketches and materials ]
-#     figure: [ id: "fig-367" ]
 -
     id: "368"
     old_id: "6.21"
@@ -6546,75 +6281,6 @@ object_list:
     type: [ correspondence ]
     figure: [ id: "fig-369-a", id: "fig-369-b", id: "fig-369-c", id: "fig-369-d", id: "fig-369-e", id: "fig-369-f" ]
     related_objects: [ id: "349", id: "348", id: "403", id: "402", id: "416" ]
-# REMOVED (370–373 were combined into 369) 
-# -
-#     id: "370"
-#     old_id: "6.22b"
-#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from George Maciunas to George Brecht"
-#     date: "ca. January 1963"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-#     extended_caption: "In section two of this letter, Maciunas discusses the disposition of [*Water Yam*](/object-index/348/) (1963) in terms of future editions and copyright and introduces the idea of a renewable subscription model or “perpetual” box. He mentions Fluxus newsletter no. 5, which he wrote and distributed to the Fluxus network in January 1963, as “a draft for a written agreement.” In that controversial newsletter, Maciunas proposed that affiliate artists assign to Fluxus the copyright and exclusive publication rights for their works in order to present a “common front” for Fluxus activities and to achieve financial security (with individual artists retaining 80 percent of profits from the sale of their work). In section three, Maciunas reports on his research into international locations amenable to his dream of developing a self-sustaining, permanent Fluxus commune."
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-370" ]
-# -
-#     id: "371"
-#     old_id: "6.22c"
-#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from George Maciunas to George Brecht"
-#     date: "ca. January 1963"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-#     extended_caption: "In the fourth section of this letter, Maciunas attaches samples of paper for the printing of the [*Water Yam*](/object-index/348/) (1963) event score cards for Brecht to choose from. An added note in Brecht’s handwriting shows his first choice of white for all cards."
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-371" ]
-# -
-#     id: "372"
-#     old_id: "6.22d"
-#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from George Maciunas to George Brecht"
-#     date: "ca. January 1963"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-372" ]
-# -
-#     id: "373"
-#     old_id: "6.23"
-#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from George Maciunas to George Brecht"
-#     date: "ca. January 1963"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-#     extended_caption: "In two pages appended to this letter, Maciunas returns to the topic of the design for [*Water Yam*](/object-index/348/) (1963), addressing card size and sketching out playful box and label design ideas for Brecht’s consideration."
-#     credit: ""
-#     featured: true
-#     type: [ correspondence ]
-#     figure: [ id: "fig-373-a", id: "fig-373-b" ]
 -
     id: "374"
     old_id: "6.24"
@@ -7222,25 +6888,6 @@ object_list:
     type: [ audio ]
     figure: [ id: "fig-405" ]
     related_objects: [ id: "406" ]
-# REMOVED
-# -
-#     id: "405"
-#     old_id: "7.04"
-#     maker: [ "Designer unknown" ]
-#     people: ""
-#     more_people: ""
-#     title: "Collage of newspaper clippings documenting Jackson Mac Low’s arrest—along with Dorothy Day of the *Catholic Worker*, Bayard Rustin of the War Resisters League, and others—for refusing to participate in a nationwide mandatory air-raid drill"
-#     date: "ca. June 1955"
-#     date_sort: ""
-#     year_filter: ""
-#     date_end: 30 ca. June 1955
-#     medium: ""
-#     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180, box 32, folder 4"
-#     extended_caption: "Jackson Mac Low’s papers at UC San Diego contain this collage of newspaper clippings about a protest action that Mac Low participated in on 15 June 1955. The state of New York had ordered a mandatory air-raid drill in which the public was instructed to practice what to do in the event of a hypothetical five-megaton hydrogen bomb attack. The pacifist protesters gathered outside in a Manhattan park near New York City Hall, arguing that such preparatory drills only served the purpose of normalizing and accepting as inevitable the idea of thermonuclear conflict. They further argued that the drill coerced the public into acting as though a conflict involving such destructive weapons would be survivable, and they called for an end to nuclear weapons testing and other activities intended to prepare for, rather than prevent, war. Approximately thirty protesters were arrested for refusing to take shelter during the exercise, including well-known activists Dorothy Day, Ammon Hennacy, and Bayard Rustin. Mac Low’s individualist anarchist politics are evident in the article by Malcolm Logan for the New York World-Telegram and The Sun: “The demonstrators were members of The Catholic Workers, the War Resisters League, and the Fellowship of Reconciliation, plus one man, Jackson MacLow, 32, who said he was not a member of any of these groups.” Mac Low’s commitment to pacifist anarchism dates back at least to the early 1940s, when he published a series of interviews with conscientious objectors who were imprisoned for refusing to serve in the U.S. armed forces during World War II."
-#     credit: ""
-#     featured: 
-#     type: [ press clipping ]
-#     figure: [ id: "fig-405" ]
 -
     id: "406"
     old_id: "7.05"
@@ -8455,24 +8102,6 @@ object_list:
     type: [ score ]
     figure: [ id: "fig-473-a", id: "fig-473-b", id: "fig-473-c", id: "fig-473-d", id: "fig-473-e", id: "fig-473-f", id: "fig-473-g", id: "fig-473-h", id: "fig-473-i", id: "fig-473-j", id: "fig-473-k", id: "fig-473-l", id: "fig-473-m", id: "fig-473-n", id: "fig-473-o", id: "fig-473-p", id: "fig-473-q", id: "fig-473-r", id: "fig-473-s", id: "fig-473-t", id: "fig-473-u", id: "fig-473-v", id: "fig-473-w", id: "fig-473-x", id: "fig-473-y", id: "fig-473-z", id: "fig-473-aa", id: "fig-473-ab", id: "fig-473-ac", id: "fig-473-ad", id: "fig-473-ae", id: "fig-473-af", id: "fig-473-ag", id: "fig-473-ah", id: "fig-473-ai", id: "fig-473-aj", id: "fig-473-ak" ]
     related_objects: [ id: "465", id: "439", id: "440", id: "444", id: "445", id: "442", id: "472", id: "450" ]
-# REMOVED DUPLICATE
-# -
-#     id: "474"
-#     old_id: "9.01"
-#     maker: 
-#     people: ""
-#     more_people: ""
-#     title: "Dick Higgins and Jackson Mac Low in John Cage’s experimental composition class, New School for Social Research, New York, NY"
-#     date: "summer 1958"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: "photograph"
-#     location: ""
-#     extended_caption: "John Cage taught [experimental composition at the New School for Social Research multiple times between 1956 and 1960](/object-index/556/). This photograph shows Jackson Mac Low (right) and Dick Higgins (left), two students in the catalytic Summer 1958 cohort, which also included Allan Kaprow, George Brecht, and Al Hansen. Each week, Cage asked the students to compose a score in response to a prompt, which might specify readymade instruments (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, Higgins and Mac Low play a toy battleship and whirler tube, respectively, in a realization of an Al Hansen assignment."
-#     credit: ""
-#     featured: 
-#     type: [ photograph ]
-#     figure: [ id: "fig-474" ]
 -
     id: "475"
     old_id: "9.02"
@@ -8562,24 +8191,6 @@ object_list:
     type: [ score ]
     figure: [ id: "fig-479-a", id: "fig-479-b", id: "fig-479-c" ]
     related_objects: [ id: "511", id: "512", id: "482", id: "484", id: "485", id: "486", id: "487", id: "481", id: "513" ]
-# REMOVED (Cover of 511)
-# -
-#     id: "480"
-#     old_id: "9.06"
-#     maker: [ "Alison Knowles (American, b. 1933)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Cover of *Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971)"
-#     date: "1971"
-#     date_sort: "1971-01-01"
-#     year_filter: [ "1971" ]
-#     medium: ""
-#     location: ""
-#     extended_caption: ""
-#     credit: "Nova Broadcast Press. © Alison Knowles."
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-480" ]
 -
     id: "481"
     old_id: "9.07a"
@@ -8616,24 +8227,6 @@ object_list:
     type: [ video ]
     figure: [ id: "fig-482" ]
     related_objects: [ id: "481", id: "484", id: "485", id: "486", id: "487", id: "479", id: "511" ]
-# REMOVED
-# -
-#     id: "483"
-#     old_id: "9.07c"
-#     maker: 
-#     people: ""
-#     more_people: ""
-#     title: "%%%Possible Video of Commissioned Performance TK%%%"
-#     date: ""
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: ""
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [  ]
-#     figure: [ id: "fig-483" ]
 -
     id: "484"
     old_id: "9.08"
@@ -10105,24 +9698,6 @@ object_list:
     type: [ photograph ]
     figure: [ id: "fig-566" ]
     related_objects: [ id: "605", id: "607", id: "608", id: "609", id: "610", id: "611", id: "612" ]
-# REMOVED (Dupe of 607)
-# -
-#     id: "567"
-#     old_id: "11.09"
-#     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-#     people: ""
-#     more_people: ""
-#     title: "The crew of the film *Routine* (1973) at the Portland Center for the Visual Arts"
-#     date: "1973"
-#     date_sort: "1973-01-01"
-#     year_filter: [ "1973" ]
-#     medium: ""
-#     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [ photograph ]
-#     figure: [ id: "fig-567" ]
 -
     id: "568"
     old_id: "11.10"
@@ -10141,24 +9716,6 @@ object_list:
     type: [ photograph ]
     figure: [ id: "fig-568" ]
     related_objects: [ id: "573", id: "574" ]
-# REMOVED -- Dupe of 574
-# -
-#     id: "569"
-#     old_id: "11.11"
-#     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-#     people: [ "Kaprow, Allan" ]
-#     more_people: [ "Sullivan, Michael", "Johnson, Sue", "Hauck, David" ]
-#     title: "Opening shot of *Routine*"
-#     date: "1973"
-#     date_sort: "1973-01-01"
-#     year_filter: [ "1973" ]
-#     medium: "1 film reel: 16mm, SD, b&w"
-#     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46"
-#     extended_caption: "Directed by Michael Sullivan, with performers Sue Johnson and David Hauck. Produced by the Portland Center for the Visual Arts with funds from the National Endowment for the Arts."
-#     credit: ""
-#     featured: 
-#     type: [ video ]
-#     figure: [ id: "fig-569" ]
 -
     id: "570"
     old_id: "11.12"
@@ -10176,24 +9733,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-570" ]
-# REMOVED -- Dupe of 576
-# -
-#     id: "571"
-#     old_id: "11.14"
-#     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-#     people: [ "Kaprow, Allan" ]
-#     more_people: [ "Kirby, Peter" ]
-#     title: "Opening shot of *7 Kinds of Sympathy*"
-#     date: "1976"
-#     date_sort: "1976-01-01"
-#     year_filter: [ "1976" ]
-#     medium: "U-matic videocassette, SD, color, 3/4-inch tape"
-#     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V37"
-#     extended_caption: "Produced by Peter Kirby and by Anna Canepa Video Distribution."
-#     credit: ""
-#     featured: 
-#     type: [ video ]
-#     figure: [ id: "fig-571" ]
 -
     id: "572"
     old_id: "11.15"

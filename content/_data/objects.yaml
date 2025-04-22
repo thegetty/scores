@@ -71,7 +71,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-003" ]
-    related_objects: [ id: "247", id: "248", id: "255", id: "301", id: "302" ]
+    related_objects: [ id: "246", id: "247", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "004"
     old_id: "0.04"
@@ -143,7 +143,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-007" ]
-    related_objects: [ id: "379", id: "249", id: "391", id: "384", id: "378", id: "262", id: "390", id: "385", id: "386", id: "389" ]
 -
     id: "008"
     old_id: "0.08"
@@ -161,7 +160,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-008-a", id: "fig-008-b" ]
-    related_objects: [ id: "266" ]
 -
     id: "009"
     old_id: "0.09"
@@ -281,7 +279,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-015" ]
-    related_objects: [ id: "013" ]
 -
     id: "016"
     old_id: "1.05"
@@ -299,7 +296,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-016" ]
-    related_objects: [ id: "013" ]
 -
     id: "017"
     old_id: "1.06"
@@ -317,7 +313,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-017" ]
-    related_objects: [ id: "013" ]
 -
     id: "018"
     old_id: "1.07"
@@ -335,7 +330,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-018" ]
-    related_objects: [ id: "013" ]
 -
     id: "019"
     old_id: "1.07a"
@@ -550,7 +544,6 @@ object_list:
     date: "August 1953?"
     date_sort: "1953-08-01"
     year_filter: [ "1953" ]
-    date_end: 31 August 1953?
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
     extended_caption: ""
@@ -609,23 +602,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-034" ]
-# -
-#     id: "035"
-#     old_id: "1.12f"
-#     maker: 
-#     people: [ "Defibaugh, Duffy", "Cage, John", "Brown, Earle" ]
-#     more_people: [ "Barron, Bebe and Louis", "Henry, Pierre" ]
-#     title: "Front page of the *Daily Illini*"
-#     date: "March 1953"
-#     date_sort: "1953-03-01"
-#     year_filter: [ "1953" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 62, folder 5"
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [ press clipping ]
-#     figure: [ id: "fig-035" ]
 -
     id: "036"
     old_id: "1.12g"
@@ -1053,7 +1029,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-060-a", id: "fig-060-b", id: "fig-060-c", id: "fig-060-d", id: "fig-060-e", id: "fig-060-f", id: "fig-060-g", id: "fig-060-h", id: "fig-060-i", id: "fig-060-j", id: "fig-060-k", id: "fig-060-l", id: "fig-060-m", id: "fig-060-n", id: "fig-060-o", id: "fig-060-p", id: "fig-060-q", id: "fig-060-r", id: "fig-060-s", id: "fig-060-t", id: "fig-060-u", id: "fig-060-v", id: "fig-060-w", id: "fig-060-x", id: "fig-060-y", id: "fig-060-z", id: "fig-060-aa", id: "fig-060-ab", id: "fig-060-ac", id: "fig-060-ad", id: "fig-060-ae", id: "fig-060-af", id: "fig-060-ag", id: "fig-060-ah", id: "fig-060-ai", id: "fig-060-aj", id: "fig-060-ak", id: "fig-060-al", id: "fig-060-am", id: "fig-060-an", id: "fig-060-ao", id: "fig-060-ap", id: "fig-060-aq", id: "fig-060-ar", id: "fig-060-as", id: "fig-060-at", id: "fig-060-au", id: "fig-060-av", id: "fig-060-aw", id: "fig-060-ax", id: "fig-060-ay", id: "fig-060-az", id: "fig-060-ba", id: "fig-060-bb", id: "fig-060-bc", id: "fig-060-bd", id: "fig-060-be", id: "fig-060-bf", id: "fig-060-bg", id: "fig-060-bh", id: "fig-060-bi", id: "fig-060-bj", id: "fig-060-bk", id: "fig-060-bl", id: "fig-060-bm", id: "fig-060-bn", id: "fig-060-bo", id: "fig-060-bp", id: "fig-060-bq", id: "fig-060-br", id: "fig-060-bs", id: "fig-060-bt" ]
-    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "314", id: "154", id: "343" ]
 -
     id: "061"
     old_id: "2.01b"
@@ -1275,7 +1250,6 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-073" ]
-# Original fig. 074 was replaced with this one:
 -
     id: "074"
     old_id: ""
@@ -1293,24 +1267,6 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-074" ]
-# REMOVED
-# -
-#     id: "074"
-#     old_id: "2.06h"
-#     maker: [ "John Cage (American, 1912–92)", "David Tudor (American, 1926–96)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Flipbook 2: Tudor’s second realization of John Cage’s *Solo for Piano*"
-#     date: "1958"
-#     date_sort: "1958-01-01"
-#     year_filter: [ "1958" ]
-#     medium: ""
-#     location: ""
-#     extended_caption: "In the second realization, Tudor performs on piano and with electronic tape while Cage reads his famous stories concurrently for ninety minutes. Curiously, it was Tudor who had suggested making a recording of the collaboration; Cage agreed, and they pitched it to Smithsonian Folkways, who had already expressed interest in recording Cage’s work. For many of the auxiliary sounds called for in this recording of the second realization, Tudor used Cage’s recently completed tape piece, *Fontana Mix* (1958). Each page contains two lines of music that roughly equal thirty seconds each, for one minute total per page. Though Tudor overall conforms to the large-scale time lengths, page by page, there is some push and pull with regards to tempo. If a single sound is complex to execute, it may take longer (and many of these, as you shall hear, are quite complex to execute). This temporal flexibility is characteristic of Tudor’s performances of the era. It is somewhat remarkable in this instance, for we know Tudor had gone through elaborate labors to superimpose all the single ictus attacks from various graphs and spread them out over ninety minutes. Again, it raises a question: Why focus with such precision on calculations and perfect penmanship if a performance will inevitably be loose and more practical? Listeners may note as well that in this recording Cage narrates the story of his discontent with the musicians from the Town Hall premiere."
-#     credit: ""
-#     featured: 
-#     type: [ digital feature ]
-#     figure: [ id: "fig-074" ]
 -
     id: "075"
     old_id: "2.07"
@@ -1328,7 +1284,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-075" ]
-    related_objects: [ id: "060" ]
 -
     id: "076"
     old_id: "2.08"
@@ -1346,7 +1301,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-076" ]
-    related_objects: [ id: "067" ]
 -
     id: "077"
     old_id: "2.09"
@@ -1364,7 +1318,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-077" ]
-    related_objects: [ id: "060" ]
 -
     id: "078"
     old_id: "2.10"
@@ -1382,7 +1335,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-078" ]
-    related_objects: [ id: "060" ]
 -
     id: "079"
     old_id: "2.11"
@@ -1400,7 +1352,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-079" ]
-    related_objects: [ id: "067" ]
 -
     id: "080"
     old_id: "2.12"
@@ -1418,7 +1369,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-080" ]
-    related_objects: [ id: "060" ]
 -
     id: "081"
     old_id: "2.13a"
@@ -1436,7 +1386,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-081" ]
-    related_objects: [ id: "060" ]
 -
     id: "082"
     old_id: "2.13b"
@@ -2321,7 +2270,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-133" ]
-    related_objects: [ id: "520", id: "528", id: "552", id: "343" ]
 -
     id: "134"
     old_id: "2.20"
@@ -2679,7 +2627,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-154-a", id: "fig-154-b", id: "fig-154-c", id: "fig-154-d", id: "fig-154-e", id: "fig-154-f", id: "fig-154-g", id: "fig-154-h", id: "fig-154-i", id: "fig-154-j", id: "fig-154-k", id: "fig-154-l", id: "fig-154-m", id: "fig-154-n", id: "fig-154-o", id: "fig-154-p" ]
-    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "314", id: "343" ]
 -
     id: "155"
     old_id: "3.02"
@@ -2783,7 +2730,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-160" ]
-    related_objects: [ id: "154" ]
 -
     id: "161"
     old_id: "3.07"
@@ -2801,7 +2747,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-161" ]
-    related_objects: [ id: "154" ]
 -
     id: "162"
     old_id: "3.07a"
@@ -3485,7 +3430,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-201-a", id: "fig-201-b" ]
-    related_objects: [ id: "341", id: "362", id: "226", id: "214", id: "216" ]
 -
     id: "202"
     old_id: "4.06"
@@ -3520,7 +3464,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-203" ]
-    related_objects: [ id: "197" ]
 -
     id: "204"
     old_id: "4.08"
@@ -3555,7 +3498,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-205" ]
-    related_objects: [ id: "197" ]
 -
     id: "206"
     old_id: "4.10a"
@@ -3573,7 +3515,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-206" ]
-    related_objects: [ id: "197" ]
 -
     id: "207"
     old_id: "4.10b"
@@ -3591,7 +3532,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-207" ]
-    related_objects: [ id: "197" ]
 -
     id: "208"
     old_id: "4.10c"
@@ -3609,7 +3549,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-208" ]
-    related_objects: [ id: "214", id: "217", id: "197" ]
 -
     id: "209"
     old_id: ""
@@ -3644,24 +3583,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-210-d", id: "fig-210-e", id: "fig-210-f", id: "fig-210-g", id: "fig-210-b", id: "fig-210-c", id: "fig-210-h", id: "fig-210-a" ]
-# REMOVED
-# -
-#     id: "211"
-#     old_id: "4.12"
-#     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Program and flyer for a performance of *Paper Piece* and *Décollages* at the Haro Lauhus gallery in Cologne"
-#     date: "May 1961"
-#     date_sort: "1961-05-01"
-#     year_filter: [ "1961" ]
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 41, folder 4"
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [ programs and flyers ]
-#     figure: [ id: "fig-211" ]
 -
     id: "212"
     old_id: "4.13a"
@@ -3679,7 +3600,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-212-a", id: "fig-212-b" ]
-    related_objects: [ id: "224", id: "213" ]
 -
     id: "213"
     old_id: "4.13b"
@@ -3697,7 +3617,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-213-a", id: "fig-213-b", id: "fig-213-c", id: "fig-213-d", id: "fig-213-e" ]
-    related_objects: [ id: "224", id: "212" ]
 -
     id: "214"
     old_id: "4.13c"
@@ -3715,7 +3634,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-214" ]
-    related_objects: [ id: "217", id: "356", id: "341", id: "362", id: "226", id: "216", id: "201", id: "208", id: "225" ]
 -
     id: "215"
     old_id: "4.13d"
@@ -3750,7 +3668,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-216-a", id: "fig-216-b", id: "fig-216-c" ]
-    related_objects: [ id: "341", id: "362", id: "226", id: "214", id: "201" ]
 -
     id: "217"
     old_id: "4.13f"
@@ -3768,7 +3685,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-217" ]
-    related_objects: [ id: "232", id: "356", id: "214", id: "225", id: "208" ]
+    related_objects: [ id: "232" ]
 -
     id: "218"
     old_id: "4.14"
@@ -3888,7 +3805,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-224" ]
-    related_objects: [ id: "212", id: "213" ]
 -
     id: "225"
     old_id: "4.19"
@@ -3906,7 +3822,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-225-a", id: "fig-225-b" ]
-    related_objects: [ id: "214", id: "217" ]
 -
     id: "226"
     old_id: "4.20a"
@@ -3924,7 +3839,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-226-a", id: "fig-226-b", id: "fig-226-c", id: "fig-226-d", id: "fig-226-e", id: "fig-226-f", id: "fig-226-g", id: "fig-226-h", id: "fig-226-i", id: "fig-226-j" ]
-    related_objects: [ id: "341", id: "362", id: "214", id: "216", id: "201" ]
 -
     id: "227"
     old_id: "4.20b"
@@ -4029,7 +3943,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-232-a", id: "fig-232-b" ]
-    related_objects: [ id: "217", id: "236", id: "356" ]
+    related_objects: [ id: "217", id: "236" ]
 -
     id: "233"
     old_id: "4.24c"
@@ -4134,7 +4048,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-238-a", id: "fig-238-b", id: "fig-238-c", id: "fig-238-d", id: "fig-238-e", id: "fig-238-f", id: "fig-238-g", id: "fig-238-h", id: "fig-238-i", id: "fig-238-j", id: "fig-238-k", id: "fig-238-l", id: "fig-238-m", id: "fig-238-n", id: "fig-238-o", id: "fig-238-p", id: "fig-238-q", id: "fig-238-r", id: "fig-238-s", id: "fig-238-t", id: "fig-238-u", id: "fig-238-v", id: "fig-238-w", id: "fig-238-x", id: "fig-238-y", id: "fig-238-z", id: "fig-238-aa", id: "fig-238-ab", id: "fig-238-ac", id: "fig-238-ad", id: "fig-238-ae", id: "fig-238-af", id: "fig-238-ag", id: "fig-238-ah", id: "fig-238-ai", id: "fig-238-aj", id: "fig-238-ak", id: "fig-238-al", id: "fig-238-am", id: "fig-238-an", id: "fig-238-ao", id: "fig-238-ap", id: "fig-238-aq", id: "fig-238-ar", id: "fig-238-as", id: "fig-238-at", id: "fig-238-au", id: "fig-238-av", id: "fig-238-aw", id: "fig-238-ax", id: "fig-238-ay", id: "fig-238-az", id: "fig-238-ba", id: "fig-238-bb", id: "fig-238-bc", id: "fig-238-bd", id: "fig-238-be", id: "fig-238-bf", id: "fig-238-bg", id: "fig-238-bh", id: "fig-238-bi", id: "fig-238-bj", id: "fig-238-bk", id: "fig-238-bl", id: "fig-238-bm", id: "fig-238-bn", id: "fig-238-bo", id: "fig-238-bp", id: "fig-238-bq", id: "fig-238-br", id: "fig-238-bs", id: "fig-238-bt" ]
-    related_objects: [ id: "255", id: "256", id: "260", id: "252", id: "276", id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "298", id: "296", id: "272", id: "265" ]
 -
     id: "239"
     old_id: "5.02a"
@@ -4152,7 +4065,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-239" ]
-    related_objects: [ id: "244" ]
 -
     id: "240"
     old_id: "5.02b"
@@ -4170,7 +4082,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-240" ]
-    related_objects: [ id: "254", id: "243", id: "250" ]
 -
     id: "241"
     old_id: "5.02c"
@@ -4188,7 +4099,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-241" ]
-    related_objects: [ id: "238" ]
 -
     id: "242"
     old_id: "5.02d"
@@ -4209,7 +4119,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-242" ]
-    related_objects: [ id: "238" ]
 -
     id: "243"
     old_id: "5.02e"
@@ -4230,7 +4139,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-243" ]
-    related_objects: [ id: "251", id: "254", id: "240", id: "250" ]
 -
     id: "244"
     old_id: "5.02f"
@@ -4244,35 +4152,10 @@ object_list:
     medium: ""
     location: "Getty Center, Los Angeles"
     extended_caption: ""
-    credit: " © The Estate of Takehisa Kosugi."
+    credit: "© The Estate of Takehisa Kosugi."
     featured: 
     type: [ video ]
     figure: [ id: "fig-244" ]
-    related_objects: [ id: "239" ]
-# REMOVED
-# -
-# id: "245"
-# -
-#     id: "246"
-#     old_id: "5.02h"
-#     maker: [ "Earle Brown (American, 1926–2002)" ]
-#     people: [ "Brown, Earle", "Buchla, Ezra" ]
-#     more_people: [ "Cooper, Sarah", "Wada, Tashi" ]
-#     title: "Ezra Buchla performing Brown’s *December 1952* (1952) on solo viola as part of *Meaningless Work, Get to Work*, curated by Sarah Cooper and Tashi Wada"
-#     date: "4 December 2021"
-#     date_sort: "2021-12-04"
-#     year_filter: [ "2021" ]
-#     medium: ""
-#     location: "Getty Center, Los Angeles"
-#     extended_caption: |
-#       The [score for Earle Brown’s *December 1952*](/object-index/301/) is little more than a series of horizontally and vertically oriented black rectangles spread out on a square piece of paper. One of the earliest instances of graphic notation, *December 1952* is largely open to the choices of the performer: the page may be oriented in any direction, while the shapes represent sound events in time, with various intensities, aggregates of pitches, or durations (though no key is supplied as to how that might work). Influenced by the delicately twisting mobiles of Alexander Calder, the spontaneity of Jackson Pollock’s abstract expressionism, and the Afro-modernist traditions of jazz improvisation, Brown’s early drafts of *December 1952* proposed a physical three-dimensional mobile of ever-changing rectangular shapes that would inspire a performer (he originally imagined a pianist) to be similarly spontaneous in “reading” the notation. The published version of the score, which he produced with the aid of random number tables, was intended as a snapshot of these mobile forms, in what Brown came to call a “conceptual mobile.” Unlike John Cage’s chance-based works of the period, which required a disciplined execution detached from expressive choices, Brown’s works were known for their openness to improvisation. It stands among the more pictorial contributions to *An Anthology of Chance Operations*. 
-      
-#       [*December 1952*](/object-index/238/?region=3500,200,2600,2600#fig-238-m) can be found in the Getty Research Institute’s unique copy of An Anthology of Chance Operations (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
-#     credit: "Used by permission of the Earle Brown Estate."
-#     featured: 
-#     type: [ video ]
-#     figure: [ id: "fig-246" ]
-#     related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "247"
     old_id: "5.02i"
@@ -4293,7 +4176,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-247" ]
-    related_objects: [ id: "003", id: "248", id: "255", id: "301", id: "302" ]
+    related_objects: [ id: "003", id: "246", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "248"
     old_id: "5.02j"
@@ -4314,7 +4197,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-248" ]
-    related_objects: [ id: "003", id: "247", id: "255", id: "301", id: "302" ]
+    related_objects: [ id: "003", id: "246", id: "247", id: "255", id: "301", id: "302" ]
 -
     id: "249"
     old_id: "5.02k"
@@ -4335,7 +4218,6 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-249" ]
-    related_objects: [ id: "379", id: "007", id: "391", id: "384", id: "378", id: "262" ]
 -
     id: "250"
     old_id: "5.02l"
@@ -4356,7 +4238,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-250" ]
-    related_objects: [ id: "240", id: "243", id: "254", id: "238" ]
 -
     id: "251"
     old_id: "5.02m"
@@ -4379,7 +4260,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-251" ]
-    related_objects: [ id: "243", id: "238" ]
 -
     id: "252"
     old_id: "5.02o"
@@ -4400,29 +4280,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-252" ]
-    related_objects: [ id: "238", id: "276" ]
-# REMOVED -- Dupe of 252
-# -
-#     id: "253"
-#     old_id: "5.02p"
-#     maker: [ "Jackson Mac Low (American, 1922–2004)" ]
-#     people: [ "Mac Low, Jackson", "Lee, Jeanne", "Neuhaus, Max", "Tenney, James" ]
-#     more_people: ""
-#     title: "*The text on the opposite page may be used in any way as a score for solo or group readings, musical or dramatic performances, looking, smelling, anything else &/or nothing at all* (July 1961), performed by Jackson Mac Low and Jeanne Lee (voices) with Max Neuhaus and James Tenney (electronics) at Town Hall, New York, NY"
-#     date: "13 September 1966"
-#     date_sort: "1966-09-13"
-#     year_filter: [ "1966" ]
-#     medium: ""
-#     location: ""
-#     extended_caption: |
-#       This recording of [one of Jackson Mac Low’s scores included in *An Anthology*](/object-index/238/#fig-238-av) features the experimental vocalist Jeanne Lee alongside Mac Low. Following studies in literature and dance, Lee collaborated extensively with jazz pianist Ran Blake in the early 1960s before pushing her practice in increasingly intermedial directions, ultimately working between music, poetry, and dance. Here we can appreciate the ways in which Lee incorporates vocal jazz techniques, such as scatting, into a broader palette of sound poetry. In addition to collaborating with Mac Low, Lee worked with John Cage, Dick Higgins, Alison Knowles, and Dieter Roth before returning to the jazz world in the 1970s. Lee’s remarkable extended vocal practice unsettled the boundaries between the multiple experimental performance worlds in which she participated, from jazz to sound poetry.
-      
-#       The score for [*The text on the opposite page*](/object-index/238/#fig-238-av) can be found in the Getty Research Institute’s unique copy of *An Anthology of Chance Operations* (1962), published by Jackson Mac Low and George Maciunas and edited by La Monte Young.
-#     credit: " © Estate of Jackson Mac Low."
-#     featured: 
-#     type: [ audio ]
-#     figure: [ id: "fig-253" ]
-#     related_objects: [ id: "252", id: "238", id: "276" ]
+    related_objects: [ id: "253" ]
 -
     id: "254"
     old_id: "5.02q"
@@ -4443,7 +4301,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-254" ]
-    related_objects: [ id: "240", id: "243", id: "250", id: "238" ]
 -
     id: "255"
     old_id: "5.03"
@@ -4461,7 +4318,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-255" ]
-    related_objects: [ id: "003", id: "247", id: "248", id: "256", id: "301", id: "302", id: "238", id: "260", id: "325", id: "275", id: "328" ]
+    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "256", id: "301", id: "302" ]
 -
     id: "256"
     old_id: "5.04"
@@ -4479,7 +4336,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-256" ]
-    related_objects: [ id: "255", id: "238", id: "260" ]
+    related_objects: [ id: "255" ]
 -
     id: "257"
     old_id: "5.05a"
@@ -4497,7 +4354,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-257" ]
-    related_objects: [ id: "258", id: "259", id: "275", id: "282", id: "283", id: "332" ]
+    related_objects: [ id: "258", id: "259", id: "275", id: "282", id: "283" ]
 -
     id: "258"
     old_id: "5.05b"
@@ -4508,7 +4365,6 @@ object_list:
     date: "19–20 May 1961"
     date_sort: "1961-05-19"
     year_filter: [ "1961" ]
-    date_end: 31 19–20 May 1961
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 38, folder 16"
     extended_caption: "From December 1960 to June 1961, La Monte Young hosted an experimental concert series in Yoko Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
@@ -4516,7 +4372,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-258" ]
-    related_objects: [ id: "257", id: "259", id: "275", id: "282", id: "283", id: "527", id: "544" ]
+    related_objects: [ id: "257", id: "259", id: "275", id: "282", id: "283" ]
 -
     id: "259"
     old_id: "5.05c"
@@ -4527,7 +4383,6 @@ object_list:
     date: "19–20 May 1961"
     date_sort: "1961-05-19"
     year_filter: [ "1961" ]
-    date_end: 31 19–20 May 1961
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 38, folder 16"
     extended_caption: "From December 1960 to June 1961, La Monte Young hosted an experimental concert series in Yoko Ono’s loft at 112 Chambers Street in downtown Manhattan. Each concert focused on an individual artist. Featured artists included Terry Jennings, Toshi Ichiyanagi, Henry Flynt, Joseph Byrd, Jackson Mac Low, Richard Maxfield, La Monte Young, Simone Forti, and Robert Morris, with many more concerts planned but never executed. The performances and installations presented at this modest, cold-water flat served as a catalyst for the emerging trend of intermedia that would soon be documented in [*An Anthology*](/object-index/238/#fig-238-a). The concerts were attended by multiple generations of avant-garde artists and patrons, including John Cage, Marcel Duchamp, Peggy Guggenheim, Jasper Johns, and Robert Rauschenberg. Rigorous experimentalism was valued above all, as Young’s motto, printed on most of the series’ programs stated: “THE PURPOSE OF THIS SERIES IS NOT ENTERTAINMENT.”"
@@ -4535,7 +4390,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-259" ]
-    related_objects: [ id: "257", id: "258", id: "275", id: "282", id: "283", id: "300", id: "260", id: "342", id: "322", id: "299" ]
+    related_objects: [ id: "257", id: "258", id: "275", id: "282", id: "283" ]
 -
     id: "260"
     old_id: "5.06"
@@ -4553,7 +4408,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-260-a", id: "fig-260-b" ]
-    related_objects: [ id: "255", id: "256", id: "238", id: "259", id: "342" ]
 -
     id: "261"
     old_id: "5.07"
@@ -4571,7 +4425,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-261-a", id: "fig-261-b", id: "fig-261-c", id: "fig-261-d", id: "fig-261-e" ]
-    related_objects: [ id: "455" ]
 -
     id: "262"
     old_id: "5.08"
@@ -4589,7 +4442,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-262" ]
-    related_objects: [ id: "379", id: "007", id: "391", id: "384", id: "378", id: "249", id: "345", id: "349", id: "381", id: "402", id: "380" ]
 -
     id: "263"
     old_id: "5.09"
@@ -4641,7 +4493,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-265" ]
-    related_objects: [ id: "238" ]
 -
     id: "266"
     old_id: "5.11b"
@@ -4659,7 +4510,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-266-a", id: "fig-266-b", id: "fig-266-c", id: "fig-266-d", id: "fig-266-e", id: "fig-266-f" ]
-    related_objects: [ id: "008" ]
 -
     id: "267"
     old_id: "5.11c"
@@ -4677,7 +4527,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-267-a", id: "fig-267-b", id: "fig-267-c", id: "fig-267-d", id: "fig-267-e", id: "fig-267-f", id: "fig-267-g", id: "fig-267-h", id: "fig-267-i", id: "fig-267-j", id: "fig-267-k", id: "fig-267-l", id: "fig-267-m", id: "fig-267-n", id: "fig-267-o", id: "fig-267-p", id: "fig-267-q", id: "fig-267-r", id: "fig-267-s", id: "fig-267-t", id: "fig-267-u", id: "fig-267-v", id: "fig-267-w", id: "fig-267-x", id: "fig-267-y", id: "fig-267-z", id: "fig-267-aa", id: "fig-267-ab", id: "fig-267-ac", id: "fig-267-ad" ]
-    related_objects: [ id: "272", id: "356", id: "271" ]
 -
     id: "268"
     old_id: "5.11da"
@@ -4695,7 +4544,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-268-a", id: "fig-268-b", id: "fig-268-c" ]
-    related_objects: [ id: "273", id: "269", id: "270", id: "500", id: "543", id: "501" ]
 -
     id: "269"
     old_id: "5.11db"
@@ -4713,7 +4561,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-269-a", id: "fig-269-b" ]
-    related_objects: [ id: "273", id: "268", id: "270", id: "500", id: "543", id: "501" ]
 -
     id: "270"
     old_id: "5.11dc"
@@ -4731,7 +4578,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-270-a", id: "fig-270-b" ]
-    related_objects: [ id: "273", id: "268", id: "269", id: "500" ]
 -
     id: "271"
     old_id: "5.11e"
@@ -4749,7 +4595,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-271-a", id: "fig-271-b", id: "fig-271-c", id: "fig-271-d", id: "fig-271-e", id: "fig-271-f", id: "fig-271-g", id: "fig-271-h", id: "fig-271-i", id: "fig-271-j", id: "fig-271-l" ]
-    related_objects: [ id: "356", id: "272", id: "267" ]
 -
     id: "272"
     old_id: "5.11f"
@@ -4767,7 +4612,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-272-a", id: "fig-272-b", id: "fig-272-c", id: "fig-272-d", id: "fig-272-e" ]
-    related_objects: [ id: "356", id: "271", id: "298", id: "296", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "297", id: "267" ]
 -
     id: "273"
     old_id: "5.11g"
@@ -4785,7 +4629,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-273" ]
-    related_objects: [ id: "543", id: "421", id: "269", id: "268", id: "270", id: "500" ]
 -
     id: "274"
     old_id: "5.12a"
@@ -4820,7 +4663,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-275" ]
-    related_objects: [ id: "257", id: "258", id: "259", id: "282", id: "283", id: "342", id: "255", id: "325", id: "328" ]
+    related_objects: [ id: "257", id: "258", id: "259", id: "282", id: "283" ]
 -
     id: "276"
     old_id: "5.12e"
@@ -4838,7 +4681,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-276-a", id: "fig-276-b", id: "fig-276-c" ]
-    related_objects: [ id: "252", id: "238" ]
 -
     id: "277"
     old_id: "5.13a"
@@ -4849,7 +4691,6 @@ object_list:
     date: "March–April 1960"
     date_sort: "1960-03-01"
     year_filter: [ "1960" ]
-    date_end: 31 March– April 1960
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 72, folder 7"
     extended_caption: ""
@@ -4857,7 +4698,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-277" ]
-    related_objects: [ id: "286", id: "278", id: "279", id: "280", id: "303" ]
+    related_objects: [ id: "286" ]
 -
     id: "278"
     old_id: "5.13b"
@@ -4875,7 +4716,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-278" ]
-    related_objects: [ id: "286", id: "277", id: "279", id: "280", id: "303" ]
 -
     id: "279"
     old_id: "5.13c"
@@ -4893,7 +4733,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-279" ]
-    related_objects: [ id: "286", id: "278", id: "277", id: "280", id: "303" ]
 -
     id: "280"
     old_id: "5.13d"
@@ -4911,7 +4750,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-280" ]
-    related_objects: [ id: "286", id: "278", id: "279", id: "277", id: "303" ]
 -
     id: "281"
     old_id: "5.13f"
@@ -4946,7 +4784,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-282" ]
-    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "283", id: "303", id: "305", id: "304", id: "306", id: "308", id: "394", id: "395", id: "399", id: "342", id: "384", id: "400", id: "339", id: "284" ] 
+    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "283" ]
 -
     id: "283"
     old_id: "5.13h"
@@ -4964,7 +4802,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-283" ]
-    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "282", id: "306", id: "305", id: "304", id: "399", id: "342", id: "384", id: "400", id: "339", id: "284" ]
+    related_objects: [ id: "257", id: "258", id: "259", id: "275", id: "282" ]
 -
     id: "284"
     old_id: "5.13i"
@@ -4982,7 +4820,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-284" ]
-    related_objects: [ id: "339", id: "282", id: "283", id: "342", id: "384", id: "400", id: "399" ]
+    related_objects: [ id: "339" ]
 -
     id: "285"
     old_id: "5.13j"
@@ -5000,7 +4838,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-285" ]
-    related_objects: [ id: "340" ]
 -
     id: "286"
     old_id: "5.13k"
@@ -5018,7 +4855,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-286-a", id: "fig-286-b" ]
-    related_objects: [ id: "277", id: "278", id: "279", id: "280", id: "303" ]
+    related_objects: [ id: "277" ]
 -
     id: "287"
     old_id: "5.13l"
@@ -5053,7 +4890,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-288-a", id: "fig-288-b", id: "fig-288-c", id: "fig-288-d" ]
-    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "298", id: "238", id: "296", id: "272" ]
 -
     id: "289"
     old_id: "5.14b"
@@ -5071,7 +4907,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-289" ]
-    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "298", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "290"
     old_id: "5.14c"
@@ -5089,7 +4924,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-290-a", id: "fig-290-b" ]
-    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "298", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "291"
     old_id: "5.14d"
@@ -5107,7 +4941,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-291" ]
-    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "298", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "292"
     old_id: "5.14e"
@@ -5125,7 +4958,6 @@ object_list:
     featured: true
     type: [ correspondence ]
     figure: [ id: "fig-292-a", id: "fig-292-b", id: "fig-292-c" ]
-    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "298", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "293"
     old_id: "5.14f"
@@ -5143,7 +4975,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-293" ]
-    related_objects: [ id: "297", id: "295", id: "294", id: "298", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "294"
     old_id: "5.14g"
@@ -5161,7 +4992,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-294" ]
-    related_objects: [ id: "297", id: "295", id: "298", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "295"
     old_id: "5.14h"
@@ -5179,7 +5009,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-295" ]
-    related_objects: [ id: "297", id: "298", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "272", id: "296" ]
 -
     id: "296"
     old_id: "5.14i"
@@ -5197,7 +5026,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-296" ]
-    related_objects: [ id: "298", id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "272" ]
 -
     id: "297"
     old_id: "5.14j"
@@ -5215,7 +5043,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-297-a", id: "fig-297-b" ]
-    related_objects: [ id: "298", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "298"
     old_id: "5.14k"
@@ -5233,7 +5060,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-298-a", id: "fig-298-b", id: "fig-298-c" ]
-    related_objects: [ id: "297", id: "295", id: "294", id: "293", id: "292", id: "291", id: "290", id: "289", id: "288", id: "238", id: "296", id: "272" ]
 -
     id: "299"
     old_id: "5.16a"
@@ -5251,7 +5077,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-299-a", id: "fig-299-b" ]
-    related_objects: [ id: "342", id: "322", id: "300", id: "259" ]
 -
     id: "300"
     old_id: "5.16b"
@@ -5269,7 +5094,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-300-a", id: "fig-300-b", id: "fig-300-c", id: "fig-300-d", id: "fig-300-e", id: "fig-300-f", id: "fig-300-g" ]
-    related_objects: [ id: "259", id: "322", id: "299" ]
 -
     id: "301"
     old_id: "5.17a"
@@ -5287,7 +5111,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-301-a", id: "fig-301-b", id: "fig-301-c" ]
-    related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "302" ]
+    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "255", id: "302" ]
 -
     id: "302"
     old_id: "5.17b"
@@ -5305,7 +5129,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-302-a", id: "fig-302-b", id: "fig-302-c", id: "fig-302-d", id: "fig-302-e", id: "fig-302-f", id: "fig-302-g", id: "fig-302-h", id: "fig-302-i", id: "fig-302-j", id: "fig-302-k", id: "fig-302-l", id: "fig-302-m", id: "fig-302-n", id: "fig-302-o", id: "fig-302-p", id: "fig-302-q", id: "fig-302-r", id: "fig-302-s", id: "fig-302-t", id: "fig-302-u", id: "fig-302-v", id: "fig-302-w", id: "fig-302-x", id: "fig-302-y", id: "fig-302-z", id: "fig-302-aa", id: "fig-302-ab", id: "fig-302-ac", id: "fig-302-ad", id: "fig-302-ae", id: "fig-302-af" ]
-    related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301" ]
+    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "255", id: "301" ]
 -
     id: "303"
     old_id: "5.18a"
@@ -5323,7 +5147,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-303-a", id: "fig-303-b", id: "fig-303-c", id: "fig-303-d", id: "fig-303-e", id: "fig-303-f", id: "fig-303-g" ]
-    related_objects: [ id: "282", id: "305", id: "304", id: "306", id: "308", id: "309", id: "307", id: "277", id: "280", id: "286", id: "278", id: "279" ]
 -
     id: "304"
     old_id: "5.18b"
@@ -5341,7 +5164,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-304" ]
-    related_objects: [ id: "282", id: "305", id: "303", id: "306", id: "308", id: "283", id: "309", id: "307" ]
 -
     id: "305"
     old_id: "5.18c"
@@ -5359,7 +5181,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-305-a", id: "fig-305-b", id: "fig-305-c", id: "fig-305-d" ]
-    related_objects: [ id: "282", id: "303", id: "304", id: "306", id: "308", id: "283" ]
 -
     id: "306"
     old_id: "5.18d"
@@ -5377,7 +5198,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-306-a", id: "fig-306-b" ]
-    related_objects: [ id: "282", id: "305", id: "304", id: "303", id: "308", id: "283", id: "307", id: "309", id: "336" ]
 -
     id: "307"
     old_id: "5.18e"
@@ -5395,7 +5215,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-307-a", id: "fig-307-b", id: "fig-307-c", id: "fig-307-d", id: "fig-307-e", id: "fig-307-f", id: "fig-307-g" ]
-    related_objects: [ id: "306", id: "303", id: "304", id: "308", id: "309" ]
 -
     id: "308"
     old_id: "5.18f"
@@ -5413,7 +5232,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-308-a", id: "fig-308-b" ]
-    related_objects: [ id: "282", id: "305", id: "304", id: "306", id: "303", id: "309", id: "307" ]
 -
     id: "309"
     old_id: "5.18g"
@@ -5431,7 +5249,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-309" ]
-    related_objects: [ id: "304", id: "306", id: "303", id: "308", id: "307" ]
 -
     id: "310"
     old_id: "5.18h"
@@ -5517,7 +5334,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-314-a", id: "fig-314-b", id: "fig-314-c", id: "fig-314-d" ]
-    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "315"
     old_id: "5.27b"
@@ -5535,7 +5351,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-315-a", id: "fig-315-b" ]
-    related_objects: [ id: "314", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "316"
     old_id: "5.27c"
@@ -5553,7 +5368,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-316-a", id: "fig-316-b" ]
-    related_objects: [ id: "315", id: "314", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "317"
     old_id: "5.27d"
@@ -5564,7 +5378,6 @@ object_list:
     date: "September, ca. 1962"
     date_sort: "1962-09-01"
     year_filter: [ "1962" ]
-    date_end: 30 September, ca. 1962
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 54, folder 7"
     extended_caption: "The composer and pianist Toshi Ichiyanagi lived in New York from 1956 to 1960. There, he studied at Juilliard and the New School, and met Yoko Ono, who had moved to New York with her family in 1953 and attended Sarah Lawrence College. Ichiyanagi and Ono married in 1956, and both pursued experimental music and attended [John Cage’s class on experimental composition](/object-index/556/). In the early 1960s, Ichiyanagi returned to Japan while Ono stayed in New York, a circumstance that precipitated their eventual separation in 1962. This correspondence between David Tudor and Ichiyanagi between 1961 and 1967 shows how Ichiyanagi was instrumental in popularizing the New York avant-garde in Tokyo and shows how he did substantial work organizing performances and tour arrangements for Cage and Tudor during their first trip to Japan in 1962."
@@ -5572,7 +5385,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-317-a", id: "fig-317-b" ]
-    related_objects: [ id: "315", id: "316", id: "314", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "318"
     old_id: "5.27e"
@@ -5590,7 +5402,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-318-a", id: "fig-318-b" ]
-    related_objects: [ id: "315", id: "316", id: "317", id: "314", id: "319", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "319"
     old_id: "5.27f"
@@ -5608,7 +5419,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-319-a", id: "fig-319-b" ]
-    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "314", id: "320", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "320"
     old_id: "5.27g"
@@ -5626,7 +5436,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-320" ]
-    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "314", id: "321", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "321"
     old_id: "5.27h"
@@ -5644,7 +5453,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-321-a", id: "fig-321-b" ]
-    related_objects: [ id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "314", id: "060", id: "154", id: "343", id: "398", id: "322", id: "376" ]
 -
     id: "322"
     old_id: "5.28"
@@ -5662,44 +5470,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-322-a", id: "fig-322-b", id: "fig-322-c", id: "fig-322-d", id: "fig-322-e", id: "fig-322-f", id: "fig-322-g", id: "fig-322-h" ]
-    related_objects: [ id: "300", id: "259", id: "299", id: "320", id: "314", id: "315", id: "316", id: "317", id: "318", id: "319", id: "321", id: "343" ]
-# REMOVED
-# -
-#     id: "323"
-#     old_id: "5.29a"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "*Piano Piece*"
-#     date: "November–December 1960"
-#     date_sort: ""
-#     year_filter: ""
-#     date_end: 31 November–December 1960
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-323-a", id: "fig-323-b", id: "fig-323-c", id: "fig-323-d", id: "fig-323-e", id: "fig-323-f" ]
-# REMOVED
-# -
-#     id: "324"
-#     old_id: "5.29b"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "*Piano Piece*"
-#     date: "June 1960"
-#     date_sort: "1960-06-01"
-#     year_filter: [ "1960" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-324" ]
 -
     id: "325"
     old_id: "5.29c"
@@ -5717,43 +5487,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-325-a", id: "fig-325-b", id: "fig-325-c", id: "fig-325-d", id: "fig-325-e" ]
-    related_objects: [ id: "255", id: "275", id: "328" ]
-# REMOVED
-# -
-#     id: "326"
-#     old_id: "5.29d"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from Terry Jennings to David Tudor on *Piano Piece*"
-#     date: "November 1960"
-#     date_sort: "1960-11-01"
-#     year_filter: [ "1960" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-326" ]
-# REMOVED
-# -
-#     id: "327"
-#     old_id: "5.29e"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "*Piece for Strings*"
-#     date: "June 1960"
-#     date_sort: "1960-06-01"
-#     year_filter: [ "1960" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-327-a", id: "fig-327-b" ]
 -
     id: "328"
     old_id: "5.29f"
@@ -5771,26 +5504,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-328" ]
-    related_objects: [ id: "255", id: "275", id: "325" ]
-# REMOVED
-# -
-#     id: "329"
-#     old_id: "5.29g"
-#     maker: [ "Terry Jennings (American, 1940–81)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from Terry Jennings to David Tudor"
-#     date: "30 March, ca. 1961"
-#     date_sort: ""
-#     year_filter: ""
-#     date_end: 31 30 March, ca. 1961
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 10, folder 9; and box 189, folders 4a and 4b"
-#     extended_caption: "Composer and saxophonist Terry Jennings had gotten to know La Monte Young during the late 1950s as a saxophonist. During the late ’50s and early ’60s, both Jennings and Young were composing traditionally notated music that was proto-minimalist in style, featuring slow tempos and long, sustained notes. This is a dossier of scores sent by Jennings to David Tudor that mirrors this style. Jennings and Young together also played Coltrane-inspired saxophone improvisations following the performances of these pieces in [Young and Ono’s loft series of 1960–61](/object-index/257/)."
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-329" ]
 -
     id: "330"
     old_id: "5.30"
@@ -5808,24 +5521,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-330-a" ]
-# REMOVED
-# -
-#     id: "331"
-#     old_id: "5.31"
-#     maker: [ "Dennis Johnson (American, 1938–2018)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Untitled score"
-#     date: "March 1959"
-#     date_sort: "1959-03-01"
-#     year_filter: [ "1959" ]
-#     medium: ""
-#     location: "Getty Research Institute, David Tudor Papers, 980039, box 189, folder 5"
-#     extended_caption: "A colleague of La Monte Young’s at UCLA, Johnson composed for a brief period of time in a Webern-inspired proto-minimalist style. He later left music and became a mathematician."
-#     credit: ""
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-331-a", id: "fig-331-b", id: "fig-331-c", id: "fig-331-d", id: "fig-331-e", id: "fig-331-f", id: "fig-331-g", id: "fig-331-h", id: "fig-331-i", id: "fig-331-j", id: "fig-331-k" ]
 -
     id: "332"
     old_id: "5.32"
@@ -5843,7 +5538,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-332" ]
-    related_objects: [ id: "257" ]
 -
     id: "333"
     old_id: "5.33"
@@ -5861,7 +5555,6 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-333-a", id: "fig-333-b", id: "fig-333-c", id: "fig-333-d", id: "fig-333-e", id: "fig-333-f" ]
-    related_objects: [ id: "418", id: "421", id: "419" ]
 -
     id: "334"
     old_id: "5.34a"
@@ -5879,7 +5572,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-334" ]
-    related_objects: [ id: "335", id: "338" ]
 -
     id: "335"
     old_id: "5.34b"
@@ -5897,7 +5589,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-335" ]
-    related_objects: [ id: "334", id: "338" ]
 -
     id: "336"
     old_id: "5.34c"
@@ -5915,7 +5606,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-336" ]
-    related_objects: [ id: "306" ]
 -
     id: "337"
     old_id: "5.34d"
@@ -5950,7 +5640,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-338" ]
-    related_objects: [ id: "334", id: "335" ]
 -
     id: "339"
     old_id: "5.34f"
@@ -5968,7 +5657,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-339" ]
-    related_objects: [ id: "284", id: "282", id: "283", id: "342", id: "384", id: "400", id: "399" ]
+    related_objects: [ id: "284" ]
 -
     id: "340"
     old_id: "5.34g"
@@ -5986,7 +5675,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-340" ]
-    related_objects: [ id: "385", id: "285" ]
 -
     id: "341"
     old_id: "5.35"
@@ -6004,7 +5692,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-341" ]
-    related_objects: [ id: "226", id: "214", id: "216", id: "201", id: "362", id: "346", id: "359", id: "360", id: "361", id: "363", id: "366", id: "353" ]
 -
     id: "342"
     old_id: "5.36"
@@ -6022,7 +5709,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-342-a", id: "fig-342-b" ]
-    related_objects: [ id: "275", id: "282", id: "283", id: "399", id: "384", id: "400", id: "339", id: "284", id: "259", id: "260", id: "299" ]
 -
     id: "343"
     old_id: "5.37"
@@ -6040,25 +5726,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-343" ]
-    related_objects: [ id: "520", id: "528", id: "133", id: "552", id: "315", id: "316", id: "317", id: "318", id: "319", id: "320", id: "321", id: "060", id: "154", id: "314", id: "398", id: "322", id: "376" ]
-# REMOVED DUPLICATE
-# -
-#     id: "344"
-#     old_id: "6.01a"
-#     maker: 
-#     people: ""
-#     more_people: ""
-#     title: "Students in John Cage’s experimental composition class, New School for Social Research, New York, NY"
-#     date: "summer 1958"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: "photograph"
-#     location: ""
-#     extended_caption: "John Cage’s course in experimental composition at the New School was advertised in official course schedules as “a course in musical composition with technical, musicological and philosophical aspects, open to those with or without previous training. Whereas conventional theories of harmony, counterpoint and musical form are based on the pitch or frequency component of sound, this course offers problems and solutions in the field of composition based on other components of sound: duration, timbre, amplitude and morphology; the course also encourages inventiveness. A full exposition of the contemporary musical scene in the light of the work of Anton Webern, and present developments in music for magnetic tape (musique concrète; electronische musik).” This photograph shows the members of the catalytic Summer 1958 cohort, which included Jackson Mac Low (fourth from left), Allan Kaprow (back row, second from right), George Brecht (back row, right, elbow visible), Al Hansen (center, with tie), and Dick Higgins (not pictured)."
-#     credit: ""
-#     featured: 
-#     type: [ photograph ]
-#     figure: [ id: "fig-344" ]
 -
     id: "345"
     old_id: "6.01b"
@@ -6087,7 +5754,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-345" ]
-    related_objects: [ id: "381", id: "348", id: "349", id: "391", id: "378", id: "357", id: "346", id: "379", id: "262", id: "402", id: "380", id: "384"  ]
 -
     id: "346"
     old_id: "6.01c"
@@ -6105,25 +5771,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-346" ]
-    related_objects: [ id: "358", id: "353", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "357", id: "345", id: "380", id: "377", id: "391", id: "352" ]
-# REMOVED: Was dupe of 349 to provide linking to individual cards
-# -
-#     id: "347"
-#     old_id: "6.02"
-#     maker: [ "George Brecht (American, 1926–2008)" ]
-#     people: [ "Brecht, George" ]
-#     more_people: ""
-#     title: "Event score included in *Water Yam*"
-#     date: "1963"
-#     date_sort: "1963-01-01"
-#     year_filter: [ "1963" ]
-#     medium: "offset print"
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
-#     extended_caption: ""
-#     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-347" ]
 -
     id: "348"
     old_id: "6.03a"
@@ -6141,7 +5788,6 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-348" ]
-    related_objects: [ id: "381", id: "345", id: "349", id: "391", id: "378", id: "369", id: "350", id: "403", id: "401", id: "374", id: "376", id: "380", id: "393", id: "388", id: "384", id: "556" ]
 -
     id: "349"
     old_id: "6.03b"
@@ -6159,7 +5805,6 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-349" ]
-    related_objects: [ id: "381", id: "348", id: "345", id: "391", id: "378", id: "369", id: "350", id: "401", id: "403", id: "379", id: "262", id: "402", id: "380", id: "384", id: "374", id: "376", id: "377", id: "393", id: "388", id: "556" ]
 -
     id: "350"
     old_id: "6.03c"
@@ -6177,7 +5822,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-350" ]
-    related_objects: [ id: "348", id: "349" ]
 -
     id: "351"
     old_id: "6.04"
@@ -6195,7 +5839,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-351" ]
-    related_objects: [ id: "352", id: "383", id: "346" ]
+    related_objects: [ id: "352", id: "383" ]
 -
     id: "352"
     old_id: "6.05"
@@ -6216,7 +5860,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-352" ]
-    related_objects: [ id: "351", id: "383", id: "387", id: "363", id: "366", id: "346" ]
+    related_objects: [ id: "351", id: "383" ]
 -
     id: "353"
     old_id: "6.06"
@@ -6234,7 +5878,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-353" ]
-    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341" ]
+    related_objects: [ id: "358" ]
 -
     id: "354"
     old_id: "6.07"
@@ -6257,7 +5901,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-354" ]
-    related_objects: [ id: "357", id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "353", id: "355" ]
 -
     id: "355"
     old_id: "6.08"
@@ -6275,7 +5918,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-355" ]
-    related_objects: [ id: "357", id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "353" ]
 -
     id: "356"
     old_id: "6.09"
@@ -6298,7 +5940,7 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-356" ]
-    related_objects: [ id: "229", id: "230", id: "368", id: "271", id: "272", id: "214", id: "217", id: "232", id: "360", id: "346", id: "359", id: "361", id: "362", id: "363", id: "366", id: "353", id: "267" ]
+    related_objects: [ id: "229", id: "230", id: "368" ]
 -
     id: "357"
     old_id: "6.10"
@@ -6316,7 +5958,6 @@ object_list:
     featured: 
     type: [ video, digital feature ]
     figure: [ id: "fig-357" ]
-    related_objects: [ id: "354", id: "353", id: "355", id: "359", id: "362", id: "345", id: "346" ]
 -
     id: "358"
     old_id: "6.11"
@@ -6334,7 +5975,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-358-a", id: "fig-358-b" ]
-    related_objects: [ id: "353", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355" ]
+    related_objects: [ id: "353" ]
 -
     id: "359"
     old_id: "6.12"
@@ -6352,7 +5993,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-359" ]
-    related_objects: [ id: "357", id: "358", id: "346", id: "353", id: "360", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "356", id: "383", id: "384", id: "341" ]
 -
     id: "360"
     old_id: "6.13"
@@ -6370,7 +6010,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-360" ]
-    related_objects: [ id: "358", id: "346", id: "359", id: "353", id: "361", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341" ]
 -
     id: "361"
     old_id: "6.14"
@@ -6388,7 +6027,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-361" ]
-    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "353", id: "362", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341" ]
 -
     id: "362"
     old_id: "6.15"
@@ -6406,7 +6044,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-362" ]
-    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "361", id: "353", id: "363", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "226", id: "214", id: "216", id: "201", id: "380", id: "377", id: "391" ]
 -
     id: "363"
     old_id: "6.16"
@@ -6424,7 +6061,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-363" ]
-    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "353", id: "366", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "352" ]
 -
     id: "364"
     old_id: "6.17"
@@ -6442,7 +6078,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-364" ]
-    related_objects: [ id: "365" ]
 -
     id: "365"
     old_id: "6.18"
@@ -6460,7 +6095,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-365" ]
-    related_objects: [ id: "364" ]
 -
     id: "366"
     old_id: "6.19"
@@ -6478,26 +6112,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-366" ]
-    related_objects: [ id: "358", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "353", id: "354", id: "355", id: "387", id: "383", id: "384", id: "356", id: "341", id: "352" ]
-# REMOVED (Dupe of 007)
-# -
-#     id: "367"
-#     old_id: "6.20"
-#     maker: [ "George Brecht (American, 1926–2008)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Notebook page, reprinted in *George Brecht—Notebooks*, ed. Dieter Daniels and Hermann Braun, vol. 3 (Cologne: Walther König, 1991), 127"
-#     date: "ca. late July 1959"
-#     date_sort: ""
-#     year_filter: ""
-#     date_end: 31 ca. late July 1959
-#     medium: ""
-#     location: "Getty Research Institute, item 92-B17341, vol. 3"
-#     extended_caption: "George Brecht’s notes on this page read: “We seldom find it practical to think in uni-dimensional terms, because of this situationality, this awareness of many dimensions, but analysis never seems very interesting until it becomes so complex that it flows out into experience. We take the experience, and let it go at that. So many relationships.”"
-#     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
-#     featured: 
-#     type: [ sketches and materials ]
-#     figure: [ id: "fig-367" ]
 -
     id: "368"
     old_id: "6.21"
@@ -6518,7 +6132,6 @@ object_list:
     featured: true
     type: [ press clipping ]
     figure: [ id: "fig-368-a", id: "fig-368-b", id: "fig-368-c", id: "fig-368-d" ]
-    related_objects: [ id: "356", id: "229", id: "230" ]
 -
     id: "369"
     old_id: "6.22a"
@@ -6545,76 +6158,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-369-a", id: "fig-369-b", id: "fig-369-c", id: "fig-369-d", id: "fig-369-e", id: "fig-369-f" ]
-    related_objects: [ id: "349", id: "348", id: "403", id: "402", id: "416" ]
-# REMOVED (370–373 were combined into 369) 
-# -
-#     id: "370"
-#     old_id: "6.22b"
-#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from George Maciunas to George Brecht"
-#     date: "ca. January 1963"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-#     extended_caption: "In section two of this letter, Maciunas discusses the disposition of [*Water Yam*](/object-index/348/) (1963) in terms of future editions and copyright and introduces the idea of a renewable subscription model or “perpetual” box. He mentions Fluxus newsletter no. 5, which he wrote and distributed to the Fluxus network in January 1963, as “a draft for a written agreement.” In that controversial newsletter, Maciunas proposed that affiliate artists assign to Fluxus the copyright and exclusive publication rights for their works in order to present a “common front” for Fluxus activities and to achieve financial security (with individual artists retaining 80 percent of profits from the sale of their work). In section three, Maciunas reports on his research into international locations amenable to his dream of developing a self-sustaining, permanent Fluxus commune."
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-370" ]
-# -
-#     id: "371"
-#     old_id: "6.22c"
-#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from George Maciunas to George Brecht"
-#     date: "ca. January 1963"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-#     extended_caption: "In the fourth section of this letter, Maciunas attaches samples of paper for the printing of the [*Water Yam*](/object-index/348/) (1963) event score cards for Brecht to choose from. An added note in Brecht’s handwriting shows his first choice of white for all cards."
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-371" ]
-# -
-#     id: "372"
-#     old_id: "6.22d"
-#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from George Maciunas to George Brecht"
-#     date: "ca. January 1963"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [ correspondence ]
-#     figure: [ id: "fig-372" ]
-# -
-#     id: "373"
-#     old_id: "6.23"
-#     maker: [ "George Maciunas (Lithuanian American, 1931–78)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Letter from George Maciunas to George Brecht"
-#     date: "ca. January 1963"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: "Getty Research Institute, Jean Brown Papers, 890164, box 30, folder 31"
-#     extended_caption: "In two pages appended to this letter, Maciunas returns to the topic of the design for [*Water Yam*](/object-index/348/) (1963), addressing card size and sketching out playful box and label design ideas for Brecht’s consideration."
-#     credit: ""
-#     featured: true
-#     type: [ correspondence ]
-#     figure: [ id: "fig-373-a", id: "fig-373-b" ]
 -
     id: "374"
     old_id: "6.24"
@@ -6632,7 +6175,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-374-a", id: "fig-374-b", id: "fig-374-c", id: "fig-374-d", id: "fig-374-e", id: "fig-374-f", id: "fig-374-g", id: "fig-374-h", id: "fig-374-i" ]
-    related_objects: [ id: "397", id: "400", id: "375", id: "396", id: "376", id: "378", id: "379", id: "380", id: "381", id: "348", id: "349", id: "401", id: "377" ]
 -
     id: "375"
     old_id: "6.25"
@@ -6650,7 +6192,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-375" ]
-    related_objects: [ id: "382", id: "376", id: "397", id: "400", id: "396", id: "374", id: "378", id: "379", id: "380", id: "381", id: "377", id: "399" ]
 -
     id: "376"
     old_id: "6.26"
@@ -6668,7 +6209,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-376" ]
-    related_objects: [ id: "382", id: "375", id: "397", id: "400", id: "374", id: "396", id: "378", id: "379", id: "380", id: "381", id: "348", id: "349", id: "401", id: "377", id: "343", id: "320", id: "319", id: "318", id: "317", id: "316", id: "315", id: "314", id: "321" ]
 -
     id: "377"
     old_id: "6.27"
@@ -6686,7 +6226,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-377-a", id: "fig-377-b" ]
-    related_objects: [ id: "349", id: "381", id: "376", id: "374", id: "380", id: "401", id: "346", id: "362", id: "387", id: "391", id: "375" ]
 -
     id: "378"
     old_id: "6.28"
@@ -6704,7 +6243,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-378" ]
-    related_objects: [ id: "381", id: "348", id: "349", id: "391", id: "345", id: "379", id: "007", id: "384", id: "249", id: "262", id: "397", id: "400", id: "375", id: "374", id: "376", id: "396", id: "380", id: "401", id: "403", id: "402" ]
 -
     id: "379"
     old_id: "6.29"
@@ -6722,7 +6260,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-379" ]
-    related_objects: [ id: "249", id: "007", id: "391", id: "384", id: "378", id: "262", id: "397", id: "400", id: "375", id: "374", id: "376", id: "396", id: "380", id: "381", id: "345", id: "349", id: "402" ]
 -
     id: "380"
     old_id: "6.30"
@@ -6740,7 +6277,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-380" ]
-    related_objects: [ id: "397", id: "400", id: "375", id: "374", id: "376", id: "378", id: "379", id: "396", id: "381", id: "391", id: "345", id: "349", id: "262", id: "402", id: "384", id: "348", id: "401", id: "377", id: "346", id: "362", id: "387" ]
 -
     id: "381"
     old_id: "6.31"
@@ -6758,7 +6294,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-381" ]
-    related_objects: [ id: "345", id: "348", id: "349", id: "391", id: "378", id: "397", id: "400", id: "375", id: "374", id: "376", id: "379", id: "380", id: "396", id: "262", id: "402", id: "384", id: "377", id: "401" ]
 -
     id: "382"
     old_id: "6.32"
@@ -6776,7 +6311,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-382" ]
-    related_objects: [ id: "376", id: "375" ]
 -
     id: "383"
     old_id: "6.33"
@@ -6794,7 +6328,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-383-a", id: "fig-383-b" ]
-    related_objects: [ id: "351", id: "352", id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "353", id: "384", id: "387" ]
+    related_objects: [ id: "351", id: "352" ]
 -
     id: "384"
     old_id: "6.34"
@@ -6812,7 +6346,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-384-a", id: "fig-384-b" ]
-    related_objects: [ id: "379", id: "007", id: "391", id: "249", id: "378", id: "262", id: "390", id: "385", id: "386", id: "389", id: "346", id: "387", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "353", id: "383", id: "345", id: "349", id: "381", id: "402", id: "380", id: "282", id: "283", id: "342", id: "399", id: "400", id: "339", id: "284", id: "393", id: "348", id: "388", id: "556" ]
 -
     id: "385"
     old_id: "6.35"
@@ -6823,7 +6356,6 @@ object_list:
     date: "ca. December 1958"
     date_sort: "1958-12-01"
     year_filter: [ "1958" ]
-    date_end: 31 ca. December 1958
     medium: ""
     location: "Getty Research Institute, item 92-B17341, vol. 2"
     extended_caption: "These pages show George Brecht’s outline for an essay (never completed) titled “The Structure of a New Aesthetic” or “John Cage and the Modern World-View: Space, Time and Causality.” His notes map out the relationships of Cage’s practice to a broader intellectual terrain that included relativity theory, quantum physics, East Asian philosophy, field theory, Gestalt psychology, and psychoanalysis."
@@ -6831,7 +6363,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-385-a", id: "fig-385-b", id: "fig-385-c" ]
-    related_objects: [ id: "007", id: "384", id: "390", id: "386", id: "389" ]
 -
     id: "386"
     old_id: "6.36"
@@ -6849,7 +6380,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-386" ]
-    related_objects: [ id: "007", id: "384", id: "385", id: "390", id: "389" ]
 -
     id: "387"
     old_id: "6.37"
@@ -6867,7 +6397,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-387" ]
-    related_objects: [ id: "346", id: "359", id: "360", id: "361", id: "362", id: "363", id: "366", id: "353", id: "383", id: "384", id: "380", id: "377", id: "391", id: "352" ] 
 -
     id: "388"
     old_id: "6.38"
@@ -6885,7 +6414,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-388-a", id: "fig-388-b" ]
-    related_objects: [ id: "393", id: "348", id: "349", id: "384", id: "556", id: "580", id: "557" ]
 -
     id: "389"
     old_id: "6.39"
@@ -6896,7 +6424,6 @@ object_list:
     date: "ca. late July 1959"
     date_sort: "1959-07-15"
     year_filter: [ "1959" ]
-    date_end: 31 ca. late July 1959
     medium: ""
     location: "Getty Research Institute, item 92-B17341, vol. 3"
     extended_caption: |
@@ -6915,7 +6442,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-389" ]
-    related_objects: [ id: "007", id: "384", id: "385", id: "386", id: "390" ]
 -
     id: "390"
     old_id: "6.40"
@@ -6926,7 +6452,6 @@ object_list:
     date: "ca. late July 1959"
     date_sort: "1959-07-15"
     year_filter: [ "1959" ]
-    date_end: 31 ca. late July 1959
     medium: ""
     location: "Getty Research Institute, item 92-B17341, vol. 3"
     extended_caption: |
@@ -6944,7 +6469,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-390" ]
-    related_objects: [ id: "007", id: "384", id: "385", id: "386", id: "389" ]
 -
     id: "391"
     old_id: "6.41"
@@ -6962,7 +6486,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-391-a", id: "fig-391-b" ]
-    related_objects: [ id: "381", id: "348", id: "349", id: "345", id: "378", id: "379", id: "007", id: "249", id: "384", id: "262", id: "380", id: "402", id: "346", id: "362", id: "387", id: "377" ]
 -
     id: "392"
     old_id: "6.42"
@@ -6980,7 +6503,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-392" ]
-    related_objects: [ id: "393" ]
 -
     id: "393"
     old_id: "6.43"
@@ -6998,7 +6520,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-393-a", id: "fig-393-b", id: "fig-393-c", id: "fig-393-d", id: "fig-393-e" ]
-    related_objects: [ id: "392", id: "388", id: "348", id: "349", id: "384", id: "556" ]
 -
     id: "394"
     old_id: "6.44"
@@ -7016,7 +6537,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-394" ]
-    related_objects: [ id: "395", id: "282" ]
+    related_objects: [ id: "395" ]
 -
     id: "395"
     old_id: "6.45"
@@ -7034,7 +6555,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-395" ]
-    related_objects: [ id: "394", id: "282" ]
+    related_objects: [ id: "394" ]
 -
     id: "396"
     old_id: "6.46"
@@ -7052,7 +6573,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-396" ]
-    related_objects: [ id: "397", id: "400", id: "375", id: "374", id: "376", id: "378", id: "379", id: "380", id: "381", id: "398" ]
 -
     id: "397"
     old_id: "6.47"
@@ -7070,7 +6590,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-397" ]
-    related_objects: [ id: "196", id: "237", id: "398", id: "396", id: "400", id: "375", id: "374", id: "376", id: "378", id: "379", id: "380", id: "381" ]
+    related_objects: [ id: "196", id: "237", id: "398" ]
 -
     id: "398"
     old_id: "6.48"
@@ -7088,7 +6608,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-398" ]
-    related_objects: [ id: "196", id: "237", id: "397", id: "396", id: "317", id: "314", id: "315", id: "316", id: "318", id: "319", id: "320", id: "321", id: "343" ]
+    related_objects: [ id: "196", id: "237", id: "397" ]
 -
     id: "399"
     old_id: "6.49"
@@ -7106,7 +6626,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-399-a", id: "fig-399-b" ]
-    related_objects: [ id: "282", id: "283", id: "342", id: "384", id: "400", id: "339", id: "284", id: "375" ]
 -
     id: "400"
     old_id: "6.50"
@@ -7124,7 +6643,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-400" ]
-    related_objects: [ id: "397", id: "396", id: "375", id: "374", id: "376", id: "378", id: "379", id: "380", id: "381", id: "282", id: "283", id: "342", id: "384", id: "399", id: "339", id: "284" ]
 -
     id: "401"
     old_id: "6.51"
@@ -7142,7 +6660,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-401-a", id: "fig-401-b" ]
-    related_objects: [ id: "378", id: "349", id: "403", id: "348", id: "374", id: "376", id: "380", id: "381", id: "377" ]
 -
     id: "402"
     old_id: "6.52"
@@ -7167,7 +6684,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-402-b", id: "fig-402-a", id: "fig-402-c" ]
-    related_objects: [ id: "403", id: "369", id: "416", id: "391", id: "345", id: "349", id: "379", id: "378", id: "262", id: "381", id: "380", id: "384" ]
 -
     id: "403"
     old_id: "6.53"
@@ -7185,7 +6701,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-403-a", id: "fig-403-b" ]
-    related_objects: [ id: "402", id: "369", id: "416", id: "378", id: "349", id: "401", id: "348" ]
 -
     id: "404"
     old_id: "7.01"
@@ -7213,7 +6728,6 @@ object_list:
     date: "2025"
     date_sort: "2025-01-01"
     year_filter: ""
-    date_end: ""
     medium: ""
     location: ""
     extended_caption: ""
@@ -7221,26 +6735,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-405" ]
-    related_objects: [ id: "406" ]
-# REMOVED
-# -
-#     id: "405"
-#     old_id: "7.04"
-#     maker: [ "Designer unknown" ]
-#     people: ""
-#     more_people: ""
-#     title: "Collage of newspaper clippings documenting Jackson Mac Low’s arrest—along with Dorothy Day of the *Catholic Worker*, Bayard Rustin of the War Resisters League, and others—for refusing to participate in a nationwide mandatory air-raid drill"
-#     date: "ca. June 1955"
-#     date_sort: ""
-#     year_filter: ""
-#     date_end: 30 ca. June 1955
-#     medium: ""
-#     location: "UC San Diego Special Collections and Archives, Jackson Mac Low Papers, MSS 180, box 32, folder 4"
-#     extended_caption: "Jackson Mac Low’s papers at UC San Diego contain this collage of newspaper clippings about a protest action that Mac Low participated in on 15 June 1955. The state of New York had ordered a mandatory air-raid drill in which the public was instructed to practice what to do in the event of a hypothetical five-megaton hydrogen bomb attack. The pacifist protesters gathered outside in a Manhattan park near New York City Hall, arguing that such preparatory drills only served the purpose of normalizing and accepting as inevitable the idea of thermonuclear conflict. They further argued that the drill coerced the public into acting as though a conflict involving such destructive weapons would be survivable, and they called for an end to nuclear weapons testing and other activities intended to prepare for, rather than prevent, war. Approximately thirty protesters were arrested for refusing to take shelter during the exercise, including well-known activists Dorothy Day, Ammon Hennacy, and Bayard Rustin. Mac Low’s individualist anarchist politics are evident in the article by Malcolm Logan for the New York World-Telegram and The Sun: “The demonstrators were members of The Catholic Workers, the War Resisters League, and the Fellowship of Reconciliation, plus one man, Jackson MacLow, 32, who said he was not a member of any of these groups.” Mac Low’s commitment to pacifist anarchism dates back at least to the early 1940s, when he published a series of interviews with conscientious objectors who were imprisoned for refusing to serve in the U.S. armed forces during World War II."
-#     credit: ""
-#     featured: 
-#     type: [ press clipping ]
-#     figure: [ id: "fig-405" ]
 -
     id: "406"
     old_id: "7.05"
@@ -7436,7 +6930,6 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-416-a", id: "fig-416-b" ]
-    related_objects: [ id: "403", id: "369", id: "402" ]
 -
     id: "417"
     old_id: "7.17"
@@ -7471,7 +6964,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-418" ]
-    related_objects: [ id: "419", id: "421", id: "333" ]
+    related_objects: [ id: "419", id: "421" ]
 -
     id: "419"
     old_id: "7.19"
@@ -7489,7 +6982,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-419-a", id: "fig-419-b" ]
-    related_objects: [ id: "418", id: "421", id: "333" ]
+    related_objects: [ id: "418", id: "421" ]
 -
     id: "420"
     old_id: "7.20"
@@ -7524,7 +7017,7 @@ object_list:
     featured: true
     type: [ correspondence ]
     figure: [ id: "fig-421-a", id: "fig-421-b", id: "fig-421-c" ]
-    related_objects: [ id: "418", id: "419", id: "273", id: "543", id: "333" ]
+    related_objects: [ id: "418", id: "419" ]
 -
     id: "422"
     old_id: "7.25"
@@ -7680,7 +7173,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-430" ]
-    related_objects: [ id: "431", id: "432", id: "433" ]
 -
     id: "431"
     old_id: "7.35"
@@ -7698,7 +7190,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-431" ]
-    related_objects: [ id: "430", id: "432", id: "433" ]
 -
     id: "432"
     old_id: "7.36"
@@ -7716,7 +7207,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-432" ]
-    related_objects: [ id: "431", id: "430", id: "433" ]
 -
     id: "433"
     old_id: "7.37"
@@ -7734,7 +7224,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-433-a", id: "fig-433-b" ]
-    related_objects: [ id: "431", id: "432", id: "430" ]
 -
     id: "434"
     old_id: "7.38"
@@ -7786,7 +7275,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-436-a", id: "fig-436-b", id: "fig-436-c", id: "fig-436-d" ]
-    related_objects: [ id: "438", id: "447" ]
 -
     id: "437"
     old_id: "8.03"
@@ -7804,7 +7292,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-437" ]
-    related_objects: [ id: "468", id: "463", id: "469", id: "472", id: "464", id: "466", id: "449" ]
 -
     id: "438"
     old_id: "8.04"
@@ -7822,7 +7309,6 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-438" ]
-    related_objects: [ id: "446", id: "447", id: "436" ]
 -
     id: "439"
     old_id: "8.05"
@@ -7840,7 +7326,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-439" ]
-    related_objects: [ id: "440", id: "441", id: "442", id: "444", id: "445", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
+    related_objects: [ id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "440"
     old_id: "8.06"
@@ -7858,7 +7344,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-440" ]
-    related_objects: [ id: "439", id: "441", id: "445", id: "442", id: "444", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
 -
     id: "441"
     old_id: "8.07"
@@ -7876,7 +7361,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-441" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "443", id: "444", id: "445" ]
+    related_objects: [ id: "442", id: "443" ]
 -
     id: "442"
     old_id: "8.08"
@@ -7894,7 +7379,7 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-442" ]
-    related_objects: [ id: "439", id: "440", id: "441", id: "443", id: "445", id: "444", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
+    related_objects: [ id: "441", id: "443" ]
 -
     id: "443"
     old_id: "8.09"
@@ -7930,7 +7415,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-444" ]
-    related_objects: [ id: "439", id: "440", id: "441", id: "442", id: "445", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
 -
     id: "445"
     old_id: "8.11"
@@ -7951,7 +7435,6 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-445" ]
-    related_objects: [ id: "439", id: "440", id: "441", id: "442", id: "444", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
 -
     id: "446"
     old_id: "8.12"
@@ -7969,7 +7452,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-446" ]
-    related_objects: [ id: "438", id: "447", id: "436" ]
 -
     id: "447"
     old_id: "8.13"
@@ -7987,7 +7469,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-447-a", id: "fig-447-b", id: "fig-447-c", id: "fig-447-d", id: "fig-447-e", id: "fig-447-f" ]
-    related_objects: [ id: "438", id: "436" ]
 -
     id: "448"
     old_id: "8.14"
@@ -8005,7 +7486,6 @@ object_list:
     featured: true
     type: [ sketches and materials ]
     figure: [ id: "fig-448" ]
-    related_objects: [ id: "451" ]
 -
     id: "449"
     old_id: "8.15"
@@ -8023,7 +7503,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-449-a", id: "fig-449-b" ]
-    related_objects: [ id: "469", id: "472", id: "463", id: "464", id: "466", id: "437", id: "468" ]
 -
     id: "450"
     old_id: "8.16"
@@ -8041,7 +7520,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-450-a", id: "fig-450-b", id: "fig-450-c", id: "fig-450-d", id: "fig-450-e", id: "fig-450-f", id: "fig-450-g", id: "fig-450-h", id: "fig-450-i", id: "fig-450-j", id: "fig-450-k", id: "fig-450-l", id: "fig-450-m", id: "fig-450-n", id: "fig-450-o", id: "fig-450-p", id: "fig-450-q" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "465", id: "473" ]
+    related_objects: [ id: "439", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "451"
     old_id: "8.17"
@@ -8059,7 +7538,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-451-a", id: "fig-451-b", id: "fig-451-c", id: "fig-451-d" ]
-    related_objects: [ id: "448" ]
 -
     id: "452"
     old_id: "8.18"
@@ -8095,7 +7573,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-453-a", id: "fig-453-b", id: "fig-453-c", id: "fig-453-d" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "471" ]
+    related_objects: [ id: "439", id: "450", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "454"
     old_id: "8.20"
@@ -8113,7 +7591,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-454-a", id: "fig-454-b" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472", id: "471" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "456", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "455"
     old_id: "8.21a"
@@ -8131,7 +7609,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-455" ]
-    related_objects: [ id: "261" ]
 -
     id: "456"
     old_id: "8.21b"
@@ -8149,7 +7626,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-456-a", id: "fig-456-b" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "454", id: "457", id: "458", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "457", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "457"
     old_id: "8.21c"
@@ -8167,7 +7644,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-457" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "454", id: "458", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "458", id: "459", id: "460", id: "472" ]
 -
     id: "458"
     old_id: "8.21d"
@@ -8185,7 +7662,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-458" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "454", id: "459", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "459", id: "460", id: "472" ]
 -
     id: "459"
     old_id: "8.21e"
@@ -8203,7 +7680,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-459" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "458", id: "454", id: "460", id: "472" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "460", id: "472" ]
 -
     id: "460"
     old_id: "8.21f"
@@ -8221,7 +7698,7 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-460" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "458", id: "459", id: "454", id: "472" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "472" ]
 -
     id: "461"
     old_id: "8.21g"
@@ -8232,7 +7709,6 @@ object_list:
     date: "23 May 1963 and 6 June 1963"
     date_sort: "1963-05-23"
     year_filter: [ "1963" ]
-    date_end: 31 23 May 1963 and 6 June 1963
     medium: ""
     location: "Getty Research Institute, Yvonne Rainer Papers, 2006.M.24, box 22, folder 4"
     extended_caption: "The cultural critic Jill Johnston’s extensive two-part review of Yvonne Rainer’s multi-part dance *Terrain*, performed at Judson Memorial Church on 28 and 29 April 1963, provides a devoted close-read of a complex work. In part one, Johnston writes, “the total event is like stringing beads, or putting panels together, the way some painters do.” She focuses on the work’s basis in an algorithmic, game-like play of following rules and signals. Rainer’s strategy, which produces slightly differing results with each performance, is informed by John Cage and Merce Cunningham’s engagements with indeterminacy and also resonates with the operations of Fluxus event scores. [In part two](/object-index/461/#fig-461-b/) of the review, Johnston focuses on the outcomes of Rainer’s interest in play, relating her work to that of Cunningham, James Waring, and Aileen Passloff. Rainer’s dances *Play* and *Diagonal* appear “like watching any kids’ game on the street,” Johnston writes. “The whole idea of play was here treated with respect for its real sense.” Rainer also delivered a shocking duet on the theme of lovemaking that hewed unusually close to the real act, inspiring Johnston to pose deep questions about the proximity of art and life, and the role of the viewer between them. Crucial to the success of Rainer’s work, she concludes, are the sensitive talents of the dancers working alongside her: Trisha Brown, Judith Dunn, William Davis, Steve Paxton, and Albert Reid. Rather than completely sublimating their individual way of moving to a choreographic standard, “They looked like themselves even while rendering the material accurately.”"
@@ -8274,7 +7750,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-463" ]
-    related_objects: [ id: "437", id: "468", id: "469", id: "472", id: "449", id: "464", id: "466" ]
 -
     id: "464"
     old_id: "8.22b"
@@ -8292,7 +7767,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-464-a", id: "fig-464-b", id: "fig-464-c" ]
-    related_objects: [ id: "469", id: "472", id: "463", id: "449", id: "466", id: "437", id: "468" ]
 -
     id: "465"
     old_id: "8.23"
@@ -8310,7 +7784,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-465-a", id: "fig-465-b", id: "fig-465-c", id: "fig-465-d", id: "fig-465-e", id: "fig-465-f", id: "fig-465-g", id: "fig-465-h", id: "fig-465-i", id: "fig-465-j", id: "fig-465-k", id: "fig-465-l", id: "fig-465-m", id: "fig-465-n", id: "fig-465-o", id: "fig-465-p", id: "fig-465-q", id: "fig-465-r" ]
-    related_objects: [ id: "473", id: "439", id: "440", id: "444", id: "445", id: "442", id: "472", id: "450" ]
 -
     id: "466"
     old_id: "8.24"
@@ -8328,7 +7801,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-466-a", id: "fig-466-b" ]
-    related_objects: [ id: "469", id: "472", id: "463", id: "464", id: "449", id: "437" ]
 -
     id: "467"
     old_id: "8.25"
@@ -8364,7 +7836,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-468-a", id: "fig-468-b", id: "fig-468-c" ]
-    related_objects: [ id: "437", id: "463", id: "464", id: "469", id: "472" ]
 -
     id: "469"
     old_id: "8.28"
@@ -8382,7 +7853,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-469" ]
-    related_objects: [ id: "449", id: "472", id: "463", id: "464", id: "466", id: "437", id: "468" ]
 -
     id: "470"
     old_id: "8.29"
@@ -8418,7 +7888,6 @@ object_list:
     featured: true
     type: [ archival materials ]
     figure: [ id: "fig-471-a" ]
-    related_objects: [ id: "454", id: "453" ]
 -
     id: "472"
     old_id: "8.31"
@@ -8436,7 +7905,7 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-472-a", id: "fig-472-b", id: "fig-472-c", id: "fig-472-d", id: "fig-472-e", id: "fig-472-f", id: "fig-472-g", id: "fig-472-h", id: "fig-472-i", id: "fig-472-j" ]
-    related_objects: [ id: "439", id: "440", id: "442", id: "444", id: "445", id: "450", id: "453", id: "456", id: "457", id: "458", id: "459", id: "460", id: "454", id: "465", id: "473", id: "469", id: "449", id: "463", id: "464", id: "466", id: "437", id: "468" ]
+    related_objects: [ id: "439", id: "450", id: "453", id: "454", id: "456", id: "457", id: "458", id: "459", id: "460" ]
 -
     id: "473"
     old_id: "8.32"
@@ -8454,25 +7923,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-473-a", id: "fig-473-b", id: "fig-473-c", id: "fig-473-d", id: "fig-473-e", id: "fig-473-f", id: "fig-473-g", id: "fig-473-h", id: "fig-473-i", id: "fig-473-j", id: "fig-473-k", id: "fig-473-l", id: "fig-473-m", id: "fig-473-n", id: "fig-473-o", id: "fig-473-p", id: "fig-473-q", id: "fig-473-r", id: "fig-473-s", id: "fig-473-t", id: "fig-473-u", id: "fig-473-v", id: "fig-473-w", id: "fig-473-x", id: "fig-473-y", id: "fig-473-z", id: "fig-473-aa", id: "fig-473-ab", id: "fig-473-ac", id: "fig-473-ad", id: "fig-473-ae", id: "fig-473-af", id: "fig-473-ag", id: "fig-473-ah", id: "fig-473-ai", id: "fig-473-aj", id: "fig-473-ak" ]
-    related_objects: [ id: "465", id: "439", id: "440", id: "444", id: "445", id: "442", id: "472", id: "450" ]
-# REMOVED DUPLICATE
-# -
-#     id: "474"
-#     old_id: "9.01"
-#     maker: 
-#     people: ""
-#     more_people: ""
-#     title: "Dick Higgins and Jackson Mac Low in John Cage’s experimental composition class, New School for Social Research, New York, NY"
-#     date: "summer 1958"
-#     date_sort: ""
-#     year_filter: ""
-#     medium: "photograph"
-#     location: ""
-#     extended_caption: "John Cage taught [experimental composition at the New School for Social Research multiple times between 1956 and 1960](/object-index/556/). This photograph shows Jackson Mac Low (right) and Dick Higgins (left), two students in the catalytic Summer 1958 cohort, which also included Allan Kaprow, George Brecht, and Al Hansen. Each week, Cage asked the students to compose a score in response to a prompt, which might specify readymade instruments (like radios) or chance procedures (like tossing coins). The students would perform these rough-and-ready scores with Cage during class and debate their qualities. In this photograph, Higgins and Mac Low play a toy battleship and whirler tube, respectively, in a realization of an Al Hansen assignment."
-#     credit: ""
-#     featured: 
-#     type: [ photograph ]
-#     figure: [ id: "fig-474" ]
 -
     id: "475"
     old_id: "9.02"
@@ -8490,7 +7940,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-475" ]
-    related_objects: [ id: "476" ]
 -
     id: "476"
     old_id: "9.03a"
@@ -8508,7 +7957,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-476" ]
-    related_objects: [ id: "475" ]
 -
     id: "477"
     old_id: "9.03b"
@@ -8526,7 +7974,6 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-477" ]
-    related_objects: [ id: "491", id: "493", id: "499" ]
 -
     id: "478"
     old_id: "9.04"
@@ -8561,25 +8008,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-479-a", id: "fig-479-b", id: "fig-479-c" ]
-    related_objects: [ id: "511", id: "512", id: "482", id: "484", id: "485", id: "486", id: "487", id: "481", id: "513" ]
-# REMOVED (Cover of 511)
-# -
-#     id: "480"
-#     old_id: "9.06"
-#     maker: [ "Alison Knowles (American, b. 1933)" ]
-#     people: ""
-#     more_people: ""
-#     title: "Cover of *Journal of the Identical Lunch* (San Francisco: Nova Broadcast Press, 1971)"
-#     date: "1971"
-#     date_sort: "1971-01-01"
-#     year_filter: [ "1971" ]
-#     medium: ""
-#     location: ""
-#     extended_caption: ""
-#     credit: "Nova Broadcast Press. © Alison Knowles."
-#     featured: 
-#     type: [ score ]
-#     figure: [ id: "fig-480" ]
 -
     id: "481"
     old_id: "9.07a"
@@ -8597,7 +8025,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-481" ]
-    related_objects: [ id: "482", id: "484", id: "485", id: "486", id: "487", id: "479", id: "511" ]
 -
     id: "482"
     old_id: "9.07b"
@@ -8615,25 +8042,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-482" ]
-    related_objects: [ id: "481", id: "484", id: "485", id: "486", id: "487", id: "479", id: "511" ]
-# REMOVED
-# -
-#     id: "483"
-#     old_id: "9.07c"
-#     maker: 
-#     people: ""
-#     more_people: ""
-#     title: "%%%Possible Video of Commissioned Performance TK%%%"
-#     date: ""
-#     date_sort: ""
-#     year_filter: ""
-#     medium: ""
-#     location: ""
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [  ]
-#     figure: [ id: "fig-483" ]
 -
     id: "484"
     old_id: "9.08"
@@ -8651,7 +8059,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-484" ]
-    related_objects: [ id: "482", id: "481", id: "485", id: "486", id: "487", id: "479", id: "511", id: "488", id: "489", id: "490", id: "512", id: "513" ]
+    related_objects: [ id: "485", id: "486", id: "487" ]
 -
     id: "485"
     old_id: "9.09"
@@ -8669,7 +8077,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-485" ]
-    related_objects: [ id: "482", id: "484", id: "481", id: "486", id: "487", id: "479", id: "511", id: "488", id: "489", id: "490", id: "512", id: "513" ]
+    related_objects: [ id: "484", id: "486", id: "487" ]
 -
     id: "486"
     old_id: "9.10"
@@ -8687,7 +8095,7 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-486" ]
-    related_objects: [ id: "484", id: "485", id: "487", id: "482", id: "481", id: "479", id: "511", id: "488", id: "489", id: "490", id: "512", id: "513" ]
+    related_objects: [ id: "484", id: "485", id: "487" ]
 -
     id: "487"
     old_id: "9.11"
@@ -8705,7 +8113,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-487" ]
-    related_objects: [ id: "484", id: "485", id: "481", id: "482", id: "479", id: "511", id: "486", id: "488", id: "489", id: "490", id: "512", id: "513" ]
+    related_objects: [ id: "484", id: "485", id: "486" ]
 -
     id: "488"
     old_id: "9.12"
@@ -8716,7 +8124,6 @@ object_list:
     date: "5 August ca. 1970s"
     date_sort: "1970-08-05"
     year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
-    date_end: 31 5 August ca. 1970s
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 28, folder 36"
     extended_caption: ""
@@ -8724,7 +8131,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-488" ]
-    related_objects: [ id: "489", id: "490", id: "484", id: "485", id: "486", id: "487" ]
 -
     id: "489"
     old_id: "9.13"
@@ -8742,7 +8148,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-489" ]
-    related_objects: [ id: "497", id: "490", id: "488", id: "484", id: "485", id: "486", id: "487" ]
+    related_objects: [ id: "497" ]
 -
     id: "490"
     old_id: "9.14"
@@ -8760,7 +8166,6 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-490-a", id: "fig-490-b", id: "fig-490-c", id: "fig-490-d", id: "fig-490-e", id: "fig-490-f", id: "fig-490-g", id: "fig-490-h", id: "fig-490-i", id: "fig-490-j", id: "fig-490-k", id: "fig-490-l", id: "fig-490-m", id: "fig-490-n" ]
-    related_objects: [ id: "497", id: "489", id: "488", id: "484", id: "485", id: "486", id: "487" ]
 -
     id: "491"
     old_id: "9.15"
@@ -8778,7 +8183,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-491" ]
-    related_objects: [ id: "499", id: "493", id: "477" ]
 -
     id: "492"
     old_id: "9.16"
@@ -8796,7 +8200,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-492-a", id: "fig-492-b", id: "fig-492-c", id: "fig-492-d", id: "fig-492-e", id: "fig-492-f", id: "fig-492-g", id: "fig-492-h", id: "fig-492-i", id: "fig-492-j", id: "fig-492-k", id: "fig-492-l", id: "fig-492-m" ]
-    related_objects: [ id: "506", id: "495" ]
 -
     id: "493"
     old_id: "9.17"
@@ -8814,7 +8217,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-493-a", id: "fig-493-b", id: "fig-493-c", id: "fig-493-d", id: "fig-493-e", id: "fig-493-f", id: "fig-493-g", id: "fig-493-h", id: "fig-493-i", id: "fig-493-j", id: "fig-493-k", id: "fig-493-l" ]
-    related_objects: [ id: "491", id: "499", id: "477" ]
 -
     id: "494"
     old_id: "9.19"
@@ -8832,7 +8234,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-494-a", id: "fig-494-b", id: "fig-494-c" ]
-    related_objects: [ id: "498", id: "499", id: "497" ]
+    related_objects: [ id: "498" ]
 -
     id: "495"
     old_id: "9.21"
@@ -8850,7 +8252,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-495" ]
-    related_objects: [ id: "506", id: "492" ]
 -
     id: "496"
     old_id: "9.22"
@@ -8868,7 +8269,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-496-a", id: "fig-496-b" ]
-    related_objects: [ id: "512" ]
 -
     id: "497"
     old_id: "9.23"
@@ -8886,7 +8286,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-497" ]
-    related_objects: [ id: "489", id: "494", id: "490" ]
+    related_objects: [ id: "489" ]
 -
     id: "498"
     old_id: "9.24"
@@ -8904,7 +8304,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-498" ]
-    related_objects: [ id: "494", id: "499" ]
+    related_objects: [ id: "494" ]
 -
     id: "499"
     old_id: "9.25"
@@ -8922,7 +8322,6 @@ object_list:
     featured: 
     type: [ press clipping ]
     figure: [ id: "fig-499" ]
-    related_objects: [ id: "494", id: "498", id: "491", id: "493", id: "477" ]
 -
     id: "500"
     old_id: "9.26"
@@ -8940,7 +8339,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-500-b", id: "fig-500-a" ]
-    related_objects: [ id: "273", id: "268", id: "270", id: "269", id: "543", id: "501" ]
 -
     id: "501"
     old_id: "9.27"
@@ -8958,7 +8356,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-501" ]
-    related_objects: [ id: "500", id: "268", id: "269", id: "543" ]
 -
     id: "502"
     old_id: "9.28"
@@ -8976,7 +8373,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-502-a", id: "fig-502-b" ]
-    related_objects: [ id: "503", id: "504", id: "505" ]
 -
     id: "503"
     old_id: "9.29a"
@@ -8994,7 +8390,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-503-a", id: "fig-503-b" ]
-    related_objects: [ id: "502", id: "504", id: "505" ]
 -
     id: "504"
     old_id: "9.29b"
@@ -9012,7 +8407,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-504-a", id: "fig-504-b" ]
-    related_objects: [ id: "503", id: "502", id: "505" ]
 -
     id: "505"
     old_id: "9.29c"
@@ -9030,7 +8424,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-505-a", id: "fig-505-b" ]
-    related_objects: [ id: "503", id: "504", id: "502" ]
 -
     id: "506"
     old_id: "9.30"
@@ -9048,7 +8441,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-506" ]
-    related_objects: [ id: "495", id: "492" ]
 -
     id: "507"
     old_id: "9.31"
@@ -9066,7 +8458,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-507" ]
-    related_objects: [ id: "508", id: "509", id: "510" ]
 -
     id: "508"
     old_id: "9.32"
@@ -9084,7 +8475,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-508" ]
-    related_objects: [ id: "507", id: "509", id: "510" ]
 -
     id: "509"
     old_id: "9.33"
@@ -9102,7 +8492,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-509" ]
-    related_objects: [ id: "508", id: "507", id: "510" ]
 -
     id: "510"
     old_id: "9.34"
@@ -9120,7 +8509,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-510" ]
-    related_objects: [ id: "508", id: "509", id: "507" ]
 -
     id: "511"
     old_id: "9.35"
@@ -9138,7 +8526,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-511-a", id: "fig-511-b", id: "fig-511-c", id: "fig-511-d", id: "fig-511-e", id: "fig-511-f", id: "fig-511-g", id: "fig-511-h", id: "fig-511-i", id: "fig-511-j", id: "fig-511-k", id: "fig-511-l", id: "fig-511-m", id: "fig-511-n", id: "fig-511-o", id: "fig-511-p", id: "fig-511-q", id: "fig-511-r", id: "fig-511-s", id: "fig-511-t", id: "fig-511-u", id: "fig-511-v", id: "fig-511-w", id: "fig-511-x", id: "fig-511-y", id: "fig-511-z", id: "fig-511-aa", id: "fig-511-ab", id: "fig-511-ac", id: "fig-511-ad", id: "fig-511-ae", id: "fig-511-af", id: "fig-511-ag", id: "fig-511-ah", id: "fig-511-ai", id: "fig-511-aj", id: "fig-511-ak", id: "fig-511-al" ]
-    related_objects: [ id: "512", id: "479", id: "482", id: "484", id: "485", id: "486", id: "487", id: "481", id: "513" ]
 -
     id: "512"
     old_id: "9.36"
@@ -9156,7 +8543,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-512-a", id: "fig-512-b", id: "fig-512-c", id: "fig-512-d", id: "fig-512-e", id: "fig-512-f", id: "fig-512-g", id: "fig-512-h", id: "fig-512-i", id: "fig-512-j", id: "fig-512-k", id: "fig-512-l", id: "fig-512-m", id: "fig-512-n", id: "fig-512-o", id: "fig-512-p", id: "fig-512-q", id: "fig-512-r", id: "fig-512-s", id: "fig-512-t", id: "fig-512-u", id: "fig-512-v", id: "fig-512-w", id: "fig-512-x", id: "fig-512-y", id: "fig-512-z", id: "fig-512-aa", id: "fig-512-ab", id: "fig-512-ac", id: "fig-512-ad", id: "fig-512-ae", id: "fig-512-af", id: "fig-512-ag", id: "fig-512-ah", id: "fig-512-ai", id: "fig-512-aj", id: "fig-512-ak", id: "fig-512-al", id: "fig-512-am", id: "fig-512-an", id: "fig-512-ao", id: "fig-512-ap", id: "fig-512-aq", id: "fig-512-ar", id: "fig-512-as", id: "fig-512-at", id: "fig-512-au", id: "fig-512-av", id: "fig-512-aw", id: "fig-512-ax", id: "fig-512-ay", id: "fig-512-az", id: "fig-512-ba", id: "fig-512-bb", id: "fig-512-bc", id: "fig-512-bd", id: "fig-512-be", id: "fig-512-bf", id: "fig-512-bg", id: "fig-512-bh", id: "fig-512-bi", id: "fig-512-bj", id: "fig-512-bk", id: "fig-512-bl", id: "fig-512-bm" ]
-    related_objects: [ id: "511", id: "479", id: "484", id: "485", id: "486", id: "487", id: "513", id: "496" ]
 -
     id: "513"
     old_id: "9.37"
@@ -9174,7 +8560,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-513" ]
-    related_objects: [ id: "511", id: "479", id: "484", id: "485", id: "486", id: "487", id: "512" ]
 -
     id: "514"
     old_id: "9.39"
@@ -9209,7 +8594,6 @@ object_list:
     featured: true
     type: [ correspondence ]
     figure: [ id: "fig-515" ]
-    related_objects: [ id: "553", id: "518" ]
 -
     id: "516"
     old_id: "10.02"
@@ -9227,7 +8611,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-516" ]
-    related_objects: [ id: "517", id: "519" ]
+    related_objects: [ id: "517" ]
 -
     id: "517"
     old_id: "10.03"
@@ -9263,7 +8647,6 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-518-a", id: "fig-518-b" ]
-    related_objects: [ id: "515", id: "553", id: "525", id: "526", id: "527", id: "528", id: "530", id: "524", id: "532" ]
 -
     id: "519"
     old_id: "10.12"
@@ -9281,7 +8664,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-519" ]
-    related_objects: [ id: "526", id: "525", id: "538", id: "516" ]
 -
     id: "520"
     old_id: "10.13"
@@ -9299,7 +8681,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-520" ]
-    related_objects: [ id: "552", id: "528", id: "133", id: "343", id: "553", id: "554" ]
 -
     id: "521"
     old_id: "10.14"
@@ -9368,7 +8749,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-524" ]
-    related_objects: [ id: "530", id: "532", id: "518" ]
 -
     id: "525"
     old_id: "10.18"
@@ -9386,7 +8766,6 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-525-a", id: "fig-525-b" ]
-    related_objects: [ id: "530", id: "526", id: "527", id: "528", id: "518", id: "519", id: "538" ]
 -
     id: "526"
     old_id: "10.19"
@@ -9404,7 +8783,6 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-526" ]
-    related_objects: [ id: "525", id: "530", id: "527", id: "528", id: "518", id: "519", id: "538", id: "539", id: "540", id: "541", id: "546" ]
 -
     id: "527"
     old_id: "10.20"
@@ -9422,7 +8800,6 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-527", id: "fig-527-a", id: "fig-527-b", id: "fig-527-c", id: "fig-527-d", id: "fig-527-e", id: "fig-527-f", id: "fig-527-g", id: "fig-527-h", id: "fig-527-i", id: "fig-527-j", id: "fig-527-k", id: "fig-527-l", id: "fig-527-m", id: "fig-527-n", id: "fig-527-o", id: "fig-527-p", id: "fig-527-q", id: "fig-527-r", id: "fig-527-s", id: "fig-527-t", id: "fig-527-u", id: "fig-527-v", id: "fig-527-w", id: "fig-527-x", id: "fig-527-y", id: "fig-527-z", id: "fig-527-aa", id: "fig-527-ab", id: "fig-527-ac", id: "fig-527-ad", id: "fig-527-ae", id: "fig-527-af", id: "fig-527-ag", id: "fig-527-ah", id: "fig-527-ai", id: "fig-527-aj", id: "fig-527-ak", id: "fig-527-al", id: "fig-527-am", id: "fig-527-an", id: "fig-527-ao", id: "fig-527-ap", id: "fig-527-aq", id: "fig-527-ar", id: "fig-527-as", id: "fig-527-at", id: "fig-527-au", id: "fig-527-av", id: "fig-527-aw", id: "fig-527-ax", id: "fig-527-ay", id: "fig-527-az", id: "fig-527-ba", id: "fig-527-bb", id: "fig-527-bc", id: "fig-527-bd", id: "fig-527-be", id: "fig-527-bf", id: "fig-527-bg", id: "fig-527-bh", id: "fig-527-bi", id: "fig-527-bj", id: "fig-527-bk", id: "fig-527-bl", id: "fig-527-bm", id: "fig-527-bn", id: "fig-527-bo", id: "fig-527-bp", id: "fig-527-bq", id: "fig-527-br", id: "fig-527-bs", id: "fig-527-bt", id: "fig-527-bu", id: "fig-527-bv", id: "fig-527-bw", id: "fig-527-bx", id: "fig-527-by", id: "fig-527-bz", id: "fig-527-ca", id: "fig-527-cb", id: "fig-527-cc", id: "fig-527-cd", id: "fig-527-ce", id: "fig-527-cf", id: "fig-527-cg", id: "fig-527-ch", id: "fig-527-ci", id: "fig-527-cj", id: "fig-527-ck", id: "fig-527-cl", id: "fig-527-cm", id: "fig-527-cn", id: "fig-527-co", id: "fig-527-cp", id: "fig-527-cq", id: "fig-527-cr", id: "fig-527-cs", id: "fig-527-ct", id: "fig-527-cu", id: "fig-527-cv", id: "fig-527-cw", id: "fig-527-cx", id: "fig-527-cy", id: "fig-527-cz", id: "fig-527-da", id: "fig-527-db", id: "fig-527-dc", id: "fig-527-dd", id: "fig-527-de", id: "fig-527-df", id: "fig-527-dg", id: "fig-527-dh", id: "fig-527-di", id: "fig-527-dj", id: "fig-527-dk", id: "fig-527-dl", id: "fig-527-dm", id: "fig-527-dn", id: "fig-527-do", id: "fig-527-dp", id: "fig-527-dq", id: "fig-527-dr", id: "fig-527-ds", id: "fig-527-dt", id: "fig-527-du", id: "fig-527-dv", id: "fig-527-dw", id: "fig-527-dx", id: "fig-527-dy", id: "fig-527-dz", id: "fig-527-ea", id: "fig-527-eb", id: "fig-527-ec", id: "fig-527-ed", id: "fig-527-ee", id: "fig-527-ef", id: "fig-527-eg", id: "fig-527-eh", id: "fig-527-ei", id: "fig-527-ej", id: "fig-527-ek", id: "fig-527-el", id: "fig-527-em", id: "fig-527-en", id: "fig-527-eo", id: "fig-527-ep", id: "fig-527-eq" ]
-    related_objects: [ id: "525", id: "526", id: "530", id: "528", id: "518", id: "541", id: "542", id: "544", id: "258", id: "545", id: "546", id: "549", id: "550", id: "551" ]
 -
     id: "528"
     old_id: "10.21"
@@ -9440,7 +8817,7 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-528", id: "fig-528-a", id: "fig-528-b", id: "fig-528-c", id: "fig-528-d", id: "fig-528-e", id: "fig-528-f", id: "fig-528-g", id: "fig-528-h", id: "fig-528-i", id: "fig-528-j", id: "fig-528-k", id: "fig-528-l", id: "fig-528-m", id: "fig-528-n", id: "fig-528-o", id: "fig-528-p", id: "fig-528-q", id: "fig-528-r", id: "fig-528-s", id: "fig-528-t", id: "fig-528-u", id: "fig-528-v", id: "fig-528-w", id: "fig-528-x", id: "fig-528-y", id: "fig-528-z", id: "fig-528-aa", id: "fig-528-ab", id: "fig-528-ac", id: "fig-528-ad", id: "fig-528-ae", id: "fig-528-af", id: "fig-528-ag", id: "fig-528-ah", id: "fig-528-ai", id: "fig-528-aj", id: "fig-528-ak", id: "fig-528-al", id: "fig-528-am", id: "fig-528-an", id: "fig-528-ao", id: "fig-528-ap", id: "fig-528-aq", id: "fig-528-ar", id: "fig-528-as", id: "fig-528-at", id: "fig-528-au", id: "fig-528-av", id: "fig-528-aw", id: "fig-528-ax", id: "fig-528-ay", id: "fig-528-az", id: "fig-528-ba", id: "fig-528-bb", id: "fig-528-bc", id: "fig-528-bd", id: "fig-528-be", id: "fig-528-bf", id: "fig-528-bg", id: "fig-528-bh", id: "fig-528-bi", id: "fig-528-bj", id: "fig-528-bk", id: "fig-528-bl", id: "fig-528-bm", id: "fig-528-bn", id: "fig-528-bo", id: "fig-528-bp", id: "fig-528-bq", id: "fig-528-br", id: "fig-528-bs", id: "fig-528-bt", id: "fig-528-bu", id: "fig-528-bv", id: "fig-528-bw", id: "fig-528-bx", id: "fig-528-by", id: "fig-528-bz", id: "fig-528-ca", id: "fig-528-cb", id: "fig-528-cc", id: "fig-528-cd", id: "fig-528-ce", id: "fig-528-cf", id: "fig-528-cg", id: "fig-528-ch", id: "fig-528-ci", id: "fig-528-cj", id: "fig-528-ck", id: "fig-528-cl", id: "fig-528-cm", id: "fig-528-cn", id: "fig-528-co", id: "fig-528-cp", id: "fig-528-cq", id: "fig-528-cr", id: "fig-528-cs", id: "fig-528-ct", id: "fig-528-cu", id: "fig-528-cv", id: "fig-528-cw", id: "fig-528-cx", id: "fig-528-cy", id: "fig-528-cz", id: "fig-528-da", id: "fig-528-db", id: "fig-528-dc", id: "fig-528-dd", id: "fig-528-de", id: "fig-528-df", id: "fig-528-dg", id: "fig-528-dh", id: "fig-528-di", id: "fig-528-dj", id: "fig-528-dk", id: "fig-528-dl", id: "fig-528-dm", id: "fig-528-dn" ]
-    related_objects: [ id: "525", id: "526", id: "527", id: "530", id: "518", id: "545", id: "548", id: "547", id: "549", id: "550", id: "551", id: "520", id: "552", id: "133", id: "343", id: "553", id: "554" ]
+    related_objects: [ id: "529" ]
 -
     id: "530"
     old_id: "10.22"
@@ -9458,7 +8835,6 @@ object_list:
     featured: true
     type: [ artwork ]
     figure: [ id: "fig-530-a", id: "fig-530-b", id: "fig-530-c", id: "fig-530-d", id: "fig-530-e", id: "fig-530-f", id: "fig-530-g", id: "fig-530-h", id: "fig-530-i", id: "fig-530-j", id: "fig-530-k", id: "fig-530-l", id: "fig-530-m", id: "fig-530-n", id: "fig-530-o", id: "fig-530-p", id: "fig-530-q", id: "fig-530-r", id: "fig-530-s", id: "fig-530-t", id: "fig-530-u", id: "fig-530-v", id: "fig-530-w", id: "fig-530-x", id: "fig-530-y", id: "fig-530-z", id: "fig-530-aa", id: "fig-530-ab", id: "fig-530-ac", id: "fig-530-ad", id: "fig-530-ae", id: "fig-530-af", id: "fig-530-ag", id: "fig-530-ah", id: "fig-530-ai", id: "fig-530-aj", id: "fig-530-ak", id: "fig-530-al", id: "fig-530-am", id: "fig-530-an", id: "fig-530-ao", id: "fig-530-ap", id: "fig-530-aq", id: "fig-530-ar", id: "fig-530-as", id: "fig-530-at", id: "fig-530-au", id: "fig-530-av", id: "fig-530-aw", id: "fig-530-ax", id: "fig-530-ay", id: "fig-530-az", id: "fig-530-ba", id: "fig-530-bb", id: "fig-530-bc", id: "fig-530-bd", id: "fig-530-be", id: "fig-530-bf", id: "fig-530-bg", id: "fig-530-bh", id: "fig-530-bi", id: "fig-530-bj", id: "fig-530-bk", id: "fig-530-bl", id: "fig-530-bm", id: "fig-530-bn", id: "fig-530-bo", id: "fig-530-bp", id: "fig-530-bq", id: "fig-530-br", id: "fig-530-bs", id: "fig-530-bt", id: "fig-530-bu", id: "fig-530-bv", id: "fig-530-bw", id: "fig-530-bx", id: "fig-530-by", id: "fig-530-bz", id: "fig-530-ca", id: "fig-530-cb" ]
-    related_objects: [ id: "525", id: "526", id: "527", id: "528", id: "518", id: "532", id: "524", id: "547", id: "548", id: "549", id: "550", id: "551" ]
 -
     id: "531"
     old_id: "10.23"
@@ -9493,7 +8869,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-532" ]
-    related_objects: [ id: "530", id: "524", id: "518" ]
 -
     id: "533"
     old_id: "10.25"
@@ -9596,7 +8971,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-538-a", id: "fig-538-b" ]
-    related_objects: [ id: "526", id: "519", id: "525" ]
 -
     id: "539"
     old_id: "10.31"
@@ -9614,7 +8988,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-539" ]
-    related_objects: [ id: "526" ]
 -
     id: "540"
     old_id: "10.32"
@@ -9632,7 +9005,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-540-a", id: "fig-540-b" ]
-    related_objects: [ id: "526" ]
 -
     id: "541"
     old_id: "10.33"
@@ -9650,7 +9022,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-541" ]
-    related_objects: [ id: "526", id: "527" ]
 -
     id: "542"
     old_id: "10.34"
@@ -9668,7 +9039,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-542" ]
-    related_objects: [ id: "527" ]
 -
     id: "543"
     old_id: "10.35"
@@ -9686,7 +9056,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-543-a", id: "fig-543-b", id: "fig-543-c" ]
-    related_objects: [ id: "273", id: "421", id: "500", id: "268", id: "269", id: "501" ]
 -
     id: "544"
     old_id: "10.36"
@@ -9704,7 +9073,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-544-a", id: "fig-544-b", id: "fig-544-c", id: "fig-544-d" ]
-    related_objects: [ id: "527", id: "258" ]
 -
     id: "545"
     old_id: "10.37"
@@ -9722,7 +9090,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-545-a", id: "fig-545-b" ]
-    related_objects: [ id: "527", id: "528" ]
 -
     id: "546"
     old_id: "10.38"
@@ -9740,7 +9107,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-546" ]
-    related_objects: [ id: "526", id: "527" ]
 -
     id: "547"
     old_id: "10.39"
@@ -9758,7 +9124,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-547-a", id: "fig-547-b" ]
-    related_objects: [ id: "530", id: "548", id: "528" ]
 -
     id: "548"
     old_id: "10.40"
@@ -9776,7 +9141,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-548-b", id: "fig-548-a" ]
-    related_objects: [ id: "547", id: "530", id: "528" ]
 -
     id: "549"
     old_id: "10.41"
@@ -9794,7 +9158,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-549-a", id: "fig-549-b" ]
-    related_objects: [ id: "527", id: "528", id: "550", id: "551", id: "530" ]
 -
     id: "550"
     old_id: "10.42"
@@ -9812,7 +9175,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-550-a", id: "fig-550-b" ]
-    related_objects: [ id: "549", id: "527", id: "528", id: "551", id: "530" ]
 -
     id: "551"
     old_id: "10.43"
@@ -9830,7 +9192,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-551-a", id: "fig-551-b" ]
-    related_objects: [ id: "549", id: "550", id: "527", id: "528", id: "530" ]
 -
     id: "552"
     old_id: "10.44"
@@ -9848,7 +9209,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-552-a", id: "fig-552-b" ]
-    related_objects: [ id: "520", id: "528", id: "133", id: "343" ]
 -
     id: "553"
     old_id: "10.45"
@@ -9866,7 +9226,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-553" ]
-    related_objects: [ id: "515", id: "518", id: "520", id: "528" ]
 -
     id: "554"
     old_id: "10.46"
@@ -9884,7 +9243,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-554" ]
-    related_objects: [ id: "520", id: "528" ]
 -
     id: "555"
     old_id: "10.47"
@@ -9926,7 +9284,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-556" ]
-    related_objects: [ id: "557", id: "558", id: "559", id: "560", id: "393", id: "348", id: "349", id: "384", id: "388", id: "580", id: "579" ]
+    related_objects: [ id: "557", id: "558", id: "559", id: "560" ]
 -
     id: "557"
     old_id: "11.01b"
@@ -9944,7 +9302,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-557" ]
-    related_objects: [ id: "556", id: "558", id: "559", id: "560", id: "580", id: "579", id: "388" ]
+    related_objects: [ id: "556", id: "558", id: "559", id: "560" ]
 -
     id: "558"
     old_id: "11.01c"
@@ -9998,7 +9356,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-560" ]
-    related_objects: [ id: "556", id: "557", id: "558", id: "559", id: "579", id: "580" ]
+    related_objects: [ id: "556", id: "557", id: "558", id: "559" ]
 -
     id: "561"
     old_id: "11.03"
@@ -10016,7 +9374,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-561" ]
-    related_objects: [ id: "563", id: "564", id: "572", id: "597", id: "602", id: "603", id: "604" ]
 -
     id: "562"
     old_id: "11.04"
@@ -10051,7 +9408,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-563" ]
-    related_objects: [ id: "561", id: "564", id: "572", id: "597", id: "602", id: "603", id: "604" ]
 -
     id: "564"
     old_id: "11.06"
@@ -10069,7 +9425,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-564" ]
-    related_objects: [ id: "563", id: "561", id: "572", id: "597", id: "602", id: "603", id: "604" ]
 -
     id: "565"
     old_id: "11.07"
@@ -10104,25 +9459,6 @@ object_list:
     featured: true
     type: [ photograph ]
     figure: [ id: "fig-566" ]
-    related_objects: [ id: "605", id: "607", id: "608", id: "609", id: "610", id: "611", id: "612" ]
-# REMOVED (Dupe of 607)
-# -
-#     id: "567"
-#     old_id: "11.09"
-#     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-#     people: ""
-#     more_people: ""
-#     title: "The crew of the film *Routine* (1973) at the Portland Center for the Visual Arts"
-#     date: "1973"
-#     date_sort: "1973-01-01"
-#     year_filter: [ "1973" ]
-#     medium: ""
-#     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
-#     extended_caption: ""
-#     credit: ""
-#     featured: 
-#     type: [ photograph ]
-#     figure: [ id: "fig-567" ]
 -
     id: "568"
     old_id: "11.10"
@@ -10140,25 +9476,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-568" ]
-    related_objects: [ id: "573", id: "574" ]
-# REMOVED -- Dupe of 574
-# -
-#     id: "569"
-#     old_id: "11.11"
-#     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-#     people: [ "Kaprow, Allan" ]
-#     more_people: [ "Sullivan, Michael", "Johnson, Sue", "Hauck, David" ]
-#     title: "Opening shot of *Routine*"
-#     date: "1973"
-#     date_sort: "1973-01-01"
-#     year_filter: [ "1973" ]
-#     medium: "1 film reel: 16mm, SD, b&w"
-#     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 99, F46"
-#     extended_caption: "Directed by Michael Sullivan, with performers Sue Johnson and David Hauck. Produced by the Portland Center for the Visual Arts with funds from the National Endowment for the Arts."
-#     credit: ""
-#     featured: 
-#     type: [ video ]
-#     figure: [ id: "fig-569" ]
 -
     id: "570"
     old_id: "11.12"
@@ -10176,24 +9493,6 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-570" ]
-# REMOVED -- Dupe of 576
-# -
-#     id: "571"
-#     old_id: "11.14"
-#     maker: [ "Allan Kaprow (American, 1927–2006)" ]
-#     people: [ "Kaprow, Allan" ]
-#     more_people: [ "Kirby, Peter" ]
-#     title: "Opening shot of *7 Kinds of Sympathy*"
-#     date: "1976"
-#     date_sort: "1976-01-01"
-#     year_filter: [ "1976" ]
-#     medium: "U-matic videocassette, SD, color, 3/4-inch tape"
-#     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V37"
-#     extended_caption: "Produced by Peter Kirby and by Anna Canepa Video Distribution."
-#     credit: ""
-#     featured: 
-#     type: [ video ]
-#     figure: [ id: "fig-571" ]
 -
     id: "572"
     old_id: "11.15"
@@ -10204,7 +9503,6 @@ object_list:
     date: "29 November–2 December 1973"
     date_sort: "1973-11-29"
     year_filter: [ "1973" ]
-    date_end: 31 29 November– 2 December 1973
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
     extended_caption: ""
@@ -10212,7 +9510,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-572-a", id: "fig-572-b", id: "fig-572-c", id: "fig-572-d", id: "fig-572-e" ]
-    related_objects: [ id: "573", id: "574", id: "606", id: "600", id: "601", id: "598", id: "599", id: "563", id: "564", id: "561", id: "597", id: "602", id: "603", id: "604" ]
 -
     id: "573"
     old_id: "11.16"
@@ -10230,7 +9527,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-573-a", id: "fig-573-b", id: "fig-573-c", id: "fig-573-d", id: "fig-573-e", id: "fig-573-f", id: "fig-573-g", id: "fig-573-h" ]
-    related_objects: [ id: "615", id: "629", id: "626", id: "630", id: "613", id: "614", id: "568", id: "574", id: "572", id: "606", id: "598", id: "600", id: "601" ]
 -
     id: "574"
     old_id: "11.17"
@@ -10248,7 +9544,6 @@ object_list:
     featured: 
     type: [ score, video ]
     figure: [ id: "fig-574" ]
-    related_objects: [ id: "573", id: "568", id: "572", id: "606", id: "598", id: "600", id: "601" ]
 -
     id: "575"
     old_id: "11.18"
@@ -10341,7 +9636,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-579-a", id: "fig-579-b", id: "fig-579-c", id: "fig-579-d", id: "fig-579-e", id: "fig-579-f", id: "fig-579-g", id: "fig-579-h" ]
-    related_objects: [ id: "580", id: "560", id: "557", id: "556" ]
 -
     id: "580"
     old_id: "11.22b"
@@ -10359,7 +9653,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-580" ]
-    related_objects: [ id: "579", id: "560", id: "557", id: "556", id: "388" ]
 -
     id: "581"
     old_id: "11.23a"
@@ -10664,7 +9957,6 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-597-e", id: "fig-597-f", id: "fig-597-g", id: "fig-597-b", id: "fig-597-c", id: "fig-597-d", id: "fig-597-a" ]
-    related_objects: [ id: "563", id: "564", id: "572", id: "561", id: "602", id: "603", id: "604" ]
 -
     id: "598"
     old_id: "11.30b"
@@ -10682,7 +9974,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-598-a", id: "fig-598-b" ]
-    related_objects: [ id: "573", id: "574", id: "600", id: "601", id: "599", id: "572" ]
 -
     id: "599"
     old_id: "11.30c"
@@ -10700,7 +9991,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-599" ]
-    related_objects: [ id: "598", id: "600", id: "601", id: "572" ]
 -
     id: "600"
     old_id: "11.30d"
@@ -10718,7 +10008,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-600" ]
-    related_objects: [ id: "573", id: "574", id: "598", id: "601", id: "599", id: "572" ]
 -
     id: "601"
     old_id: "11.30e"
@@ -10736,7 +10025,6 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-601" ]
-    related_objects: [ id: "573", id: "574", id: "598", id: "600", id: "599", id: "572" ]
 -
     id: "602"
     old_id: "11.30fa"
@@ -10754,7 +10042,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-602-a", id: "fig-602-b", id: "fig-602-c", id: "fig-602-d", id: "fig-602-e" ]
-    related_objects: [ id: "563", id: "564", id: "572", id: "597", id: "561", id: "603", id: "604" ]
 -
     id: "603"
     old_id: "11.30fb"
@@ -10772,7 +10059,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-603-a", id: "fig-603-b", id: "fig-603-c", id: "fig-603-d", id: "fig-603-e" ]
-    related_objects: [ id: "563", id: "564", id: "572", id: "597", id: "602", id: "561", id: "604" ]
 -
     id: "604"
     old_id: "11.30fc"
@@ -10790,7 +10076,6 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-604-a", id: "fig-604-b", id: "fig-604-c", id: "fig-604-d", id: "fig-604-e" ]
-    related_objects: [ id: "563", id: "564", id: "572", id: "597", id: "602", id: "603", id: "561" ]
 -
     id: "605"
     old_id: "11.30g"
@@ -10801,7 +10086,6 @@ object_list:
     date: "29 November–2 December 1973"
     date_sort: "1973-11-29"
     year_filter: [ "1973" ]
-    date_end: 31 29 November–2 December 1973
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9"
     extended_caption: "Allan Kaprow demonstrates his notations in front of a mirror in the gallery of the Portland Center for the Visual Arts in Portland, Oregon."
@@ -10809,7 +10093,6 @@ object_list:
     featured: true
     type: [ photograph ]
     figure: [ id: "fig-605" ]
-    related_objects: [ id: "566", id: "607", id: "608", id: "609", id: "610", id: "611", id: "612" ]
 -
     id: "606"
     old_id: "11.30h"
@@ -10827,7 +10110,6 @@ object_list:
     featured: true
     type: [ photograph ]
     figure: [ id: "fig-606-a", id: "fig-606-b", id: "fig-606-c", id: "fig-606-d", id: "fig-606-e", id: "fig-606-f", id: "fig-606-g" ]
-    related_objects: [ id: "573", id: "572", id: "574" ]
 -
     id: "607"
     old_id: "11.30i"
@@ -10845,7 +10127,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-607" ]
-    related_objects: [ id: "605", id: "566", id: "608", id: "609", id: "610", id: "611", id: "612" ]
 -
     id: "608"
     old_id: "11.30j"
@@ -10863,7 +10144,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-608-a", id: "fig-608-b" ]
-    related_objects: [ id: "605", id: "607", id: "566", id: "609", id: "610", id: "611", id: "612" ]
 -
     id: "609"
     old_id: "11.30l"
@@ -10881,7 +10161,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-609" ]
-    related_objects: [ id: "605", id: "607", id: "608", id: "566", id: "610", id: "611", id: "612" ]
 -
     id: "610"
     old_id: "11.30m"
@@ -10899,7 +10178,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-610" ]
-    related_objects: [ id: "605", id: "607", id: "608", id: "609", id: "566", id: "611", id: "612" ]
 -
     id: "611"
     old_id: "11.30n"
@@ -10917,7 +10195,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-611" ]
-    related_objects: [ id: "605", id: "607", id: "608", id: "609", id: "610", id: "566", id: "612" ]
 -
     id: "612"
     old_id: "11.30o"
@@ -10935,7 +10212,6 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-612" ]
-    related_objects: [ id: "605", id: "607", id: "608", id: "609", id: "610", id: "611", id: "566" ]
 -
     id: "613"
     old_id: "11.38"
@@ -10953,7 +10229,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-613-a", id: "fig-613-b" ]
-    related_objects: [ id: "573", id: "629", id: "626", id: "630", id: "615", id: "614" ]
 -
     id: "614"
     old_id: "11.31"
@@ -10971,7 +10246,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-614-a", id: "fig-614-b", id: "fig-614-c", id: "fig-614-d", id: "fig-614-e", id: "fig-614-f", id: "fig-614-g", id: "fig-614-h", id: "fig-614-i", id: "fig-614-j", id: "fig-614-k", id: "fig-614-l", id: "fig-614-m", id: "fig-614-n", id: "fig-614-o", id: "fig-614-p", id: "fig-614-q" ]
-    related_objects: [ id: "573", id: "629", id: "626", id: "630", id: "613", id: "615" ]
 -
     id: "615"
     old_id: "11.32"
@@ -10989,7 +10263,6 @@ object_list:
     featured: 
     type: [ archival materials ]
     figure: [ id: "fig-615-a", id: "fig-615-b" ]
-    related_objects: [ id: "573", id: "629", id: "626", id: "630", id: "613", id: "614" ]
 -
     id: "616"
     old_id: "11.33"
@@ -11025,7 +10298,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-617-a", id: "fig-617-b", id: "fig-617-c", id: "fig-617-d", id: "fig-617-e", id: "fig-617-f" ]
-    related_objects: [ id: "618", id: "619", id: "620", id: "622", id: "623", id: "624", id: "625", id: "621" ]
+    related_objects: [ id: "618", id: "619", id: "620", id: "622", id: "623", id: "624", id: "625" ]
 -
     id: "618"
     old_id: "11.34aa"
@@ -11097,7 +10370,6 @@ object_list:
     featured: 
     type: [ sketches and materials ]
     figure: [ id: "fig-621-a", id: "fig-621-b" ]
-    related_objects: [ id: "617" ]
 -
     id: "622"
     old_id: "11.34e"
@@ -11187,7 +10459,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-626-a", id: "fig-626-b", id: "fig-626-c", id: "fig-626-d", id: "fig-626-e", id: "fig-626-f", id: "fig-626-g", id: "fig-626-h", id: "fig-626-i", id: "fig-626-j", id: "fig-626-k", id: "fig-626-l", id: "fig-626-m", id: "fig-626-n", id: "fig-626-o", id: "fig-626-p" ]
-    related_objects: [ id: "575", id: "627", id: "628", id: "573", id: "629", id: "626", id: "630", id: "613", id: "614", id: "615" ]
+    related_objects: [ id: "575", id: "627", id: "628", id: "629" ]
 -
     id: "627"
     old_id: "11.35b"
@@ -11241,7 +10513,7 @@ object_list:
     featured: 
     type: [ photograph ]
     figure: [ id: "fig-629" ]
-    related_objects: [ id: "575", id: "626", id: "627", id: "628", id: "573", id: "615", id: "630", id: "613", id: "614" ]
+    related_objects: [ id: "575", id: "626", id: "627", id: "628" ]
 -
     id: "630"
     old_id: "11.36a"
@@ -11259,7 +10531,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-630-a", id: "fig-630-b", id: "fig-630-c", id: "fig-630-d", id: "fig-630-e", id: "fig-630-f", id: "fig-630-g", id: "fig-630-h", id: "fig-630-i", id: "fig-630-j" ]
-    related_objects: [ id: "576", id: "577", id: "631", id: "632", id: "573", id: "629", id: "626", id: "613", id: "614", id: "615" ]
+    related_objects: [ id: "576", id: "577", id: "631", id: "632" ]
 -
     id: "631"
     old_id: "11.36b"

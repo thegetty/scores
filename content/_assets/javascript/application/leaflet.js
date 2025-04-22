@@ -7,13 +7,15 @@ const mapContainer = document.getElementById('leafletmap')
 
 if (mapContainer) {
 
+  mapContainer.style.visibility = 'hidden'
+
   const map = L.map('leafletmap').setView([39.4, -39.2], 3);
 
   // https://gist.github.com/geog4046instructor/80ee78db60862ede74eacba220809b64
   // replace Leaflet's default blue marker with a custom icon
   function createCustomIcon (feature, latlng) {
     let myIcon = L.icon({
-      iconUrl: '/_assets/images/icons/marker.png',
+      iconUrl: '/publications/scores/_assets/images/icons/marker.png',
       iconSize:     [30, 55], // width and height of the image in pixels
       iconAnchor:   [15, 55], // point of the icon which will correspond to marker's location
       popupAnchor:  [0, -60] // point from which the popup should open relative to the iconAnchor
@@ -63,6 +65,10 @@ if (mapContainer) {
       });
     });
 
-  }
+  };
 
+  mapContainer.style.visibility = 'visible';
+  if (mapContainer.style.visibility === true) mapContainer.resize();
+  if (mapContainer.style.visibility === true) map.resize();
+  
 }

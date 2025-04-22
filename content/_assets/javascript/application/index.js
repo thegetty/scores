@@ -390,6 +390,12 @@ window['showTagged'] = function(tag) {
     // remove the selected class if the card was previously selected with checkCardHash()
     if (card.classList.contains('selected')) {
       card.classList.remove('selected')
+      // clone link to remove showTagged listener, and then add original onHashLinkClick listener back on
+      const cardLink = card.children[0]
+      const clonedLink = cardLink.cloneNode(true)
+      clonedLink.addEventListener('click',onHashLinkClick)
+      cardLink.parentNode.replaceChild(clonedLink, cardLink);
+
     }
     if (tag === 'all' ) {
       if (card.classList.contains('card-description')) {
@@ -446,7 +452,13 @@ function checkCardHash() {
     cards.forEach(card => {
       if (card.id === hash) {
         card.style.display = 'block';
-        card.classList.add('selected')
+        card.classList.add('selected')  
+        // Add showTagged so clicking on the selected card will reset the grid to the previous state
+        const cardLink = card.children[0]
+        const dropdownValue = dropdown.value;
+        cardLink.addEventListener('click', function() {
+          showTagged(dropdownValue);
+        });
       } else {
         card.style.display = 'none';
         card.classList.remove('selected')
@@ -509,14 +521,18 @@ function randomImage() {
     "980063-b24f9_standing.jpg",
     "r2014449_980063_b4_f13_003.jpg",
     "980063-b20f13_r-loss.jpg",
-    "r2014504_980063_b26_f7_012.jpg"
+    "r2014504_980063_b26_f7_012.jpg",
+    "r32814_980039_b9_r_001.jpg",
+    "r2015418_980039_b9_f25_001.jpg",
+    "gri_980039_b176_f01_040_mm.jpg",
+    "r2015669_980039_b174_f4_001.jpg"
   ];
 
   let randomSplashImage = splashImages[Math.floor(Math.random() * splashImages.length)];
   let splash = document.querySelector('.splash-overlay-image img');
 
   if (splash) {
-    let splashSrc = '_assets/images/figures/' + randomSplashImage;
+    let splashSrc = '_assets/images/figures/splash/' + randomSplashImage;
     let currentSrc = splash.getAttribute('src');
     
     if (splashSrc === currentSrc) {

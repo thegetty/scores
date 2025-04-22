@@ -1,5 +1,5 @@
 config: 
-  tagsHeading: "Theme: "
+  tagsHeading: "Keyword: "
   secondaryTagsHeading: "Date: "
 
 tag_descriptions:

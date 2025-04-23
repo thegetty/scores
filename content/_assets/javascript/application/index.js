@@ -564,6 +564,15 @@ function scrollView() {
   }
 }
 
+// Scroll to newThumbnail if it's not in view
+function isElementInView(element) {
+  const rect = element.getBoundingClientRect();
+  const parentRect = element.parentElement.getBoundingClientRect();
+  return (
+      rect.left >= 0 &&
+      rect.right <= parentRect.width
+  );
+}
 
 /**
  * pageSetup
@@ -636,5 +645,37 @@ window.addEventListener('scroll', () => {
   let nav = document.getElementById('nav');
   if (nav.getBoundingClientRect().top < window.innerHeight) {
     triggerMenuAnimation()
+  }
+})
+
+window.addEventListener('keydown', (event) => {
+  const thumbnails = document.querySelector('.quire-entry__thumbnails')
+  if (thumbnails) {
+    if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') {
+      let currentThumbnail = document.querySelector('a.thumbnail.current-thumbnail');
+        if (currentThumbnail) {
+          currentThumbnail.classList.remove('current-thumbnail');
+          let newThumbnail;
+        if (event.key === 'ArrowRight') {
+          newThumbnail = currentThumbnail.nextElementSibling;
+          if (!newThumbnail || !newThumbnail.classList.contains('thumbnail')) {
+            newThumbnail = currentThumbnail.parentElement.firstElementChild;
+          }
+          console.log('ArrowRight')
+        } else if (event.key === 'ArrowLeft') {
+          newThumbnail = currentThumbnail.previousElementSibling;
+          if (!newThumbnail || !newThumbnail.classList.contains('thumbnail')) {
+            newThumbnail = currentThumbnail.parentElement.lastElementChild;
+          }
+          console.log('ArrowLeft')
+        }
+        if (newThumbnail && newThumbnail.classList.contains('thumbnail')) {
+          newThumbnail.classList.add('current-thumbnail');
+          if (!isElementInView(newThumbnail)) {
+            newThumbnail.scrollIntoView({ inline: "nearest" });
+          }
+        }
+      }
+    }
   }
 })

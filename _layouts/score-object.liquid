@@ -16,7 +16,7 @@ Entry content, including entry image and tombstone data
 {% endcomment %}
 
 <button id="quire-entry-view-toggle" onclick="toggleEntryContent()">View: Wide</button>
-<div id="quire-entry-view"{% if sideBySide == true or presentation == 'side-by-side' %} class="side-by-side" {% endif %}>
+<div id="quire-entry-view" class="narrow">
 
   {% comment %} Full-width entry image header {% endcomment %}
   <div class="quire-entry__image-wrap" data-outputs-include="html">
@@ -77,7 +77,8 @@ Entry content, including entry image and tombstone data
   {%- endfor -%}
 
   <div class="quire-entry__content">
-    <header class="quire-entry__header">
+    <a class="quire-entry__content__more" href="#text-start">More ...</a>
+    <header class="quire-entry__header" id="text-start">
       <div class="container">
         <h1 class="quire-page__header__title" id="page-header-{{ page.filePathStem }}">
           {% pageTitle label=label, title=title, subtitle=subtitle %}

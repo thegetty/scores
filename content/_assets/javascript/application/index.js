@@ -443,6 +443,8 @@ function checkCardHash() {
   const cardPage = document.querySelector('.quire-score-object-cards')
   const hash = window.location.hash.substring(1); // Remove the '#' from the hash
 
+  if (hash == 'text-start') return
+
   if (cardPage && hash) {
     const cards = document.querySelectorAll('.card');
     const descriptions = document.querySelectorAll('.card-description');
@@ -484,8 +486,16 @@ window['toggleEntryContent'] = () => {
   const myDiv = document.getElementById('quire-entry-view')
   const myButton = document.getElementById('quire-entry-view-toggle')
 
-  myDiv.classList.toggle('side-by-side')
-  
+  myDiv.classList.toggle('narrow')
+  myDiv.classList.toggle('wide')
+
+  const currentThumb = document.querySelector('.current-thumbnail')
+  if (currentThumb) {
+    if (!isElementInView(currentThumb)) {
+      currentThumb.scrollIntoView({ inline: "nearest" });
+    }
+  }
+
   if (myButton.textContent.includes('View: Wide')) {
     myButton.textContent = 'View: Narrow'
   } else {

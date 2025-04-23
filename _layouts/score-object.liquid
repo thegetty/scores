@@ -58,14 +58,14 @@ Entry content, including entry image and tombstone data
       {%- if forloop.first == true -%}{%- assign firstThumb = true -%}{%- else -%}{%- assign firstThumb = false -%}{%- endif -%}
       {%- for figure in figures.figure_list -%}
         {%- if thisFig.id == figure.id -%}
-          <a class="ref thumbnail{% if firstThumb == true %} current-thumbnail{%- endif -%}" data-annotation-ids="" data-figure-id="{{ figure.id }}" data-region="">
+          <a class="ref thumbnail{% if firstThumb == true %} current-thumbnail{%- endif -%}" data-figure-label="{% if figure.label != '' %}{{ figure.label }}{% else %}•{% endif %}" data-annotation-ids="" data-figure-id="{{ figure.id }}" data-region="">
           <figure>
+          <span class="thumbnail-tooltip" hidden>Link copied</span>
           {%- if figure.poster -%}
           <img src="/_assets/images/{{ figure.poster }}" alt="thumb">
           {%- else -%}
           <img src="/iiif/{{ figure.id }}/{{ figure.src | replace: "figures/", "" | replace: ".jpg", "/thumbnail.jpg" }}" alt="thumb">
           {%- endif -%}
-          <figcaption>{{ figure.label }}</figcaption>
           </figure>
           </a>
         {%- endif -%}

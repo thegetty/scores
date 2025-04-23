@@ -574,6 +574,36 @@ function isElementInView(element) {
   );
 }
 
+// Function to copy the current URL to the clipboard
+function copyLink(event) {
+  const element = event.currentTarget;
+  if (element.classList.contains('current-thumbnail')) {
+    const url = window.location.href;
+    navigator.clipboard.writeText(url).then(() => {
+      const tooltip = element.querySelector('.thumbnail-tooltip');
+      if (tooltip) {
+        tooltip.hidden = false;
+        setTimeout(() => {
+          tooltip.hidden = true; 
+        }, 2000);
+      }
+    }).catch(err => {
+        console.error('Failed to copy link: ', err);
+    });
+  }
+}
+
+function addThumbnailLinkCopying() {
+  // Get all a.thumbnail elements on the page
+  const thumbnails = document.querySelectorAll('a.thumbnail');
+
+  thumbnails.forEach(thumbnail => {
+    // Add the copyLink function triggered by click
+    thumbnail.addEventListener('click', copyLink);
+  });
+}
+
+
 /**
  * pageSetup
  * @description This function is called after each smoothState reload.
@@ -586,6 +616,7 @@ function pageSetup() {
   randomImage()
   scrollView()
   checkCardHash()
+  addThumbnailLinkCopying()
 }
 
 function parseQueryParams() {

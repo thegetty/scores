@@ -47,7 +47,7 @@
 }
 @media screen and (min-width: 700px) {
   :root {
-    --thumbnail-height: 60px;
+    --thumbnail-height: 80px;
   }
 }
 
@@ -1397,7 +1397,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .quire-entry__thumbnails {
   z-index: 10;
-  height: calc(var(--thumbnail-height) + 6rem);
+  height: calc(var(--thumbnail-height) + 5.5rem);
   background-color: black;
   overflow-x: scroll;
   overflow-y: clip;
@@ -1407,39 +1407,45 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .quire-entry__thumbnails__inner {
   display: flex;
 }
-.quire-entry__thumbnails .thumbnail figure {
-  display: inline-flex;
+.quire-entry__thumbnails .thumbnail figure,
+.quire-entry__thumbnails .thumbnail-tooltip {
   aspect-ratio: 3 / 2;
-  border: 1px solid gray;
   border-radius: .5rem;
-  margin: 2rem .25rem;
-  padding: .5rem;
-  height: calc(var(--thumbnail-height) + 2rem);
+  padding: .75rem .5rem;
+  height: calc(var(--thumbnail-height) + 1.5rem);
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+}
+.quire-entry__thumbnails .thumbnail figure {
+  display: inline-flex;
+  border: 1px solid gray;
+  margin: 2rem .25rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 .quire-entry__thumbnails .thumbnail img {
-  max-height: var(--thumbnail-height);
-  height: var(--thumbnail-height);
+  max-height: calc(var(--thumbnail-height) - 2px);
 }
-.quire-entry__thumbnails .thumbnail figcaption {
-  text-align: center;
-  color: white;
-  line-height: var(--small-font-line-height);
+.quire-entry__thumbnails .thumbnail-tooltip {
   font-size: var(--small-font-size);
+  position: absolute;
+  top: 2rem;
+  background-color: rgb(0,0,0,.5);
+  color: white;
+  text-align: center;
 }
-.quire-entry__thumbnails .thumbnail.current-thumbnail::before {
-  content: "•";
+.quire-entry__thumbnails .thumbnail.current-thumbnail::before,
+.quire-entry__thumbnails .thumbnail:hover::before {
+  content: attr(data-figure-label);
+  font-size: var(--small-font-size);
   line-height: 0;
   color: white;
   text-align: center;
   display: block;
   margin-top: 1rem;
   margin-bottom: -1rem;
-}
-.quire-entry__thumbnails .thumbnail::before {
-  content: "";
 }
 
 /*  CARD VIEWER

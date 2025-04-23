@@ -21,6 +21,12 @@ playback:
 archive: 
   contributor:
     - id: nharren
+  highlights:
+    - id: "437"
+    - id: "468"
+    - id: "463"
+    - id: "445"
+    - id: "442"
   groups:
     - heading: "Scores"
       objects:

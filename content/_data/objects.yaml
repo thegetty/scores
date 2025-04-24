@@ -281,6 +281,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-015" ]
+    related_objects: [ id: "013" ]
 -
     id: "016"
     old_id: "1.05"
@@ -298,6 +299,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-016" ]
+    related_objects: [ id: "013" ]
 -
     id: "017"
     old_id: "1.06"
@@ -315,6 +317,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-017" ]
+    related_objects: [ id: "013" ]
 -
     id: "018"
     old_id: "1.07"
@@ -332,6 +335,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-018" ]
+    related_objects: [ id: "013" ]
 -
     id: "019"
     old_id: "1.07a"
@@ -1286,6 +1290,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-075" ]
+    related_objects: [ id: "060" ]
 -
     id: "076"
     old_id: "2.08"
@@ -1303,6 +1308,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-076" ]
+    related_objects: [ id: "067" ]
 -
     id: "077"
     old_id: "2.09"
@@ -1320,6 +1326,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-077" ]
+    related_objects: [ id: "060" ]
 -
     id: "078"
     old_id: "2.10"
@@ -1337,6 +1344,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-078" ]
+    related_objects: [ id: "060" ]
 -
     id: "079"
     old_id: "2.11"
@@ -1354,6 +1362,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-079" ]
+    related_objects: [ id: "067" ]
 -
     id: "080"
     old_id: "2.12"
@@ -1371,6 +1380,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-080" ]
+    related_objects: [ id: "060" ]
 -
     id: "081"
     old_id: "2.13a"
@@ -1388,6 +1398,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-081" ]
+    related_objects: [ id: "060" ]
 -
     id: "082"
     old_id: "2.13b"
@@ -2732,6 +2743,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-160" ]
+    related_objects: [ id: "154" ]
 -
     id: "161"
     old_id: "3.07"
@@ -2749,6 +2761,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-161" ]
+    related_objects: [ id: "154" ]
 -
     id: "162"
     old_id: "3.07a"
@@ -3466,6 +3479,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-203" ]
+    related_objects: [ id: "197" ]
 -
     id: "204"
     old_id: "4.08"
@@ -3483,6 +3497,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-204" ]
+    related_objects: [ id: "197" ]
 -
     id: "205"
     old_id: "4.09"
@@ -3517,6 +3532,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-206" ]
+    related_objects: [ id: "197" ]
 -
     id: "207"
     old_id: "4.10b"
@@ -3534,6 +3550,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-207" ]
+    related_objects: [ id: "197" ]
 -
     id: "208"
     old_id: "4.10c"
@@ -3551,7 +3568,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-208" ]
-    related_objects: [ id: "214" ]
+    related_objects: [ id: "214", id: "197" ]
 -
     id: "209"
     old_id: ""
@@ -4110,6 +4127,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-241" ]
+    related_objects: [ id: "238" ]
 -
     id: "242"
     old_id: "5.02d"
@@ -4130,6 +4148,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-242" ]
+    related_objects: [ id: "238" ]
 -
     id: "243"
     old_id: "5.02e"
@@ -4252,7 +4271,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-250" ]
-    related_objects: [ id: "240", id: "254", id: "243" ]
+    related_objects: [ id: "240", id: "254", id: "243", id: "238" ]
 -
     id: "251"
     old_id: "5.02m"
@@ -4275,7 +4294,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-251" ]
-    related_objects: [ id: "243" ]
+    related_objects: [ id: "243", id: "238" ]
 -
     id: "252"
     old_id: "5.02o"
@@ -5854,6 +5873,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-350" ]
+    related_objects: [ id: "349" ]
 -
     id: "351"
     old_id: "6.04"
@@ -5871,7 +5891,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-351" ]
-    related_objects: [ id: "352", id: "383" ]
+    related_objects: [ id: "352", id: "383", id: "346" ]
 -
     id: "352"
     old_id: "6.05"
@@ -5950,6 +5970,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-355" ]
+    related_objects: [ id: "346" ]
 -
     id: "356"
     old_id: "6.09"
@@ -5990,6 +6011,7 @@ object_list:
     featured: 
     type: [ video, digital feature ]
     figure: [ id: "fig-357" ]
+    related_objects: [ id: "346" ]
 -
     id: "358"
     old_id: "6.11"
@@ -6343,6 +6365,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-382" ]
+    related_objects: [ id: "376" ]
 -
     id: "383"
     old_id: "6.33"
@@ -6767,6 +6790,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-405" ]
+    related_objects: [ id: "406" ]
 -
     id: "406"
     old_id: "7.05"
@@ -8057,6 +8081,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-481" ]
+    related_objects: [ id: "479" ]
 -
     id: "482"
     old_id: "9.07b"
@@ -8074,6 +8099,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-482" ]
+    related_objects: [ id: "479" ]
 -
     id: "484"
     old_id: "9.08"

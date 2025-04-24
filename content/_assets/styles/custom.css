@@ -1261,8 +1261,8 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 ============================================================================= */
 /* Make everything white text on a black background */
 .score-object .quire-navbar,
-.quire-entry div.side-by-side div.quire-entry__image-wrap::after,
-.score-object .quire-entry div.side-by-side div.quire-entry__content,
+.quire-entry div.narrow div.quire-entry__image-wrap::after,
+.score-object .quire-entry div.narrow div.quire-entry__content,
 .quire:not(.no-js).score-object  .quire__primary main  {
   background-color: black;
   color: white;
@@ -1280,9 +1280,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   background-color: transparent;
   color: white !important;
 }
-.quire-entry div.side-by-side div.quire-entry__content section.section, 
-.quire-entry div.side-by-side div.quire-entry__content section, 
-.quire-entry div.side-by-side div.quire-entry__content header {
+.quire-entry div.narrow div.quire-entry__content section.section, 
+.quire-entry div.narrow div.quire-entry__content section, 
+.quire-entry div.narrow div.quire-entry__content header {
   padding: 0;
 }
 .q-lightbox-slides__element--table .overflow-container {
@@ -1293,7 +1293,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .q-figure-slides__slide-ui {
   display: none !important;
 }
-.score-object .quire-entry div.side-by-side div.quire-entry__content {
+.score-object .quire-entry div.narrow div.quire-entry__content {
   overflow-x: hidden;
 }
 .score-object .quire-entry__header {
@@ -1616,10 +1616,13 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .iframe_viewer__iframe {
   position: absolute;
-  width: calc(100% - 6rem);
-  height: calc(100% - 9rem);
-  top: 6rem;
-  left: 3rem;
+  width: calc(100% - 4rem);
+  height: calc(100% - 4rem);
+  top: 4rem;
+  left: 2rem;
+}
+.iframe_viewer__iframe html {
+  background-color: pink;
 }
 .iframe_viewer__nav-buttons,
 .iframe_viewer__controls {
@@ -1668,7 +1671,10 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 ============================================================================= */
 /* When a page is viewed in the iframe viewer, a script in `content/_assets/javascript/application/iframe-viewer.js` 
 adds the `iframe-version` class to the <body> so that these override styles may be applied  */
-body.iframe-version {
+body.iframe-version,
+body.iframe-version .score-object,
+body.iframe-version .score-object .quire__primary,
+body.iframe-version .score-object .quire__primary # {
   background-color: black;
   height: 100vh;
 }
@@ -1676,24 +1682,38 @@ body.iframe-version .quire-navbar,
 body.iframe-version .quire-contents-buttons {
   display: none;
 }
-@media screen and (min-width: 700px) {
-  body.iframe-version .side-by-side .quire-entry__lightbox {
-    top: 0;
-    left: 0;
-    height: 100vh;
-    width: calc(56% - 8px);
+body.iframe-version .narrow .quire-entry__lightbox {
+  top: 0;
+  left: 0;
+  height: 100vh;
+  height: calc(100vh - 3rem);
+}
+.quire-score-object .wide .quire-entry__lightbox {
+  height: calc(100vh - 3rem);
+}
+body.iframe-version .narrow .quire-entry__lightbox.quire-entry__lightbox--with-thumbnails {
+  height: calc(100vh - var(--thumbnail-height) - 4rem);
+}
+body.iframe-version .quire-score-object .quire-entry__lightbox.quire-entry__lightbox--with-thumbnails {
+  height: calc(100vh - var(--thumbnail-height) - 7rem);
+}
+@media screen and (max-width: 1100px) {
+  body.iframe-version .quire-score-object .narrow .quire-entry__lightbox::not(.quire-entry__lightbox--with-thumbnails) {
+    height: calc(100vh - 3rem);
   }
-  body.iframe-version .side-by-side .quire-entry__lightbox.quire-entry__lightbox--with-thumbnails {
-    height: calc(100vh - var(--thumbnail-height) - 4rem);
+  body.iframe-version .quire-score-object .wide .quire-entry__lightbox.quire-entry__lightbox--with-thumbnails{
+    height: calc(100vh - var(--thumbnail-height) - 6rem);
   }
 }
 body.iframe-version .quire-entry__thumbnails {
   height: auto;
   margin: 0;
-  width: calc(56% - 8px);
 }
 body.iframe-version .quire-entry__thumbnails .thumbnail figure {
   margin-bottom: 0;
+}
+body.iframe-version .quire-score-object .quire-entry__content__more {
+  margin: 1rem 2rem;
 }
 body.iframe-version .score-object .quire-entry__tombstone .container {
   margin-top: 0;
@@ -1714,11 +1734,20 @@ body.iframe-version .quire-page__content {
   animation: none;
   padding-right: 1rem;
 }
+body.iframe-version .wide .quire-entry__content {
+  margin-left: -2rem;
+}
+@media screen and (max-width: 1100px) {
+  body.iframe-version .narrow .quire-entry__content {
+    margin-left: -2rem;
+  }
+}
 body.iframe-version .quire .quire__primary main {
   background-color: black;
 }
 body.iframe-version #quire-entry-view-toggle {
-  display: none;
+  top: -1.25rem;
+  left: -2rem;
 }
 body.iframe-version .quire-score-object-cards .card-select {
   height: 3rem;
@@ -1726,7 +1755,7 @@ body.iframe-version .quire-score-object-cards .card-select {
   background-color: black;
   margin-left: 0;
 }
-body.iframe-version .quire-score-object-cards .side-by-side .quire-entry__lightbox {
+body.iframe-version .quire-score-object-cards .narrow .quire-entry__lightbox {
   top: 3rem;
   padding-bottom: 3rem;
 }

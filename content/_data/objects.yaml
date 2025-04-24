@@ -71,7 +71,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-003" ]
-    related_objects: [ id: "246", id: "247", id: "248", id: "255", id: "301", id: "302" ]
+    related_objects: [ id: "247", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "004"
     old_id: "0.04"
@@ -4176,7 +4176,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-247" ]
-    related_objects: [ id: "003", id: "246", id: "248", id: "255", id: "301", id: "302" ]
+    related_objects: [ id: "003", id: "248", id: "255", id: "301", id: "302" ]
 -
     id: "248"
     old_id: "5.02j"
@@ -4197,7 +4197,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-248" ]
-    related_objects: [ id: "003", id: "246", id: "247", id: "255", id: "301", id: "302" ]
+    related_objects: [ id: "003", id: "247", id: "255", id: "301", id: "302" ]
 -
     id: "249"
     old_id: "5.02k"
@@ -4280,7 +4280,6 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-252" ]
-    related_objects: [ id: "253" ]
 -
     id: "254"
     old_id: "5.02q"
@@ -4318,7 +4317,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-255" ]
-    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "256", id: "301", id: "302" ]
+    related_objects: [ id: "003", id: "247", id: "248", id: "256", id: "301", id: "302" ]
 -
     id: "256"
     old_id: "5.04"
@@ -5111,7 +5110,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-301-a", id: "fig-301-b", id: "fig-301-c" ]
-    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "255", id: "302" ]
+    related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "302" ]
 -
     id: "302"
     old_id: "5.17b"
@@ -5129,7 +5128,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-302-a", id: "fig-302-b", id: "fig-302-c", id: "fig-302-d", id: "fig-302-e", id: "fig-302-f", id: "fig-302-g", id: "fig-302-h", id: "fig-302-i", id: "fig-302-j", id: "fig-302-k", id: "fig-302-l", id: "fig-302-m", id: "fig-302-n", id: "fig-302-o", id: "fig-302-p", id: "fig-302-q", id: "fig-302-r", id: "fig-302-s", id: "fig-302-t", id: "fig-302-u", id: "fig-302-v", id: "fig-302-w", id: "fig-302-x", id: "fig-302-y", id: "fig-302-z", id: "fig-302-aa", id: "fig-302-ab", id: "fig-302-ac", id: "fig-302-ad", id: "fig-302-ae", id: "fig-302-af" ]
-    related_objects: [ id: "003", id: "246", id: "247", id: "248", id: "255", id: "301" ]
+    related_objects: [ id: "003", id: "247", id: "248", id: "255", id: "301" ]
 -
     id: "303"
     old_id: "5.18a"
@@ -8817,7 +8816,6 @@ object_list:
     featured: 
     type: [ artwork ]
     figure: [ id: "fig-528", id: "fig-528-a", id: "fig-528-b", id: "fig-528-c", id: "fig-528-d", id: "fig-528-e", id: "fig-528-f", id: "fig-528-g", id: "fig-528-h", id: "fig-528-i", id: "fig-528-j", id: "fig-528-k", id: "fig-528-l", id: "fig-528-m", id: "fig-528-n", id: "fig-528-o", id: "fig-528-p", id: "fig-528-q", id: "fig-528-r", id: "fig-528-s", id: "fig-528-t", id: "fig-528-u", id: "fig-528-v", id: "fig-528-w", id: "fig-528-x", id: "fig-528-y", id: "fig-528-z", id: "fig-528-aa", id: "fig-528-ab", id: "fig-528-ac", id: "fig-528-ad", id: "fig-528-ae", id: "fig-528-af", id: "fig-528-ag", id: "fig-528-ah", id: "fig-528-ai", id: "fig-528-aj", id: "fig-528-ak", id: "fig-528-al", id: "fig-528-am", id: "fig-528-an", id: "fig-528-ao", id: "fig-528-ap", id: "fig-528-aq", id: "fig-528-ar", id: "fig-528-as", id: "fig-528-at", id: "fig-528-au", id: "fig-528-av", id: "fig-528-aw", id: "fig-528-ax", id: "fig-528-ay", id: "fig-528-az", id: "fig-528-ba", id: "fig-528-bb", id: "fig-528-bc", id: "fig-528-bd", id: "fig-528-be", id: "fig-528-bf", id: "fig-528-bg", id: "fig-528-bh", id: "fig-528-bi", id: "fig-528-bj", id: "fig-528-bk", id: "fig-528-bl", id: "fig-528-bm", id: "fig-528-bn", id: "fig-528-bo", id: "fig-528-bp", id: "fig-528-bq", id: "fig-528-br", id: "fig-528-bs", id: "fig-528-bt", id: "fig-528-bu", id: "fig-528-bv", id: "fig-528-bw", id: "fig-528-bx", id: "fig-528-by", id: "fig-528-bz", id: "fig-528-ca", id: "fig-528-cb", id: "fig-528-cc", id: "fig-528-cd", id: "fig-528-ce", id: "fig-528-cf", id: "fig-528-cg", id: "fig-528-ch", id: "fig-528-ci", id: "fig-528-cj", id: "fig-528-ck", id: "fig-528-cl", id: "fig-528-cm", id: "fig-528-cn", id: "fig-528-co", id: "fig-528-cp", id: "fig-528-cq", id: "fig-528-cr", id: "fig-528-cs", id: "fig-528-ct", id: "fig-528-cu", id: "fig-528-cv", id: "fig-528-cw", id: "fig-528-cx", id: "fig-528-cy", id: "fig-528-cz", id: "fig-528-da", id: "fig-528-db", id: "fig-528-dc", id: "fig-528-dd", id: "fig-528-de", id: "fig-528-df", id: "fig-528-dg", id: "fig-528-dh", id: "fig-528-di", id: "fig-528-dj", id: "fig-528-dk", id: "fig-528-dl", id: "fig-528-dm", id: "fig-528-dn" ]
-    related_objects: [ id: "529" ]
 -
     id: "530"
     old_id: "10.22"

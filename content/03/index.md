@@ -28,6 +28,12 @@ playback:
 archive: 
   contributor:
     - id: mgallope
+  highlights:
+    - id: "166"
+    - id: "196"
+    - id: "191"
+    - id: "181"
+    - id: "173"
   groups:
     - heading: "Scores"
       objects:

@@ -44,6 +44,12 @@ playback:
 archive: 
   contributor:
     - id: mgallope
+  highlights:
+    - id: "085"
+    - id: "130"
+    - id: "095"
+    - id: "128"
+    - id: "141"
   groups:
     - heading: "Sketches and materials"
       objects:

@@ -36,9 +36,11 @@ archive:
     - id: mgallope
     - id: nharren
   highlights:
-    - id: "288"
+    - id: "300"
     - id: "255"
+    - id: "271"
     - id: "290"
+    - id: "266"
   groups:
     - heading: "Scores"
       objects:

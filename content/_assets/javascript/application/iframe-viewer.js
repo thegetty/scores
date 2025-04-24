@@ -67,6 +67,9 @@ window['updateViewer'] = (currentObjectHref) => {
     const pageBody = this.contentDocument.body
     pageBody.classList.add('iframe-version')
 
+    const pageHTML = this.contentDocument.querySelector('html')
+    pageHTML.style.backgroundColor = 'black'
+
     // Add target=_blank to links displayed in iframe
     if (this.contentDocument.URL.includes('visual-atlas')) {
       const contentAreas = this.contentDocument.querySelectorAll('.quire-page__content, .quire-entry__lightbox--embed')
@@ -87,41 +90,40 @@ window['updateViewer'] = (currentObjectHref) => {
 
   // Update Prev / Next Links 
   // -- THESE WERE REMOVED as not consistent or clear for users
-  //
-  // var nav = document.getElementById('iframe-nav');
-  // nav.innerHTML = '';
-  // const pageObjectLinks = document.querySelectorAll("a.object-link")
-  // let hrefArrayAll = []
-  // for (var index = 0; index < pageObjectLinks.length; ++index) {
-  //   hrefArrayAll.push(pageObjectLinks[index].getAttribute('href'))
-  // }
-  // let hrefArrayUnique = [...new Set(hrefArrayAll)];
-  // const currentObjectIndex = hrefArrayUnique.indexOf(currentObjectHref)
-  // const prevObjectIndex = currentObjectIndex == 0 ? hrefArrayUnique.length - 1 : currentObjectIndex - 1
-  // const nextObjectIndex = currentObjectIndex == hrefArrayUnique.length - 1 ? 0 : currentObjectIndex + 1
-  //
-  // const prevButton = document.createElement("a");
-  // prevButton.href = hrefArrayUnique[prevObjectIndex]
-  // prevButton.setAttribute('aria-label', 'Previous image')
-  // prevButton.setAttribute('target', 'object-iframe')
-  // prevButton.classList.add('iframe-control')
-  // prevButton.addEventListener('click', () => {
-  //   updateViewer(hrefArrayUnique[prevObjectIndex]);
-  // })
-  // prevButton.innerHTML = 'Prev'
-  //
-  // const nextButton = document.createElement("a");
-  // nextButton.href = hrefArrayUnique[nextObjectIndex]
-  // nextButton.setAttribute('aria-label', 'Next image')
-  // nextButton.setAttribute('target', 'object-iframe')
-  // nextButton.classList.add('iframe-control')
-  // nextButton.addEventListener('click', () => {
-  //   updateViewer(hrefArrayUnique[nextObjectIndex]);
-  // })
-  // nextButton.innerHTML = 'Next'
-  //
-  // nav.prepend(nextButton)
-  // nav.prepend(prevButton)  
+  var nav = document.getElementById('iframe-nav');
+  nav.innerHTML = '';
+  const pageObjectLinks = document.querySelectorAll("a.object-link")
+  let hrefArrayAll = []
+  for (var index = 0; index < pageObjectLinks.length; ++index) {
+    hrefArrayAll.push(pageObjectLinks[index].getAttribute('href'))
+  }
+  let hrefArrayUnique = [...new Set(hrefArrayAll)];
+  const currentObjectIndex = hrefArrayUnique.indexOf(currentObjectHref)
+  const prevObjectIndex = currentObjectIndex == 0 ? hrefArrayUnique.length - 1 : currentObjectIndex - 1
+  const nextObjectIndex = currentObjectIndex == hrefArrayUnique.length - 1 ? 0 : currentObjectIndex + 1
+  
+  const prevButton = document.createElement("a");
+  prevButton.href = hrefArrayUnique[prevObjectIndex]
+  prevButton.setAttribute('aria-label', 'Previous image')
+  prevButton.setAttribute('target', 'object-iframe')
+  prevButton.classList.add('iframe-control')
+  prevButton.addEventListener('click', () => {
+    updateViewer(hrefArrayUnique[prevObjectIndex]);
+  })
+  prevButton.innerHTML = 'Prev'
+  
+  const nextButton = document.createElement("a");
+  nextButton.href = hrefArrayUnique[nextObjectIndex]
+  nextButton.setAttribute('aria-label', 'Next image')
+  nextButton.setAttribute('target', 'object-iframe')
+  nextButton.classList.add('iframe-control')
+  nextButton.addEventListener('click', () => {
+    updateViewer(hrefArrayUnique[nextObjectIndex]);
+  })
+  nextButton.innerHTML = 'Next'
+  
+  nav.prepend(nextButton)
+  nav.prepend(prevButton)  
 
   // Add href path to share button for copying
   const shareButton = document.getElementById('iframe-share')

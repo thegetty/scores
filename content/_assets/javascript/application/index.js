@@ -443,6 +443,8 @@ function checkCardHash() {
   const cardPage = document.querySelector('.quire-score-object-cards')
   const hash = window.location.hash.substring(1); // Remove the '#' from the hash
 
+  if (hash == 'text-start') return
+
   if (cardPage && hash) {
     const cards = document.querySelectorAll('.card');
     const descriptions = document.querySelectorAll('.card-description');
@@ -484,8 +486,16 @@ window['toggleEntryContent'] = () => {
   const myDiv = document.getElementById('quire-entry-view')
   const myButton = document.getElementById('quire-entry-view-toggle')
 
-  myDiv.classList.toggle('side-by-side')
-  
+  myDiv.classList.toggle('narrow')
+  myDiv.classList.toggle('wide')
+
+  const currentThumb = document.querySelector('.current-thumbnail')
+  if (currentThumb) {
+    if (!isElementInView(currentThumb)) {
+      currentThumb.scrollIntoView({ inline: "nearest" });
+    }
+  }
+
   if (myButton.textContent.includes('View: Wide')) {
     myButton.textContent = 'View: Narrow'
   } else {
@@ -564,6 +574,45 @@ function scrollView() {
   }
 }
 
+// Scroll to newThumbnail if it's not in view
+function isElementInView(element) {
+  const rect = element.getBoundingClientRect();
+  const parentRect = element.parentElement.getBoundingClientRect();
+  return (
+      rect.left >= 0 &&
+      rect.right <= parentRect.width
+  );
+}
+
+// Function to copy the current URL to the clipboard
+function copyLink(event) {
+  const element = event.currentTarget;
+  if (element.classList.contains('current-thumbnail')) {
+    const url = window.location.href;
+    navigator.clipboard.writeText(url).then(() => {
+      const tooltip = element.querySelector('.thumbnail-tooltip');
+      if (tooltip) {
+        tooltip.hidden = false;
+        setTimeout(() => {
+          tooltip.hidden = true; 
+        }, 2000);
+      }
+    }).catch(err => {
+        console.error('Failed to copy link: ', err);
+    });
+  }
+}
+
+function addThumbnailLinkCopying() {
+  // Get all a.thumbnail elements on the page
+  const thumbnails = document.querySelectorAll('a.thumbnail');
+
+  thumbnails.forEach(thumbnail => {
+    // Add the copyLink function triggered by click
+    thumbnail.addEventListener('click', copyLink);
+  });
+}
+
 
 /**
  * pageSetup
@@ -577,6 +626,7 @@ function pageSetup() {
   randomImage()
   scrollView()
   checkCardHash()
+  addThumbnailLinkCopying()
 }
 
 function parseQueryParams() {
@@ -636,5 +686,37 @@ window.addEventListener('scroll', () => {
   let nav = document.getElementById('nav');
   if (nav.getBoundingClientRect().top < window.innerHeight) {
     triggerMenuAnimation()
+  }
+})
+
+window.addEventListener('keydown', (event) => {
+  const thumbnails = document.querySelector('.quire-entry__thumbnails')
+  if (thumbnails) {
+    if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') {
+      let currentThumbnail = document.querySelector('a.thumbnail.current-thumbnail');
+        if (currentThumbnail) {
+          currentThumbnail.classList.remove('current-thumbnail');
+          let newThumbnail;
+        if (event.key === 'ArrowRight') {
+          newThumbnail = currentThumbnail.nextElementSibling;
+          if (!newThumbnail || !newThumbnail.classList.contains('thumbnail')) {
+            newThumbnail = currentThumbnail.parentElement.firstElementChild;
+          }
+          console.log('ArrowRight')
+        } else if (event.key === 'ArrowLeft') {
+          newThumbnail = currentThumbnail.previousElementSibling;
+          if (!newThumbnail || !newThumbnail.classList.contains('thumbnail')) {
+            newThumbnail = currentThumbnail.parentElement.lastElementChild;
+          }
+          console.log('ArrowLeft')
+        }
+        if (newThumbnail && newThumbnail.classList.contains('thumbnail')) {
+          newThumbnail.classList.add('current-thumbnail');
+          if (!isElementInView(newThumbnail)) {
+            newThumbnail.scrollIntoView({ inline: "nearest" });
+          }
+        }
+      }
+    }
   }
 })

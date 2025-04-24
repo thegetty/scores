@@ -130,17 +130,16 @@ const goToFigureState = function ({
   const newThumbnail = document.querySelector(newThumbnailSelector)
   newThumbnail.classList.add('current-thumbnail');
   // Scroll to newThumbnail if it's not in view
-  function isElementInViewport(el) {
-    const rect = el.getBoundingClientRect();
+  function isElementInView(element) {
+    const rect = element.getBoundingClientRect();
+    const parentRect = element.parentElement.getBoundingClientRect();
     return (
-        rect.top >= 0 &&
         rect.left >= 0 &&
-        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        rect.right <= parentRect.width
     );
   }
-  if (!isElementInViewport(newThumbnail)) {
-      newThumbnail.scrollIntoView({ block: "nearest", inline: "start" });
+  if (!isElementInView(newThumbnail)) {
+      newThumbnail.scrollIntoView({ inline: "nearest" });
   }
 
   /** 

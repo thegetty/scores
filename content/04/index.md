@@ -33,6 +33,12 @@ playback:
 archive: 
   contributor:
     - id: mgallope
+  highlights:
+    - id: "213"
+    - id: "233"
+    - id: "219"
+    - id: "210"
+    - id: "217"
   groups:
     - heading: "Scores"
       objects:

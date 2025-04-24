@@ -21,6 +21,12 @@ playback:
 archive: 
   contributor:
     - id: jhicks
+  highlights:
+    - id: "410"
+    - id: "416"
+    - id: "407"
+    - id: "418"
+    - id: "419"
   groups:
     - heading: "Scores"
       objects:

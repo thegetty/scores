@@ -23,6 +23,11 @@ playback:
 archive: 
   contributor:
     - id: ercapper
+  highlights:
+    - id: "613"
+    - id: "575"
+    - id: "576"
+    - id: "578"
   groups:
     - heading: "Scores"
       objects:

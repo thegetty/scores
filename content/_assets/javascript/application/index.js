@@ -380,6 +380,7 @@ window['toggleCardCaption'] = function(event) {
 }
 
 window['showTagged'] = function(tag) {
+  tag = tag.toLowerCase()
   const hash = window.location.hash
   if (hash) {
     history.pushState("", document.title, window.location.pathname + window.location.search);

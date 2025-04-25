@@ -2319,7 +2319,7 @@ object_list:
     extended_caption: ""
     credit: ""
     featured: 
-    type: [ sketches and materials ]
+    type: [ sketches and materials, digital feature ]
     figure: [ id: "fig-136" ]
 -
     id: "137"
@@ -5799,7 +5799,10 @@ object_list:
     year_filter: [ "1963" ]
     medium: "Ninety-one scores printed on various sizes and colors of card stock"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
-    extended_caption: "In this interface, readers can perform text searches of [*Water Yam*’s](/object-index/348/) contents, browse curated collections of event scores tagged by keyword, and pull up randomly generated groupings of scores."
+    extended_caption: |
+      In this interface, readers can perform text searches of [*Water Yam*’s](/object-index/348/) contents, browse curated collections of event scores tagged by keyword, and pull up randomly generated groupings of scores.
+
+      Further commentary can be found on some cards, such as [*Three Yellow Events*](#card-030), as well as on a number of the keyword groupings like <a onclick="showTagged('musical instrument')">“musical instrument”</a>, which is a theme on nine of the cards. Some cards are double-sided, like [*Motor Vehicle Sundown (Event)*](#card-004), and two of the scores are <a onclick="showTagged('envelope')">envelopes</a> with cards inside them.
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
     type: [ digital feature ]
@@ -6721,19 +6724,30 @@ object_list:
     id: "405"
     old_id: ""
     maker: 
-    people: ""
+    people: [ "Mac Low, Jackson" ]
     more_people: ""
     title: "Podcast"
-    date: "2025"
-    date_sort: "2025-01-01"
-    year_filter: ""
+    date: "27 November 2024"
+    date_sort: "2024-11-27"
+    year_filter: "2024"
     medium: ""
     location: ""
-    extended_caption: ""
+    extended_caption: |
+      Michael Gallope and John Hicks discuss the absence of performance documentation for Jackson Mac Low’s postcard scores.
+
+      > 1:22: [*Schedule (For George Brecht)*](/object-index/406/#fig-406-j)
+      > 1:44: [*Light Rhythms for Henry Flynt*](/object-index/406/#fig-406-l)
+      > 1:57: [*Architecture (for GB)*](/object-index/406/#fig-406-b)
+      > 3:18: [*Social Project 1*](/object-index/406/#fig-406-h)
+      > 7:39: [*Social Project 2*](/object-index/406/#fig-406-h)
+      > 9:08: [*Social Project 3*](/object-index/406/#fig-406-d)
+      > 15:14: [*Architecture (for GB)*](/object-index/406/#fig-406-b)
+      > 19:10: [*Light Rhythms for Henry Flynt*](/object-index/406/#fig-406-l)
     credit: ""
     featured: 
     type: [ audio ]
     figure: [ id: "fig-405" ]
+    related_objects: [ id: "406" ]
 -
     id: "406"
     old_id: "7.05"

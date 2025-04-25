@@ -1541,6 +1541,23 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   display: inline-block;
   padding: 0;
 }
+.quire-score-object-cards.quire-entry .quire-page__content .content p.cards-button-wrapper {
+  text-indent: 0;
+  margin-top: 1rem;
+}
+.quire-score-object-cards .cards-button {
+  padding: 10px 20px;
+  font-family: "u001", sans-serif;
+  font-size: var(--small-font-size);
+  cursor: pointer;
+  border-width: 0;
+  border-radius: 8px;
+  background-color: white;
+}
+.quire-score-object-cards .cards-button.used {
+  background-color: var(--accent-color);
+}
+
 .quire-score-object-cards .quire-entry__lightbox .card-description {
   font-size: 1rem;
   margin-bottom: 1.5rem;

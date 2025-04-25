@@ -380,6 +380,10 @@ window['toggleCardCaption'] = function(event) {
 }
 
 window['showTagged'] = function(tag) {
+  if (tag !== '') {
+    const button = document.querySelector('.cards-button')
+    button.classList.remove('used')
+  }
   tag = tag.toLowerCase()
   const hash = window.location.hash
   if (hash) {
@@ -398,7 +402,13 @@ window['showTagged'] = function(tag) {
       cardLink.parentNode.replaceChild(clonedLink, cardLink);
 
     }
-    if (tag === 'all' ) {
+    if (tag === '') {
+      if (card.classList.contains('random')) {
+        card.style.display = 'block'
+      } else {
+        card.style.display = 'none'
+      }
+    } else if (tag === 'all' ) {
       if (card.classList.contains('card-description')) {
         card.style.display = 'none'
       } else {
@@ -437,6 +447,41 @@ window['showTagged'] = function(tag) {
   }
   for (const m of matchedTags) {
     m.classList.add('selected')
+  }
+}
+
+window['showRandom'] = function() {
+  const button = document.querySelector('.cards-button')
+  button.classList.add('used')
+  const allCards = document.querySelectorAll('.card')
+  const allCardDescriptions = document.querySelectorAll('.card-description')
+  const allTags = document.querySelectorAll('.card-caption__tags li')
+  const dropdown = document.getElementById('tagdropdown');
+  const lightbox = document.querySelector('.quire-entry__lightbox');
+  
+  const randomCount = Math.floor(Math.random() * 6) + 1 // Random number between 1 and 6
+  const shuffledCards = Array.from(allCards).sort(() => 0.5 - Math.random()) // Shuffle cards
+  shuffledCards.slice(0, randomCount).forEach(card => {
+    card.style.display = 'block'
+    card.classList.add('random')
+  })
+  shuffledCards.slice(randomCount).forEach(card => {
+    card.style.display = 'none'
+    card.classList.remove('random')
+  })
+  for (const description of allCardDescriptions) {
+    description.classList.remove('selected')
+    description.style.display = 'none'
+  }
+  for (const tag of allTags) {
+    tag.classList.remove('selected')
+  }
+
+  if (dropdown) {
+    dropdown.value = ''; // Set the dropdown to the option with no value
+  }
+  if (lightbox) {
+    lightbox.scrollTop = 0; // Scroll to the top of the .quire-entry__lightbox element
   }
 }
 

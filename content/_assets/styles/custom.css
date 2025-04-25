@@ -1412,6 +1412,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
     position: fixed;
     top: 4rem;
     left: 2rem;
+    z-index: 1;
   }
   .quire-score-object .narrow .quire-entry__lightbox.quire-entry__lightbox--with-thumbnails {
     height: calc(100vh - 4rem - var(--thumbnail-height) - 5.5rem);
@@ -1541,11 +1542,13 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   display: inline-block;
   padding: 0;
 }
+/* Optionally add a button directly to the markdown page, between the captioon and credit with:
+   <button class="cards-random-button" onclick="showRandom()">Random</button>{.cards-button-wrapper}  */
 .quire-score-object-cards.quire-entry .quire-page__content .content p.cards-button-wrapper {
   text-indent: 0;
   margin-top: 1rem;
 }
-.quire-score-object-cards .cards-button {
+.quire-score-object-cards .cards-random-button {
   padding: 10px 20px;
   font-family: "u001", sans-serif;
   font-size: var(--small-font-size);
@@ -1554,13 +1557,27 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   border-radius: 8px;
   background-color: white;
 }
-.quire-score-object-cards .cards-button.used {
+.quire-score-object-cards .cards-random-button.used {
   background-color: var(--accent-color);
 }
-
+.quire-score-object-cards .cards-random-button.text-button {
+  padding: 0;
+  background-color: transparent;
+  font-size: 1rem;
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  top: -.25rem;
+  z-index: 1;
+}
+.quire-score-object-cards .cards-random-button.text-button:hover,
+.quire-score-object-cards .cards-random-button.text-button.used {
+  color: var(--accent-color);
+}
 .quire-score-object-cards .quire-entry__lightbox .card-description {
   font-size: 1rem;
   margin-bottom: 1.5rem;
+  padding-right: .5rem;
 }
 .quire-score-object-cards .quire-entry__lightbox .card-description strong {
   font-weight: normal;
@@ -1612,6 +1629,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-top: 1rem;
   font-size: 1rem;
   max-width: 1000px;
+}
+.quire-score-object.quire-score-object-cards .narrow .quire-entry__content {
+  top: 6rem;
+}
+.quire-score-object.quire-score-object-cards .narrow .quire-entry__content .quire-entry__tombstone .container {
+  margin-top: 0;
 }
 
 /*  iFRAME VIEWER

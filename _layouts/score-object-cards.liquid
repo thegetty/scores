@@ -59,6 +59,8 @@ Entry content, including entry image and tombstone data
     </select>
     </div>
 
+    {% if cards == 'water-yam' %}<a class="cards-random-button text-button" onclick="showRandom()">Random</a>{% endif %}
+
     <div class="quire-entry__lightbox{% for object in pageObjects %}{% if object.figures.size > 1 %} quire-entry__lightbox--with-thumbnails{% endif %}{% endfor %}">
 
     {% if cards == 'water-yam' %}

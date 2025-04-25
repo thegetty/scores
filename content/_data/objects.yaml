@@ -2310,7 +2310,7 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
-    title: "Dynamics table for graph A for the first realization of John Cage’s *Solo for Piano*"
+    title: "David Tudor’s sketches for individual graphs of the first realization of Cage’s *Solo for Piano*"
     date: "May 1958"
     date_sort: "1958-05-01"
     year_filter: [ "1958" ]
@@ -2321,6 +2321,7 @@ object_list:
     featured: 
     type: [ sketches and materials, digital feature ]
     figure: [ id: "fig-136" ]
+    related_objects: [ id: "060" ]
 -
     id: "137"
     old_id: "2.22b"
@@ -5793,7 +5794,7 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     people: [ "Brecht, George" ]
     more_people: ""
-    title: "*Water Yam*"
+    title: "*Water Yam* Cards"
     date: "1963"
     date_sort: "1963-01-01"
     year_filter: [ "1963" ]
@@ -5805,8 +5806,9 @@ object_list:
       Further commentary can be found on some cards, such as [*Three Yellow Events*](#card-030), as well as on a number of the keyword groupings like <a onclick="showTagged('musical instrument')">“musical instrument”</a>, which is a theme on nine of the cards. Some cards are double-sided, like [*Motor Vehicle Sundown (Event)*](#card-004), and two of the scores are <a onclick="showTagged('envelope')">envelopes</a> with cards inside them.
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
-    type: [ digital feature ]
+    type: [ score, digital feature ]
     figure: [ id: "fig-349" ]
+    related_objects: [ id: "348", id: "369" ]
 -
     id: "350"
     old_id: "6.03c"

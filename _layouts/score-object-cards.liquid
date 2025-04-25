@@ -136,11 +136,12 @@ Entry content, including entry image and tombstone data
 
     <section class="section quire-page__content">
       <div class="container">
-        {%- if related_objects -%}
+        {% for obj in pageObjects %}
+        {% if obj.related_objects %}
         <div class="score-section score-section--related">
         {%- accordion 'Related' -%}
         <div class="score-section__objects">
-        {%- for thisObj in related_objects -%}
+        {%- for thisObj in obj.related_objects -%}
           <a href="/object-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
           {%- obj thisObj.id -%}
           </a>
@@ -148,7 +149,8 @@ Entry content, including entry image and tombstone data
         </div>
         {%- endaccordion -%}
         </div>
-        {%- endif -%}
+        {% endif %}
+        {% endfor %}
       </div>
     </section>
   </div>

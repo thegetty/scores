@@ -163,7 +163,7 @@ var geojsonFeature = [{
   "properties": {
     "address": "558 Grand Concourse, Bronx, NY 10451",
     "heading": "Post Office",
-    "description": "Mac Low mailed the postcards to Patterson from this post office, notable for its 13-panel Whitman-themed frescoe painted in 1939 by Ben Shahn and Bernarda Bryson Shahn. See http://tykokihlstedt.com/2014/01/whitman-work-democracy-ben-shahns-bronx.html",
+    "description": "Mac Low mailed the postcards to Patterson from this post office, notable for its 13-panel Whitman-themed frescoe painted in 1939 by Ben Shahn and Bernarda Bryson Shahn. See <a href='https://tykokihlstedt.com/2014/01/whitman-work-democracy-ben-shahns-bronx.html' target='_blank'>https://tykokihlstedt.com/2014/01/whitman-work-democracy-ben-shahns-bronx.html</a>",
     "featureType": "mailbox"
   },
   "geometry": {

@@ -6717,11 +6717,18 @@ object_list:
     year_filter: [ "1963" ]
     medium: ""
     location: ""
-    extended_caption: ""
+    extended_caption: |
+      Zoom to:
+      
+      > <a href="#" class="maplink" data-coordinates="40.782151,-73.9649333,12">Manhattan and the Bronx</a>
+      > <a href="#" class="maplink" data-coordinates="41.22209,-74.04838,12">Upstate New York</a>
+      > <a href="#" class="maplink" data-coordinates="48.8441847,2.3491357,12">Paris</a>
+      > <a href="#" class="maplink" data-coordinates="39.4,-39.2,3">Full view</a>
     credit: ""
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-404" ]
+    related_objects: [ id: "406" ]
 -
     id: "405"
     old_id: ""

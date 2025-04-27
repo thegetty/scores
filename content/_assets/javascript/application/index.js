@@ -386,7 +386,7 @@ window['showTagged'] = function(tag) {
       button.classList.remove('used')
     }
   }
-  tag = tag.toLowerCase()
+  // tag = tag.toLowerCase()
   const hash = window.location.hash
   if (hash) {
     history.pushState("", document.title, window.location.pathname + window.location.search);

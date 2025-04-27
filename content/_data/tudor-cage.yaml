@@ -2,6 +2,8 @@ config:
   tagsHeading: "Graph: "
   secondaryTagsHeading: "Type: "
 
+all_tags: "A, B, C, D, E, F, G, H, I, J, K, N, O, P, Q, R, T, U, X, Y, Z, AA, AB, AC, AD, AE, AF, AG, AI, AJ, AK, AL, AO, AR, AS, AT, AV, AX, AY, BA, BB, BC, BD, BE, BI, BJ, BK, BM, BN, BO, BP, BR, BS, BT, BU, BV, BW, BX, BY, BZ, CA, CB, CC, CD, CE, CF"
+
 card_list:
 -
     file: gri_980039_b06_f11_001_mm.jpg

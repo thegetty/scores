@@ -24,17 +24,16 @@ Entry content, including entry image and tombstone data
 
     {% if cards == 'water-yam' %}
       {% assign card_data = water-yam.card_list %}
+      {% capture all_tags_text -%}
+        {%- for card in card_data %}{{ card.tags }}, {% endfor -%}
+      {%- endcapture %}
+      {% assign all_tags = all_tags_text | downcase | split: ", " | uniq | sort %}
     {% elsif cards == 'tudor-cage' %}
       {% assign card_data = tudor-cage.card_list %}
+      {% assign all_tags = tudor-cage.all_tags | split: ", " %}
     {% else %}
       {% assign card_data = '' %}
     {% endif %}
-
-    {% capture all_tags_text -%}
-    {%- for card in card_data %}{{ card.tags }}, {% endfor -%}
-    {%- endcapture %}
-
-    {% assign all_tags = all_tags_text | downcase | split: ", " | uniq | sort %}
 
     <div class="card-select">
 
@@ -52,7 +51,11 @@ Entry content, including entry image and tombstone data
       <option value="all">all</option>
       {% for tag in all_tags %}
       {% if tag.size > 0 %}
-      <option value="{{ tag }}">{% if tag == 'fluxus' %}Fluxus{% else %}{{ tag }}{% endif %}</option>
+      {% if tag == 'fluxus' %}
+      <option value="Fluxus">Fluxus</option>
+      {% else %}
+      <option value="{{ tag }}">{{ tag }}</option>
+      {% endif %}
       {% endif %}
       {% endfor %}
       <option value="">...</option>

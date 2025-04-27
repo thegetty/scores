@@ -1529,6 +1529,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
     top: 1rem !important;
     margin-bottom: 2rem;
   }
+  .quire-score-object-cards .cards-random-button.text-button {
+    top: 0 !important;
+  }
+  .quire-score-object-cards .card-select {
+    margin-top: 0;
+  }
 }
 .quire-score-object-cards .card-select__label {
   display: inline-block;
@@ -1541,6 +1547,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   background-color: transparent;
   display: inline-block;
   padding: 0;
+  z-index: 1;
+  position: relative;
+}
+.quire-score-object-cards .card-select__select:focus-visible {
+  outline: none;
 }
 /* Optionally add a button directly to the markdown page, between the captioon and credit with:
    <button class="cards-random-button" onclick="showRandom()">Random</button>{.cards-button-wrapper}  */
@@ -1569,6 +1580,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   left: 50%;
   top: -.25rem;
   z-index: 1;
+}
+@media screen and (min-width: 1100px) and (max-width: 1400px) {
+  .quire-score-object-cards .cards-random-button.text-button {
+    left: calc(75% - 1rem);
+  }
 }
 .quire-score-object-cards .cards-random-button.text-button:hover,
 .quire-score-object-cards .cards-random-button.text-button.used {
@@ -1635,6 +1651,14 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .quire-score-object.quire-score-object-cards .narrow .quire-entry__content .quire-entry__tombstone .container {
   margin-top: 0;
+}
+@media screen and (max-width: 1100px) {
+  .quire-score-object.quire-score-object-cards .narrow .quire-entry__content {
+    top:0;
+  }
+  .quire-score-object.quire-score-object-cards .narrow .quire-entry__content .quire-entry__tombstone .container {
+    margin-top: 1rem;
+  }
 }
 
 /*  iFRAME VIEWER
@@ -1793,11 +1817,30 @@ body.iframe-version .quire-score-object-cards .card-select {
   height: 3rem;
   position: relative;
   background-color: black;
-  margin-left: 0;
+  margin-left: 25%;
+}
+body.iframe-version .quire-score-object-cards #quire-entry-view:not(.narrow) .quire-entry__lightbox {
+  margin: inherit;
+  width: 100% !important;
+  height: calc(100vh - 6rem);
 }
 body.iframe-version .quire-score-object-cards .narrow .quire-entry__lightbox {
-  top: 3rem;
+  top: 3rem !important;
   padding-bottom: 3rem;
+}
+body.iframe-version .quire-score-object.quire-score-object-cards .narrow .quire-entry__content {
+  top: 3rem !important;
+}
+@media screen and (max-width: 1100px) {
+  body.iframe-version .quire-score-object-cards .card-select {
+    margin-left: 0;
+  }
+  body.iframe-version .quire-score-object-cards .narrow .quire-entry__lightbox {
+    top: 0 !important;
+  }
+  body.iframe-version .quire-score-object-cards #quire-entry-view:not(.narrow) .quire-entry__lightbox {
+    height: calc(100vh - 6rem) !important;
+  }
 }
 
 /* PRINT

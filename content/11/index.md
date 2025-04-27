@@ -48,15 +48,12 @@ archive:
         - id: "604"
         - id: "565"
         - id: "617"
-        - id: "575"
         - id: "627"
         - id: "626"
         - id: "628"
-        - id: "576"
         - id: "630"
         - id: "632"
         - id: "634"
-        - id: "578"
     - heading: "Sketches and materials"
       objects:
         - id: "581"
@@ -98,7 +95,10 @@ archive:
     - heading: "Audio / Video"
       objects:
         - id: "570"
+        - id: "575"
+        - id: "576"
         - id: "577"
+        - id: "578"
     - heading: "Press clippings"
       objects:
         - id: "587"

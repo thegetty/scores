@@ -20,7 +20,6 @@ score:
 playback:
   objects:
     - id: "353"
-    - id: "352"
     - id: "351"
     - id: "354"
     - id: "355"
@@ -69,6 +68,7 @@ archive:
         - id: "358"
     - heading: "Photographs"
       objects:
+        - id: "352"
         - id: "359"
         - id: "360"
         - id: "361"

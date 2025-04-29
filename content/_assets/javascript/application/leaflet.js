@@ -11,6 +11,10 @@ if (mapContainer) {
 
   const map = L.map('leafletmap').setView([39.4, -39.2], 3);
 
+  L.control.zoom({
+    position: 'bottomleft'
+  }).addTo(map);
+
   // https://gist.github.com/geog4046instructor/80ee78db60862ede74eacba220809b64
   // replace Leaflet's default blue marker with a custom icon
   function createCustomIcon (feature, latlng) {
@@ -67,8 +71,13 @@ if (mapContainer) {
 
   };
 
+  const resizeObserver = new ResizeObserver(() => {
+    map.invalidateSize();
+    console.log("Map resized");
+  });
+  resizeObserver.observe(mapContainer);
+  
   mapContainer.style.visibility = 'visible';
-  if (mapContainer.style.visibility === true) mapContainer.resize();
-  if (mapContainer.style.visibility === true) map.resize();
+  map.invalidateSize();
   
 }

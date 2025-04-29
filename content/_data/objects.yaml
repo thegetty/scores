@@ -2323,17 +2323,18 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
-    title: "Dynamics table for graph A for the first realization of John Cage’s *Solo for Piano*"
+    title: "David Tudor’s sketches for individual graphs of the first realization of Cage’s *Solo for Piano*"
     date: "May 1958"
     date_sort: "1958-05-01"
     year_filter: [ "1958" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
-    extended_caption: ""
+    extended_caption: "In this digital feature, users can select various graphs in Cage’s [*Solo for Piano*](/object-index/060) and view Tudor’s corresponding drafts, notes, tables, and calculations for realizing each of Cage’s graphs. In this file, some individual pages contain notes for multiple graphs."
     credit: ""
     featured: 
-    type: [ sketches and materials ]
+    type: [ sketches and materials, digital feature ]
     figure: [ id: "fig-136" ]
+    related_objects: [ id: "060", id: "064", id: "065", id: "131" ]
 -
     id: "137"
     old_id: "2.22b"
@@ -4050,7 +4051,7 @@ object_list:
     year_filter: [ "1960" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 159"
-    extended_caption: ""
+    extended_caption: "George Brecht’s [*Card-Piece for Voice*](/object-index/349/#card-096) (1959) was performed in Mary Bauermeister’s studio by an ensemble gathered around a grand piano, which served as a provisional playing table. David Tudor can be seen at right, dealing from an ordinary deck of playing cards used to cue performers’ vocalizations. "
     credit: "Manfred Leve Estate."
     featured: 
     type: [ photograph ]
@@ -4060,6 +4061,7 @@ object_list:
     id: "238"
     old_id: "5.01"
     maker: [ "La Monte Young (American, b. 1935)", "Jackson Mac Low (American, 1922–2004)", "George Maciunas (Lithuanian American, 1931–78)" ]
+    maker_cite: "Mac Low, Jackson, George Maciunas, and La Monte Young"
     people: [ "Young, La Monte", "Mac Low, Jackson", "Maciunas, George" ]
     more_people: ""
     title: "*AN ANTHOLOGY of chance operations, concept art anti-art indeterminacy improvisation meaningless work natural disasters plans of action stories diagrams music poetry essays dance constructions mathematics compositions*"
@@ -5889,16 +5891,19 @@ object_list:
     maker: [ "George Brecht (American, 1926–2008)" ]
     people: [ "Brecht, George" ]
     more_people: ""
-    title: "*Water Yam*"
+    title: "*Water Yam* Cards"
     date: "1963"
     date_sort: "1963-01-01"
     year_filter: [ "1963" ]
     medium: "Ninety-one scores printed on various sizes and colors of card stock"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
-    extended_caption: "In this interface, readers can perform text searches of [*Water Yam*’s](/object-index/348/) contents, browse curated collections of event scores tagged by keyword, and pull up randomly generated groupings of scores."
+    extended_caption: |
+      In this interface, readers can perform text searches of [*Water Yam*’s](/object-index/348/) contents, browse curated collections of event scores tagged by keyword, and pull up randomly generated groupings of scores.
+
+      Further commentary can be found on some cards, such as [*Three Yellow Events*](#card-030), as well as on a number of the keyword groupings like <a onclick="showTagged('musical instrument')">“musical instrument”</a>, which is a theme on nine of the cards. Some cards are double-sided, like [*Motor Vehicle Sundown (Event)*](#card-004), and two of the scores are <a onclick="showTagged('envelope')">envelopes</a> with cards inside them.
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: 
-    type: [ digital feature ]
+    type: [ score, digital feature ]
     figure: [ id: "fig-349" ]
     related_objects: [ id: "348", id: "369" ]
 -
@@ -6848,24 +6853,41 @@ object_list:
     year_filter: [ "1963" ]
     medium: ""
     location: ""
-    extended_caption: ""
+    extended_caption: |
+      Zoom to:
+      
+      > <a href="#" class="maplink" data-coordinates="40.782151,-73.9649333,12">Manhattan and the Bronx</a>
+      > <a href="#" class="maplink" data-coordinates="41.22209,-74.04838,12">Upstate New York</a>
+      > <a href="#" class="maplink" data-coordinates="48.8441847,2.3491357,12">Paris</a>
+      > <a href="#" class="maplink" data-coordinates="39.4,-39.2,3">Full view</a>
     credit: ""
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-404" ]
+    related_objects: [ id: "406" ]
 -
     id: "405"
     old_id: ""
     maker: 
-    people: ""
+    people: [ "Mac Low, Jackson" ]
     more_people: ""
-    title: "Podcast"
-    date: "2025"
-    date_sort: "2025-01-01"
-    year_filter: ""
+    title: "Audio recording of Michael Gallope and John Hicks discussing Jackson Mac Low’s *Three Social Projects*"
+    date: "27 November 2024"
+    date_sort: "2024-11-27"
+    year_filter: "2024"
     medium: ""
     location: ""
-    extended_caption: ""
+    extended_caption: |
+      This podcast is a discussion between two of the editors of *The Scores Project* on the complex philosophical, contextual, and historical issues Jackson Mac Low’s postcard scores present to readers and potential performers. The links below connect users to the relevant images from Mac Low’s scores that are discussed in the course of the podcast.
+
+      > 1:22: [*Schedule (For George Brecht)*](/object-index/406/#fig-406-j)
+      > 1:44: [*Light Rhythms for Henry Flynt*](/object-index/406/#fig-406-l)
+      > 1:57: [*Architecture (for GB)*](/object-index/406/#fig-406-b)
+      > 3:18: [*Social Project 1*](/object-index/406/#fig-406-h)
+      > 7:39: [*Social Project 2*](/object-index/406/#fig-406-h)
+      > 9:08: [*Social Project 3*](/object-index/406/#fig-406-d)
+      > 15:14: [*Architecture (for GB)*](/object-index/406/#fig-406-b)
+      > 19:10: [*Light Rhythms for Henry Flynt*](/object-index/406/#fig-406-l)
     credit: ""
     featured: 
     type: [ audio ]
@@ -9790,7 +9812,7 @@ object_list:
     medium: "U-matic videocassette, SD, color, 3/4-inch tape"
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V37"
     extended_caption: |
-      *7 Kinds of Sympathy* was sponsored by Vienna’s Museum of the 20th Century and realized there by a few couples in March 1976. The videotape of the program was shot and edited by Peter Kirby, an alumnus of the California Institute of the Arts, where Allan Kaprow had been a dean and a professor from 1969 to 1974. Kirby ran the Artists Post Production Facility at the Long Beach Museum of Art in Long Beach, California, and founded an early video postproduction company in Hollywood (Video Transitions), where he worked on commercial music videos. Kaprow collaborated with Kirby on several additional videotapes for his activities, namely *Time Pieces* (1975), *Common Senses* (1977), and *Private Parts* (1977). You can also view [*Private Parts*](object-index/578/) in the [Playback section of chapter 11](/11/#playback). The remaining components of *7 Kinds of Sympathy*—[Kaprow’s activity booklet](/object-index/630/) and [notes for the video](/object-index/631/)—are reproduced in the [Archive section](/11/#archive).
+      *7 Kinds of Sympathy* was sponsored by Vienna’s Museum of the 20th Century and realized there by a few couples in March 1976. The videotape of the program was shot and edited by Peter Kirby, an alumnus of the California Institute of the Arts, where Allan Kaprow had been a dean and a professor from 1969 to 1974. Kirby ran the Artists Post Production Facility at the Long Beach Museum of Art in Long Beach, California, and founded an early video postproduction company in Hollywood (Video Transitions), where he worked on commercial music videos. Kaprow collaborated with Kirby on several additional videotapes for his activities, namely *Time Pieces* (1975), *Common Senses* (1977), and [*Private Parts*](object-index/578/) (1977). The remaining components of *7 Kinds of Sympathy*—[Kaprow’s activity booklet](/object-index/630/) and [notes for the video](/object-index/631/)—are also reproduced in the [Archive section of chapter 11](/11/#archive).
       
       Produced by Peter Kirby and Anna Canepa Video Distribution, with performers Julie Steiny and Bryan Jones.
     credit: ""
@@ -9828,7 +9850,7 @@ object_list:
     year_filter: [ "1977" ]
     medium: "U-matic videocassette, color, mono., 1/2-inch tape; 1 of 3 copies"
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V40"
-    extended_caption: "Allan Kaprow composed the program for *Private Parts* for a seminar on performance at the University of Wisconsin–Milwaukee in November 1976. He subsequently devised a shooting script for a video version of the activity and then produced this tape in 1977 at California State University, Long Beach. Peter Kirby shot and edited the video. An alumnus of the California Institute of the Arts, where Kaprow had been a dean and a professor (1969–74), Kirby also managed the Artists Post Production Facility at the Long Beach Museum of Art in Long Beach, California. Kaprow worked with Kirby on several additional videotapes for his activities, namely *Time Pieces* (1975), *Common Senses* (1977), and [*7 Kinds of Sympathy*](/object-index/576/) (1976), the last of which can also be viewed in the [Playback section of chapter 11](/11/#playback). The *Private Parts* activity booklet and [Kaprow’s notes and sketches](/object-index/634/) related to it can be viewed in the [Archive section](/11/#archive)."
+    extended_caption: "Allan Kaprow composed the program for *Private Parts* for a seminar on performance at the University of Wisconsin–Milwaukee in November 1976. He subsequently devised a shooting script for a video version of the activity and then produced this tape in 1977 at California State University, Long Beach. Peter Kirby shot and edited the video. An alumnus of the California Institute of the Arts, where Kaprow had been a dean and a professor (1969–74), Kirby also managed the Artists Post Production Facility at the Long Beach Museum of Art in Long Beach, California. Kaprow worked with Kirby on several additional videotapes for his activities, namely *Time Pieces* (1975), *Common Senses* (1977), and [*7 Kinds of Sympathy*](/object-index/576/) (1976). The *Private Parts* activity booklet and [Kaprow’s notes and sketches](/object-index/634/) related to it can be viewed in the [Archive section of chapter 11](/11/#archive)."
     credit: ""
     featured: 
     type: [ score, video ]
@@ -10452,8 +10474,8 @@ object_list:
     people: [ "Kaprow, Allan" ]
     more_people: ""
     title: "“How to Use these videotapes and booklets”"
-    date: "ca. 1970s"
-    date_sort: "1970-01-01"
+    date: "January 1981"
+    date_sort: "1981-01-01"
     year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
     medium: ""
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 34, folder 10"

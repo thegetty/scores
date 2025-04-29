@@ -380,11 +380,17 @@ window['toggleCardCaption'] = function(event) {
 }
 
 window['showTagged'] = function(tag) {
+  if (tag !== '') {
+    const buttons = document.querySelectorAll('.cards-random-button')
+    for (const button of buttons) {
+      button.classList.remove('used')
+    }
+  }
+  // tag = tag.toLowerCase()
   const hash = window.location.hash
   if (hash) {
     history.pushState("", document.title, window.location.pathname + window.location.search);
   }
-  const lightbox = document.querySelector('.quire-entry__lightbox');
   const allCards = document.querySelectorAll('.card, .card-description')
   allCards.forEach(card => {
     // remove the selected class if the card was previously selected with checkCardHash()
@@ -397,7 +403,13 @@ window['showTagged'] = function(tag) {
       cardLink.parentNode.replaceChild(clonedLink, cardLink);
 
     }
-    if (tag === 'all' ) {
+    if (tag === '') {
+      if (card.classList.contains('random')) {
+        card.style.display = 'block'
+      } else {
+        card.style.display = 'none'
+      }
+    } else if (tag === 'all' ) {
       if (card.classList.contains('card-description')) {
         card.style.display = 'none'
       } else {
@@ -423,10 +435,6 @@ window['showTagged'] = function(tag) {
     }
   }
 
-  if (lightbox) {
-    lightbox.scrollTop = 0; // Scroll to the top of the .quire-entry__lightbox element
-  }
-
   const tagClass = "." + tag.replaceAll(' ', '-') + "-tag"
   const allTags = document.querySelectorAll('.card-caption__tags li')
   const matchedTags = document.querySelectorAll(tagClass)
@@ -436,6 +444,48 @@ window['showTagged'] = function(tag) {
   }
   for (const m of matchedTags) {
     m.classList.add('selected')
+  }
+}
+
+window['showRandom'] = function() {
+  const buttons = document.querySelectorAll('.cards-random-button')
+  for (const button of buttons) {
+    button.classList.add('used')
+  }
+  const allCards = document.querySelectorAll('.card')
+  const allCardDescriptions = document.querySelectorAll('.card-description')
+  const allTags = document.querySelectorAll('.card-caption__tags li')
+  const dropdown = document.getElementById('tagdropdown');
+
+  // Fisher-Yates shuffle algorithm
+  function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }  
+  
+  const randomCount = Math.floor(Math.random() * 6) + 1 // Random number between 1 and 6
+  const shuffledCards = shuffle(Array.from(allCards)) // Shuffle cards
+  shuffledCards.slice(0, randomCount).forEach(card => {
+    card.style.display = 'block'
+    card.classList.add('random')
+  })
+  shuffledCards.slice(randomCount).forEach(card => {
+    card.style.display = 'none'
+    card.classList.remove('random')
+  })
+  for (const description of allCardDescriptions) {
+    description.classList.remove('selected')
+    description.style.display = 'none'
+  }
+  for (const tag of allTags) {
+    tag.classList.remove('selected')
+  }
+
+  if (dropdown) {
+    dropdown.value = ''; // Set the dropdown to the option with no value
   }
 }
 
@@ -449,7 +499,6 @@ function checkCardHash() {
     const cards = document.querySelectorAll('.card');
     const descriptions = document.querySelectorAll('.card-description');
     const dropdown = document.getElementById('tagdropdown');
-    const lightbox = document.querySelector('.quire-entry__lightbox');
 
     cards.forEach(card => {
       if (card.id === hash) {
@@ -473,10 +522,6 @@ function checkCardHash() {
 
     if (dropdown) {
       dropdown.value = ''; // Set the dropdown to the option with no value
-    }
-    
-    if (lightbox) {
-      lightbox.scrollTop = 0; // Scroll to the top of the .quire-entry__lightbox element
     }
   }
 }

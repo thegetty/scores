@@ -1,11 +1,27 @@
 <style type="text/css">
+.quire-score-object.map-page .quire-entry__lightbox {
+  height: calc(100vh - 4rem - 3rem);
+}
+.wide .q-lightbox-slides__element--table {
+  align-items: flex-start;
+}
+.wide .q-lightbox-slides__element--table .overflow-container {
+  height: calc(100vh - 8rem);
+  max-height: calc(100vh - 8rem);
+  width: calc(100vw - 4rem);
+  max-width: calc(100vw - 4rem);
+  overflow: clip;
+}
 #leafletmap {
   width: 100vw;
-  height: calc( 100vh - 4rem - 40px - 6rem );
+  height: 100vh;
 }
-.side-by-side #leafletmap {
+.narrow #leafletmap {
   width: calc(56vw - 8px - 2rem);
   height: calc(100vh - 8rem);
+}
+.leaflet-top.leaflet-left {
+  display: none;
 }
 .leaflet-popup-content {
   font-family: "u001", sans-serif;

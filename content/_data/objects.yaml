@@ -348,11 +348,12 @@ object_list:
     year_filter: [ "1953" ]
     medium: ""
     location: ""
-    extended_caption: ""
+    extended_caption: "This animation allows users to see how Tudor realized the first two staves of Feldman’s *Intersection 3*. At the top of the video screen is Feldman’s graph score, and at the bottom is Tudor’s realization in pencil. As with other animations of this kind in *The Scores Project*, the pink highlighted region allows users to link the original score with the corresponding realization."
     credit: ""
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-019" ]
+    related_objects: [ id: "012", id: "014", id: "015" ]
 -
     id: "020"
     old_id: "1.07b"
@@ -370,6 +371,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-020" ]
+    related_objects: [ id: "012", id: "015" ]
 -
     id: "021"
     old_id: "1.08"
@@ -1171,6 +1173,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-068" ]
+    related_objects: [ id: "060", id: "064", id: "075" ]
 -
     id: "069"
     old_id: "2.06c"
@@ -1188,6 +1191,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-069" ]
+    related_objects: [ id: "060", id: "064", id: "075" ]
 -
     id: "070"
     old_id: "2.06d"
@@ -1205,6 +1209,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-070" ]
+    related_objects: [ id: "060", id: "064", id: "075" ]
 -
     id: "071"
     old_id: "2.06e"
@@ -1222,6 +1227,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-071" ]
+    related_objects: [ id: "060", id: "065", id: "075" ]
 -
     id: "072"
     old_id: "2.06f"
@@ -1239,6 +1245,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-072" ]
+    related_objects: [ id: "060", id: "064", id: "075" ]
 -
     id: "073"
     old_id: "2.06g"
@@ -1256,6 +1263,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-073" ]
+    related_objects: [ id: "060", id: "064", id: "065", id: "075" ]
 -
     id: "074"
     old_id: ""
@@ -1268,11 +1276,12 @@ object_list:
     year_filter: [ "1964" ]
     medium: ""
     location: ""
-    extended_caption: ""
+    extended_caption: "In this 1964 performance of the *Concert for Piano and Orchestra* at Mills College, Tudor performs from his 1958 realization of Graph J, but at a far slower and more deliberate tempo. Tudor’s willingness to revisit a realization that is six years old with a very different set of timings reflects his increasingly open-ended and improvisational perofrmance practice during the 1960s."
     credit: ""
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-074" ]
+    related_objects: [ id: "060", id: "064", id: "077" ]
 -
     id: "075"
     old_id: "2.07"
@@ -1411,11 +1420,12 @@ object_list:
     year_filter: [ "1959" ]
     medium: ""
     location: ""
-    extended_caption: ""
+    extended_caption: "This sampler allows users to click on Tudor’s performances of selected notations from [*No. 1* from Bussotti’s *Five Piano Pieces for David Tudor*](/object-index/154/#fig-154-d). Most of the “notes” in this piece are open circles, which, according to Bussotti’s specifications, direct the pianist to touch piano keys without intentionally sounding them. Bussotti’s notation is effectively a form of tablature, indicating which fingers shoudl be used, but not specifying exact keys to be touched. In executing these gestures, of course, Bussotti knew that certain sounds would be made inadvertantly, and he accepted and embradced this indeterminacy as part of his composition. The filled noteheads in his score indicate pitches to be played in a traditional manner. The result is a performance that is generally quiet, and indicative of the physical movement of Tudor’s hands. Users can also consult [Tudor’s realization of *No. 1*](/object-index/161/), which transcribes Bussotti’s score into a more legible format."
     credit: ""
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-082" ]
+    related_objects: [ id: "154", id: "161" ]
 -
     id: "083"
     old_id: "2.14a"
@@ -2780,6 +2790,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-162" ]
+    related_objects: [ id: "154", id: "158", id: "161" ]
 -
     id: "163"
     old_id: "3.08"
@@ -3582,11 +3593,12 @@ object_list:
     year_filter: [ "1960" ]
     medium: ""
     location: ""
-    extended_caption: "This digital feature allows users to directly 'play' ..."
+    extended_caption: "This sampler allows users to directly play *Paper Piece* via the various actions specified in Patterson’s score. The audio for this sampler are snippets drawn from [the 1999 recording directed by Patterson himself](/object-index/203/)."
     credit: ""
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-209" ]
+    related_objects: [ id: "197", id: "203" ]
 -
     id: "210"
     old_id: "4.11"

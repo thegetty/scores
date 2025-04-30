@@ -70,6 +70,12 @@ a {
 .quire-page__content {
   line-height: 1.3;
 }
+@media screen {
+  .quire-page__content {
+    word-spacing: -2.5px;
+    letter-spacing: -.03px;
+  }
+}
 .quire-page__content .container {
   max-width: 100%;
   width: auto;
@@ -373,6 +379,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-bottom: 3rem;
 }
 .quire-menu .menu-list a {
+  color: black;
   padding: 0;
 }
 .quire-menu .menu-list a:hover {
@@ -557,9 +564,14 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   letter-spacing: 0.02rem;
   -webkit-font-smoothing: antialiased;
 }
+.scores-footer * {
+  word-spacing: -1.5px;
+  letter-spacing: -.03px;
+}
 .scores-footer h6 {
   display: block;
   margin-bottom: .8rem !important;
+  margin-top: 1rem;
 }
 .scores-footer .cite-this__heading {
   font-weight: 400;
@@ -581,6 +593,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .scores-footer .is-print-only {
   display: none;
+}
+.scores-footer em {
+  font-style: italic;
+}
+.scores-footer__links {
+  margin-top: 1rem;
 }
 
 /* SCORE PAGES
@@ -710,11 +728,18 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-left: 0;
 }
 /* Related Accordions */
-.score-section--related {
+.score-section--related,
+.score-section--cite {
   color: white;
   margin: 0 2rem;
 }
-.score-section--related  .accordion-section__controls::after {
+.score-section--related .accordion-section,
+.score-section--cite .accordion-section {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.score-section--related .accordion-section__controls::after,
+.score-section--cite .accordion-section__controls::after {
   align-items: baseline;
 }
 .score-section--related .score-section__objects {
@@ -723,6 +748,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-left: 0;
   margin-bottom: 2rem;
 }
+.score-section.score-section--cite .accordion-section__body,
 .score-section.score-section--related .score-section__objects .object-link__image figcaption {
   color: white;
   font-size: var(--small-font-size);
@@ -730,6 +756,16 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin-top: 0;
   padding: 0;
 }
+.score-section.score-section--cite .accordion-section__body {
+  user-select: all;
+}
+.score-section.score-section--cite .accordion-section__body a:hover {
+  color: white;
+}
+.score-section.score-section--cite .accordion-section__body p {
+  user-select: all;
+}
+
 
 /* INTRO & COMMENTARY PAGES
 ============================================================================= */
@@ -783,7 +819,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 @media screen {
   .quire-essay .quire-page__content .container .content {
     word-spacing: -2.5px;
-    letter-spacing: -.05px;
+    letter-spacing: -.03px;
   }
   .quire-essay .quire-page__content .container .content p {
     text-indent: 4rem;
@@ -1756,7 +1792,7 @@ body.iframe-version .narrow .quire-entry__lightbox {
   height: 100vh;
   height: calc(100vh - 3rem);
 }
-.quire-score-object .wide .quire-entry__lightbox {
+body.iframe-version .quire-score-object .wide .quire-entry__lightbox {
   height: calc(100vh - 3rem);
 }
 body.iframe-version .narrow .quire-entry__lightbox.quire-entry__lightbox--with-thumbnails {

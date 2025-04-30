@@ -89,6 +89,7 @@ Use text labels instead of icons for full screen, next, and prev
 **_includes/components/menu/item.js**
 **_includes/components/menu/resources.js**
 Restructured menu to appear as page footer
+Added custom citations by page type, and showed page and book citations
 
 **_includes/components/navigation.js**
 Changed to just four links, consistent across all pages

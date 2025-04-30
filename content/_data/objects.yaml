@@ -6773,7 +6773,7 @@ object_list:
     featured: 
     type: [ correspondence ]
     figure: [ id: "fig-399-a", id: "fig-399-b" ]
-    related_objects: [ id: "282", id: "283", id: "342", id: "384", id: "400", id: "282", id: "283", id: "339", id: "284" ]
+    related_objects: [ id: "282", id: "283", id: "342", id: "384", id: "400", id: "339", id: "284" ]
 -
     id: "400"
     old_id: "6.50"

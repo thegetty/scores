@@ -178,7 +178,7 @@ class ImageSequence extends LitElement {
     super()
 
     // Passed params and config
-    this.description = 'Click and drag horizontally to rotate image'
+    this.description = 'Click and drag horizontally'
     this.imageUrls = this.getAttribute('items').split(',')
     this.posterImageSrc = this.imageUrls.length > 0 ? this.imageUrls[0] : ''
     this.isContinuous = this.getAttribute('continuous') === 'true'
@@ -447,7 +447,6 @@ class ImageSequence extends LitElement {
   render() {
     const descriptionOverlay = this.isInteractive ? 
       html`<div slot='overlay' class="overlay ${ this.didInteract === false ? 'visible' : '' }"><span class="description">
-            <span class="description__text">&lt;--&gt;</span>
             <span class="description__text">${this.description}</span>
           </span></div>` 
       : ''

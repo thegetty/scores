@@ -8,7 +8,11 @@ classes:
   - scores-copyright-page
 ---
 
+<div class="full-description">
+
 {{ publication.description.full }}
+
+</div>
 
 {% backmatter %}
 
@@ -126,7 +130,7 @@ Morton Feldman (American, 1926–87). [*Intersection +*](/object-index/047/), 19
 
 [David Tudor’s copy of John Cage’s *Solo for Piano from Concert for Piano and Orchestra*](/object-index/060/#fig-060-an), 1957–58. Getty Research Institute, David Tudor Papers, 980039, box 176, folders 1, 2. Edition Peters.
 
-Sylvano Bussotti (Italian, 1931–2021). [*Miscellaneous scores by Sylvano Bussotti sent to David Tudor*](/object-index/175/), early 1960s. Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8. Used by permission of Hal Leonard.
+Sylvano Bussotti (Italian, 1931–2021). [Miscellaneous scores by Sylvano Bussotti sent to David Tudor](/object-index/175/), early 1960s. Getty Research Institute, David Tudor Papers, 980039, box 51, folder 8. Used by permission of Hal Leonard.
 
 {% endaccordion %}
 

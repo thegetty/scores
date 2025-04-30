@@ -966,8 +966,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   padding-left: 1rem;
 }
 @media screen {
-  .scores-copyright-page .quire-page__content .container .content p {
+  .scores-copyright-page .quire-page__content .container .content p,
+  .scores-copyright-page .quire-page__content .container .content .full-description p:first-child  {
     text-indent: 0;
+  }
+  .scores-copyright-page .quire-page__content .container .content .full-description p {
+    text-indent: 1.5rem;
   }
   .scores-copyright-page .quire-page__content .container .content h2 {
     margin-top: 2.5rem;

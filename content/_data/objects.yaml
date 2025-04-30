@@ -1306,7 +1306,7 @@ object_list:
     maker: [ "David Tudor (American, 1926–96)" ]
     people: [ "Tudor, David", "Cage, John" ]
     more_people: ""
-    title: "Studio recording of the second realization of John Cage’s *Solo for Piano* for with Cage’s *Indeterminacy* stories"
+    title: "Studio recording of the second realization of John Cage’s *Solo for Piano* for Cage’s *Indeterminacy* stories"
     date: "1959"
     date_sort: "1959-01-01"
     year_filter: [ "1959" ]
@@ -3412,7 +3412,7 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     people: [ "Patterson, Benjamin" ]
     more_people: ""
-    title: "Printed score of *Paper Piece* in German"
+    title: "Photostat copy of printed score of *Paper Piece* in German"
     date: "1960"
     date_sort: "1960-01-01"
     year_filter: [ "1960" ]
@@ -3552,9 +3552,9 @@ object_list:
     people: [ "Patterson, Benjamin" ]
     more_people: [ "Vautier, Ben" ]
     title: "Performance of *Paper Piece* in Nice, France"
-    date: "1970"
-    date_sort: "1970-01-01"
-    year_filter: [ "1970" ]
+    date: "1964–72"
+    date_sort: "1964-01-01"
+    year_filter: [ "1964", "1965", "1966", "1967", "1968", "1969", "1970", "1971", "1972" ]
     medium: "silent 16 mm film with a voiceover description by Ben Vautier"
     location: ""
     extended_caption: ""
@@ -3569,7 +3569,7 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     people: [ "Patterson, Benjamin" ]
     more_people: ""
-    title: "Performance of *Paper Piece* at Staatsgalerie Stuttgart"
+    title: "Performance of *Very Lawful Dance for Ennis* at Staatsgalerie Stuttgart"
     date: "2012"
     date_sort: "2012-01-01"
     year_filter: [ "2012" ]
@@ -3580,7 +3580,7 @@ object_list:
     featured: 
     type: [ video ]
     figure: [ id: "fig-208" ]
-    related_objects: [ id: "214", id: "197" ]
+    related_objects: [ id: "214" ]
 -
     id: "209"
     old_id: ""
@@ -3725,10 +3725,10 @@ object_list:
 -
     id: "218"
     old_id: "4.14"
-    maker: [ "Benjamin Patterson (American, 1934–2016)" ]
+    maker: [ "Benjamin Patterson (American, 1934–2016)", "Alison Knowles (American, b. 1933)" ]
     people: [ "Patterson, Benjamin", "Knowles, Alison" ]
     more_people: ""
-    title: "*Final Exam* for Alison Knowles"
+    title: "Written documentation by Alison Knowles of her performance of Benjamin Patterson’s *Final Exam*"
     date: "1 June 1965"
     date_sort: "1965-06-01"
     year_filter: [ "1965" ]
@@ -3745,7 +3745,7 @@ object_list:
     maker: [ "Benjamin Patterson (American, 1934–2016)" ]
     people: [ "Patterson, Benjamin" ]
     more_people: ""
-    title: "Benjamin Patterson's Notes on Philosophy and Art"
+    title: "Benjamin Patterson's Notes on Philosophy and Art  (selections)"
     date: "1960s"
     date_sort: "1960-01-01"
     year_filter: [ "1960", "1961", "1962", "1963", "1964", "1965", "1966", "1967", "1968", "1969" ]
@@ -5606,10 +5606,10 @@ object_list:
     maker: [ "Warner Jepson (1930–2011)" ]
     people: [ "Jepson, Warner", "Tudor, David" ]
     more_people: ""
-    title: "Letter from Warner Jepson to David Tudor"
-    date: "1960"
-    date_sort: "1960-01-01"
-    year_filter: [ "1960" ]
+    title: "Letter from Warner Jepson to David Tudor that includes a copy of Terry Riley’s *In C* (1964)"
+    date: "1964"
+    date_sort: "1964-01-01"
+    year_filter: [ "1964" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 11, folder 22"
     extended_caption: ""
@@ -5891,12 +5891,12 @@ object_list:
     year_filter: [ "1963" ]
     medium: "wooden box with label containing ninety-one scores printed on various sizes and colors of card stock"
     location: "Getty Research Institute, Jean Brown Papers, 890164, box 127"
-    extended_caption: "Collaboratively designed by George Brecht and George Maciunas, *Water Yam* is a boxed anthology of all of Brecht’s event scores composed up to the time of its publication. It is one of the earliest Fluxus editions. At one point in their correspondence, Brecht and Maciunas considered a subscription model in which copies of *Water Yam* would be continuously updated with newly composed scores. Due to the ad-hoc nature of their production, copies of *Water Yam* vary in the number of cards included and the materiality of their container. The overall format of loose cards in a box amplifies the publication’s indeterminate and participatory nature."
+    extended_caption: "Collaboratively designed by George Brecht and George Maciunas, *Water Yam* is a boxed anthology of all of Brecht’s event scores composed up to the time of its publication. It is one of the earliest Fluxus editions. At one point in their correspondence, Brecht and Maciunas considered a subscription model in which copies of *Water Yam* would be continuously updated with newly composed scores. Due to the ad-hoc nature of their production, copies of *Water Yam* vary in the number of cards included and the materiality of their container. The overall format of loose cards in a box amplifies the publication’s indeterminate and participatory nature. One can explore the entire contents of this deluxe copy of *Water Yam*, assembled by George Maciunas, [in a special interface](/object-index/349/)."
     credit: "© 2022 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn."
     featured: true
     type: [ artwork, digital feature ]
     figure: [ id: "fig-348-sq" ]
-    related_objects: [ id: "349", id: "369" ]
+    related_objects: [ id: "349", id: "350", id: "369" ]
 -
     id: "349"
     old_id: "6.03b"
@@ -8739,7 +8739,7 @@ object_list:
     year_filter: [ "1971" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 91-B35085"
-    extended_caption: ""
+    extended_caption: "This is a complete digital edition of Alison Knowles’s 1971 artist’s book, *Journal of the Identical Lunch*."
     credit: "© Alison Knowles. Published by Nova Broadcast Press.  Photograph by Peter Moore with permission of Northwestern University."
     featured: 
     type: [ score ]
@@ -8757,7 +8757,7 @@ object_list:
     year_filter: [ "1973" ]
     medium: ""
     location: "Getty Research Institute, Jean Brown Papers, 94-B16117"
-    extended_caption: "Alison Knowles has always shared authorship of *The Identical Lunch* with the composer Philip Corner. As she writes in the introduction to this book, “Philip midwifed if not actually preconceived *The Identical Lunch*. . . .He caught me eating the same lunch at the same time at the same place each day. From that day on, the experience was elevated into a formal score.” Inspired by Knowles’s formalization, performance, and documentation of eating the lunch, Corner, in turn, undertook a parallel project at Riss Foods. He decided to realize Knowles’s score by ordering everything on the menu, “starting from ‘tunafish,’ which is the third down on the board, mov[ing] down the left, then up the right side of that board, and then on to the other boards which offer, for example, hot plates, salads, etc.” Many complications ensue and ethical decisions have to be made as the diner menu is rewritten and inconsistencies appear. Corner records his thinking about all that in this book, which sometimes addresses Knowles directly, thereby staging a conversation of sorts between this book and Knowles’s [*Journal of the Identical Lunch*](/object-index/511/)."
+    extended_caption: "Alison Knowles has always shared authorship of *The Identical Lunch* with the composer Philip Corner. As she writes in the introduction to this book, “Philip midwifed if not actually preconceived *The Identical Lunch*. . . .He caught me eating the same lunch at the same time at the same place each day. From that day on, the experience was elevated into a formal score.” Inspired by Knowles’s formalization, performance, and documentation of eating the lunch, Corner, in turn, undertook a parallel project at Riss Foods. He decided to realize Knowles’s score by ordering everything on the menu, “starting from ‘tunafish,’ which is the third down on the board, mov[ing] down the left, then up the right side of that board, and then on to the other boards which offer, for example, hot plates, salads, etc.” Many complications ensue and ethical decisions have to be made as the diner menu is rewritten and inconsistencies appear. Corner records his thinking about all that in this book, which sometimes addresses Knowles directly, thereby staging a conversation of sorts between his book—presented here in its entirety—and Knowles’s [*Journal of the Identical Lunch*](/object-index/511/)."
     credit: "Image RISS Restaurant © 1970 by Jan Herman.  © Alison Knowles. Published by Nova Broadcast Press 1973."
     featured: 
     type: [ score ]
@@ -9022,7 +9022,7 @@ object_list:
     extended_caption: |
       Departing from the map-based designs of [*Spatial Poem No. 1*](/object-index/525/) (1965) and [*Spatial Poem No. 2*](/object-index/526/) (1965), George Maciunas designed for [*No. 3 (Falling Event)*](/object-index/530/#fig-530-t) a day calendar made of four simple bolts driven through a piece of leather to be mounted on a wall. The more than one hundred individual pages of the calendar, hung on the top two bolts, could then “fall” down to the bottom two bolts, or off the calendar altogether. Each page represents one realization of Mieko Shiomi’s event, originally performed between June and August of 1966. This calendar would surely be an erratic way to mark time, as many days are either repeated or missing.
 
-      Here you can view an <a class='ref' data-figure-id='fig-527-ov' data-region='' data-annotation-ids=''>overview image of the object</a>, a <a class='ref' data-figure-id='fig-527-sq' data-region='' data-annotation-ids=''>sequence viewer</a> to click and drag through all 147 pages of the calendar in succession, and individual zoomable images of each page.
+      It is made fully available in digitized form for the first time here, where you can view an <a class='ref' data-figure-id='fig-527-ov' data-region='' data-annotation-ids=''>overview image of the object</a>, a <a class='ref' data-figure-id='fig-527-sq' data-region='' data-annotation-ids=''>sequence viewer</a> to click and drag through all 147 pages of the calendar in succession, and individual zoomable images of each page.
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: true
     type: [ artwork, digital feature ]
@@ -9042,7 +9042,7 @@ object_list:
     extended_caption: |
       The score Mieko Shiomi sent out for [*Spatial Poem No. 4 (Shadow Event)*](/object-index/530/#fig-530-ah) (1971) included a piece of film printed with the word “SHADOW” that participants were asked to use in their realizations. As such, many of the reports she received included photographs of the resulting arrangement. To accommodate the heightened visual nature of the reports, this object edition, designed by George Maciunas, utilized inexpensive handheld film viewers similar to those he first incorporated into the Fluxus anthology *Flux Year Box 2* in 1966. Here, both photographs and textual reports are reproduced on the individual cells of a microfilm reel, and the label refers to the work as a “fluxmovie.” This object edition was the final design Maciunas was able to complete for Shiomi’s larger *Spatial Poem* project."
 
-      Here you can view an <a class='ref' data-figure-id='fig-528-ov' data-region='' data-annotation-ids=''>overview image of the object</a>, a  <a class='ref' data-figure-id='fig-528-sq' data-region='' data-annotation-ids=''>sequence viewer</a> to click and drag through all 118 frames of the microfilm in succession, and individual zoomable images of each frame.
+      It is made fully available in digitized form for the first time here, where you can view an <a class='ref' data-figure-id='fig-528-ov' data-region='' data-annotation-ids=''>overview image of the object</a>, a  <a class='ref' data-figure-id='fig-528-sq' data-region='' data-annotation-ids=''>sequence viewer</a> to click and drag through all 118 frames of the microfilm in succession, and individual zoomable images of each frame.
     credit: "Used by permission of Mieko Shiomi  and Billie Maciunas."
     featured: 
     type: [ artwork, digital feature ]
@@ -9059,7 +9059,7 @@ object_list:
     year_filter: [ "1976" ]
     medium: "artist’s book"
     location: "Getty Research Institute, item 91-B36111"
-    extended_caption: "This book, “dedicated to the people of the 30th century,” collects all the reports received for *Spatial Poem No. 1* through *Spatial Poem No. 9*. Most of the reports are arrayed around map-like representations of the Earth. The layouts for <a class='ref' data-figure-id='fig-530-h' data-region='' data-annotation-ids=''>*No. 1*</a> and <a class='ref' data-figure-id='fig-530-p' data-region='' data-annotation-ids=''>*No. 2*</a> in particular recall and yet also modify George Maciunas’s original designs for the related object editions that had been previously published. This publication marked the end of Mieko Shiomi’s groundbreaking, decade-long, globally networked endeavor. In more recent years, she has revived the *Spatial Poem* series by inviting later generations of participants to interpret her instructions anew."
+    extended_caption: "This book, “dedicated to the people of the 30th century,” collects all the reports received for *Spatial Poem No. 1* through *Spatial Poem No. 9*. Most of the reports are arrayed around map-like representations of the Earth. The layouts for <a class='ref' data-figure-id='fig-530-h' data-region='' data-annotation-ids=''>*No. 1*</a> and <a class='ref' data-figure-id='fig-530-p' data-region='' data-annotation-ids=''>*No. 2*</a> in particular recall and yet also modify George Maciunas’s original designs for the related object editions that had been previously published. This publication—presented here in its entirety—marked the end of Mieko Shiomi’s groundbreaking, decade-long, globally networked endeavor. In more recent years, she has revived the *Spatial Poem* series by inviting later generations of participants to interpret her instructions anew."
     credit: "Used by permission of Mieko Shiomi."
     featured: true
     type: [ artwork ]

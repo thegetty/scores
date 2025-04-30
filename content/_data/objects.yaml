@@ -4741,7 +4741,7 @@ object_list:
     featured: 
     type: [ programs and flyers ]
     figure: [ id: "fig-276-a", id: "fig-276-b", id: "fig-276-c" ]
-    related_objects: [ id: "252", id: "253" ]
+    related_objects: [ id: "252" ]
 -
     id: "277"
     old_id: "5.13a"

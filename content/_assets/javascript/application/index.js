@@ -527,9 +527,6 @@ function checkCardHash() {
       description.style.display = 'none';
     });
 
-    if (dropdown) {
-      dropdown.value = ''; // Set the dropdown to the option with no value
-    }
   }
 }
 

@@ -31,8 +31,8 @@ module.exports = function(eleventyConfig) {
   const { 
     contributor: publicationContributors,
     publisher,
-    title,
-    subtitle,
+    title: publicationTitle,
+    subtitle: publicationSubtitle,
     resource_link: resourceLinks,
     url
   } = eleventyConfig.globalData.publication
@@ -130,9 +130,9 @@ module.exports = function(eleventyConfig) {
         aria-expanded="false"
         data-outputs-exclude="epub,pdf"
       > 
-        <h5 class="scores-menu__title">${title}</h5>
+        <h5 class="scores-menu__title">${publicationTitle}</h5>
 
-        <h5 class="scores-menu__subtitle">${subtitle}</h5>
+        <h5 class="scores-menu__subtitle">${publicationSubtitle}</h5>
         
         <nav id="nav" class="quire-menu__list menu-list" role="navigation" aria-label="full">
           <h6 class="visually-hidden">Table of Contents</h6>

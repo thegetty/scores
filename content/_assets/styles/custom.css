@@ -579,6 +579,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .scores-footer a {
   cursor: pointer;
 }
+.scores-footer a:hover {
+  color: inherit;
+}
 .scores-footer .menu-list a {
   padding: 0;
 }
@@ -1336,6 +1339,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 .score-object .quire-entry div.narrow div.quire-entry__content {
   overflow-x: hidden;
 }
+.quire-score-object .quire-entry__content  {
+  padding-bottom: 4rem;
+}
 .score-object .quire-entry__header {
   clip: rect(1px, 1px, 1px, 1px);
   height: 1px;
@@ -1473,7 +1479,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
     position: fixed;
     right: 0;
     top: 4rem;
-    padding: 0 2rem 2rem 2rem !important; 
+    padding: 0 2rem 6rem 2rem !important; 
     overflow-y: scroll;
   }
 }

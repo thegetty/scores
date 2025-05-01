@@ -54,10 +54,19 @@ module.exports = function(eleventyConfig) {
     const menuState = (layout !== 'score-object' && layout !== 'score-object-cards' )
       ? 'is-expanded'
       : ''
+    
+    function addWbrToUrl(url) {
+      return url.replace(/(https:\/)|(\/(?!\/|$))|(\.)|(-)/g, (match, p1, p2, p3, p4) => {
+        if (p1) return 'https://<wbr>';
+        if (p2) return '<wbr>/';
+        if (p3) return '<wbr>.';
+        if (p4) return '<wbr>-';
+      });
+    }
+    const urlPath = path.join(url, pageData.url);
+    const urlString = addWbrToUrl(urlPath);
 
-    const fullBookCitation = html`Gallope, Michael, Natilee Harren, and John Hicks, eds. <em>The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975</em>. Los Angeles: Getty Research Institute, 2025. https://www.getty.edu/publications/scores/.`  
-
-    const citationUrl = `${path.join(url, pageData.url)}.`
+    const citationUrl = `<a href="${urlPath}">${urlString}</a>`
 
     const citationBook = html`In <em>The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975</em>, ed. Michael Gallope, Natilee Harren, and John Hicks. Los Angeles: Getty Research Institute, 2025.`
 
@@ -73,7 +82,7 @@ module.exports = function(eleventyConfig) {
 
       citationPage = html`“${label}. ${markdownify(title)}: ${markdownify(subtitle)}.”`
 
-    } else if (layout == 'score-object') {
+    } else if (layout == 'score-object' || layout == 'score-object-cards' ) {
       
       const pageObj = pageObjects[0]
       const pageTitle = pageObj.title
@@ -108,6 +117,10 @@ module.exports = function(eleventyConfig) {
 
     } 
 
+    const fullBookUrlString = addWbrToUrl(url);
+
+    const fullBookCitation = html`Gallope, Michael, Natilee Harren, and John Hicks, eds. <em>The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975</em>. Los Angeles: Getty Research Institute, 2025. <a href="${url}">${fullBookUrlString}</a>.`  
+    
     return html`
       <div
         class="quire-menu menu ${menuState}"

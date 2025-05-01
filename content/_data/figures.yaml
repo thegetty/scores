@@ -18333,7 +18333,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
-        viewing_direction: "right-to-left"
+        viewing_direction: "left-to-right"
 -
     id: "fig-302-a"
     label: "a"

@@ -1987,19 +1987,6 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   color: white !important;
   margin-right: 1.5rem;
 }
-#iframe-control-tooltip {
-  position: absolute;
-  top: .5rem;
-  right: .5rem;
-  background-color: white;
-  color: black;
-  padding: 1rem;
-  border-radius: 1rem;
-  width: max-content;
-  animation: fade 2s linear forwards;
-  -webkit-animation: fade 2s linear forwards;
-  z-index: 10;
-}
 @media screen and (max-width: 640px) {
   .quire-page__content .container .content .iframe_viewer__controls a,
   .quire-page__content .container .content .iframe_viewer__controls a:not(.q-figure__modal-link):not(.q-figure__reset-link):not(.quire-contributor__url):not(.accordion-section__heading-link):hover {

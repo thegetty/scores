@@ -8982,7 +8982,7 @@ object_list:
     people: [ "Knowles, Alison", "Williams, Emmett", "Brecht, George", "Kaprow, Allan", "Brown, Earle" ]
     more_people: [ "Hansen, Al", "Watts, Robert" ]
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
-    date: "n.d. (ca. 1963)"
+    date: "ca. 1963"
     date_sort: "1963-01-01"
     year_filter: [ "1963" ]
     medium: ""
@@ -9001,7 +9001,7 @@ object_list:
     people: [ "Knowles, Alison", "Williams, Emmett", "Brecht, George", "Mac Low, Jackson", "Maciunas, George" ]
     more_people: [ "Watts, Robert" ]
     title: "Letter from Alison Knowles to [Oscar] Emmett Williams"
-    date: "n.d. [“Saturday night,” ca. 1963]"
+    date: "ca. 1963"
     date_sort: "1963-01-01"
     year_filter: [ "1963" ]
     medium: ""
@@ -10163,7 +10163,7 @@ object_list:
     maker_cite: "Kaprow, Allan"
     people: [ "Kaprow, Allan" ]
     more_people: ""
-    title: "Opening shot of *Warm-ups*"
+    title: "*Warm-ups*"
     date: "1975"
     date_sort: "1975-01-01"
     year_filter: [ "1975" ]

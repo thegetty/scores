@@ -57,7 +57,10 @@ window['toggleMenu'] = () => {
     catalogEntryImage && catalogEntryImage.classList.add('menu_open')
     menu.setAttribute('aria-expanded', 'true')
     if (menuLink) {
-      menuLink.innerText = 'Hide contents';
+      menuLink.textContent = 'Opened'
+      setTimeout(() => {
+        menuLink.textContent = 'Contents'
+      }, 2500);
     }
     triggerMenuAnimation()
   }

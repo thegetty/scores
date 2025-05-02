@@ -54,12 +54,6 @@
     --thumbnail-outer-height: calc( var(--thumbnail-height) + 1.5rem);
   }
 }
-@media screen and (max-width: 1100px) {
-  :root {
-    --toc-indent-unit: 0;
-  }
-}
-
 
 /* GENERAL PAGE RESETS AND STYLES
 ============================================================================= */
@@ -464,25 +458,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   padding-left: 0;
   border-left-width: 0;
 }
-@media screen and (max-width: 640px) {
-  .quire-menu .menu-list a {
-    display: block;
-    margin-bottom: 1rem;
-  }
-  .quire-menu .menu-list a .item-title {
-    margin-right: 0;
-  }
-}
 
 /* Display chapter 2 authors in string rather than list */
 .quire-menu .menu-list ol > li:nth-child(3) .quire-contributors-list {
   display: flex; 
   flex-wrap: wrap;
-}
-@media screen and (max-width: 1100px) {
-  .quire-menu .menu-list ol > li:nth-child(3) .quire-contributors-list {
-    max-height: 2.5rem;
-  }
 }
 .quire-menu .menu-list ol > li:nth-child(3) .quire-contributors-list .quire-contributor:first-child::after {
   content: ",\00a0";
@@ -2735,5 +2715,27 @@ body.iframe-version .quire-score-object.quire-score-object-cards .narrow .quire-
   }
   .quire-essay {
     page-break-before: right;
+  }
+}
+
+/* TEMPORARY -- Stopgap responsivity for TOC
+============================================================================= */
+@media screen and (max-width: 1100px) {
+  :root {
+    --toc-indent-unit: 0;
+  }
+}
+@media screen and (max-width: 640px) {
+  .quire-menu .menu-list a {
+    display: block;
+    margin-bottom: 1rem;
+  }
+  .quire-menu .menu-list a .item-title {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .quire-menu .menu-list ol > li:nth-child(3) .quire-contributors-list {
+    max-height: 2.5rem;
   }
 }

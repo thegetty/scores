@@ -113,6 +113,9 @@ Added object-filters__controls-group wrapper to aid in styling
 **_includes/web-components/image-sequence/styles.js**
 Fixed .image-sequence height, and sequence styles to work with custom design
 
+**_includes/web-components/image-sequence/index.js**
+Added touch support
+
 **_plugins/figures/iiif/config.js**
 Changed thumbnail and static-inline size
 

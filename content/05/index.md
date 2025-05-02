@@ -6,6 +6,7 @@ order: 50
 outputs: 
   - html
 layout: score
+header_animation: animations/05.html
 contributor:
   - id: bpiekut
     section: commentary

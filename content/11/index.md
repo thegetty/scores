@@ -6,6 +6,7 @@ order: 110
 outputs: 
   - html
 layout: score
+header_animation: animations/11.html
 contributor:
   - id: ercapper
     section: commentary

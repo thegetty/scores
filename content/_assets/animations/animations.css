@@ -1,29 +1,29 @@
-/* Component: Concrete poetry header */
-.t-title {
-  font-style: italic;
-}
-
-.c-concrete {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 40vh;
-}
-.c-concrete-row {
+.fx908a-concrete {
+  padding: 2rem;
   display: flex;
   flex-direction: row;
   justify-content: center;
-}
-.c-concrete-col {
-  margin: 0 1em;
+  align-items: center;
+  height: 40vh;
+  gap: 2em;
 }
 
-@keyframes fadeInOut {
-  0%  { opacity: 1; }
-  50% { opacity: 1; }
-  51% { opacity: 0; }
-  100% { opacity: 0; }
+.fx908a-concrete--static {
+  justify-content: left;
+  flex-wrap: wrap;
+}
+
+.fx908a-concrete__chunk {}
+.fx908a-concrete__title {
+  font-style: italic;
+}
+
+.fx908a-concrete--static { display: flex; }
+.fx908a-concrete--animated { display: none; }
+
+@media screen and (min-width: 810px) {
+  .fx908a-concrete--static { display: none; }
+  .fx908a-concrete--animated { display: flex; }
 }
 
 @keyframes fadeInOut {
@@ -33,41 +33,40 @@
   100% { opacity: 1; }
 }
 
-.u-fx-test div {
+.fx908a-concrete__animation--a div {
   opacity: 0;
 }
-.u-fx-test-2 div {
-  opacity: 0;
-}
-
-.u-fx-test div:nth-child(1) {
+.fx908a-concrete__animation--a div:nth-child(1) {
   animation: fadeInOut 3s linear 0s infinite;
 }
-.u-fx-test div:nth-child(2) {
+.fx908a-concrete__animation--a div:nth-child(2) {
   animation: fadeInOut 3s linear 1.5s infinite;
 }
-.u-fx-test div:nth-child(3) {
+.fx908a-concrete__animation--a div:nth-child(3) {
   animation: fadeInOut 3s linear 3s infinite;
 }
-.u-fx-test div:nth-child(4) {
+.fx908a-concrete__animation--a div:nth-child(4) {
   animation: fadeInOut 3s linear 4.5s infinite;
 }
-.u-fx-test div:nth-child(5) {
+.fx908a-concrete__animation--a div:nth-child(5) {
   animation: fadeInOut 3s linear 6s infinite;
 }
 
-.u-fx-test-2 div:nth-child(1) {
+.fx908a-concrete__animation--b div {
+  opacity: 0;
+}
+.fx908a-concrete__animation--b div:nth-child(1) {
   animation: fadeInOut 6s linear 0s infinite;
 }
-.u-fx-test-2 div:nth-child(2) {
+.fx908a-concrete__animation--b div:nth-child(2) {
   animation: fadeInOut 6s linear 3s infinite;
 }
-.u-fx-test-2 div:nth-child(3) {
+.fx908a-concrete__animation--b div:nth-child(3) {
   animation: fadeInOut 6s linear 6s infinite;
 }
-.u-fx-test-2 div:nth-child(4) {
+.fx908a-concrete__animation--b div:nth-child(4) {
   animation: fadeInOut 6s linear 9s infinite;
 }
-.u-fx-test-2 div:nth-child(5) {
+.fx908a-concrete__animation--b div:nth-child(5) {
   animation: fadeInOut 6s linear 12s infinite;
 }

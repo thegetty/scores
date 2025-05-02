@@ -6,6 +6,7 @@ order: 80
 outputs: 
   - html
 layout: score
+header_animation: animations/08.html
 contributor:
   - id: jbryanwilson
     section: commentary

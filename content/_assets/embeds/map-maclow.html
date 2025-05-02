@@ -20,6 +20,23 @@
   width: calc(56vw - 8px - 2rem);
   height: calc(100vh - 8rem);
 }
+@media screen and (max-width: 1100px) {
+  .narrow .q-lightbox-slides__element--table .overflow-container,
+  .wide .q-lightbox-slides__element--table .overflow-container {
+    height: calc(100vh - 6rem - 3rem);
+    max-height: calc(100vh - 6rem - 3rem);
+    width: calc(100vw - 4rem);
+    max-width: calc(100vw - 4rem);
+    overflow: clip;
+  }
+  .quire-score-object.map-page .quire-entry__lightbox {
+    height: calc(100vh - 6rem - 3rem);
+  }
+  .narrow #leafletmap {
+    width: calc(100vw - 4rem);
+    height: calc(100vh - 6rem - 3rem);
+  }
+}
 .leaflet-top.leaflet-left {
   display: none;
 }

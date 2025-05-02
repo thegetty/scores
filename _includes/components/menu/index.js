@@ -1,8 +1,10 @@
 //
 // CUSTOMIZED FILE
 // Restructured menu to appear as page footer on all pages but score object pages
+// Added custom citations by page type, and showed page and book citations
 //
 const { html } = require('~lib/common-tags')
+const path = require('path')
 
 /**
  * Menu
@@ -19,7 +21,9 @@ module.exports = function(eleventyConfig) {
   const contributors = eleventyConfig.getFilter('contributors')
   const copyright = eleventyConfig.getFilter('copyright')
   const eleventyNavigation = eleventyConfig.getFilter('eleventyNavigation')
+  const getContributor = eleventyConfig.getFilter('getContributor')
   const linkList = eleventyConfig.getFilter('linkList')
+  const markdownify = eleventyConfig.getFilter('markdownify')
   const menuHeader = eleventyConfig.getFilter('menuHeader')
   const menuList = eleventyConfig.getFilter('menuList')
   const menuResources = eleventyConfig.getFilter('menuResources')
@@ -27,34 +31,108 @@ module.exports = function(eleventyConfig) {
   const { 
     contributor: publicationContributors,
     publisher,
-    title,
-    subtitle,
-    resource_link: resourceLinks 
+    title: publicationTitle,
+    subtitle: publicationSubtitle,
+    resource_link: resourceLinks,
+    url
   } = eleventyConfig.globalData.publication
 
   return function(params) {
     const { collections, pageData } = params
+    const { 
+      label, 
+      layout, 
+      pageContributors,
+      pageObjects,
+      subtitle, 
+      title } = pageData.data
 
     if (!pageData) return
 
     const footerLinks = resourceLinks.filter(({ type }) => type === 'footer-link')
 
-    const menuState = (pageData.data.layout !== 'score-object' && pageData.data.layout !== 'score-object-cards' )
+    const menuState = (layout !== 'score-object' && layout !== 'score-object-cards' )
       ? 'is-expanded'
       : ''
+    
+    function addWbrToUrl(url) {
+      return url.replace(/(https:\/)|(\/(?!\/|$))|(\.)|(-)/g, (match, p1, p2, p3, p4) => {
+        if (p1) return 'https://<wbr>';
+        if (p2) return '<wbr>/';
+        if (p3) return '<wbr>.';
+        if (p4) return '<wbr>-';
+      });
+    }
+    const urlPath = path.join(url, pageData.url);
+    const urlString = addWbrToUrl(urlPath);
 
+    const citationUrl = `<a href="${urlPath}">${urlString}</a>`
+
+    const citationBook = html`In <em>The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975</em>, ed. Michael Gallope, Natilee Harren, and John Hicks. Los Angeles: Getty Research Institute, 2025.`
+
+    function connectorString(string) {
+        const lastChar = string.slice(-1)
+        const connectorString = lastChar != '.' ? '.'  : ''
+        return connectorString
+    }
+
+    let citationPage = ''
+
+    if (layout == 'score') {
+
+      citationPage = html`“${label}. ${markdownify(title)}: ${markdownify(subtitle)}.”`
+
+    } else if (layout == 'score-object' || layout == 'score-object-cards' ) {
+      
+      const pageObj = pageObjects[0]
+      const pageTitle = pageObj.title
+      const objDate = pageObj.date ? `, ${pageObj.date}` : ''
+      const objLocation = pageObj.location ? `${pageObj.location}. ` : ''
+      
+      let objMaker = ''
+      if (pageObj.maker_cite) {
+        objMaker = `${pageObj.maker_cite}${connectorString(pageObj.maker_cite)}`
+      }
+      
+      citationPage = html`${objMaker} ${markdownify(pageTitle)}${objDate}. ${objLocation}`  
+
+    } else {
+
+      const pageContributorsData = pageContributors
+        ? pageContributors.map((item) => getContributor(item))
+        : []
+        
+      let citationAuthor = ''
+      if (pageContributorsData) {
+        if (pageContributorsData.length == 1) {
+          citationAuthor = html`${pageContributorsData[0].last_name}, ${pageContributorsData[0].first_name}${connectorString(pageContributorsData[0].first_name)} `
+        } else if (pageContributorsData.length == 2) {
+          citationAuthor = html`${pageContributorsData[0].last_name}, ${pageContributorsData[0].first_name}, and ${pageContributorsData[1].first_name} ${pageContributorsData[1].last_name}${connectorString(pageContributorsData[1].first_name)} `
+        } else if (pageContributorsData.length == 3) {
+          citationAuthor = html`${pageContributorsData[0].last_name}, ${pageContributorsData[0].first_name}, ${pageContributorsData[1].first_name} ${pageContributorsData[1].last_name}, and ${pageContributorsData[2].first_name} ${pageContributorsData[2].last_name}${connectorString(pageContributorsData[2].first_name)} `
+        }
+      }
+      
+      citationPage = html`${citationAuthor}“${markdownify(title)}.”`
+
+    } 
+
+    const fullBookUrlString = addWbrToUrl(url);
+
+    const fullBookCitation = html`Gallope, Michael, Natilee Harren, and John Hicks, eds. <em>The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975</em>. Los Angeles: Getty Research Institute, 2025. <a href="${url}">${fullBookUrlString}</a>.`  
+    
     return html`
       <div
         class="quire-menu menu ${menuState}"
-        data-page-layout="${pageData.data.layout}"
+        data-page-layout="${layout}"
         role="contentinfo"
         id="site-menu"
         aria-expanded="false"
         data-outputs-exclude="epub,pdf"
       > 
-        <h5 class="scores-menu__title">${title}</h5>
+        <h5 class="scores-menu__title">${publicationTitle}</h5>
 
-        <h5 class="scores-menu__subtitle">${subtitle}</h5>
+        <h5 class="scores-menu__subtitle">${publicationSubtitle}</h5>
         
         <nav id="nav" class="quire-menu__list menu-list" role="navigation" aria-label="full">
           <h6 class="visually-hidden">Table of Contents</h6>
@@ -73,19 +151,14 @@ module.exports = function(eleventyConfig) {
           <div class="scores-footer__citation">
             <h6>Cite this page</h6>
             <div class="cite-this">
-              <span class="cite-this__heading">
-                Chicago
-              </span>
               <span class="cite-this__text">
-              ${citation({ context: 'page', page: pageData, type: 'chicago' })}
+                ${citationPage} ${citationBook} ${citationUrl}
               </span>
             </div>
+            <h6>Cite the book</h6>
             <div class="cite-this">
-              <span class="cite-this__heading">
-                MLA
-              </span>
               <span class="cite-this__text">
-                ${citation({ context: 'page', page: pageData, type: 'mla' })}
+                ${fullBookCitation}
               </span>
             </div>
           </div>

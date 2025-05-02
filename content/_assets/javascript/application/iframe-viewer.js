@@ -40,18 +40,16 @@ window['toggleTextSize'] = (target) => {
 
 window['copyLink'] = () => {
   const thisButton = event.target.closest('a')
+  const originalText = thisButton.textContent
   const baseURL = 'https://www.getty.edu'
   const href = thisButton.getAttribute('data-href')
   const copyLink = baseURL.concat(href)
   navigator.clipboard.writeText(copyLink);
 
-  const toolTipText = "Link copied to the clipboard"
-  const toolTipElement = document.getElementById('iframe-control-tooltip')
-  toolTipElement.innerHTML = toolTipText
-  toolTipElement.style.display = "block"
+  thisButton.textContent = 'Copied'
   setTimeout(() => {
-    toolTipElement.style.display = "none"
-  }, 3000);
+    thisButton.textContent = originalText
+  }, 2000);
 }
 
 window['updateViewer'] = (currentObjectHref) => {

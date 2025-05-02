@@ -9,7 +9,7 @@ classes:
 
 Julia Bryan-Wilson is professor of art history and gender studies at Columbia University. Her most recent book is *Louise Nevelson’s Sculpture: Drag, Color, Join, Face* (Yale University Press, 2023).  
 
-Emily Ruth Capper is assistant professor in the Department of Art History at the University of Minnesota.
+Emily Ruth Capper is assistant professor in the Department of Art History at the University of Minnesota. Her first book, *Happening Pedagogy: Allan Kaprow’s Experiments in Instruction, 1948–1968*, is forthcoming from the University of Chicago Press.
 
 Michael Gallope is professor of Cultural Studies and Comparative Literature at the University of Minnesota. His most recent book is *The Musician as Philosopher: New York’s Vernacular Avant-Garde, 1958–1978* (University of Chicago Press, 2024).
 

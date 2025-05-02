@@ -89,6 +89,7 @@ Use text labels instead of icons for full screen, next, and prev
 **_includes/components/menu/item.js**
 **_includes/components/menu/resources.js**
 Restructured menu to appear as page footer
+Added custom citations by page type, and showed page and book citations
 
 **_includes/components/navigation.js**
 Changed to just four links, consistent across all pages
@@ -111,6 +112,9 @@ Added object-filters__controls-group wrapper to aid in styling
 **_includes/web-components/image-sequence/index.js**
 **_includes/web-components/image-sequence/styles.js**
 Fixed .image-sequence height, and sequence styles to work with custom design
+
+**_includes/web-components/image-sequence/index.js**
+Added touch support
 
 **_plugins/figures/iiif/config.js**
 Changed thumbnail and static-inline size

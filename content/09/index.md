@@ -38,6 +38,9 @@ archive:
         - id: "511"
         - id: "492"
         - id: "512"
+    - heading: "Sketches and materials"
+      objects:
+        - id: "218"
     - heading: "Programs and flyers"
       objects:
         - id: "497"

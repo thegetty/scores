@@ -18319,8 +18319,8 @@ figure_list:
     media_id: 
     alt: "White page with black handwritten text in English. “for David Tudor Dec. 1962” at center and “Earl Brown” signature at bottom right. "
 -
-    id: "fig-301-c"
-    label: "c"
+    id: "fig-301-sq"
+    label: "sq"
     src: 
     zoom: true
     poster: figures/posters/sequences--301-001.jpg
@@ -18333,7 +18333,7 @@ figure_list:
         behavior:
           - continuous
           - sequence
-        viewing_direction: "right-to-left"
+        viewing_direction: "left-to-right"
 -
     id: "fig-302-a"
     label: "a"
@@ -19970,7 +19970,7 @@ figure_list:
     media_id: 
     alt: "Printed page with large margins and left aligned black text. “DRIP MUSIC (DRIP EVENT)” at top is followed by “For single or multiple performance. A source of dripping water and an empty vessel are arranged so that the water falls into the vessel. Second version: Dripping.” “G. Brecht (1959-62)” printed below."
 -
-    id: "fig-348"
+    id: "fig-348-sq"
     src: 
     zoom: true
     poster: figures/posters/sequences--348-WaterYam_076.jpg
@@ -26625,8 +26625,8 @@ figure_list:
     media_id: 
     alt: "Square-shaped light yellow cardstock with black typewritten text in English. Top center reads “SPATIAL POEM NO.9 disappearing event” followed by six lines of text instructions, three bulleted points on documentation of a performance, and Shiomi’s return address. Utilizes large margins."
 -
-    id: "fig-525-a"
-    label: "a"
+    id: "fig-525-sq"
+    label: "sq"
     src: 
     zoom: true
     poster: figures/posters/sequences--525-SpatialPoem_001.jpg
@@ -26642,15 +26642,28 @@ figure_list:
         regex: /SpatialPoem_\d{3}\.jpg/
         viewing_direction: "right-to-left"
 -
-    id: "fig-525-b"
-    label: "b"
+    id: "fig-525-a"
+    label: "a"
     src: figures/grl_890164-b225.jpg
     printImage: figures/grl_890164-b225.jpg
-    manifestId: https://www.getty.edu/publications/resources/scores/iiif/fig-525-b/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/scores/iiif/fig-525-b/canvas
+    manifestId: https://www.getty.edu/publications/resources/scores/iiif/fig-525-a/manifest.json
+    canvasId: https://www.getty.edu/publications/resources/scores/iiif/fig-525-a/canvas
     region: 0,0,4438,2996
     zoom: true
     poster: figures/thumbnails/grl_890164-b225_th.jpg
+    media_type: 
+    media_id: 
+    alt: ""
+-
+    id: "fig-525-b"
+    label: "b"
+    src: figures/ShiomiMieko_SpatialPoem1_label.jpg
+    printImage: figures/ShiomiMieko_SpatialPoem1_label.jpg
+    manifestId: https://www.getty.edu/publications/resources/scores/iiif/fig-525-b/manifest.json
+    canvasId: https://www.getty.edu/publications/resources/scores/iiif/fig-525-b/canvas
+    region: 0,0,2463,1942
+    zoom: true
+    poster: figures/thumbnails/ShiomiMieko_SpatialPoem1_label_th.jpg
     media_type: 
     media_id: 
     alt: ""
@@ -26667,17 +26680,34 @@ figure_list:
     media_id: 
     alt: ""
 -
-    id: "fig-527"
+    id: "fig-527-ov"
+    label: "ov"
     src: figures/r2017583_890164_b233_001.jpg
     printImage: figures/r2017583_890164_b233_001.jpg
-    manifestId: https://www.getty.edu/publications/resources/scores/iiif/fig-527/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/scores/iiif/fig-527/canvas
+    manifestId: https://www.getty.edu/publications/resources/scores/iiif/fig-527-ov/manifest.json
+    canvasId: https://www.getty.edu/publications/resources/scores/iiif/fig-527-ov/canvas
     region: 0,0,8192,6051
     zoom: true
     poster: figures/thumbnails/r2017583_890164_b233_001_th.jpg
     media_type: 
     media_id: 
     alt: ""
+-
+    id: "fig-527-sq"
+    label: "sq"
+    src: 
+    zoom: true
+    poster: figures/sequences/527/gri_890164_b223_001_mm.jpg
+    media_type: 
+    media_id: 
+    alt: ""
+    sequences:
+      - id: "figures/sequences/527/"
+        start: gri_890164_b223_001_mm.jpg
+        behavior:
+          - continuous
+          - sequence
+        regex: /gri_890164_b223_\d{3}_mm\.jpg/
 -
     id: "fig-527-a"
     label: "a"
@@ -28588,19 +28618,36 @@ figure_list:
     poster: figures/thumbnails/gri_890164_b223_147_mm_th.jpg
     media_type: 
     media_id: 
-    alt: ""
+    alt: ""  
 -
-    id: "fig-528"
+    id: "fig-528-ov"
+    label: "ov"
     src: figures/fig-528_AR832708.jpg
     printImage: figures/fig-528_AR832708.jpg
-    manifestId: https://www.getty.edu/publications/resources/scores/iiif/fig-528/manifest.json
-    canvasId: https://www.getty.edu/publications/resources/scores/iiif/fig-528/canvas
+    manifestId: https://www.getty.edu/publications/resources/scores/iiif/fig-528-ov/manifest.json
+    canvasId: https://www.getty.edu/publications/resources/scores/iiif/fig-528-ov/canvas
     region: 0,0,4986,3761
     zoom: true
     poster: figures/thumbnails/fig-528_AR832708_th.jpg
     media_type: 
     media_id: 
     alt: ""
+-
+    id: "fig-528-sq"
+    label: "sq"
+    src: 
+    zoom: true
+    poster: figures/sequences/528/r2014928_890164_b219_001.jpg
+    media_type: 
+    media_id: 
+    alt: ""
+    sequences:
+      - id: "figures/sequences/528/"
+        start: r2014928_890164_b219_001.jpg
+        behavior:
+          - continuous
+          - sequence
+        regex: /r2014928_890164_b219_\d{3}\.jpg/
 -
     id: "fig-528-a"
     label: "a"

@@ -41,6 +41,7 @@ import './leaflet.js'
  */
 window['toggleMenu'] = () => {
   const menu = document.getElementById('site-menu')
+  const menuLink = document.getElementById('site-menu-link')
   const catalogEntryImage = document.querySelector(
     '.side-by-side > .quire-entry__image-wrap > .quire-entry__image'
   )
@@ -49,9 +50,18 @@ window['toggleMenu'] = () => {
   if (menuAriaStatus === 'true') {
     catalogEntryImage && catalogEntryImage.classList.remove('menu_open')
     menu.setAttribute('aria-expanded', 'false')
+    if (menuLink) {
+      menuLink.innerText = 'Contents';
+    }
   } else {
     catalogEntryImage && catalogEntryImage.classList.add('menu_open')
     menu.setAttribute('aria-expanded', 'true')
+    if (menuLink) {
+      menuLink.textContent = 'Opened'
+      setTimeout(() => {
+        menuLink.textContent = 'Contents'
+      }, 2500);
+    }
     triggerMenuAnimation()
   }
 }
@@ -520,9 +530,6 @@ function checkCardHash() {
       description.style.display = 'none';
     });
 
-    if (dropdown) {
-      dropdown.value = ''; // Set the dropdown to the option with no value
-    }
   }
 }
 

@@ -1,6 +1,7 @@
 //
 // CUSTOMIZED FILE
 // Removed .description__icon and used text indicator instead
+// Added touch support, lines 208-210, handleTouchStart(), handleTouchEnd()
 //
 import { LitElement, css, html, render, unsafeCSS } from 'lit'
 import { createRef, ref } from 'lit/directives/ref.js'
@@ -178,7 +179,7 @@ class ImageSequence extends LitElement {
     super()
 
     // Passed params and config
-    this.description = 'Click and drag horizontally to rotate image'
+    this.description = 'Click and drag horizontally'
     this.imageUrls = this.getAttribute('items').split(',')
     this.posterImageSrc = this.imageUrls.length > 0 ? this.imageUrls[0] : ''
     this.isContinuous = this.getAttribute('continuous') === 'true'
@@ -204,7 +205,33 @@ class ImageSequence extends LitElement {
     // Set up observable and mouse events
     if (this.isInteractive) {
       this.addEventListener('mousemove', this.handleMouseMove.bind(this))
+      this.addEventListener('touchmove', this.handleTouchMove.bind(this))
+      this.addEventListener('touchstart', this.handleTouchStart.bind(this))
+      this.addEventListener('touchend', this.handleTouchEnd.bind(this))
     }
+  }
+
+  handleTouchStart(event) {
+    this.didInteract = true;
+    this.oldX = event.touches[0].clientX;
+  }
+  
+  handleTouchMove(event) {
+    const clientX = event.touches[0].clientX;
+    if (this.oldX) {
+      const deltaX = clientX - this.oldX;
+      const deltaIndex = Math.floor(Math.log(Math.abs(deltaX))) * 1;
+      if (deltaX > 0) {
+        this.isReversed ? this.previousImage(deltaIndex) : this.nextImage(deltaIndex);
+      } else if (deltaX < 0) {
+        this.isReversed ? this.nextImage(deltaIndex) : this.previousImage(deltaIndex);
+      }
+    }
+    this.oldX = clientX;
+  }
+  
+  handleTouchEnd() {
+    this.oldX = null;
   }
 
   /**
@@ -447,7 +474,6 @@ class ImageSequence extends LitElement {
   render() {
     const descriptionOverlay = this.isInteractive ? 
       html`<div slot='overlay' class="overlay ${ this.didInteract === false ? 'visible' : '' }"><span class="description">
-            <span class="description__text">&lt;--&gt;</span>
             <span class="description__text">${this.description}</span>
           </span></div>` 
       : ''

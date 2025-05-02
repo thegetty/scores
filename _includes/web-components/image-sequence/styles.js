@@ -15,7 +15,7 @@ export const imageSequenceStyles = css`
 
   .image-sequence {
     width: 100%;
-    height: calc(100vh - 14rem - var(--thumbnail-height));
+    height: calc(100vh - 4rem - var(--thumbnail-height) - 5.5rem);
   }
 
   .image-sequence.interactive {

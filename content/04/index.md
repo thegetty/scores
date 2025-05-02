@@ -28,7 +28,6 @@ playback:
     - id: "207"
     - id: "205"
     - id: "203"
-    - id: "208"
     - id: "204"
     - id: "209"
 archive: 
@@ -63,6 +62,9 @@ archive:
         - id: "232"
         - id: "233"
         - id: "234"
+    - heading: "Audio / Video"
+      objects:
+        - id: "208"
     - heading: "Press clippings"
       objects:
         - id: "230"

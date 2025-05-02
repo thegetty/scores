@@ -15,6 +15,7 @@ description: A custom layout for the primary score landing pages
   byline_format=byline_format,
   image=image,
   label=label,
+  layout=layout,
   subtitle=subtitle,
   title=title
 %}
@@ -115,7 +116,7 @@ description: A custom layout for the primary score landing pages
   {%- endif -%}
   {%- for group in archive.groups -%}
   {%- capture groupHeading -%}
-  ### {{ group.heading }} ({{ group.objects.size }} item{% if group.objects.size > 1 %}s{% endif %})
+  ### {{ group.heading }}<span class="group-item-count"> ({{ group.objects.size }} item{% if group.objects.size > 1 %}s{% endif %})</span>
   {%- endcapture -%}
   {%- capture groupId -%}
   {{ group.heading | downcase | replace: " ", "-" }}
@@ -142,7 +143,6 @@ description: A custom layout for the primary score landing pages
   <div class="iframe_viewer__controls">
     <a class="iframe-control--share" id="iframe-share" aria-label="Copy link" onclick="copyLink()" data-baseurl="{{ publication.url }}">Link</a>
     <a class="iframe-control--close" aria-label="Close" onclick="toggleViewer()">Close</a>
-    <span id="iframe-control-tooltip" style="display:none;"></span>
   </div>
   <iframe class="iframe_viewer__iframe" id="object-iframe" name="object-iframe" style="display:none;"></iframe>
   <span id="iframe-loading-indicator" style="display:block;">Loading ...</span>

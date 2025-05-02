@@ -58,7 +58,6 @@ Entry content, including entry image and tombstone data
       {% endif %}
       {% endif %}
       {% endfor %}
-      <option value="">...</option>
     </select>
     </div>
 
@@ -153,6 +152,11 @@ Entry content, including entry image and tombstone data
         {%- endaccordion -%}
         </div>
         {% endif %}
+        <div class="score-section score-section--cite">
+        {%- accordion 'Cite' -%}
+        {% if obj.maker_cite %}{{ obj.maker_cite }}{% assign last_character = obj.maker_cite | slice: -1%}{% if last_character != '.' %}. {% else %} {% endif %}{% endif %}{{ obj.title }}{% if obj.date %}, {{ obj.date }}{% endif %}.{% if obj.location %} {{ obj.location }}.{% endif %} In *The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975*, ed. Michael Gallope, Natilee Harren, and John Hicks. Los Angeles: Getty Research Institute, 2025. [https://<wbr>www<wbr>.getty<wbr>.edu<wbr>/publications<wbr>/scores<wbr>/object-index<wbr>/{{ obj.id }}/](https://www.getty.edu/publications/scores/object-index/{{ obj.id }}/).
+        {%- endaccordion -%}
+        </div>
         {% endfor %}
       </div>
     </section>

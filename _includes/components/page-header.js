@@ -118,6 +118,25 @@ module.exports = function(eleventyConfig) {
       ? html`<a class="scores-chapter-link" href="${chapterPath}">View chapter objects</a>`
       : ''
 
+    const jumpLinkElement = html`
+      <details class="accordion-section" id="section-jump-to" data-outputs-include="html">
+        <summary class="accordion-section__heading accordion-section__heading-level-null accordion-section__controls accordion-section__controls--plus-minus" tabindex="1"> <p>Jump to</p> </summary>
+      <section class="accordion-section__body">
+      <ul>
+        <li> <a href="#navigating">Navigating <em>The Scores Project</em></a> </li>
+        <li> <a href="#music-scores-indeterminacy">Music, Scores, and Indeterminacy</a> </li>
+        <li> <a href="#scoring-intermedia">Scoring Intermedia</a> </li>
+        <li> <a href="#poetry-and-experimental-scores">Poetry and Experimental Scores</a> </li>
+        <li><a href="#an-invitation">An Invitation</a></li>
+      </ul>
+      </section>
+      </details>
+    `
+    
+    const jumpLink = title == 'Introduction'
+      ? jumpLinkElement
+      : ''
+
     return html`
       <section class="${classes}">
         <div class="hero-body">
@@ -129,6 +148,7 @@ module.exports = function(eleventyConfig) {
           <div class="quire-page__header__commentary-links">
             ${chapterLink}
             ${downloadLink}
+            ${jumpLink}
           </div>
           <span class="pdf-footers__verso" data-outputs-exclude="epub,html">${markdownify(shortTitle || title)}</span>
           <span class="pdf-footers__recto" data-outputs-exclude="epub,html">${pdfRecto}</span>

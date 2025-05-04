@@ -2140,8 +2140,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 adds the `iframe-version` class to the <body> so that these override styles may be applied  */
 body.iframe-version,
 body.iframe-version .score-object,
-body.iframe-version .score-object .quire__primary,
-body.iframe-version .score-object .quire__primary # {
+body.iframe-version .score-object .quire__primary {
   background-color: black;
   height: 100vh;
 }

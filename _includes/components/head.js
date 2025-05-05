@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Fed twitterCard full page data for customized handling of seo metadata
+//
 const path = require('path')
 /**
  * Head Tag
@@ -67,7 +71,7 @@ module.exports = function(eleventyConfig) {
 
         ${opengraph({ page })}
 
-        ${twitterCard({ abstract, cover, layout })}
+        ${twitterCard({ page })}
 
         <script type="application/ld+json">${jsonld({ canonicalURL, page })}</script>
 

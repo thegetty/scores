@@ -6,6 +6,7 @@ order: 40
 outputs: 
   - html
 layout: score
+header_animation: animations/04.html
 contributor:
   - id: gelewis
     section: commentary

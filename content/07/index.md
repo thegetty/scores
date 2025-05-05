@@ -6,6 +6,7 @@ order: 70
 outputs: 
   - html
 layout: score
+header_animation: animations/07.html
 contributor:
   - id: jhicks
     section: commentary

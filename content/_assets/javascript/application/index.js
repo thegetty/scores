@@ -567,7 +567,9 @@ function triggerMenuAnimation() {
   let menu = document.getElementById('site-menu')
   if (menu) {
     menu.offsetHeight // Force reflow
-    menu.classList.add('show-animation')
+    const randAnimation = Math.floor(Math.random() * 2 + 1);
+    menu.classList.add(`show-animation`);
+    menu.classList.add(`show-animation-${randAnimation}`);
   }
 }
 

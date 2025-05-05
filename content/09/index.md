@@ -6,6 +6,7 @@ order: 90
 outputs: 
   - html
 layout: score
+header_animation: animations/09.html
 contributor:
   - id: ercapper
     section: commentary

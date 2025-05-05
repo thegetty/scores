@@ -6,6 +6,7 @@ order: 60
 outputs: 
   - html
 layout: score
+header_animation: animations/06.html
 contributor:
   - id: nharren
     section: commentary

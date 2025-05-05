@@ -1,18 +1,39 @@
 <style type="text/css">
+.q-lightbox-slides__element--table .overflow-container {
+  max-height: 100% !important;
+  width: calc(100% - 4rem);
+  max-width: 100%;
+}
+@media screen and (max-width: 460px) {
+  .q-lightbox-slides__element--table .overflow-container {
+    width: calc(100% - 2rem);
+  }
+}
+@media (pointer: coarse) {
+  #key-play-mode {
+    display: none;
+  }
+}
 .music-sampler {
-  max-width: 80vw;
-  height: 80vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   box-sizing: border-box;
   padding: 0;
+  height: calc(100vh - 6rem - 3rem);
+  max-width: inherit;
+  margin-top: 2rem;
 }
-.play-modes {/publications/scores
+@media screen and (max-width: 1100px) {
+  .music-sampler {
+    height: calc(100vh - 6rem - 4rem);
+    margin-top: 0;
+  }
+}
+.play-modes {
   display: flex;
   gap: 10px;
-  margin-bottom: 10px;
 }
 .play-modes button {
   padding: 10px 20px;
@@ -22,6 +43,8 @@
   border-width: 0;
   border-radius: 8px;
   position: relative;
+  height: 40px;
+  background-color: white;
 }
 .play-modes button.active {
   background-color: var(--accent-color);
@@ -42,8 +65,9 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  height: calc(100% - 60px);
+  max-width: inherit;
   width: 100%;
-  height: calc(80vh - 100px); /* Adjusting for button height and padding */
 }
 .grid-item {
   cursor: pointer;
@@ -51,10 +75,9 @@
   text-align: center;
   display: flex;
 }
-.grid-item.hover:hover {
-  transform: scale(0.9);
-}
-.grid-item.click:active, .grid-item.key.active {
+.grid-item.hover img:hover,
+.grid-item.click img:active, 
+.grid-item.key.active {
   transform: scale(0.9);
 }
 .grid-item img {
@@ -67,12 +90,18 @@
   top: initial;
   left: initial;
   transform: initial;
+  transition: transform 0.2s;
 }
-.grid-item:nth-child(-n+6) img {
-  margin-top: auto;
-}
-.grid-item:nth-child(n+7) img {
-  margin-bottom: auto;
+@media screen and (max-width: 460px) {
+  .grid-item.hover img:hover,
+  .grid-item.click img:active, 
+  .grid-item.key.active {
+    opacity: 0.7;
+    transform: none;
+  }
+  .grid-item img {
+    transition: opacity;
+  }
 }
 </style>
 <div class="music-sampler">

@@ -42,58 +42,25 @@ document.addEventListener('DOMContentLoaded', () => {
       element.addEventListener('click', () => {
         if (playMode === 'click') {
           playAudio(audio)
-          element.classList.add('active')
-          setTimeout(() => element.classList.remove('active'), 200)
         }
       })
 
       element.addEventListener('mouseenter', () => {
         if (playMode === 'hover') {
           playAudio(audio)
-          element.classList.add('active')
         }
       })
 
-      element.addEventListener('mouseleave', () => {
+      element.addEventListener('touchstart', () => {
+        playAudio(audio)
+      })
+
+      element.addEventListener('touchmove', () => {
         if (playMode === 'hover') {
-          element.classList.remove('active')
+          playAudio(audio)
         }
       })
-    })
 
-    // Touch swipe functionality for hover mode
-    let touchStartX = 0
-    let touchStartY = 0
-
-    document.addEventListener('touchstart', (event) => {
-      touchStartX = event.touches[0].clientX
-      touchStartY = event.touches[0].clientY
-    })
-
-    document.addEventListener('touchmove', (event) => {
-      if (playMode === 'hover') {
-        const touchEndX = event.touches[0].clientX
-        const touchEndY = event.touches[0].clientY
-        const touchMoved = Math.abs(touchEndX - touchStartX) > 10 || Math.abs(touchEndY - touchStartY) > 10
-
-        if (touchMoved) {
-          const touchTarget = document.elementFromPoint(touchEndX, touchEndY)
-
-          if (touchTarget && touchTarget.closest('.grid-item')) {
-            const gridItem = touchTarget.closest('.grid-item')
-            gridItem.classList.add('touch-active')
-            playAudio(audioElements[Array.from(gridItems).indexOf(gridItem)].audio)
-          }
-        }
-      }
-    })
-
-    document.addEventListener('touchend', (event) => {
-      if (playMode === 'hover') {
-        document.querySelectorAll('.grid-item').forEach(item => {
-          item.classList.remove('touch-active')
-        })
-      }
     })
 
     document.addEventListener('keydown', (event) => {
@@ -118,8 +85,6 @@ document.addEventListener('DOMContentLoaded', () => {
           if (index < (audioElements.length / 2)) { // Check if index is within bounds
             const item = audioElements[index]
             playAudio(item.audio)
-            item.element.classList.add('active')
-            setTimeout(() => item.element.classList.remove('active'), 200)
           } 
         }
       }

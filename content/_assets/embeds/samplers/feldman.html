@@ -1,18 +1,32 @@
 <style type="text/css">
+.q-lightbox-slides__element--table .overflow-container {
+  max-height: 100% !important;
+  width: calc(100% - 4rem);
+  max-width: 100%;
+}
+@media screen and (max-width: 460px) {
+  .q-lightbox-slides__element--table .overflow-container {
+    width: calc(100% - 2rem);
+  }
+}
 .music-sampler {
-  max-width: 80vw;
-  height: 80vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   box-sizing: border-box;
   padding: 0;
+  height: calc(100vh - 4rem - 3rem);
+  max-width: inherit;
+}
+@media screen and (max-width: 1100px) {
+  .music-sampler {
+    height: calc(100vh - 6rem - 4rem);
+  }
 }
 .play-modes {
   display: flex;
   gap: 10px;
-  margin-bottom: 10px;
 }
 .play-modes button {
   padding: 10px 20px;
@@ -22,6 +36,8 @@
   border-width: 0;
   border-radius: 8px;
   position: relative;
+  height: 40px;
+  background-color: white;
 }
 .play-modes button.active {
   background-color: var(--accent-color);
@@ -44,7 +60,8 @@
   grid-template-rows: repeat(2, calc((100% - 10px) / 2));
   gap: 10px;
   width: 100%;
-  height: calc(80vh - 100px); /* Adjusting for button height and padding */
+  height: calc(100% - 60px);
+  max-width: inherit;
 }
 .grid-item {
   cursor: pointer;
@@ -52,10 +69,9 @@
   text-align: center;
   display: flex;
 }
-.grid-item.hover:hover {
-  transform: scale(0.9);
-}
-.grid-item.click:active, .grid-item.key.active {
+.grid-item.hove img:hover,
+.grid-item.click img:active, 
+.grid-item.key.active {
   transform: scale(0.9);
 }
 .grid-item img {
@@ -68,6 +84,18 @@
   top: initial;
   left: initial;
   transform: initial;
+  transition: transform 0.2s;
+}
+@media screen and (max-width: 460px) {
+  .grid-item.hover img:hover,
+  .grid-item.click img:active, 
+  .grid-item.key.active {
+    opacity: 0.7;
+    transform: none;
+  }
+  .grid-item img {
+    transition: opacity;
+  }
 }
 .grid-item:nth-child(-n+6) img {
   margin-top: auto;

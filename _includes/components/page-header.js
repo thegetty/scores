@@ -128,7 +128,8 @@ module.exports = function(eleventyConfig) {
         <li> <a href="#scoring-intermedia">Scoring Intermedia</a> </li>
         <li> <a href="#poetry-and-experimental-scores">Poetry and Experimental Scores</a> </li>
         <li><a href="#an-invitation">An Invitation</a></li>
-      </ul>
+        <li><a href="#notes">Notes</a></li>
+=      </ul>
       </section>
       </details>
     `

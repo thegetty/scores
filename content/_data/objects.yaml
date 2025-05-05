@@ -6320,7 +6320,7 @@ object_list:
     featured: true
     type: [ video ]
     figure: [ id: "fig-356" ]
-    related_objects: [ id: "229", id: "230", id: "368", id: "271", id: "272" ]
+    related_objects: [ id: "229", id: "230", id: "368", id: "271", id: "272", id: "217" ]
 -
     id: "357"
     old_id: "6.10"
@@ -10304,7 +10304,7 @@ object_list:
     year_filter: [ "1977" ]
     medium: "U-matic videocassette, color, mono., 1/2-inch tape; 1 of 3 copies"
     location: "Getty Research Institute, Allan Kaprow Papers, 980063, box 91, V40"
-    extended_caption: "Allan Kaprow composed the program for *Private Parts* for a seminar on performance at the University of Wisconsin–Milwaukee in November 1976. He subsequently devised a shooting script for a video version of the activity and then produced this tape in 1977 at California State University, Long Beach. Peter Kirby shot and edited the video. An alumnus of the California Institute of the Arts, where Kaprow had been a dean and a professor (1969–74), Kirby also managed the Artists Post Production Facility at the Long Beach Museum of Art in Long Beach, California. Kaprow worked with Kirby on several additional videotapes for his activities, namely *Time Pieces* (1975), *Common Senses* (1977), and [*7 Kinds of Sympathy*](/object-index/576/) (1976). The *Private Parts* activity booklet and [Kaprow’s notes and sketches](/object-index/634/) related to it can be viewed in the [Archive section of chapter 11](/11/#archive).."
+    extended_caption: "Allan Kaprow composed the program for *Private Parts* for a seminar on performance at the University of Wisconsin–Milwaukee in November 1976. He subsequently devised a shooting script for a video version of the activity and then produced this tape in 1977 at California State University, Long Beach. Peter Kirby shot and edited the video. An alumnus of the California Institute of the Arts, where Kaprow had been a dean and a professor (1969–74), Kirby also managed the Artists Post Production Facility at the Long Beach Museum of Art in Long Beach, California. Kaprow worked with Kirby on several additional videotapes for his activities, namely *Time Pieces* (1975), *Common Senses* (1977), and [*7 Kinds of Sympathy*](/object-index/576/) (1976). [Kaprow’s notes and sketches](/object-index/634/) related to *Private Parts* can be viewed in the [Archive section of chapter 11](/11/#archive)."
     credit: ""
     featured: 
     type: [ score, video ]

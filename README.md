@@ -82,6 +82,11 @@ Added Google Analytics 4
 **_includes/components/copyright/licensing.js**
 Updated language of `text-only` license to current Getty standard
 
+**_includes/components/head.js**
+**_includes/components/head-tags/opengraph.js**
+**_includes/components/head-tags/twitter-card.js**
+Customized handling of seo metadata
+
 **_includes/components/lightbox/ui.js**
 Use text labels instead of icons for full screen, next, and prev
 

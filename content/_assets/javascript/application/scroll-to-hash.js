@@ -45,7 +45,19 @@ export default (hash) => {
       const accordion = new Accordion(target.closest(`.${Accordion.className}`))
       accordion.setStateFromUrl()
     }
-    const verticalOffset = target.getBoundingClientRect().top + window.scrollY
+    let jumpLinkOffset = ''
+    const jumpLinks = document.getElementById('section-jump-to'); 
+    if (jumpLinks) {
+      const originalRect = jumpLinks.getBoundingClientRect();
+      jumpLinkOffset = originalRect.height;
+      console.log(' target.getBoundingClientRect().top :: ' + target.getBoundingClientRect().top)
+      console.log(' window.scrollY :: ' + window.scrollY)
+      console.log(' jumpLinkOffset :: ' + jumpLinkOffset)
+    }
+    const verticalOffset = target.className == 'jump-link'
+      ? target.getBoundingClientRect().top + window.scrollY - jumpLinkOffset
+      : target.getBoundingClientRect().top + window.scrollY
+      console.log(' verticalOffset ::::: ' + verticalOffset)
     scrollWindow(verticalOffset)
     // handle focus after scrolling
     setTimeout(() => target.focus())

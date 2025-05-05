@@ -961,6 +961,16 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   .quire-page.page-one .scores-chapter-link {
     display: none;
   }
+  .quire-page__header__commentary-links #section-jump-to {
+    background-color: white;
+    z-index: 1;
+    position: relative;
+    left: 0;
+    right: 0;
+  }
+  .quire-page__header__commentary-links #section-jump-to .accordion-section__body {
+    padding-bottom: 1rem;
+  }
 }
 @media screen and (max-width: 1100px) {
   .quire-essay .quire-page__header .hero-body {

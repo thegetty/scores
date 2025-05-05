@@ -665,6 +665,33 @@ function addThumbnailLinkCopying() {
   });
 }
 
+function jumpLinks() {
+  const jumpLinks = document.getElementById('section-jump-to');
+  if (jumpLinks) {
+    const originalRect = jumpLinks.getBoundingClientRect();
+    
+    window.addEventListener('scroll', function() {
+      const currentRect = jumpLinks.getBoundingClientRect();
+      console.log('window.scrollY ::' + window.scrollY)
+      if (window.scrollY < originalRect.top) {
+        jumpLinks.style.position = 'static';
+        jumpLinks.style.top = 'auto';
+        jumpLinks.style.marginTop = '1rem';
+        jumpLinks.style.paddingTop = '0';
+        jumpLinks.style.paddingLeft = '0';
+      } else if (currentRect.top <= 0) {
+        jumpLinks.style.position = 'fixed';
+        jumpLinks.style.top = '0';
+        jumpLinks.style.marginTop = '0';
+        jumpLinks.style.paddingTop = '1rem';
+        jumpLinks.style.paddingLeft = 'calc(75% - 1rem)';
+        if (window.innerWidth < 1100) {
+          jumpLinks.style.paddingLeft = '50%';
+        }
+      }
+    });
+  }
+}
 
 /**
  * pageSetup
@@ -679,6 +706,7 @@ function pageSetup() {
   scrollView()
   checkCardHash()
   addThumbnailLinkCopying()
+  jumpLinks()
 }
 
 function parseQueryParams() {

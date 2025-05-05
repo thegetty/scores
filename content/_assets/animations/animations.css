@@ -19,7 +19,7 @@
 .fx908a-concrete--static { display: flex; }
 .fx908a-concrete--animated { display: none; }
 
-@media screen and (min-width: 810px) {
+@media screen and (min-width: 1100px) {
   .fx908a-concrete--static { display: none; }
   .fx908a-concrete--animated { display: flex; }
 }

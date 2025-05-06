@@ -1,37 +1,3 @@
-/* Temporary "UNCORRECTED PROOF" Banner */
-@media screen {
-  .quire::before,
-  .quire::after {
-    color: black;
-    font-size: 16px;
-    font-weight: 700;
-    position: fixed;
-    width: 230px;
-    height: 230px;
-    z-index: 4000;
-    transform: rotate(-45deg);
-    text-align: center;
-    padding-top: 1rem;
-  }
-  .quire::before {
-    content: "PRESS";
-    background-color: yellow;
-    bottom: -115px;
-    right: -115px;
-  }
-  .quire::after {
-    content: "PREVIEW";
-    bottom: -130px;
-    right: -130px;
-  }
-}
-
-/* Temporary: hide copy link button in Archives sections
-  not sure it works the way we want, or is needed */
-.accordion-section__copy-link-button {
-  display: none;
-}
-
 :root {
   --thumbnail-height: 60px;
   --thumbnail-padding: .5rem .25rem;
@@ -926,6 +892,9 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   .score-section--related .score-section__objects {
     grid-template-columns: 1fr 1fr;
   }
+}
+.accordion-section__copy-link-button {
+  display: none;
 }
 
 

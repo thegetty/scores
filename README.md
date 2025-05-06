@@ -1,8 +1,8 @@
-This is the repository for *The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975*, edited by Michael Gallope, Natilee Harren, and John Hicks. This digital book was first published Month, DD, YYYY, by the Getty Research Institute. It is available online at https://www.getty.edu/publications/scores/ and may be downloaded there free of charge in multiple formats.
+This is the repository for *The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975*, edited by Michael Gallope, Natilee Harren, and John Hicks. This digital book was first published May 6, 2025, by the Getty Research Institute. It is available online at https://www.getty.edu/publications/scores/ and may be downloaded there free of charge in multiple formats.
 
 ## About the Book
 
-TK
+Artists working in and across the fields of visual art, music, poetry, theater, and dance at midcentury began to use experimental scores in ways that revolutionized artistic practice and opened up new forms of interdisciplinary collaboration. Their experimental practices—associated with the neo-avant-garde, neo-Dadaism, intermedia, Fluxus, and postmodernism—exploded in notoriety during the 1960s in locales from New York to Europe, East Asia, and Latin America, becoming foundational to global trends in contemporary art and performance. *The Scores Project* is a unique digital publication that provides a comprehensive view of this historical moment through a series of experimental scores and complete edition of the groundbreaking *An Anthology of Chance Operations* (1963). The featured scores by John Cage, George Brecht, Sylvano Bussotti, Morton Feldman, Allan Kaprow, Alison Knowles, Jackson Mac Low, Benjamin Patterson, Yvonne Rainer, Mieko Shiomi, David Tudor, and La Monte Young include expert commentaries from an interdisciplinary team of scholars and are accompanied by a digitized archive of over 2,000 ephemera and audiovisual materials. Ambitious, provocative, and playful, *The Scores Project* fosters a renewed sense of wonder at this innovative and historically complex moment in the history of art.
 
 ## Using this Repository
 

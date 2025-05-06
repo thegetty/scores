@@ -1,8 +1,8 @@
-This is the repository for *The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975*, edited by Michael Gallope, Natilee Harren, and John Hicks. This digital book was first published Month, DD, YYYY, by the Getty Research Institute. It is available online at https://www.getty.edu/publications/scores/ and may be downloaded there free of charge in multiple formats.
+This is the repository for *The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975*, edited by Michael Gallope, Natilee Harren, and John Hicks. This digital book was first published May 6, 2025, by the Getty Research Institute. It is available online at https://www.getty.edu/publications/scores/ and may be downloaded there free of charge in multiple formats.
 
 ## About the Book
 
-TK
+Artists working in and across the fields of visual art, music, poetry, theater, and dance at midcentury began to use experimental scores in ways that revolutionized artistic practice and opened up new forms of interdisciplinary collaboration. Their experimental practices—associated with the neo-avant-garde, neo-Dadaism, intermedia, Fluxus, and postmodernism—exploded in notoriety during the 1960s in locales from New York to Europe, East Asia, and Latin America, becoming foundational to global trends in contemporary art and performance. *The Scores Project* is a unique digital publication that provides a comprehensive view of this historical moment through a series of experimental scores and complete edition of the groundbreaking *An Anthology of Chance Operations* (1963). The featured scores by John Cage, George Brecht, Sylvano Bussotti, Morton Feldman, Allan Kaprow, Alison Knowles, Jackson Mac Low, Benjamin Patterson, Yvonne Rainer, Mieko Shiomi, David Tudor, and La Monte Young include expert commentaries from an interdisciplinary team of scholars and are accompanied by a digitized archive of over 2,000 ephemera and audiovisual materials. Ambitious, provocative, and playful, *The Scores Project* fosters a renewed sense of wonder at this innovative and historically complex moment in the history of art.
 
 ## Using this Repository
 
@@ -24,7 +24,7 @@ This project was last built with the following software versions:
 | branch | about |
 | --- | --- |
 | `main` | The primary branch |
-| `first-pages`, `second-pages`, `final-pages`| Versions of the project at various staages |
+| `first-pages`, `second-pages`, `final-pages`, `final-pages-v2` | Versions of the project at various staages |
 | `forthcoming` | A static placeholder page that was displayed at the book’s final URL on getty.edu prior to publication |
 | `revisions` | Any revisions currently under consideration but not yet published |
 | `prototype` | An early prototype of the project built to verify final data structure and design |
@@ -53,23 +53,58 @@ git clone --recursive https://github.com/thegetty/scores.git
 
 ### Creating a PDF Version
 
-1. Switch `url` in publication.yaml to `url: 'http://localhost:8080'`
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
 
 2. Run `quire build`
 
 3. In `_site/pdf.css` correct the four `@font-face` paths at the top of the file by prepending `_assets/fonts/`. For example:
 
-```
-src: url("_assets/fonts/u001/u001-reg.woff2")
-```
+    ```
+    src: url("_assets/fonts/u001/u001-reg.woff2")
+    ```
 
-4. In `_site/pdf.html` add the SVG Creative Commons license icon elements directly at the top `<body>` element, copied from another file like `_site/intro/index.html`, to ensure that the CC icons appear on the copyright page in the PDF.
-
-5. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
+4. With PrinceXML 15.3 installed, run `quire pdf --lib prince`
 
 ### Creating an EPUB Version
 
-TK
+1. Temporarily switch `url` in publication.yaml to `url: 'http://localhost:8080'`
+
+2. Run `quire build`
+
+3. Inside the `_epub` directory, run the following find and replace regex patterns to remove links to pages that were not included in the EPUB output:
+
+    ```
+    FIND: <a href="object-index/[0-9]{3}/.*?" target="object-iframe">((.|\n)*?)</a>
+    REPLACE: $1
+    ```
+
+    ```
+    FIND: <a href="object-index/[0-9]{3}/.*?">((.|\n)*?)</a>
+    REPLACE: $1
+    ```
+
+    ```
+    FIND: <a href="[0-9]{2}/.*?">(.+?)</a>
+    REPLACE: $1
+    ```
+
+4. Run `quire epub`
+
+5. Unzip resulting file, paste the required accessibility metadata items into the `<head>` of the `package.opf` file, and re-zip.
+
+    ```html
+    <meta property="schema:accessibilitySummary">This publications meets baseline accessibility standards</meta>
+    <meta name="schema:accessMode" content="textual" />
+    <meta name="schema:accessMode" content="visual" />
+    <meta name="schema:accessModeSufficient" content="textual" />
+    <meta name="schema:accessModeSufficient" content="visual" />
+    <meta name="schema:accessibilityFeature" content="alternativeText" />
+    <meta name="schema:accessibilityFeature" content="structuralNavigation" />
+    <meta name="schema:accessibilityFeature" content="tableOfContents" />
+    <meta name="schema:accessibilityHazard" content="noFlashingHazard" />
+    <meta name="schema:accessibilityHazard" content="noMotionSimulationHazard" />
+    <meta name="schema:accessibilityHazard" content="noSoundHazard" />
+    ```
 
 ### Customizations
 
@@ -86,6 +121,9 @@ Updated language of `text-only` license to current Getty standard
 **_includes/components/head-tags/opengraph.js**
 **_includes/components/head-tags/twitter-card.js**
 Customized handling of seo metadata
+
+**_includes/components/license-icons.js**
+Remove CC SVG icons from epub output
 
 **_includes/components/lightbox/ui.js**
 Use text labels instead of icons for full screen, next, and prev
@@ -127,6 +165,9 @@ Changed thumbnail and static-inline size
 **_plugins/shortcodes/tombstone.js**
 Handle special outputs for Maker and Type properties
 
+**_plugins/transforms/outputs/epub/transform.js**
+Add rel="contents" to epub-contents.md page for EPUB validation
+
 **_layouts/base.11ty.js**
 Added `layout` as a top-level class in order to custom style nav bar on certain layouts
 
@@ -161,6 +202,9 @@ Added caption and class parameters that can be fed in from shortcode, and simpli
 **_plugins/shortcodes/objFigure.js**
 **_plugins/shortcodes/index.js**
 Add custom shortcodes for displaying figures/objects
+
+**_plugins/transforms/outputs/epub/manifest.js**
+Use config.epub.defaultCoverImage as first choice
 
 **_plugins/transforms/outputs/pdf/transform.js**
 Fixed transform that was converting external links to slugified anchor links

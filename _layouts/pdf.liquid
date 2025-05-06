@@ -17,10 +17,9 @@
   `pages` is an array of `section` elements from each PDF-having page in the publication.
   {% endcomment %}
 
+  {% iconscc %}
+
   {% for page in pages %}
-    {% if forloop.first == true %}
-      {{ page.svgElements }}
-    {% endif %}
     {{ page.sectionElement }}
   {% endfor %}
 

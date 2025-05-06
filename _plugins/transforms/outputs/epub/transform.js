@@ -1,3 +1,7 @@
+//
+// CUSTOMIZE FILE
+// Add rel="contents" to epub-contents.md page for EPUB validation, line 193-
+//
 const filterOutputs = require('../filter.js')
 const jsdom = require('jsdom')
 const layout = require('./layout')
@@ -186,13 +190,17 @@ module.exports = function(eleventyConfig, collections, content) {
     item.properties = ['svg']
   }
 
-  switch (page.data.layout) {
-    case 'table-of-contents':
-      item.rel = 'contents'
-      break
-    case 'cover':
-      item.rel = 'cover'
-      break
+  if (page.data.classes.includes('table-of-contents')) {
+    item.rel = 'contents'
+  } else {
+    switch (page.data.layout) {
+      case 'table-of-contents':
+        item.rel = 'contents'
+        break
+      case 'cover':
+        item.rel = 'cover'
+        break
+    }
   }
 
   readingOrder.push(item)

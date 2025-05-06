@@ -150,7 +150,7 @@ resource_link:
     name: EPUB
     media_type: application/epub+zip
     link_relation: alternate
-    url: #
+    url: /_assets/downloads/the-scores-project.epub
   - type: other-format
     name: Paperback
     media_type: print

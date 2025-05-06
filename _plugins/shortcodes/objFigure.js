@@ -86,10 +86,12 @@ module.exports = function (eleventyConfig, { page }) {
 
     return html`
       <figure class="scores-figure" id="${figId}">
-        <a class="scores-figure__link" href="${objLink}" target="object-iframe" class="object-link">
-        <img class="scores-figure__class" src="${figImagePath}" alt="${figAlt}" data-outputs-include="html" />
-        <img class="scores-figure__class" src="${figPDFImagePath}" alt="${figAlt}" data-outputs-include="pdf,epub" />
+        <a class="scores-figure__link" href="${objLink}" target="object-iframe" class="object-link" data-outputs-include="html">
+        <img class="scores-figure__class" src="${figImagePath}" alt="${figAlt}" />
         </a>
+        <div class="scores-figure__link" class="object-link" data-outputs-include="pdf,epub">
+        <img class="scores-figure__class" src="${figPDFImagePath}" alt="${figAlt}" />
+        </div>
         ${anthologyLinks}
         <figcaption>
           <div>

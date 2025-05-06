@@ -146,7 +146,7 @@ module.exports = function(eleventyConfig) {
             ${pageTitle({ title, subtitle })}
           </h1>
           ${contributorsElement}
-          <div class="quire-page__header__commentary-links">
+          <div class="quire-page__header__commentary-links" data-outputs-include="html">
             ${chapterLink}
             ${downloadLink}
             ${jumpLink}

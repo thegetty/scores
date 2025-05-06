@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Changed thumbnail and static-inline size, made print-image bw
+//
 const chalkFactory = require('~lib/chalk')
 const path = require('path')
 
@@ -98,7 +102,7 @@ module.exports = (eleventyConfig) => {
       {
         name: 'thumbnail',
         resize: {
-          width: 50
+          height: 120
         }
       },
       /**
@@ -106,6 +110,8 @@ module.exports = (eleventyConfig) => {
        */
       {
         name: 'print-image',
+        colorspace: 'b-w',
+        grayscale: true,
         resize: {
           width: 2025,
           withoutEnlargement: true
@@ -117,7 +123,16 @@ module.exports = (eleventyConfig) => {
       {
         name: 'static-inline-figure-image',
         resize: {
-          width: 626
+          height: 440
+        }
+      },
+      /**
+       * Transformation applied to IIIF resources for use in Commentary figures
+       */
+      {
+        name: 'static-inline-commentary-image',
+        resize: {
+          width: 792
         }
       }
     ]

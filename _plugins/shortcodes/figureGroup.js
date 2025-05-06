@@ -1,6 +1,12 @@
+//
+// CUSTOMIZED FILE
+// Added caption and class parameters that can be fed in from shortcode
+// And simplified HTML markup to remove rows
+//
 const { oneLine } = require('~lib/common-tags')
 const chalkFactory = require('~lib/chalk')
 const figure = require('./figure')
+const fig = require('./objFigure')
 
 const logger = chalkFactory('shortcodes:figureGroup')
 
@@ -13,8 +19,9 @@ const logger = chalkFactory('shortcodes:figureGroup')
  */
 module.exports = function (eleventyConfig, { page }) {
 
-  return async function (columns, ids=[]) {
+  return async function (columns, ids=[], caption, classes) {
     columns = parseInt(columns)
+    const figureCaption = eleventyConfig.getFilter('figureCaption')
 
     /**
      * Parse the ids arg for figure identifiers
@@ -33,21 +40,19 @@ module.exports = function (eleventyConfig, { page }) {
     //   logger.warn(`NoMediaType: One of the figures passed to the q-figures shortcode is missing the 'media_type' attribute. Figures in 'figures.yaml' must be have a 'media_type' attribute with a value of either  "vimeo" or "youtube"`)
     // }
 
-    const classes = ['column', 'q-figure--group__item', `quire-grid--${columns}`]
-    const rows = Math.ceil(ids.length / columns)
     let figureTags = []
-    for (let i=0; i < rows; ++i) {
-      const startIndex = i * columns
-      let row = ''
-      for (let id of ids.slice(startIndex, columns + startIndex)) {
-        row += await figure(eleventyConfig, { page }).bind(this)(id, classes)
-      }
-      figureTags.push(`<div class="q-figure--group__row columns">${row}</div>`)
+    for (let i=0; i < ids.length; i++) {
+      figureTags += await fig(eleventyConfig, { page }).bind(this)(ids[i])
     }
 
+    const captionElement = caption ? `<figcaption>${caption}</figcaption>` : ''
+
+    const customClasses = classes ? classes : ''
+
     return oneLine`
-      <figure class="q-figure q-figure--group">
-        ${figureTags.join('\n')}
+      <figure class="scores-figure scores-figure-group scores-figure-group-grid--${columns} ${customClasses}">
+        <div>${figureTags}</div>
+        ${captionElement}
       </figure>
     `
   }

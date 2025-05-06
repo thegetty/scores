@@ -1,7 +1,9 @@
 ---
+title: Title
 layout: base.11ty.js
 classes:
-  - title-page
+  - scores-title-page
+  - frontmatter
 order: 3
 outputs:
   - pdf
@@ -9,26 +11,23 @@ outputs:
 toc: false
 ---
 
-<section class="title-block">
+<section class="scores-title-block">
 
-{%- if publication.title -%}
-  <h1 class="title">{{ publication.title | markdownify }}{% if publication.subtitle %}: {{ publication.subtitle | markdownify }}{% endif %}
-  {% if publication.reading_line %}<br /><br />{{ publication.reading_line | markdownify }}{% endif %}</h1>
-{%- endif -%}
+<h1 class="scores-title">{{ publication.title | markdownify }}
+  {% if publication.pdf_epub_subtitle %}<span class="scores-subtitle">{{ publication.pdf_epub_subtitle | markdownify }}</span>{% endif %}</h1>
 
-{%- if publication.contributor_as_it_appears -%}
-  <p class="contributor">{{ publication.contributor_as_it_appears | markdownify }}</p>
-{%- else -%}
-  <p class="contributor">{% contributors context=publicationContributors type="primary" format="string" %}</p>
-{%- endif -%}
+<div class="scores-contributor">
+<p>Edited by</p>
+{% contributors context=publicationContributors type="primary" format="name" %}
+</div>
 
 </section>
 
-<section class="publisher-block">
+<section class="scores-publisher-block">
 
 {%- for publisher in publication.publisher -%}
   {%- if publisher.name -%}
-    <p class="publisher">{{ publisher.name }}{% if publisher.location %}, {{ publisher.location }}{% endif %}</p>
+    <p class="scores-publisher">{{ publisher.name }}{% if publisher.location %}, {{ publisher.location }}{% endif %}</p>
   {%- endif %}
 {%- endfor -%}
 

@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Added markup for iframe viewer, and passed PDF info in to pageHeader
+##
 classes:
   - quire-essay
 layout: base.11ty.js
@@ -7,11 +10,17 @@ description: Essay layout. This layout describes a single-page template that has
 
 {% pageHeader
   byline_format=byline_format,
+  filePathStem=page.filePathStem,
   image=image,
   label=label,
   pageContributors=pageContributors,
+  short_title=short_title,
   subtitle=subtitle,
-  title=title
+  title=title,
+  pdf_feet_recto=pdf_feet_recto,
+  page_pdf_output=page_pdf_output,
+  key=key,
+  outputs=outputs
 %}
 
 <section class="section quire-page__content">
@@ -21,7 +30,16 @@ description: Essay layout. This layout describes a single-page template that has
   <div class="container">
     <div class="content">
       {{ content }}
-      {% bibliography citations %}
+      {% bibliography citations outputs page_pdf_output %}
+      <div class="iframe_viewer" id="iframe-viewer" style="display:none;" data-outputs-include="html">
+        <div class="iframe_viewer__nav-buttons" id="iframe-nav"></div>
+        <div class="iframe_viewer__controls">
+          <a class="iframe-control--share" id="iframe-share" aria-label="Copy link" onclick="copyLink()" data-baseurl="{{ publication.url }}">Link</a>
+          <a class="iframe-control--close" aria-label="Close" onclick="toggleViewer()">Close</a>
+        </div>
+        <iframe class="iframe_viewer__iframe" id="object-iframe" name="object-iframe" style="display:none;"></iframe>
+        <span id="iframe-loading-indicator" style="display:block;">Loading ...</span>
+      </div>
     </div>
     {% pageButtons pagination=pagination %}
   </div>

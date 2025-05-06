@@ -27,6 +27,8 @@ module.exports = {
         layout: data.layout,
         object: data.object,
         order: data.order,
+        pdf_feet_recto: data.pdf_feet_recto,
+        page_pdf_output: data.page_pdf_output,
         short_title: data.short_title,
         subtitle: data.subtitle,
         summary: data.summary,

@@ -1,0 +1,124 @@
+<style type="text/css">
+.q-lightbox-slides__element--table .overflow-container {
+  max-height: 100% !important;
+  width: calc(100% - 4rem);
+  max-width: 100%;
+}
+@media screen and (max-width: 460px) {
+  .q-lightbox-slides__element--table .overflow-container {
+    width: calc(100% - 2rem);
+  }
+}
+@media (pointer: coarse) {
+  #key-play-mode {
+    display: none;
+  }
+}
+.music-sampler {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0;
+  height: calc(100vh - 6rem - 3rem);
+  max-width: inherit;
+  margin-top: 2rem;
+}
+@media screen and (max-width: 1100px) {
+  .music-sampler {
+    height: calc(100vh - 6rem - 4rem);
+    margin-top: 0;
+  }
+}
+.play-modes {
+  display: flex;
+  gap: 10px;
+}
+.play-modes button {
+  padding: 10px 20px;
+  font-family: "u001", sans-serif;
+  font-size: var(--small-font-size);
+  cursor: pointer;
+  border-width: 0;
+  border-radius: 8px;
+  position: relative;
+  height: 40px;
+  background-color: white;
+}
+.play-modes button.active {
+  background-color: var(--accent-color);
+  color: black;
+}
+.play-modes button .play-mode-tooltip {
+  display: none;
+}
+.play-modes button:hover .play-mode-tooltip {
+  display: inline;
+  position: absolute;
+  top: -1.25rem;
+  left: -15px;
+  color: white;
+  width: 150px;
+}
+.grid {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: calc(100% - 60px);
+  max-width: inherit;
+  width: 100%;
+}
+.grid-item {
+  cursor: pointer;
+  transition: transform 0.2s;
+  text-align: center;
+  display: flex;
+}
+.grid-item.hover img:hover,
+.grid-item.click img:active, 
+.grid-item.key.active {
+  transform: scale(0.9);
+}
+.grid-item img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 8px;
+  position: relative;
+  width: auto;
+  height: auto;
+  top: initial;
+  left: initial;
+  transform: initial;
+  transition: transform 0.2s;
+}
+@media screen and (max-width: 460px) {
+  .grid-item.hover img:hover,
+  .grid-item.click img:active, 
+  .grid-item.key.active {
+    opacity: 0.7;
+    transform: none;
+  }
+  .grid-item img {
+    transition: opacity;
+  }
+}
+</style>
+<div class="music-sampler">
+  <div class="grid">
+    <!-- Grid items (up to 12) -->
+    <div class="grid-item" data-audio="Patterson_1_Shake.mp3"><img src="/publications/scores/_assets/images/figures/samplers/Patterson_1_Shake.jpg" alt="Sample 1"></div>
+    <div class="grid-item" data-audio="Patterson_2_Break.mp3"><img src="/publications/scores/_assets/images/figures/samplers/Patterson_2_Break.jpg" alt="Sample 2"></div>
+    <div class="grid-item" data-audio="Patterson_3_Tear.mp3"><img src="/publications/scores/_assets/images/figures/samplers/Patterson_3_Tear.jpg" alt="Sample 3"></div>
+    <div class="grid-item" data-audio="Patterson_4_Crumple.mp3"><img src="/publications/scores/_assets/images/figures/samplers/Patterson_4_Crumple.jpg" alt="Sample 4"></div>
+    <div class="grid-item" data-audio="Patterson_5_RumpleBumple.mp3"><img src="/publications/scores/_assets/images/figures/samplers/Patterson_5_RumpleBumple.jpg" alt="Sample 5"></div>
+    <div class="grid-item" data-audio="Patterson_6_RubScrub.mp3"><img src="/publications/scores/_assets/images/figures/samplers/Patterson_6_RubScrub.jpg" alt="Sample 6"></div>
+    <div class="grid-item" data-audio="Patterson_7_Twist.mp3"><img src="/publications/scores/_assets/images/figures/samplers/Patterson_7_Twist.jpg" alt="Sample 7"></div>
+    <div class="grid-item" data-audio="Patterson_8_PoofPop.mp3"><img src="/publications/scores/_assets/images/figures/samplers/Patterson_8_PoofPop.jpg" alt="Sample 8"></div>
+  </div>
+  <div class="play-modes">
+    <button id="click-play-mode" class="active">Click</button>
+    <button id="hover-play-mode">Hover</button>
+    <button id="key-play-mode">Keyboard <span class="play-mode-tooltip">Keys: 1–8</span></button>
+  </div>
+</div>

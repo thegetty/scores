@@ -1,15 +1,15 @@
 accordion:
-  controls: arrow # arrow | plus-minus
+  controls: plus-minus # arrow | plus-minus
   copyButton:
     ariaLabel: Copy page section link to clipboard
     successText: Copied page section link to clipboard
     symbol: §
   globalControls:
-    collapseText: Collapse All
-    expandText: Expand All
+    collapseText: Collapse all ...
+    expandText: Expand all ...
 
 analytics:
-  googleId: ''
+  googleId: 'GTM-NRDC63K'
 
 bylineFormat: name-title # name | name-title | false
 
@@ -27,7 +27,7 @@ entryPage:
   objectLinkText: View in Collection
 
 epub:
-  defaultCoverImage: 'epub-cover.png'
+  defaultCoverImage: 'cover-full.jpg'
   outputDir: '_epub'
 
 footnotes:
@@ -47,10 +47,26 @@ menuType: full # full | brief
 
 navigation:
   nextButtonText: Next
-  prevButtonText: Back
+  prevButtonText: Previous
 
 pageTitle:
   labelDivider: '. '
+
+pdf:
+  filename: 'the-scores-project'
+  outputDir: '/_assets/downloads' 
+  pagePDF:
+    accessLinks:
+      - header: true 
+        label: 'Download PDF'
+      - footer: false
+        label: 'Download this page'
+    coverPage: false
+    output: false
+  publicationPDF:
+    output: true
+
+quire_credit_line: 'This publication was created using [Quire](https://quire.getty.edu/)™, a multiformat publishing tool from Getty.'
 
 ref:
   sequenceTransition: 30

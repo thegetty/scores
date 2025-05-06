@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Fixed hard-coded heights to use $navbar-height instead, lines 753 and 757
+//
 // =============================================================================
 // Quire-entry.scss
 // -----------------------------------------------------------------------------
@@ -538,7 +542,7 @@ $image-divider-height: 16px;
     // }
 
     position: relative;
-    @include animation(0.5s ease 0s 1 slideFromRight);
+    // @include animation(0.5s ease 0s 1 slideFromRight);
 
     @media screen and (max-width: $tablet) {
       margin-top: -1em;
@@ -746,11 +750,11 @@ $image-divider-height: 16px;
   @media screen and (min-width: $desktop) {
     position: fixed;
     /* top offsets 50px tall nav bar */
-    top: 50px;
+    top: $navbar-height; 
     /* calculated width accounts for extra 8px of margin in .quire-entry__image-wrap */
     width: calc(56% - 8px);
     /* calculated height accounts for 50px tall nav bar */
-    height: calc(100vh - 50px);
+    height: calc(100vh - $navbar-height);
   }
 }
 

@@ -1,0 +1,131 @@
+---
+## CUSTOMIZED FILE
+## Based on `quire-entry` that adds figure thumbnails for lightbox navigation
+##
+classes:
+  - quire-entry
+  - quire-score-object
+layout: base.11ty.js
+description: Entry layout. This template is intended for use in catalogue-style pages where a single image or object needs to be featured prominently.
+---
+
+{% assign sideBySide = config.entryPage.sideBySide %}
+
+{% comment %}
+Entry content, including entry image and tombstone data
+{% endcomment %}
+
+<button id="quire-entry-view-toggle" onclick="toggleEntryContent()">View: Wide</button>
+<div id="quire-entry-view" class="narrow">
+
+  {% comment %} Full-width entry image header {% endcomment %}
+  <div class="quire-entry__image-wrap" data-outputs-include="html">
+    <div class="quire-entry__lightbox{% for object in pageObjects %}{% if object.figures.size > 1 %} quire-entry__lightbox--with-thumbnails{% endif %}{% endfor %}">
+      {% if image %}
+      {% comment %} 
+        To do: add support for images without ids defined in front matter
+        {% assign figures = image | split: ',' %}
+        {% lightbox figures %}
+      {% endcomment %}
+      {% elsif pageObjects %}
+        {% for object in pageObjects %}
+          {% lightbox object.figures %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+    {% if image %}
+      {% comment %} 
+        @TODO: add support for images without ids defined in front matter
+        {% figure image %}
+      {% endcomment %}
+    {% elsif pageObjects %}
+      {% for object in pageObjects %}
+        {% for figure in object.figures %}
+          {% figure figure.id %}
+        {% endfor %}
+      {% endfor %}
+    {% endif %}
+  </div>
+  
+  {%- for object in pageObjects -%}
+  {%- if object.figures.size > 1 -%}
+  <div class="quire-entry__thumbnails thumbnail-box" data-outputs-include="html">
+  <div class="quire-entry__thumbnails__inner">
+    {%- for thisFig in object.figures -%}
+      {%- if forloop.first == true -%}{%- assign firstThumb = true -%}{%- else -%}{%- assign firstThumb = false -%}{%- endif -%}
+      {%- for figure in figures.figure_list -%}
+        {%- if thisFig.id == figure.id -%}
+          <a class="ref thumbnail{% if firstThumb == true %} current-thumbnail{%- endif -%}" data-figure-label="{% if figure.label != '' %}{{ figure.label }}{% else %}•{% endif %}" data-annotation-ids="" data-figure-id="{{ figure.id }}" data-region="">
+          <figure>
+          <span class="thumbnail-tooltip" hidden>Link copied</span>
+          {%- if figure.poster -%}
+          <img src="/_assets/images/{{ figure.poster }}" alt="thumb">
+          {%- else -%}
+          <img src="/iiif/{{ figure.id }}/{{ figure.src | replace: "figures/", "" | replace: ".jpg", "/thumbnail.jpg" }}" alt="thumb">
+          {%- endif -%}
+          </figure>
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endfor -%}
+  </div>
+  </div>
+  {%- endif -%}
+  {%- endfor -%}
+
+  <div class="quire-entry__content">
+    <a class="quire-entry__content__more" href="#text-start">More ...</a>
+    <header class="quire-entry__header" id="text-start">
+      <div class="container">
+        <h1 class="quire-page__header__title" id="page-header-{{ page.filePathStem }}">
+          {% pageTitle label=label, title=title, subtitle=subtitle %}
+        </h1>
+        <div class="quire-page__header__contributor">
+          {% contributors context=pageContributors, format=byline_format %}
+        </div>
+      </div>
+    </header>
+
+    {% tombstone pageObjects key outputs page_pdf_output %}
+
+    {% if abstract %}
+      {% abstract abstract=abstract %}
+    {% endif %}
+
+    <section class="section quire-page__content">
+      <div class="container">
+        <div class="content">
+          {{ content }}
+        </div>
+      </div>
+    </section>
+
+    <section class="section quire-page__content">
+      <div class="container">
+        {% for obj in pageObjects %}
+        {% if obj.related_objects %}
+        <div class="score-section score-section--related">
+        {%- accordion 'Related' -%}
+        <div class="score-section__objects">
+        {%- for thisObj in obj.related_objects -%}
+          <a href="/object-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+          {%- obj thisObj.id -%}
+          </a>
+        {%- endfor -%}
+        </div>
+        {%- endaccordion -%}
+        </div>
+        {% endif %}
+        <div class="score-section score-section--cite">
+        {%- accordion 'Cite' -%}
+        {% if obj.maker_cite %}{{ obj.maker_cite }}{% assign last_character = obj.maker_cite | slice: -1%}{% if last_character != '.' %}. {% else %} {% endif %}{% endif %}{{ obj.title }}{% if obj.date %}, {{ obj.date }}{% endif %}.{% if obj.location %} {{ obj.location }}.{% endif %} In *The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975*, ed. Michael Gallope, Natilee Harren, and John Hicks. Los Angeles: Getty Research Institute, 2025. [https://<wbr>www<wbr>.getty<wbr>.edu<wbr>/publications<wbr>/scores<wbr>/object-index<wbr>/{{ obj.id }}/](https://www.getty.edu/publications/scores/object-index/{{ obj.id }}/).
+        {%- endaccordion -%}
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+</div>

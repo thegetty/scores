@@ -1,4 +1,7 @@
 ---
+## CUSTOMIZED FILE
+## Removed prev/next buttons, passed short_title into pageHeader for PDF running feet
+##
 classes:
   - quire-page
 layout: base.11ty.js
@@ -10,21 +13,21 @@ description: Single page default template
   image=image,
   label=label,
   pageContributors=pageContributors,
+  short_title=short_title,
   subtitle=subtitle,
-  title=title
+  title=title,
+  pdf_feet_recto=pdf_feet_recto,
+  page_pdf_output=page_pdf_output,
+  key=key,
+  outputs=outputs
 %}
 {% if content %}
 <section class="section quire-page__content">
   <div class="container">
     <div class="content">
       {{ content }}
-      {% bibliography citations %}
+      {% bibliography citations outputs page_pdf_output %}
     </div>
   </div>
 </section>
 {% endif %}
-<section class="section quire-page__content">
-  <div class="container">
-    {% pageButtons pagination=pagination %}
-  </div>
-</section>

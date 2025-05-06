@@ -1,3 +1,8 @@
+//
+// CUSTOMIZED FILE
+// Allow for images to be transformed to single-channel bw
+// requires `grayscale` and `colorspace` to be set for the image in _plugins/figures/iiif/config.js
+//
 const chalkFactory = require('~lib/chalk')
 const fs = require('fs-extra')
 const path = require('path')
@@ -29,7 +34,7 @@ module.exports = class Transformer {
     if (!inputPath) return {}
 
     const { region } = options
-    const { resize } = transformation
+    const { colorspace, grayscale, resize } = transformation
     const { ext, name } = path.parse(inputPath)
     const format = this.formats.find(({ input }) => input.includes(ext))
     const outputPath = path.join(this.outputRoot, outputDir, name, `${transformation.name}${format.output}`)
@@ -40,6 +45,14 @@ module.exports = class Transformer {
       logger.debug(`skipping previously transformed image '${inputPath}'`)
       return
     }
+
+    /**
+     * `sharp` grayscale(true) will convert the image to look grayscale but leave in RGB
+     * toColorspace('b-w') is needed to convert to true, single-channel grayscale, but it
+     * will only work if using .keepMetadata() rather than .withMetadata()
+     */ 
+    const gray = grayscale ? grayscale : false
+    const space = colorspace ? colorspace : 'srgb'
 
     /**
      * Declare a `sharp` service with a `crop` method that is callable
@@ -55,7 +68,9 @@ module.exports = class Transformer {
     return service
       .crop(region)
       .resize(resize)
-      .withMetadata()
+      .grayscale(gray)
+      .toColorspace(space)
+      .keepMetadata()
       .toFile(outputPath)
   }
 }

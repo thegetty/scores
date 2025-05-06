@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Use text labels instead of icons
+//
 const { html } = require('~lib/common-tags')
 
 module.exports = function(eleventyConfig) {
@@ -23,7 +27,7 @@ module.exports = function(eleventyConfig) {
           class="q-lightbox-ui__fullscreen-button"
           title="${ariaLabel}" aria-label="${ariaLabel}"
           aria-label="View Fullscreen"
-        ></button>
+        >Full screen</button>
       `
     }
 
@@ -44,15 +48,15 @@ module.exports = function(eleventyConfig) {
       return figures.length > 1
         ? html`
           <nav class="q-lightbox-ui__navigation">
-            <button data-lightbox-previous class="q-lightbox-ui__navigation-button q-lightbox-ui__navigation-button--previous" title="${previousAriaLabel}" aria-label="${previousAriaLabel}"></button>
-            <button data-lightbox-next class="q-lightbox-ui__navigation-button q-lightbox-ui__navigation-button--next" title="${nextAriaLabel}" aria-label="${nextAriaLabel}"></button>
+            <button data-lightbox-previous class="q-lightbox-ui__navigation-button q-lightbox-ui__navigation-button--previous" title="${previousAriaLabel}" aria-label="${previousAriaLabel}">Prev</button>
+            <button data-lightbox-next class="q-lightbox-ui__navigation-button q-lightbox-ui__navigation-button--next" title="${nextAriaLabel}" aria-label="${nextAriaLabel}">Next</button>
           </nav>
         `
         : ''
     }
 
     return html`
-      <div class="q-lightbox-ui">
+      <div class="q-lightbox-ui" slot="ui">
         <div class="q-lightbox-ui__zoom-and-fullscreen">
           ${zoomButtons()}
           ${fullscreenButton()}

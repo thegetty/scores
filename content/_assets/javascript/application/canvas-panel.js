@@ -1,5 +1,9 @@
-import { intersectionObserverFactory } from './intersection-observer-factory'
+//
+// CUSTOMIZE FILE
+// Add class to current thumbnail for styling, lines 123–31
+//
 import Accordion from './accordion'
+import { intersectionObserverFactory } from './intersection-observer-factory'
 import poll from './poll'
 import scrollToHash from './scroll-to-hash'
 
@@ -26,7 +30,7 @@ const getServiceId = (element) => {
   if (!element) return
 
   const canvasPanel = element.querySelector('canvas-panel')
-  const imageSequence = element.querySelector('image-sequence')
+  const imageSequence = element.querySelector('q-image-sequence')
   const imageService = element.querySelector('image-service')
 
   if (canvasPanel) {
@@ -77,25 +81,26 @@ const goToFigureState = function ({
     return
   }
   const figureSelector = `#${figureId}`
-  const slideSelector = `[data-lightbox-slide-id="${figureId}"]`
+  const slideSelector = `[slot="slides"][id="${figureId}"]`
   const figure = document.querySelector(figureSelector)
   const figureSlide = document.querySelector(slideSelector)
   const serviceId = getServiceId(figure || figureSlide)
 
-  // return if id does not reference a figure
-  if ((!figure && !figureSlide) || !serviceId) return
+  // Do nothing if the passed figureId isn't on this page
+  if (!figure && !figureSlide) return
 
-  const inputs = document.querySelectorAll(`#${figureId} .annotations-ui__input, [data-lightbox-slide-id="${figureId}"] .annotations-ui__input`)
+  const lightbox = figureSlide.closest('q-lightbox')
+  lightbox.currentId = figureId
+
+  // Done if there's no service to annotate / target
+  if (!serviceId) return
+
+  const inputs = document.querySelectorAll(`#${figureId} .annotations-ui__input, [slot="slides"][id="${figureId}"] .annotations-ui__input`)
   const annotations = [...inputs].map((input) => {
     const id = input.getAttribute('data-annotation-id')
     input.checked = annotationIds.includes(id)
     return annotationData(input)
   })
-
-  if (figureSlide) {
-    const lightbox = figureSlide.closest('q-lightbox')
-    lightbox.currentId = figureId
-  }
 
   /**
    * Open parent accordions if figure is within an accordion
@@ -105,7 +110,7 @@ const goToFigureState = function ({
   })
 
   /**
-   * Update figure state
+   * Update figure state -- wrapped in a timeout to allow for off-page 
    */
   update(serviceId, { annotations, region: region || 'reset', sequence })
 
@@ -115,6 +120,27 @@ const goToFigureState = function ({
   const url = new URL(window.location.pathname, window.location.origin)
   url.hash = figureId
   scrollToHash(url.hash)
+
+  /**
+   * Add class to current thumbnail for styling
+   */
+  const currentThumbnail = document.querySelector('a.current-thumbnail')
+  currentThumbnail ? currentThumbnail.classList.remove('current-thumbnail') : ''
+  const newThumbnailSelector = `a[data-figure-id="${figureId}"`
+  const newThumbnail = document.querySelector(newThumbnailSelector)
+  newThumbnail.classList.add('current-thumbnail');
+  // Scroll to newThumbnail if it's not in view
+  function isElementInView(element) {
+    const rect = element.getBoundingClientRect();
+    const parentRect = element.parentElement.getBoundingClientRect();
+    return (
+        rect.left >= 0 &&
+        rect.right <= parentRect.width
+    );
+  }
+  if (!isElementInView(newThumbnail)) {
+      newThumbnail.scrollIntoView({ inline: "nearest" });
+  }
 
   /** 
    * Build params
@@ -281,7 +307,7 @@ const setUpUIEventHandlers = () => {
  * @property {Array<Object>} annotations
  */
 const update = (id, data) => {
-  const webComponents = document.querySelectorAll(`canvas-panel[canvas-id="${id}"], image-service[src="${id}"], image-sequence[sequence-id="${id}"]`)
+  const webComponents = document.querySelectorAll(`canvas-panel[canvas-id="${id}"], image-service[src="${id}"], q-image-sequence[sequence-id="${id}"]`)
   if (!webComponents.length) {
     console.error(`Failed to call update on canvas panel or image-service component with id ${id}. Element does not exist.`)
   }
@@ -289,7 +315,7 @@ const update = (id, data) => {
   
   webComponents.forEach((element) => {
 
-    const isImageSequence = element.tagName.toLowerCase() === 'image-sequence'
+    const isImageSequence = element.tagName.toLowerCase() === 'q-image-sequence'
 
     if (isImageSequence) {
       updateSequenceIndex(element, data)
@@ -299,14 +325,15 @@ const update = (id, data) => {
       const target = region && region !== 'reset'
         ? getTarget(region)
         : getTarget(element.getAttribute('region'))
-      element.transition(tm => {
-        tm.goToRegion(target, {
-          transition: {
-            easing: element.easingFunctions().easeOutExpo,
-            duration: 2000
-          }
-        })
-      })
+
+      const transition =  { easing: element.easingFunctions().easeOutExpo, duration: 2000 }
+      const regionTransition = () => {
+        element.transition(tm => {
+          tm.goToRegion(target, { transition })
+        })         
+      } 
+      setTimeout( regionTransition() ,500)
+
     }
 
     if (Array.isArray(annotations)) {

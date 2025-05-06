@@ -1,0 +1,153 @@
+---
+## CUSTOMIZED FILE
+##
+classes:
+  - quire-score
+layout: base.11ty.js
+description: A custom layout for the primary score landing pages
+---
+
+{% if header_animation %}
+{% assign animation_path = './content/_assets/' | append: header_animation %}
+{% render animation_path %}
+{% else %}
+{% pageHeader
+  byline_format=byline_format,
+  image=image,
+  label=label,
+  layout=layout,
+  subtitle=subtitle,
+  title=title
+%}
+{% endif %}
+
+<section class="section quire-page__content">
+<div class="container">
+<div class="content">
+
+<section class="score-section score-section--commentary">
+<div class="score-section__header">
+<h2>Commentary</h2>
+{% capture contributorContext %}
+{% assign commentaryContributor = contributor | where: "section", "commentary" %}
+[{%- for person in commentaryContributor -%}
+  {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
+{%- endfor -%}]
+{%- endcapture -%}
+{% contributors context=contributorContext format='name-title' %}
+</div>
+<div class="score-section__blurb">
+{{ commentary.blurb | markdownify }}
+</div>
+<div class="score-section__link">
+<a href="{{ commentary.link }}">Keep reading ...</a>
+</div>
+</section>
+
+{%- if score.objects -%}
+<section class="score-section score-section--score" id="score">
+<div class="score-section__header">
+<h2>Score</h2>
+{%- if score.contributor -%}
+  {% capture scoreContributor %}
+  {%- for person in score.contributor -%}
+    {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
+  {%- endfor -%}
+  {%- endcapture -%}
+{% contributors context=scoreContributor format='name-title-block' align='left' %}
+{%- endif -%}
+</div>
+<div class="score-section__objects">
+  {%- for thisObj in score.objects -%}
+    <a href="/object-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+    {%- obj thisObj.id -%}
+    </a>
+  {%- endfor -%}
+</div>
+</section>
+{%- endif -%}
+
+{%- if playback.objects -%}
+<section class="score-section score-section--playback" id="playback">
+<div class="score-section__header">
+<h2>Playback</h2>
+{%- if playback.contributor -%}
+  {% capture playbackContributor %}
+  [{%- for person in playback.contributor -%}
+    {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif %}
+  {%- endfor -%}]
+  {%- endcapture -%}
+{% contributors context=playbackContributor format='name-title-block' align='left' %}
+{%- endif -%}
+</div>
+<div class="score-section__objects">
+  {%- for thisObj in playback.objects -%}
+    <a href="/object-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+    {%- obj thisObj.id -%}
+    </a>
+  {%- endfor -%}
+</div>
+</section>
+{%- endif -%}
+
+{%- if archive.groups -%}
+<section class="score-section score-section--archive" id="archive">
+<div class="score-section__header">
+<h2>Archive</h2>
+{%- if archive.contributor -%}
+  {%- capture archiveContributor -%}
+    [{%- for person in archive.contributor -%}
+    {"id":"{{ person.id }}"}{% if forloop.last == true %}{% else %},{% endif -%}
+    {%- endfor -%}]
+  {%- endcapture -%}
+  {%- contributors context=archiveContributor format='name-title' -%}
+{%- endif -%}
+</div>
+<div class="score-section__groups">
+  {%- if archive.highlights -%}
+  <h3>Highlights</h3>
+  <div class="score-section__objects section-highlights">
+  {%- for highlight in archive.highlights -%}
+    <a href="/object-index/{{ highlight.id }}/" target="object-iframe" class="object-link">
+    {%- obj highlight.id -%}
+    </a>
+  {%- endfor -%}
+  </div>
+  {%- endif -%}
+  {%- for group in archive.groups -%}
+  {%- capture groupHeading -%}
+  ### {{ group.heading }}<span class="group-item-count"> ({{ group.objects.size }} item{% if group.objects.size > 1 %}s{% endif %})</span>
+  {%- endcapture -%}
+  {%- capture groupId -%}
+  {{ group.heading | downcase | replace: " ", "-" }}
+  {%- endcapture -%}
+  {%- accordion groupHeading groupId -%}
+    <div class="score-section__objects">
+      {%- for thisObj in group.objects -%}
+        <a href="/object-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+        {%- obj thisObj.id -%}
+        </a>
+      {%- endfor -%}
+    </div>
+  {%- endaccordion -%}
+  {%- endfor -%}
+  <div class="score-section__link score-section__link--expander">
+  {% accordionGlobalControls %}
+  </div>
+</div>
+</section>
+{%- endif -%}
+
+<div class="iframe_viewer" id="iframe-viewer" style="display:none;" data-outputs-include="html">
+  <div class="iframe_viewer__nav-buttons" id="iframe-nav"></div>
+  <div class="iframe_viewer__controls">
+    <a class="iframe-control--share" id="iframe-share" aria-label="Copy link" onclick="copyLink()" data-baseurl="{{ publication.url }}">Link</a>
+    <a class="iframe-control--close" aria-label="Close" onclick="toggleViewer()">Close</a>
+  </div>
+  <iframe class="iframe_viewer__iframe" id="object-iframe" name="object-iframe" style="display:none;"></iframe>
+  <span id="iframe-loading-indicator" style="display:block;">Loading ...</span>
+</div>
+
+</div>
+</div>
+</section>

@@ -1,0 +1,164 @@
+---
+## CUSTOMIZED FILE
+## Based on `score-object` but displays an array of filterable cards in the lightbox
+##
+classes:
+  - quire-entry
+  - quire-score-object
+  - quire-score-object-cards
+layout: base.11ty.js
+description: Entry layout. This template is intended for use in catalogue-style pages where a single image or object needs to be featured prominently.
+---
+
+{% assign sideBySide = config.entryPage.sideBySide %}
+
+{% comment %}
+Entry content, including entry image and tombstone data
+{% endcomment %}
+
+<button id="quire-entry-view-toggle" onclick="toggleEntryContent()">View: Wide</button>
+<div id="quire-entry-view" class="narrow">
+
+  {% comment %} Full-width entry image header {% endcomment %}
+  <div class="quire-entry__image-wrap" data-outputs-include="html">
+
+    {% if cards == 'water-yam' %}
+      {% assign card_data = water-yam.card_list %}
+      {% capture all_tags_text -%}
+        {%- for card in card_data %}{{ card.tags }}, {% endfor -%}
+      {%- endcapture %}
+      {% assign all_tags = all_tags_text | downcase | split: ", " | uniq | sort %}
+    {% elsif cards == 'tudor-cage' %}
+      {% assign card_data = tudor-cage.card_list %}
+      {% assign all_tags = tudor-cage.all_tags | split: ", " %}
+    {% else %}
+      {% assign card_data = '' %}
+    {% endif %}
+
+    <div class="card-select">
+
+    {% if cards == 'water-yam' %}
+      {% if water-yam.config.tagsHeading %}
+        <label for="tagdropdown" class="card-select__label">{{ water-yam.config.tagsHeading }}</label>
+      {% endif %}
+    {% elsif cards == 'tudor-cage' %}
+      {% if tudor-cage.config.tagsHeading %}
+        <label for="tagdropdown" class="card-select__label">{{ tudor-cage.config.tagsHeading }}</label>
+      {% endif %}
+    {% endif %}
+
+    <select id="tagdropdown" onchange="showTagged(this.value)" class="card-select__select">
+      <option value="all">all</option>
+      {% for tag in all_tags %}
+      {% if tag.size > 0 %}
+      {% if tag == 'fluxus' %}
+      <option value="Fluxus">Fluxus</option>
+      {% else %}
+      <option value="{{ tag }}">{{ tag }}</option>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </select>
+    </div>
+
+    {% if cards == 'water-yam' %}<a class="cards-random-button text-button" onclick="showRandom()">Random</a>{% endif %}
+
+    <div class="quire-entry__lightbox{% for object in pageObjects %}{% if object.figures.size > 1 %} quire-entry__lightbox--with-thumbnails{% endif %}{% endfor %}">
+
+    {% if cards == 'water-yam' %}
+    {% if water-yam.tag_descriptions %}
+    <div class="card-tag-descriptions">
+    {% for desc in water-yam.tag_descriptions %}
+    <p class="card-description" style="display: none;" data-tags="{{ desc.tag }}"><strong>{{ desc.tag }}:</strong> {{ desc.description | markdownify }}</p>
+    {% endfor %}
+    </div>
+    {% endif %}
+    {% endif %}
+
+    {% assign card_scale = 0.5 %}
+    {% assign image_directory = '/_assets/images/figures/' %}
+    {% assign card_directory = cards %}
+    {% for card in card_data %}
+    <figure class="card" style="width: {{ 72 | times: card_scale | times: card.width }}px;" data-tags="{{ card.tags }}" id="{{ card.file | replace: ".png" , "" | replace: ".jpg" , "" | replace: "_" , "-" }}">
+      <a href="#{{ card.file | replace: ".png" , "" | replace: ".jpg" , "" | replace: "_" , "-" }}">
+      <img class="card-image" src="{{ image_directory }}/{{ card_directory }}/{{ card.file }}" alt="{{ card.title }}: {{ card.fullText }}" />
+      {% if card.additionalImages %}
+      {% assign all_images = card.additionalImages  | split: ", " %}
+      {% for img in all_images %}
+      <img class="card-image" src="{{ image_directory }}/{{ card_directory }}/{{ img }}" alt="" />
+      {% endfor %}
+      {% endif %}
+      </a>
+      <figcaption class="card-caption">
+        <ul class="card-caption__tags">
+          {% assign tagGroup = card.tags | split: ", " %}
+          {% for tag in tagGroup %}
+          <li onclick="showTagged('{{ tag }}')" class="{{ tag | replace: " ", "-" }}-tag">{{ tag }}</li>
+          {% endfor %}
+        </ul>
+        {% if card.annotation.size > 0 %}
+        <button onclick="toggleCardCaption(event)" class="card-caption__button">Read ...</button>
+        <span style="display: none;" class="card-caption__text">
+        {{ card.annotation | markdownify }}
+        </span>
+        {% endif %}
+      </figcaption>
+    </figure>
+    {% endfor %}
+
+    </div>
+  </div>
+
+  <div class="quire-entry__content">
+    <a class="quire-entry__content__more" href="#text-start">More ...</a>
+    <header class="quire-entry__header" id="text-start">
+      <div class="container">
+        <h1 class="quire-page__header__title" id="page-header-{{ page.filePathStem }}">
+          {% pageTitle label=label, title=title, subtitle=subtitle %}
+        </h1>
+        <div class="quire-page__header__contributor">
+          {% contributors context=pageContributors, format=byline_format %}
+        </div>
+      </div>
+    </header>
+
+    {% tombstone pageObjects key outputs page_pdf_output %}
+
+    {% if abstract %}
+      {% abstract abstract=abstract %}
+    {% endif %}
+
+    <section class="section quire-page__content">
+      <div class="container">
+        <div class="content">
+          {{ content }}
+        </div>
+      </div>
+    </section>
+
+    <section class="section quire-page__content">
+      <div class="container">
+        {% for obj in pageObjects %}
+        {% if obj.related_objects %}
+        <div class="score-section score-section--related">
+        {%- accordion 'Related' -%}
+        <div class="score-section__objects">
+        {%- for thisObj in obj.related_objects -%}
+          <a href="/object-index/{{ thisObj.id }}/" target="object-iframe" class="object-link">
+          {%- obj thisObj.id -%}
+          </a>
+        {%- endfor -%}
+        </div>
+        {%- endaccordion -%}
+        </div>
+        {% endif %}
+        <div class="score-section score-section--cite">
+        {%- accordion 'Cite' -%}
+        {% if obj.maker_cite %}{{ obj.maker_cite }}{% assign last_character = obj.maker_cite | slice: -1%}{% if last_character != '.' %}. {% else %} {% endif %}{% endif %}{{ obj.title }}{% if obj.date %}, {{ obj.date }}{% endif %}.{% if obj.location %} {{ obj.location }}.{% endif %} In *The Scores Project: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975*, ed. Michael Gallope, Natilee Harren, and John Hicks. Los Angeles: Getty Research Institute, 2025. [https://<wbr>www<wbr>.getty<wbr>.edu<wbr>/publications<wbr>/scores<wbr>/object-index<wbr>/{{ obj.id }}/](https://www.getty.edu/publications/scores/object-index/{{ obj.id }}/).
+        {%- endaccordion -%}
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+</div>

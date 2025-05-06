@@ -73,7 +73,7 @@ if (!window.customElements.get('image-sequence')) {
         visible: 'visible'
       };
       const { description, fadeIn, interactive, loading, overlay, placeholder, visible } = this.classNames;
-      this.description = 'Click and drag horizontally to rotate image';
+      this.description = 'Click and drag horizontally';
       this.items = this.getAttribute('items').split(',');
       this.oldIndex = null;
       this.oldX = null;

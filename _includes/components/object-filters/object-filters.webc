@@ -1,3 +1,7 @@
+<!--
+CUSTOMIZED FILE
+Used "..." instead of "All" in select boxes
+-->
 <div class="object-filters__list">
   <div webc:for="filter of getFilters(getFilterOrder($data), objects)" class="object-filters__item">
     <label :for="filter.id" @html="filter.fieldLabel"></label>
@@ -103,7 +107,7 @@ const getFilters = (filterOrder, objects) => {
     const fieldLabel = typeof item === 'string' ? humanize(item) : item.label;
     const fieldName = typeof item === 'string' ? item : item.field;
     const options = [
-      { label: 'All', value: '' },
+      { label: '...', value: '' },
       ...getUniqueOptionsFromObjectData(objects, fieldName)
     ];
 

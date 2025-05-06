@@ -9,41 +9,61 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://main--scores-project.netlify.app'
+url: 'https://www.getty.edu/publications/scores/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
 title: The Scores Project
 subtitle: Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975
+pdf_epub_subtitle: Essays on Experimental Notation in Music, Art, Poetry, and Dance, 1950–1975
 reading_line:
 short_title:
 
 description:
-  one_line:
-  full: ""
+  one_line: A unique digital compilation of experimental scores, audiovisual materials, and source documents from the postwar avant-gardes, interpreted by experts on art, music, dance, and poetry.
+  full: |
+    Artists working in and across the fields of visual art, music, poetry, theater, and dance at midcentury began to use experimental scores in ways that revolutionized artistic practice and opened up new forms of interdisciplinary collaboration. Their experimental practices—associated with the neo-avant-garde, neo-Dadaism, intermedia, Fluxus, and postmodernism—exploded in notoriety during the 1960s in locales from New York to Europe, East Asia, and Latin America, becoming foundational to global trends in contemporary art and performance. *The Scores Project* is a unique digital publication that provides a comprehensive view of this historical moment through a series of experimental scores and complete edition of the groundbreaking *An Anthology of Chance Operations* (1963). The featured scores by John Cage, George Brecht, Sylvano Bussotti, Morton Feldman, Allan Kaprow, Alison Knowles, Jackson Mac Low, Benjamin Patterson, Yvonne Rainer, Mieko Shiomi, David Tudor, and La Monte Young include expert commentaries from an interdisciplinary team of scholars and are accompanied by a digitized archive of over 2,000 ephemera and audiovisual materials. Ambitious, provocative, and playful, *The Scores Project* fosters a renewed sense of wonder at this innovative and historically complex moment in the history of art.
+
+    Each chapter includes a Score, Commentary, Playback, and Archive section. The Score section showcases high-resolution images of the featured notation. The Commentary section includes a scholarly essay explaining the score’s original context and describes its key elements. The Playback section contains recordings of the score’s performance in audio, video, and animated formats, including both historical realizations and contemporary interpretations. The Archive section is a curated trove of hundreds of relevant primary materials, including letters, newspaper clippings, sketches, photographs, printed ephemera, and more. Featured images invite readers to dive directly into some of the most fascinating moments of these digitized materials. Finally, the [Object Index](/object-index/) allows users to browse and sort items from across all chapters, facilitating new discovery.
+  online_edition: The free online edition of this open-access publication is available at [getty.edu/publications/scores/](https://www.getty.edu/publications/scores/) and includes video, audio, and zoomable illustrations. Free PDF and EPUB downloads of the book are also available.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2025-02-01 # YYYY-MM-DD
+pub_date: 2025-05-06 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: "978-1-60606-936-3"
 
 publisher:
   - name: Getty Research Institute
     location: Los Angeles
-    url:
+    url: https://www.getty.edu/publications/
     logo: logo-getty.png
+    address: |
+      **Published by the Getty Research Institute, Los Angeles**
+      Getty Publications
+      1200 Getty Center Drive, Suite 500
+      Los Angeles, California 90049-1682
+      [getty.edu/publications/](https://www.getty.edu/publications/)
+
+project_team:
+  - Adriana Romero, *Project Editor*
+  - Lisa Marietta, *Manuscript Editor*
+  - Greg Albers, *Digital Publications Manager*
+  - Andrew LeClair and E Roon Kang, *Design*
+  - Molly McGeehan, *Production*
+  - Karen Ehrmann and Pauline Lopez, *Image and Rights Acquisition*
+  - Jenny Park and Alex Hallenbeck, *Digital Assistants*
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Edited by Michael Gallope, Natilee Harren, and John Hicks
 
 contributor:
   - id: mgallope
@@ -60,6 +80,49 @@ contributor:
     title: ""
     affiliation: ""
     bio: ""
+  - id: jhicks
+    type: primary
+    first_name: John
+    last_name: Hicks
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: nperloff
+    type: secondary
+    first_name: Nancy
+    last_name: Perloff
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: gelewis
+    type: secondary
+    first_name: George E.
+    last_name: Lewis
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: bpiekut
+    type: secondary
+    first_name: Benjamin
+    last_name: Piekut
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: jbryanwilson
+    type: secondary
+    first_name: Julia
+    last_name: Bryan-Wilson
+    title: ""
+    affiliation: ""
+    bio: ""
+  - id: ercapper
+    type: secondary
+    first_name: Emily Ruth
+    last_name: Capper
+    title: ""
+    affiliation: ""
+    bio: ""
+
 
 # ------------------------------------------------------------------------------
 # Copright & License
@@ -71,7 +134,7 @@ license:
   name: Creative Commons Attribution-NonCommercial 4.0 International License
   abbreviation: CC BY-NC
   url: https://creativecommons.org/licenses/by-nc/4.0/
-  scope: full # full | text-only | some-exceptions
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -82,12 +145,17 @@ resource_link:
     name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: #
+    url: /_assets/downloads/the-scores-project.pdf
   - type: other-format
     name: EPUB
     media_type: application/epub+zip
     link_relation: alternate
-    url: #
+    url: /_assets/downloads/the-scores-project.epub
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: https://shop.getty.edu/products/the-scores-project-essays-on-experimental-notation-in-music-art-poetry-and-dance-1950-1975-978-1606069332
   - type: footer-link
     name: About
     link_relation: about
@@ -106,22 +174,48 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: 
-    name: 
-    identifer: 
+  - type: bisac
+    name: ART / History / Contemporary (1945-)
+    identifer: ART015110
+  - type: bisac
+    name: ART / Conceptual
+    identifer: ART008000
+  - type: bisac
+    name: ART / Performance
+    identifer: ART060000
+
+# The line spacing in the CIP data below is necessary so that list formats with <p> tags inside the <li> 
+# to enable proper styling in PDF output in PrinceXML, I don't know why
+library_of_congress_cip: |
+  **Library of Congress Cataloging-in-Publication Data**
+
+  - Names: Gallope, Michael, editor. | Harren, Natilee, editor. | Hicks, John (John Andrew), editor. | Getty Research Institute, issuing body. 
+  
+  - Title: The scores project : essays on experimental notation in music, art, poetry, and dance, 1950–1975 / edited by Michael Gallope, Natilee Harren, and John Hicks. 
+  
+  - Description: Los Angeles : Getty Research Institute, [2025] | Includes bibliographical references. | Summary: “A collection of essays examining experimental scores and source documents from the postwar avant-gardes, interpreted by experts on art, music, dance, and poetry”— Provided by publisher. 
+  
+  - Identifiers: LCCN 2024032747 | ISBN 9781606069332 (paperback) | ISBN 9781606069356 (pdf) | ISBN 9781606069349 (epub) 
+  
+  - Subjects: LCSH: Avant-garde (Aesthetics)—History—20th century. | Arts—Experimental methods—History—20th century. | Performance art—History—20th century. | Musical notation—History—20th century. | Movement notation—History—20th century.
+  
+  - Classification: LCC NX458 .S37 2025 | DDC 700/.41109045—dc23/eng/20240926 LC record available at https://lccn.loc.gov/2024032747
 
 # ------------------------------------------------------------------------------
 # Revision History
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: May 6, 2025
     summary:
+      - First edition
 
-repository_url:
+revision_statement: "Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com<wbr/>/thegetty<wbr/>/scores/](https://github.com/thegetty/scores), where a more detailed version history is available. The revisions branch of the project repository, when present, will show any changes currently under consideration but not yet published here."
+
+repository_url: https://github.com/thegetty/scores
 
 # ------------------------------------------------------------------------------
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: 
+promo_image: promo-image.jpg

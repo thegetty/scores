@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Fed twitterCard full page data for customized handling of seo metadata
+//
 const path = require('path')
 /**
  * Head Tag
@@ -46,7 +50,6 @@ module.exports = function(eleventyConfig) {
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <meta name="robots" content="noindex, nofollow"/>
 
         <meta name="generator" content="${application.name} ${application.version}" />
 
@@ -58,8 +61,7 @@ module.exports = function(eleventyConfig) {
         <link rel="canonical" href="${canonicalURL}">
         <link rel="version-history" href="${publication.repositoryUrl}">
 
-        <script src="https://cdn.jsdelivr.net/npm/@digirati/canvas-panel-web-components@1.0.56" type="module"></script>
-        <script src="https://cdn.jsdelivr.net/npm/@iiif/vault-helpers@latest/dist/index.umd.js"></script>
+        <script src="/_assets/javascript/application/canvas-panel-web-components-1.0.68.js" type="module"></script>
 
         ${publisherLinks}
 
@@ -69,7 +71,7 @@ module.exports = function(eleventyConfig) {
 
         ${opengraph({ page })}
 
-        ${twitterCard({ abstract, cover, layout })}
+        ${twitterCard({ page })}
 
         <script type="application/ld+json">${jsonld({ canonicalURL, page })}</script>
 

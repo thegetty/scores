@@ -1,3 +1,7 @@
+ <!-- 
+CUSTOMIZED FILE
+Used `poster` as source of thumbnails for audio, video, tables/embeds, and external IIIF
+-->
 <figure class="object-card__image" :data-field-name="attribute.name">
   <img :src="src(attributes)" :alt="alt(attributes)">
 </figure>
@@ -13,9 +17,23 @@ const alt = ({ data }) => typeof data.thumbnail === 'object' ? data.thumbnail.al
  */
 const src = ({ data }) => {
   const { figures } = data;
-  const thumbnail = figures
-    ? figures.find(({ mediaType }) => mediaType === 'image').thumbnail
-    : data.thumbnail
+
+  let thumbnail = ''
+  if (figures) {
+    if (figures.find(({ mediaType }) => mediaType === 'image')) {
+      thumbnail = figures.find(({ mediaType }) => mediaType === 'image').poster
+        ? figures.find(({ mediaType }) => mediaType === 'image').poster
+        : figures.find(({ mediaType }) => mediaType === 'image').thumbnail
+    } else if (figures.find(({ mediaType }) => mediaType === 'audio')) {
+      thumbnail = figures.find(({ mediaType }) => mediaType === 'audio').poster
+    } else if (figures.find(({ mediaType }) => mediaType === 'vimeo')) {
+      thumbnail = figures.find(({ mediaType }) => mediaType === 'vimeo').poster
+    } else if (figures.find(({ mediaType }) => mediaType === 'table')) {
+      thumbnail = figures.find(({ mediaType }) => mediaType === 'table').poster
+    }
+  } else {
+    thumbnail = data.thumbnail
+  }
 
   const src = typeof thumbnail === 'object'
     ? thumbnail.src

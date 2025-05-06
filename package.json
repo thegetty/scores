@@ -1,6 +1,6 @@
 {
   "name": "@thegetty/quire-11ty",
-  "version": "1.0.0-rc.16",
+  "version": "1.0.0-rc.21",
   "description": "Quire 11ty static site generator",
   "keywords": [
     "11ty",
@@ -45,10 +45,13 @@
     "#plugins/*": "./_plugins/*"
   },
   "dependencies": {
+    "@maplibre/maplibre-gl-leaflet": "^0.0.22",
     "bulma": "^0.9.3",
     "core-js": "2.5.0",
+    "leaflet": "^1.9.4",
     "lit": "^2.6.1",
     "lunr": "^2.3.9",
+    "maplibre-gl": "^4.7.1",
     "template-polyfill": "^2.0.0"
   },
   "devDependencies": {
@@ -62,6 +65,7 @@
     "@11ty/is-land": "^3.0.1",
     "@iiif/parser": "^1.1.2",
     "@iiif/vault": "^0.9.22",
+    "@digirati/canvas-panel-web-components": "^1.0.68",
     "ajv": "^8.12.0",
     "camelize": "^1.0.1",
     "chalk": "^4.1.2",
@@ -94,7 +98,7 @@
     "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-scss": "^3.0.0",
     "sass": "^1.54.5",
-    "sharp": "^0.31.3",
+    "sharp": "^0.33.5",
     "simple-cite": "^0.2.1",
     "toml": "^3.0.0"
   },

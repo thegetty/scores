@@ -1,3 +1,7 @@
+//
+// CUSTOMIZED FILE
+// Replaced icons with text labels, and updated input placeholder text
+//
 const { html } = require('~lib/common-tags')
 
 /**
@@ -28,7 +32,7 @@ module.exports = function(eleventyConfig) {
       >
         <div class="quire-search__close-button">
           <button class="button is-medium" onclick="toggleSearch()">
-            ${icon({ type: 'close', description: 'Close search window' })}
+            Close
           </button>
         </div>
         <div aria-label="search results" class="quire-search__inner">
@@ -41,11 +45,10 @@ module.exports = function(eleventyConfig) {
                   id="js-search-input"
                   name="search"
                   oninput="search()"
-                  placeholder="Search this publication"
+                  placeholder="Search ..."
                   type="search"
                   value=""
                 />
-                <span>${icon({ type: 'search', description: 'Search'})}</span>
               </div>
               <ul class="quire-search__inner__list" id="js-search-results-list">
                 <!-- js-search-results-template -->

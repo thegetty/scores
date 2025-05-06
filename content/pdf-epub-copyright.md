@@ -1,4 +1,5 @@
 ---
+title: Copyright
 layout: page
 order: 4
 classes:

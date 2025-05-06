@@ -168,6 +168,9 @@ Added caption and class parameters that can be fed in from shortcode, and simpli
 **_plugins/shortcodes/index.js**
 Add custom shortcodes for displaying figures/objects
 
+**_plugins/transforms/outputs/epub/manifest.js**
+Use config.epub.defaultCoverImage as first choice
+
 **_plugins/transforms/outputs/pdf/transform.js**
 Fixed transform that was converting external links to slugified anchor links
 

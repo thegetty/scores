@@ -87,6 +87,9 @@ Updated language of `text-only` license to current Getty standard
 **_includes/components/head-tags/twitter-card.js**
 Customized handling of seo metadata
 
+**_includes/components/license-icons.js**
+Remove CC SVG icons from epub output
+
 **_includes/components/lightbox/ui.js**
 Use text labels instead of icons for full screen, next, and prev
 

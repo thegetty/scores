@@ -3,7 +3,6 @@ title: Contents
 layout: page
 order: 6
 outputs:
-  - epub
   - pdf
 ---
 

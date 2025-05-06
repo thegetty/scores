@@ -130,6 +130,9 @@ Changed thumbnail and static-inline size
 **_plugins/shortcodes/tombstone.js**
 Handle special outputs for Maker and Type properties
 
+**_plugins/transforms/outputs/epub/transform.js**
+Add rel="contents" to epub-contents.md page for EPUB validation
+
 **_layouts/base.11ty.js**
 Added `layout` as a top-level class in order to custom style nav bar on certain layouts
 

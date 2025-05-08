@@ -1153,6 +1153,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   line-height: 1.3;
   margin-bottom: 4rem;
 }
+@media print {
+  .quire-essay .quire-page__content .container .content {
+    padding: 0;
+    max-width: 36rem;
+  }
+}
 @media screen and (max-width: 460px) {
   .quire-essay .quire-page__content .container .content {
     padding: 0 1rem;
@@ -1231,6 +1237,11 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 }
 .scores-figure img {
   width: 100%;
+}
+@media print {
+  .scores-figure img {
+    width: auto;
+  }
 }
 .scores-figure figcaption {
   text-align: left;
@@ -1312,6 +1323,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   margin: 0 auto;
   max-width: 40rem;
   margin-bottom: 6rem;
+}
+@media print {
+  .scores-copyright-page .quire-page__content .container .content {
+    padding: 0;
+    max-width: 36rem;
+  }
 }
 .scores-copyright-page .quire-page__content .container .content p {
   line-height: 1.3;
@@ -1409,6 +1426,12 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
   }
   .quire-page.backmatter-page .quire-page__content .container .content p {
     line-height: 1.3;
+  }
+}
+@media print {
+  .quire-page.backmatter-page .quire-page__content .container .content {
+    padding: 0;
+    max-width: 36rem;
   }
 }
 @media screen and (max-width: 460px) {
@@ -2706,59 +2729,59 @@ body.iframe-version .quire-score-object.quire-score-object-cards .narrow .quire-
   .scores-copyright-page .quire-page__header {
     display: none;
   }
-  #page-pdf-epub-contents .quire-page__content .container .content {
+  #page-pdf-contents .quire-page__content .container .content {
     padding: 0;
   }
-  #page-pdf-epub-contents .quire-page__content .container .content ul {
+  #page-pdf-contents .quire-page__content .container .content ul {
     margin-left: 0.4375in;
   }
-  #page-pdf-epub-contents .quire-page__content .container .content ul li {
+  #page-pdf-contents .quire-page__content .container .content ul li {
     margin-bottom: 0;
     margin-left: 0;
   }
-  #page-pdf-epub-contents .quire-page__content .container .content > ul > li {
+  #page-pdf-contents .quire-page__content .container .content > ul > li {
     margin-bottom: 1rem;
   }
-  #page-pdf-epub-contents .quire-page__content .container .content ul li::before {
+  #page-pdf-contents .quire-page__content .container .content ul li::before {
     content: "";
   }
-  #page-pdf-epub-contents .quire-page__content .container .content ul li a::before {
+  #page-pdf-contents .quire-page__content .container .content ul li a::before {
     content: target-counter(attr(href, url), page);
     width: 0.4375in;
     margin-left: -0.4375in;
     display: inline-block;
   }
-  #page-pdf-epub-contents .quire-page__content .container .content ul li ul {
+  #page-pdf-contents .quire-page__content .container .content ul li ul {
     padding-top: 0;
     margin-left: .29166in;
   }
-  #page-pdf-epub-contents .quire-page__content .container .content ul li ul li {
+  #page-pdf-contents .quire-page__content .container .content ul li ul li {
     margin-left: 0;
   }
-  #page-pdf-epub-contents .quire-page__content .container .content ul li a {
+  #page-pdf-contents .quire-page__content .container .content ul li a {
     display: flex;
   }
-  #page-pdf-epub-contents .ch-number {
+  #page-pdf-contents .ch-number {
     width: .29166in;
     display: inline-block;
   }
-  #page-pdf-epub-contents .ch-title {
+  #page-pdf-contents .ch-title {
     display: inline-block;
     width: calc(100% - 0.29166in);
   }
 
   .scores-title-page .quire-contributors-list li:nth-child(1),
-  #page-pdf-epub-contents ul li ul li:nth-child(1),
+  #page-pdf-contents ul li ul li:nth-child(1),
   .quire-page__header .quire-contributors-list li:nth-child(1) {
     margin-left: .14583in !important;
   }
   .scores-title-page .quire-contributors-list li:nth-child(2),
-  #page-pdf-epub-contents ul li ul li:nth-child(2),
+  #page-pdf-contents ul li ul li:nth-child(2),
   .quire-page__header .quire-contributors-list li:nth-child(2) {
     margin-left: .29166in !important;
   }
   .scores-title-page .quire-contributors-list li:nth-child(3),
-  #page-pdf-epub-contents ul li ul li:nth-child(3),
+  #page-pdf-contents ul li ul li:nth-child(3),
   .quire-page__header .quire-contributors-list li:nth-child(3) {
     margin-left: .4375in !important;
   }

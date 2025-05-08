@@ -27,7 +27,7 @@ module.exports = function(eleventyConfig) {
       })
 
     return html`
-      <svg style="display:none" data-outputs-exclude="epub,pdf">
+      <svg style="display:none" data-outputs-exclude="epub">
         ${ccIcons.join(' ')}
       </svg>
     `

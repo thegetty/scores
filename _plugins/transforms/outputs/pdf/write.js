@@ -1,3 +1,7 @@
+//
+// CUSTOMIZE FILE
+// Send publication data to _layouts/pdf.liquid for publication.title and .language
+//
 const chalkFactory = require('~lib/chalk')
 const fs = require('fs-extra')
 const path = require('path')
@@ -10,6 +14,7 @@ const sass = require('sass')
  */
 module.exports = (eleventyConfig) => {
   const { input, output } = eleventyConfig.dir
+  const { publication } = eleventyConfig.globalData
 
   const logger = chalkFactory('transforms:pdf:writer')
 
@@ -36,7 +41,7 @@ module.exports = (eleventyConfig) => {
    */
   return async (collection) => {
 
-    const publicationHtml = await eleventyConfig.javascriptFunctions.renderFile(pdfTemplatePath,{pages: collection},'liquid')
+    const publicationHtml = await eleventyConfig.javascriptFunctions.renderFile(pdfTemplatePath,{pages: collection, publication},'liquid')
 
     const coversMarkups = collection.filter( collex => collex.coverPageData ).map( (collex) => collex.coverPageData )
     const coversHtml = await eleventyConfig.javascriptFunctions.renderFile(coversTemplatePath,{covers: coversMarkups},'liquid')

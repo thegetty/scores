@@ -177,6 +177,10 @@ Added markup for iframe viewer, and passed PDF info in to pageHeader
 **_layouts/page.liquid**
 Removed prev/next buttons, passed short_title into pageHeader for PDF running feet
 
+**_layouts/pdf.liquid**
+**_plugins/transforms/outputs/pdf/write.js**
+Improve PDF accessibility
+
 **_layouts/score.liquid**
 A custom layout for the primary score landing pages
 

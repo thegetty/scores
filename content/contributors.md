@@ -11,7 +11,7 @@ Julia Bryan-Wilson is professor of art history and gender studies at Columbia Un
 
 Emily Ruth Capper is assistant professor in the Department of Art History at the University of Minnesota. Her first book, *Happening Pedagogy: Allan Kaprow’s Experiments in Instruction, 1948–1968*, is forthcoming from the University of Chicago Press.
 
-Michael Gallope is professor of Cultural Studies and Comparative Literature at the University of Minnesota. His most recent book is *The Musician as Philosopher: New York’s Vernacular Avant-Garde, 1958–1978* (University of Chicago Press, 2024).
+Michael Gallope is professor of cultural studies and comparative literature at the University of Minnesota. His most recent book is *The Musician as Philosopher: New York’s Vernacular Avant-Garde, 1958–1978* (University of Chicago Press, 2024).
 
 Natilee Harren is associate professor of modern and contemporary art history and theory at the University of Houston School of Art and the author of *Fluxus Forms: Scores, Multiples, and the Eternal Network* (University of Chicago Press, 2020).
 

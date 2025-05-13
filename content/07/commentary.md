@@ -98,7 +98,7 @@ The author wishes to thank to Benjamin Bishop, Alexis Briley, Aaron Hodges, and 
 
 [^6]: For the version of [*X for Henry Flynt*](/object-index/322/){target=object-iframe} that Young sent to Tudor, see David Tudor Papers, 980039, box 14, folder 9, and the recording in box 34A, item R325, Getty Research Institute, Los Angeles.
 
-[^7]: Antonin Artaud, *The Theater and Its Double*, trans. Mary Caroline Richards (New York: Grove, 1958). For further discussion in this volume of Artaud and of Richards’s translation of *The Theater and Its Double*, see the “Music, Scores, and Indeterminacy” and “Scoring Intermedia” sections of the [introduction](/intro/), and the commentaries by Michael Gallope and Nancy Perloff in [chapter 2](/02/commentary/) and Gallope in [chapter 3](/03/commentary).
+[^7]: Antonin Artaud, *The Theater and Its Double*, trans. Mary Caroline Richards (New York: Grove, 1958). For further discussion in this volume of Artaud and of Richards’s translation of *The Theater and Its Double*, see the “Music, Scores, and Indeterminacy” and “Scoring Intermedia” sections of the [introduction](/intro/), and the commentaries by Michael Gallope and Nancy Perloff in [chapter 2](/02/commentary/) and Gallope in [chapter 3](/03/commentary/).
 
 [^8]: Artaud, *Theater and Its Double*, 89, 40.
 

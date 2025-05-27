@@ -908,7 +908,7 @@ object_list:
     people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (32nd-note Realization)"
-    date: ""
+    date: "ca. 1953"
     date_sort: "1953-01-01"
     year_filter: [ "1953" ]
     medium: ""
@@ -926,7 +926,7 @@ object_list:
     people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Alternative 32nd-note Realization)"
-    date: ""
+    date: "ca. 1953"
     date_sort: "1953-01-01"
     year_filter: [ "1953" ]
     medium: ""
@@ -1352,7 +1352,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-075" ]
-    related_objects: [ id: "060" ]
+    related_objects: [ id: "060", id: "073" ]
 -
     id: "076"
     old_id: "2.08"
@@ -1419,8 +1419,8 @@ object_list:
     more_people: ""
     title: "Performance of the second realization of John Cage’s *Solo for Piano*"
     date: ""
-    date_sort: "1959-01-01"
-    year_filter: [ "1959" ]
+    date_sort: "1970-01-01"
+    year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 34A, item R326"
     extended_caption: ""
@@ -1485,7 +1485,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-082" ]
-    related_objects: [ id: "154", id: "161" ]
+    related_objects: [ id: "154", id: "161", id: "156" ]
 -
     id: "083"
     old_id: "2.14a"
@@ -2763,6 +2763,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-154-a", id: "fig-154-b", id: "fig-154-c", id: "fig-154-d", id: "fig-154-e", id: "fig-154-f", id: "fig-154-g", id: "fig-154-h", id: "fig-154-i", id: "fig-154-j", id: "fig-154-k", id: "fig-154-l", id: "fig-154-m", id: "fig-154-n", id: "fig-154-o", id: "fig-154-p" ]
+    related_objects: [ id: "159", id: "164", id: "165", id: "166" ]
 -
     id: "155"
     old_id: "3.02"
@@ -2817,6 +2818,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-157-a", id: "fig-157-b", id: "fig-157-c", id: "fig-157-d", id: "fig-157-e", id: "fig-157-f", id: "fig-157-g", id: "fig-157-h" ]
+    related_objects: [ id: "163" ]
 -
     id: "158"
     old_id: "3.04"
@@ -2835,6 +2837,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-158-a", id: "fig-158-b", id: "fig-158-c", id: "fig-158-d", id: "fig-158-e", id: "fig-158-f", id: "fig-158-g", id: "fig-158-h", id: "fig-158-i", id: "fig-158-j", id: "fig-158-k", id: "fig-158-l", id: "fig-158-m", id: "fig-158-n", id: "fig-158-o", id: "fig-158-p", id: "fig-158-q", id: "fig-158-r", id: "fig-158-s", id: "fig-158-t", id: "fig-158-u", id: "fig-158-v" ]
+    related_objects: [ id: "162" ]
 -
     id: "159"
     old_id: "3.05"
@@ -2861,7 +2864,7 @@ object_list:
     maker_cite: "Bussotti, Sylvano, and David Tudor"
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
-    title: "David Tudor performing *Nos. 3* (with Realization), *2*, and *5* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor* at the Internationale Ferienkurse für Neue Musik, Darmstadt"
+    title: "David Tudor performing *Nos. 3*, *2*, and *5* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor* at the Internationale Ferienkurse für Neue Musik, Darmstadt"
     date: "1959"
     date_sort: "1959-01-01"
     year_filter: [ "1959" ]
@@ -2891,7 +2894,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-161" ]
-    related_objects: [ id: "154" ]
+    related_objects: [ id: "154", id: "156", id: "158", id: "157" ]
 -
     id: "162"
     old_id: "3.07a"
@@ -2899,8 +2902,8 @@ object_list:
     maker_cite: "Bussotti, Sylvano, and David Tudor"
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
-    title: "David Tudor performing *Nos. 1*, *3*, and *4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
-    date: ""
+    title: "David Tudor performing *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
+    date: "1959"
     date_sort: "1959-01-01"
     year_filter: [ "1959" ]
     medium: ""

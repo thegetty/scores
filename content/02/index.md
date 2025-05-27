@@ -28,7 +28,6 @@ score:
 playback:
   objects:
     - id: "068"
-    - id: "074"
     - id: "069"
     - id: "070"
     - id: "071"
@@ -36,11 +35,12 @@ playback:
     - id: "073"
     - id: "075"
     - id: "076"
+    - id: "074"
     - id: "077"
-    - id: "078"
-    - id: "079"
+    - id: "079"  
     - id: "080"
     - id: "081"
+    - id: "078"
 archive: 
   contributor:
     - id: mgallope

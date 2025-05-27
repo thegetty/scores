@@ -90,7 +90,7 @@ git clone --recursive https://github.com/thegetty/scores.git
 
 4. Run `quire epub`
 
-5. Unzip resulting file, paste the required accessibility metadata items into the `<head>` of the `package.opf` file, and re-zip.
+5. Unzip resulting file, paste the required accessibility metadata items into the `<metadata>` of the `package.opf` file, and re-zip.
 
     ```html
     <meta property="schema:accessibilitySummary">This publications meets baseline accessibility standards</meta>

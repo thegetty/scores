@@ -1475,9 +1475,16 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 /* OBJECT INDEX
 ============================================================================= */
 .objects-page .quire-navbar,
+.quire:not(.no-js).objects-page,
 .quire:not(.no-js).objects-page .quire__primary main  {
   background-color: black;
   color: white;
+}
+.quire:not(.no-js).objects-page {
+  min-height: 100vh;
+}
+.quire:not(.no-js).objects-page .quire__primary main {
+  min-height: calc(100vh - 4rem);
 }
 .objects-page .quire-navbar a, 
 .objects-page .quire-navbar button,

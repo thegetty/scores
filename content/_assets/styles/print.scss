@@ -39,6 +39,7 @@ $print-trim: $print-bleed * 2;
     // font-family: $print-footer-font;
     // font-size: $print-footer-font-size;
     color: $print-text-color;
+    prince-pdf-page-label: counter(page, decimal);
   }
 
   @page:left {
@@ -88,6 +89,10 @@ $print-trim: $print-bleed * 2;
     @bottom-left {
       content: none;
     }
+  }
+
+  @page frontmatter {
+    prince-pdf-page-label: counter(page, lower-roman) !important;
   }
 
   @page frontmatter:left {
@@ -157,6 +162,7 @@ $print-trim: $print-bleed * 2;
     margin-bottom: -$print-bleed;
     margin-left: 0;
     margin-right: 0;
+    prince-pdf-page-label: "Cover";
     @bottom-right {
       content: none;
     }
@@ -279,7 +285,7 @@ $print-trim: $print-bleed * 2;
   }
 
   .frontmatter {
-    page: frontmatter;
+    page: frontmatter !important;
   }
 
   .half-title-page,

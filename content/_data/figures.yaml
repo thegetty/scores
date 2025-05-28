@@ -8,7 +8,7 @@ figure_list:
     media_id: 
     link: /object-index/001/
     label: "Fig. 0.1a–d"
-    caption: "Four “Indeterminate” Notations. *Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; &#40;c&#41; Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
+    caption: "Four “indeterminate” notations. *Left to right:* (a) Chord chart notation for guitar; (b) Henry Purcell, “Dido’s Lament” from *Dido and Aeneas* in figured bass notation, ca. 1968; &#40;c&#41; Hymn tune for the text “Come Thou Fount of Every Blessing” (1758) by Robert Robinson in Nashville number system notation, nineteenth century; and (d) Thelonious Monk, *Off Minor* in lead sheet notation, 1947."
     credit: "© 1947 (Renewed) by Embassy Music Corporation (BMI), International Copyright Secured. All Rights Reserved, Reprinted by permission of Hal Leonard LLC ©; Courtesy of Jonathan K. Riggs."
     alt: "A grid of four images. A, chord names and associated fretboard diagrams. B, a page of music in standard notation showing two staves comprised of a vocal line with lyrics above figured bass. C, handwritten notation organized by song section, each section having a sequence of numbers representing chords and a few additional expressive and rhythmic marks. D, a lead sheet showing a short melody with chord names above."
 -
@@ -258,7 +258,7 @@ figure_list:
     link: /object-index/060/#fig-060-an
     label: "Fig. 2.3"
     caption: "David Tudor’s copy of John Cage’s *Solo for Piano* that features Graphs D and Z, from *Concert for Piano and Orchestra*, 1957–58. Getty Research Institute, David Tudor Papers, 980039, box 176, folders 1, 2."
-    credit: "Edition Peters."
+    credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
     alt: "A horizontal cream-colored page, featuring black hand-drawn graphic notations made up of horizontal staff segments that contain circular note heads. Notes are often connected by curving or straight lines to create circular and triangular shapes atop or within the staff. Graphics contain other musical notation symbols, numbers, and letters. Page contains five graphics placed sparsely throughout the page."
 -
     id: "fig-2-4"
@@ -1220,7 +1220,7 @@ figure_list:
     poster: 
     media_type: 
     media_id: 
-    link: /object-index/567/
+    link: /object-index/607/
     label: "Fig. 11.9"
     caption: "Michael Sullivan (front, center) and the crew for the activity film for *Routine* (1973), photographed at the Portland Center for the Visual Arts, 1973. Getty Research Institute, Allan Kaprow Papers, 980063, box 24, folder 9."
     credit: ""

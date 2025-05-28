@@ -908,7 +908,7 @@ object_list:
     people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (32nd-note Realization)"
-    date: ""
+    date: "ca. 1953"
     date_sort: "1953-01-01"
     year_filter: [ "1953" ]
     medium: ""
@@ -926,7 +926,7 @@ object_list:
     people: [ "Tudor, David", "Feldman, Morton" ]
     more_people: ""
     title: "Realization of Morton Feldman’s *Intersection +* (Alternative 32nd-note Realization)"
-    date: ""
+    date: "ca. 1953"
     date_sort: "1953-01-01"
     year_filter: [ "1953" ]
     medium: ""
@@ -1071,7 +1071,7 @@ object_list:
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 176, folders 1–2"
     extended_caption: "This is David Tudor’s copy of John Cage’s *Solo for Piano*, copied out in Cage’s trademark penmanship, which features capital letters with exaggerated serifs. Marveling at the score can be an overwhelming experience; the notation asks us to puzzle over an exceedingly complicated set of rules and procedures. Following the title page, Cage’s score includes two introductory pages of lettered directions that serve as a key for deciphering the lettered graphs that follow. Each graph, paired with its corresponding instructions, thus functions as its own self-contained mini score. Globally, there is a playful sense of inventiveness and creativity to the visual language of Cage’s graphs. In fact, spurred by the encouragement of Jasper Johns and Robert Rauschenberg, the score for *Concert for Piano and Orchestra* was exhibited at a midtown gallery in New York just prior to the Town Hall premiere, and it was thus Cage’s first score to be [publicly appreciated as visual art](/object-index/095/). Though many of the *Concert*’s graphs are quite indeterminate, leaving many of the compositional process up to the performer, Tudor’s performances turned out a certain consistent impression; reviewers attested that the *Solo for Piano* sounded “mixed-up,” and that it evoked “anarchy,” a sense of psychosis, or even a “jungle.”"
-    credit: "Edition Peters."
+    credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved."
     featured: true
     type: [ score ]
     figure: [ id: "fig-060-a", id: "fig-060-b", id: "fig-060-c", id: "fig-060-d", id: "fig-060-e", id: "fig-060-f", id: "fig-060-g", id: "fig-060-h", id: "fig-060-i", id: "fig-060-j", id: "fig-060-k", id: "fig-060-l", id: "fig-060-m", id: "fig-060-n", id: "fig-060-o", id: "fig-060-p", id: "fig-060-q", id: "fig-060-r", id: "fig-060-s", id: "fig-060-t", id: "fig-060-u", id: "fig-060-v", id: "fig-060-w", id: "fig-060-x", id: "fig-060-y", id: "fig-060-z", id: "fig-060-aa", id: "fig-060-ab", id: "fig-060-ac", id: "fig-060-ad", id: "fig-060-ae", id: "fig-060-af", id: "fig-060-ag", id: "fig-060-ah", id: "fig-060-ai", id: "fig-060-aj", id: "fig-060-ak", id: "fig-060-al", id: "fig-060-am", id: "fig-060-an", id: "fig-060-ao", id: "fig-060-ap", id: "fig-060-aq", id: "fig-060-ar", id: "fig-060-as", id: "fig-060-at", id: "fig-060-au", id: "fig-060-av", id: "fig-060-aw", id: "fig-060-ax", id: "fig-060-ay", id: "fig-060-az", id: "fig-060-ba", id: "fig-060-bb", id: "fig-060-bc", id: "fig-060-bd", id: "fig-060-be", id: "fig-060-bf", id: "fig-060-bg", id: "fig-060-bh", id: "fig-060-bi", id: "fig-060-bj", id: "fig-060-bk", id: "fig-060-bl", id: "fig-060-bm", id: "fig-060-bn", id: "fig-060-bo", id: "fig-060-bp", id: "fig-060-bq", id: "fig-060-br", id: "fig-060-bs", id: "fig-060-bt" ]
@@ -1215,7 +1215,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: "In his premiere performance of the first realization, David Tudor chose to play graph J early on—thirty seconds in. It is a ferociously violent and dissonant series of flourishes that use the whole range of the piano, a prime example of Tudor’s pianism at its most spectacular. Note that Tudor’s trademark deadpan stage presence (he reported to his partner, M. C. Richards, that he was known as the “Buster Keaton of the piano” in Europe) often conveyed to audiences a solemn and self-negating commitment to high modernism. But here, at Town Hall, in front of the largest audience of his career—the *New York Times* reported nearly one thousand people in attendance—and in a performance that was Tudor’s first performance of a piano concerto, Tudor gives himself a bombastic solo entrance in the venerable tradition of piano concertos from Beethoven through Rachmaninoff. Note that Tudor, here as elsewhere, simplifies John Cage’s instructions. He ignores Cage’s logically convoluted instructions about “direction in space time” and simply obeys the number of notes (with a little fudging) and the outer pitch parameters (quite strictly), deciding to play a series of ascending or descending gamuts within these parameters. Little in Cage’s graph prescribes tone clusters, let alone bombastic ones. It is Tudor’s choice to play the entire graph in just over thirty seconds. Another perfectly compliant realization of graph J could entail delicate scales—interrupted or done only in fragments—sweeping the range of the piano over the course of two or three minutes. Note as well that in the sketches for graph J, Tudor at first has a different order; the sequencing here is Tudor’s compositional choice."
-    credit: "Edition Peters. *Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
+    credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-068" ]
@@ -1234,7 +1234,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: "After the explosion of graph J, David Tudor inserts a silence of about fifteen seconds and then plays the eight chords of graph K around 1′20″. Graph K is visually distinctive; it is noted for having adorned the cover of C.F. Peters’s John Cage catalog. It is a grand staff, thick lined and gargantuan in its proportions, with a framework of dual ledger lines extending on either side. The clefs float off to the left, adrift from their usual positions. Instead of notes, Cage has drawn a jumble of polygons with vertices labeled as specific pitches. And the instructions for graph K are perplexing, to say the least. What does it mean to play only an odd or even number of tones in a performance? We surely know what the sided figures are, and Tudor plays them in the manner of staccato grace-like notes or punctuated attacks. But in relation to what? It may be that the logical cul-de-sac of Cage’s instructions is part of the point; the existence of a correct solution may be immaterial. Perhaps Cage is foregrounding inexhaustible esotericism—his almost mystical and naturalistic attachment to the impersonal powers of procedures, instructions, and calculations. This formalism provides discipline for all that is noble in the practice of indeterminacy. Note as well in Tudor’s performance that he uses the notation here, as elsewhere, as a guide for sequencing the tasks. Other than playing graph K relatively quickly, Tudor makes no effort to read the spacing of the chords as proportional notation (in which a timeline for a performance would move steadily from left to right)."
-    credit: "Edition Peters. *Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
+    credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-069" ]
@@ -1253,7 +1253,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: "Graph T is one of the most virtuosic of David Tudor’s graph-realizations in the first realization. Again, John Cage’s choice of words in his instructions is strange. It is not clear what an “influence” is. What is clear is that the amoebas “grab” pitch material and temporal duration that should be played as a moving cluster. As with the others, Tudor translates the amoebas into traditional notation, with sharp lines indicating swipes of the palm or finger to fill out the contours of the cluster. Cage’s system of numbered dynamics (1–64) Tudor translates to his standard conventional scale of 0.5–10.5 (in blue ink). At the premiere, as with many of the excerpts, the sonic result is something like a pianistic version of psychosis. Again, as with graph J, Tudor could have fully complied with Cage’s graph by excerpting just a few clusters and playing them at a slow speed. By playing it fast, and in its entirety, he foregrounds his own Artaudian voice—a spectacle of an abstracted, formalized, and impersonal violence. In the Town Hall performance, Tudor executes graph T between 4′20″ and 4′55″."
-    credit: "Edition Peters. *Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
+    credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-070" ]
@@ -1272,7 +1272,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: "This graph is directly redolent of the notational techniques used in Morton Feldman’s graph compositions, almost to the point of appearing as a quotation. John Cage makes the debt to Feldman explicit when he begins his instructions with “Graph Music” and identifies the time unit. Here, though, a complicated wrinkle presents itself, one that, we hope, the animation makes clear. Numbers of notes can be played in any portion of the given box, and, as Cage states, the clefs are largely “mobile” (with the bottom regions as necessarily in the treble region). David Tudor elects to play the whole graph at the top of the piano and writes a charmingly self-contained music box of steady quarter and eighth-note attacks with a few triplet figures inserted. The sketches for graph AY show clear parallelisms to [Tudor’s 1953 realization of Feldman’s *Intersection 3*](/object-index/014/)."
-    credit: "Edition Peters. *Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
+    credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-071" ]
@@ -1291,7 +1291,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: "Graph CE looks a bit like experimental-notation wallpaper or an aleatoric midcentury countertop. Again, clefs are ambiguous. The graph is filled with ledger lines. Uniquely, in this graph John Cage’s four staves are crooked and intersecting such that any given note has one, two, or three different possible “readings.” Cage’s instructions remain minimal, however (“make intervals and aggregates where suggested by notation”), and David Tudor’s reading is correspondingly straightforward. He reads the graph left to right horizontally, and simply assigns one, two, or three pitch values to each note. For note heads with two or three pitches, Tudor uses these pitches as the endpoints of a large cluster, rendered in his realization as two close-together parallel lines, many of which require an entire forearm to play. Dynamic values are reduced to three traditional markings in blue (p, m, f). Aside from a few blasts from the trumpeter Melvyn Broiles, strings dominate the orchestral texture during this moment of this performance, providing Tudor’s solo with plenty of acoustic space."
-    credit: "Edition Peters. *Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
+    credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-072" ]
@@ -1310,7 +1310,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: "In this flipbook, users can press play to hear the entire recording of the Town Hall premiere. On the lower half of the screen is the sheet from the first realization that David Tudor would have had on the piano’s music tray. On the top half of the screen, users will find a reconstruction of the graph(s) that Tudor realized. Perhaps surprisingly, Tudor’s performance sequence for the premiere has a certain classical sense of balance. He alternates between dramatic performances of individual graphs and stoic silences; only in a few places are multiple graphs superimposed. John Cage may have complained about the “foolish” behavior of some of the musicians—but, in 1958, a specialist performer in experimental music was an uncommon occurrence. All three brass players Cage hired (trombonist Frank Rehak; tuba player Don Butterfield, the improviser of Stravinsky’s *Rite of Spring* around 3′25″; and trumpeter Melvyn Broiles, who plays a jazz riff around 6′40″ were schooled in jazz; in fact, Butterfield and Rehak were essentially jazz musicians. (Broiles did limited jazz and session work but had considerable experience as a classical trumpeter.) Also note the sounds of the audience: raucous and wild, Town Hall was reportedly filled with insiders, friends, and onlookers that night, even at the late hour of 11 p.m., when the *Concert* was finally performed. They cheer a number of Tudor's auxillary sounds and more unusual feats (16′20″, 16′40″, 17′12″, 22′10″, 23′15″): the tape playback, the noises made on the strings of the inside of the piano, and the slinky that featured a contact microphone. Were these signs of disrespect? Or could they be understood as part of Cage’s spectacle? If the subsequent performances with Merce Cunningham’s *Antic Meet* (1958) are a meaningful comparison, the laughter may have been, in some ways, part of the act. Cunningham’s choreography for *Antic Meet* was a vaudevillian audience favorite."
-    credit: "Edition Peters. *Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
+    credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. With permission of WERGO, Copyright © 1993. WERGO, a division of Schott Music & Media GmbH. Animated score developed by Michael Gallope and produced by Greg Albers."
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-073" ]
@@ -1329,7 +1329,7 @@ object_list:
     medium: ""
     location: ""
     extended_caption: "In this 1964 performance of the *Concert for Piano and Orchestra* at Mills College, Tudor performs from his 1958 realization of Graph J, but at a far slower and more deliberate tempo. Tudor’s willingness to revisit a realization that is six years old with a very different set of timings reflects his increasingly open-ended and improvisational perofrmance practice during the 1960s."
-    credit: "Edition Peters. *Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. Animated score developed by Michael Gallope and produced by Greg Albers."
+    credit: "*Solo for Piano* by John Cage © 1960 by Henmar Press Inc. Permission by C.F. Peters Corporation. All rights reserved. Animated score developed by Michael Gallope and produced by Greg Albers."
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-074" ]
@@ -1352,7 +1352,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-075" ]
-    related_objects: [ id: "060" ]
+    related_objects: [ id: "060", id: "073" ]
 -
     id: "076"
     old_id: "2.08"
@@ -1419,8 +1419,8 @@ object_list:
     more_people: ""
     title: "Performance of the second realization of John Cage’s *Solo for Piano*"
     date: ""
-    date_sort: "1959-01-01"
-    year_filter: [ "1959" ]
+    date_sort: "1970-01-01"
+    year_filter: [ "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 34A, item R326"
     extended_caption: ""
@@ -1485,7 +1485,7 @@ object_list:
     featured: 
     type: [ digital feature ]
     figure: [ id: "fig-082" ]
-    related_objects: [ id: "154", id: "161" ]
+    related_objects: [ id: "154", id: "161", id: "156" ]
 -
     id: "083"
     old_id: "2.14a"
@@ -2433,7 +2433,7 @@ object_list:
     year_filter: [ "1958" ]
     medium: ""
     location: "Getty Research Institute, David Tudor Papers, 980039, box 7"
-    extended_caption: "In this digital feature, users can select various graphs in Cage’s [*Solo for Piano*](/object-index/060) and view Tudor’s corresponding drafts, notes, tables, and calculations for realizing each of Cage’s graphs. In this file, some individual pages contain notes for multiple graphs."
+    extended_caption: "In this digital feature, users can select various graphs in Cage’s [*Solo for Piano*](/object-index/060/) and view Tudor’s corresponding drafts, notes, tables, and calculations for realizing each of Cage’s graphs. In this file, some individual pages contain notes for multiple graphs."
     credit: ""
     featured: 
     type: [ sketches and materials, digital feature ]
@@ -2763,6 +2763,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-154-a", id: "fig-154-b", id: "fig-154-c", id: "fig-154-d", id: "fig-154-e", id: "fig-154-f", id: "fig-154-g", id: "fig-154-h", id: "fig-154-i", id: "fig-154-j", id: "fig-154-k", id: "fig-154-l", id: "fig-154-m", id: "fig-154-n", id: "fig-154-o", id: "fig-154-p" ]
+    related_objects: [ id: "159", id: "164", id: "165", id: "166" ]
 -
     id: "155"
     old_id: "3.02"
@@ -2817,6 +2818,7 @@ object_list:
     featured: true
     type: [ score ]
     figure: [ id: "fig-157-a", id: "fig-157-b", id: "fig-157-c", id: "fig-157-d", id: "fig-157-e", id: "fig-157-f", id: "fig-157-g", id: "fig-157-h" ]
+    related_objects: [ id: "163" ]
 -
     id: "158"
     old_id: "3.04"
@@ -2835,6 +2837,7 @@ object_list:
     featured: 
     type: [ score ]
     figure: [ id: "fig-158-a", id: "fig-158-b", id: "fig-158-c", id: "fig-158-d", id: "fig-158-e", id: "fig-158-f", id: "fig-158-g", id: "fig-158-h", id: "fig-158-i", id: "fig-158-j", id: "fig-158-k", id: "fig-158-l", id: "fig-158-m", id: "fig-158-n", id: "fig-158-o", id: "fig-158-p", id: "fig-158-q", id: "fig-158-r", id: "fig-158-s", id: "fig-158-t", id: "fig-158-u", id: "fig-158-v" ]
+    related_objects: [ id: "162" ]
 -
     id: "159"
     old_id: "3.05"
@@ -2861,7 +2864,7 @@ object_list:
     maker_cite: "Bussotti, Sylvano, and David Tudor"
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
-    title: "David Tudor performing *Nos. 3* (with Realization), *2*, and *5* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor* at the Internationale Ferienkurse für Neue Musik, Darmstadt"
+    title: "David Tudor performing *Nos. 3*, *2*, and *5* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor* at the Internationale Ferienkurse für Neue Musik, Darmstadt"
     date: "1959"
     date_sort: "1959-01-01"
     year_filter: [ "1959" ]
@@ -2891,7 +2894,7 @@ object_list:
     featured: 
     type: [ audio ]
     figure: [ id: "fig-161" ]
-    related_objects: [ id: "154" ]
+    related_objects: [ id: "154", id: "156", id: "158", id: "157" ]
 -
     id: "162"
     old_id: "3.07a"
@@ -2899,8 +2902,8 @@ object_list:
     maker_cite: "Bussotti, Sylvano, and David Tudor"
     people: [ "Bussotti, Sylvano", "Tudor, David" ]
     more_people: ""
-    title: "David Tudor performing *Nos. 1*, *3*, and *4* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
-    date: ""
+    title: "David Tudor performing *No. 3* from Sylvano Bussotti’s *Five Piano Pieces for David Tudor*"
+    date: "1959"
     date_sort: "1959-01-01"
     year_filter: [ "1959" ]
     medium: ""

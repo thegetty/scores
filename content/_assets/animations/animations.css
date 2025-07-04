@@ -20,7 +20,14 @@
 .fx908a-concrete--animated { display: none; }
 
 @media screen and (min-width: 1100px) {
-  .fx908a-concrete--static { display: none; }
+  .fx908a-concrete--static {
+    /* duplicate of .visually-hidden */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
+  }
   .fx908a-concrete--animated { display: flex; }
 }
 @media (prefers-reduced-motion) {

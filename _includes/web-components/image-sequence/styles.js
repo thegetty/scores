@@ -16,6 +16,10 @@ export const imageSequenceStyles = css`
   .image-sequence {
     width: 100%;
     height: calc(100vh - 4rem - var(--thumbnail-height) - 5.5rem);
+    height: calc(100vh - 7rem);
+  }
+  .quire-entry__lightbox--with-thumbnails .image-sequence {
+    height: calc(100vh - var(--thumbnail-height) - 7rem);
   }
 
   .image-sequence.interactive {

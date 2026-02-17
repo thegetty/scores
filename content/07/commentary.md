@@ -82,7 +82,7 @@ Viewed as a group, the six postcards Mac Low mailed to Patterson in April 1963 e
 
 {% backmatter %}
 
-The author wishes to thank to Benjamin Bishop, Alexis Briley, Aaron Hodges, and Sarah Senk for their feedback on earlier versions of this essay.
+The author wishes to thank Benjamin Bishop, Alexis Briley, Aaron Hodges, and Sarah Senk for their feedback on earlier versions of this essay.
 
 {% endbackmatter %}
 

@@ -1690,8 +1690,7 @@ main.scores-cover-page + .quire-menu  .scores-menu__title {
 
 /* Large view */
 .objects-page .object-cards.large .object-card__image {
-  max-height: 440px;
-  height: unset;
+  height: 440px;
 }
 .objects-page .object-cards.large .object-card__field[data-field-name=date] {
   display: block;
